@@ -76,7 +76,7 @@ Add an entry to `data/feeds.json`:
 - `permission` records where you stand: `unknown`, `required` (terms say written approval is needed), `granted` or `denied`. A feed with `denied` can't be enabled; the build refuses it.
 - To remove a source, set `enabled` to `false`. Its headlines disappear on the next run.
 
-All feeds in the list start **disabled and unverified**: their addresses come from research that could not reach the sites. Check each one opens as RSS before enabling it.
+Every feed in the list was checked from GitHub Actions on 2026-11-13 (`scripts/check_feeds.py`, run with the "Check feeds" workflow). Feeds whose terms forbid or restrict commercial use stay disabled until written permission arrives; Formula 1 is `denied` because its RSS terms forbid aggregation.
 
 ## Pictures
 

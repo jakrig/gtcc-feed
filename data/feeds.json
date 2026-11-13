@@ -1,12 +1,168 @@
 {
   "feeds": [
-    {"id": "the-race-f1", "name": "The Race", "url": "https://www.the-race.com/category/formula-1/feed/", "home": "https://www.the-race.com", "series": ["f1"], "enabled": false, "permission": "unknown", "verified": false, "notes": "Feed URL seen in a feed directory; not fetched yet."},
-    {"id": "sportscar365", "name": "Sportscar365", "url": "https://sportscar365.com/feed/", "home": "https://sportscar365.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Series detected from the headline."},
-    {"id": "racer", "name": "RACER", "url": "https://racer.com/feed/", "home": "https://racer.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Series detected from the headline."},
-    {"id": "touringcartimes", "name": "TouringCarTimes", "url": "https://www.touringcartimes.com/feed/", "home": "https://www.touringcartimes.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Covers many touring car series, so only headlines that match a known series are kept."},
-    {"id": "motorsportweek", "name": "Motorsport Week", "url": "https://www.motorsportweek.com/feed/", "home": "https://www.motorsportweek.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet."},
-    {"id": "autosport-btcc", "name": "Autosport", "url": "https://www.autosport.com/rss/btcc/news/", "home": "https://www.autosport.com", "series": ["btcc"], "enabled": false, "permission": "required", "verified": false, "notes": "Motorsport Network terms require written approval for commercial use. Path is a guess based on autosport.com/rss/imsa/news/."},
-    {"id": "autosport-imsa", "name": "Autosport", "url": "https://www.autosport.com/rss/imsa/news/", "home": "https://www.autosport.com", "series": ["imsa"], "enabled": false, "permission": "required", "verified": false, "notes": "Motorsport Network terms require written approval for commercial use. Its channel title reads 'WEC - Stories'; check before enabling."},
-    {"id": "formula1", "name": "Formula 1", "url": "https://www.formula1.com/en/latest/all.xml", "home": "https://www.formula1.com", "series": ["f1"], "enabled": false, "permission": "required", "verified": false, "notes": "Site terms allow personal non-commercial use only."}
+    {
+      "id": "sportscar365",
+      "name": "Sportscar365",
+      "url": "https://sportscar365.com/feed/",
+      "home": "https://sportscar365.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found."
+    },
+    {
+      "id": "racer",
+      "name": "RACER",
+      "url": "https://racer.com/feed/",
+      "home": "https://racer.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Terms page blocked the check."
+    },
+    {
+      "id": "touringcartimes",
+      "name": "TouringCarTimes",
+      "url": "https://www.touringcartimes.com/feed/",
+      "home": "https://www.touringcartimes.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found. Only working BTCC source."
+    },
+    {
+      "id": "motorsportweek",
+      "name": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/feed/",
+      "home": "https://www.motorsportweek.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found."
+    },
+    {
+      "id": "gt-report",
+      "name": "GT Report",
+      "url": "https://www.gt-report.com/feed/",
+      "home": "https://www.gt-report.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found."
+    },
+    {
+      "id": "dailysportscar",
+      "name": "Dailysportscar",
+      "url": "https://www.dailysportscar.com/feed",
+      "home": "https://www.dailysportscar.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found."
+    },
+    {
+      "id": "speedcafe",
+      "name": "Speedcafe",
+      "url": "https://speedcafe.com/feed/",
+      "home": "https://speedcafe.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found. Mostly Supercars; only matching series are kept."
+    },
+    {
+      "id": "fia",
+      "name": "FIA",
+      "url": "https://www.fia.com/rss/news",
+      "home": "https://www.fia.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Official FIA news across all championships; only matching series are kept."
+    },
+    {
+      "id": "the-race",
+      "name": "The Race",
+      "url": "https://www.the-race.com/feed/",
+      "home": "https://www.the-race.com",
+      "series": [],
+      "enabled": false,
+      "permission": "required",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Terms: 'for your own personal, non-commercial use only'; commercial use needs written permission from The Race Media Ltd."
+    },
+    {
+      "id": "autosport-f1",
+      "name": "Autosport",
+      "url": "https://www.autosport.com/rss/feed/f1",
+      "home": "https://www.autosport.com",
+      "series": [
+        "f1"
+      ],
+      "enabled": false,
+      "permission": "required",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Motorsport Network terms require written approval for commercial use."
+    },
+    {
+      "id": "autosport-wec",
+      "name": "Autosport",
+      "url": "https://www.autosport.com/rss/wec/news/",
+      "home": "https://www.autosport.com",
+      "series": [
+        "wec"
+      ],
+      "enabled": false,
+      "permission": "required",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Motorsport Network terms require written approval for commercial use."
+    },
+    {
+      "id": "motorsport-com-f1",
+      "name": "Motorsport.com",
+      "url": "https://www.motorsport.com/rss/f1/news/",
+      "home": "https://www.motorsport.com",
+      "series": [
+        "f1"
+      ],
+      "enabled": false,
+      "permission": "required",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Motorsport Network terms require written approval for commercial use."
+    },
+    {
+      "id": "motorsport-com-wec",
+      "name": "Motorsport.com",
+      "url": "https://www.motorsport.com/rss/wec/news/",
+      "home": "https://www.motorsport.com",
+      "series": [
+        "wec"
+      ],
+      "enabled": false,
+      "permission": "required",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. Motorsport Network terms require written approval for commercial use."
+    },
+    {
+      "id": "formula1",
+      "name": "Formula 1",
+      "url": "https://www.formula1.com/en/latest/all.xml",
+      "home": "https://www.formula1.com",
+      "series": [
+        "f1"
+      ],
+      "enabled": false,
+      "permission": "denied",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. RSS terms forbid any commercial use and aggregation ('you may not publish a webpage that simply aggregates the RSS feeds')."
+    }
   ]
 }
