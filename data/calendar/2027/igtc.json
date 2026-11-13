@@ -1,0 +1,27 @@
+{
+  "series": "igtc",
+  "year": 2027,
+  "source_url": "https://www.sportscar365.com/?p=147621",
+  "notes": "Only rounds not already listed elsewhere. Round 2 Texas 8 Hour is in gtwc-america, round 3 Nürburgring 24h in nls, round 4 Spa 24 Hours in gtwc-europe.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Bathurst 12 Hour",
+      "circuit": "bathurst",
+      "start": "2027-02-11",
+      "end": "2027-02-14",
+      "status": "confirmed",
+      "format": "12h"
+    },
+    {
+      "round": 5,
+      "name": "Suzuka 1000km",
+      "circuit": "suzuka",
+      "start": "2027-09-04",
+      "end": "2027-09-05",
+      "status": "provisional",
+      "format": "1000km",
+      "notes": "Run with Super GT."
+    }
+  ]
+}

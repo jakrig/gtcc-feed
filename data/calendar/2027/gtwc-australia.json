@@ -1,6 +1,56 @@
 {
   "series": "gtwc-australia",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://speedcafe.com/motorsport-news-2026-gt-world-challenge-australia-2027-calendar-released-tracks-details-confirmed/",
+  "events": [
+    {
+      "round": 1,
+      "name": "Phillip Island",
+      "circuit": "phillip-island",
+      "start": "2027-04-17",
+      "end": "2027-04-18",
+      "status": "provisional"
+    },
+    {
+      "round": 2,
+      "name": "The Bend",
+      "circuit": "the-bend",
+      "start": "2027-05-29",
+      "end": "2027-05-30",
+      "status": "provisional"
+    },
+    {
+      "round": 3,
+      "name": "Sydney Motorsport Park",
+      "circuit": "sydney-motorsport-park",
+      "start": "2027-07-24",
+      "end": "2027-07-25",
+      "status": "provisional"
+    },
+    {
+      "round": 4,
+      "name": "Queensland Raceway",
+      "circuit": "queensland-raceway",
+      "start": "2027-09-18",
+      "end": "2027-09-19",
+      "status": "provisional"
+    },
+    {
+      "round": 5,
+      "name": "Bathurst",
+      "circuit": "bathurst",
+      "start": "2027-10-30",
+      "end": "2027-10-31",
+      "status": "provisional"
+    },
+    {
+      "round": 6,
+      "name": "Round 6",
+      "circuit": null,
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "notes": "Venue and date not announced."
+    }
+  ]
 }

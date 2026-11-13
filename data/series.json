@@ -88,6 +88,59 @@
         "GT World Challenge Australia",
         "GTWC Australia"
       ]
+    },
+    {
+      "id": "igtc",
+      "name": "Intercontinental GT Challenge",
+      "keywords": [
+        "Intercontinental GT Challenge",
+        "IGTC",
+        "Bathurst 12 Hour",
+        "Texas 8 Hour",
+        "Suzuka 1000km"
+      ]
+    },
+    {
+      "id": "nls",
+      "name": "Nürburgring Endurance Series",
+      "keywords": [
+        "NLS",
+        "Nürburgring 24",
+        "Nurburgring 24",
+        "24h Nürburgring",
+        "24 Hours of Nürburgring",
+        "N24",
+        "Nürburgring Langstrecken"
+      ]
+    },
+    {
+      "id": "24h-series",
+      "name": "24H Series",
+      "keywords": [
+        "24H Series",
+        "Creventic",
+        "24H Kyalami",
+        "24H Barcelona",
+        "24H Dubai"
+      ]
+    },
+    {
+      "id": "super-taikyu",
+      "name": "Super Taikyu",
+      "keywords": [
+        "Super Taikyu",
+        "Fuji 24 Hours",
+        "Fuji 24h"
+      ]
+    },
+    {
+      "id": "belcar",
+      "name": "Belcar",
+      "keywords": [
+        "Belcar",
+        "24 Hours of Zolder",
+        "Zolder 24"
+      ]
     }
   ]
 }

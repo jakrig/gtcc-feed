@@ -1,6 +1,211 @@
 {
   "series": "f1",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.formula1.com/en/latest/article/formula1-reveals-calendar-for-2027-season-with-10-sprint-events.5J8ePLyjRuMyWEIDNUKgY4",
+  "events": [
+    {
+      "round": 1,
+      "name": "Bahrain Grand Prix",
+      "circuit": "sakhir",
+      "start": "2027-03-12",
+      "end": "2027-03-14",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 2,
+      "name": "Saudi Arabian Grand Prix",
+      "circuit": "jeddah",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "status": "confirmed"
+    },
+    {
+      "round": 3,
+      "name": "Australian Grand Prix",
+      "circuit": "albert-park",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 4,
+      "name": "Japanese Grand Prix",
+      "circuit": "suzuka",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 5,
+      "name": "Chinese Grand Prix",
+      "circuit": "shanghai",
+      "start": "2027-04-16",
+      "end": "2027-04-18",
+      "status": "confirmed"
+    },
+    {
+      "round": 6,
+      "name": "Miami Grand Prix",
+      "circuit": "miami",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "status": "confirmed"
+    },
+    {
+      "round": 7,
+      "name": "Canadian Grand Prix",
+      "circuit": "montreal",
+      "start": "2027-05-21",
+      "end": "2027-05-23",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 8,
+      "name": "Monaco Grand Prix",
+      "circuit": "monaco",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 9,
+      "name": "Portuguese Grand Prix",
+      "circuit": "portimao",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "status": "confirmed"
+    },
+    {
+      "round": 10,
+      "name": "British Grand Prix",
+      "circuit": "silverstone",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 11,
+      "name": "Austrian Grand Prix",
+      "circuit": "red-bull-ring",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "confirmed"
+    },
+    {
+      "round": 12,
+      "name": "Belgian Grand Prix",
+      "circuit": "spa",
+      "start": "2027-07-23",
+      "end": "2027-07-25",
+      "status": "confirmed"
+    },
+    {
+      "round": 13,
+      "name": "Hungarian Grand Prix",
+      "circuit": "hungaroring",
+      "start": "2027-07-30",
+      "end": "2027-08-01",
+      "status": "confirmed"
+    },
+    {
+      "round": 14,
+      "name": "Italian Grand Prix",
+      "circuit": "monza",
+      "start": "2027-09-03",
+      "end": "2027-09-05",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 15,
+      "name": "Spanish Grand Prix",
+      "circuit": "madring",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "status": "confirmed"
+    },
+    {
+      "round": 16,
+      "name": "Azerbaijan Grand Prix",
+      "circuit": "baku",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "status": "confirmed"
+    },
+    {
+      "round": 17,
+      "name": "Turkish Grand Prix",
+      "circuit": "istanbul-park",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "status": "provisional",
+      "notes": "Marked provisional by some listings."
+    },
+    {
+      "round": 18,
+      "name": "Singapore Grand Prix",
+      "circuit": "marina-bay",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "status": "confirmed"
+    },
+    {
+      "round": 19,
+      "name": "United States Grand Prix",
+      "circuit": "cota",
+      "start": "2027-10-22",
+      "end": "2027-10-24",
+      "status": "confirmed"
+    },
+    {
+      "round": 20,
+      "name": "Mexico City Grand Prix",
+      "circuit": "mexico-city",
+      "start": "2027-10-29",
+      "end": "2027-10-31",
+      "status": "confirmed"
+    },
+    {
+      "round": 21,
+      "name": "São Paulo Grand Prix",
+      "circuit": "interlagos",
+      "start": "2027-11-05",
+      "end": "2027-11-07",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 22,
+      "name": "Las Vegas Grand Prix",
+      "circuit": "las-vegas",
+      "start": "2027-11-18",
+      "end": "2027-11-20",
+      "status": "provisional",
+      "notes": "Thursday to Saturday-night race. Most sources say 18-20 Nov; Silverstone's calendar page says 19-21 Nov."
+    },
+    {
+      "round": 23,
+      "name": "Qatar Grand Prix",
+      "circuit": "lusail",
+      "start": "2027-12-03",
+      "end": "2027-12-05",
+      "status": "confirmed",
+      "format": "sprint"
+    },
+    {
+      "round": 24,
+      "name": "Abu Dhabi Grand Prix",
+      "circuit": "yas-marina",
+      "start": "2027-12-10",
+      "end": "2027-12-12",
+      "status": "confirmed",
+      "format": "sprint"
+    }
+  ]
 }

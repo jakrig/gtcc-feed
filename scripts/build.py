@@ -42,7 +42,7 @@ MAX_AGE_DAYS = 14         # older headlines are dropped
 MAX_TITLE_CHARS = 200
 STALE_AFTER_DAYS = 7      # an enabled feed failing this long is reported
 PERMISSIONS = {"unknown", "required", "granted", "denied"}
-EVENT_STATUSES = {"confirmed", "provisional", "cancelled"}
+EVENT_STATUSES = {"confirmed", "provisional", "cancelled", "tbc"}  # tbc: round, circuit and dates may be null
 TRACKING_PARAMS = re.compile(r"^(utm_|fbclid$|gclid$|mc_)")
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -192,24 +192,30 @@ def validate(cfg: Config) -> list[str]:
         rounds: set[int] = set()
         for i, ev in enumerate(cal.get("events", [])):
             tag = f"{where} event {i + 1}"
-            for key in ("round", "name", "circuit", "start", "end", "status"):
+            tbc = ev.get("status") == "tbc"
+            required = ("name", "status") if tbc else ("name", "circuit", "start", "end", "status")
+            for key in required:
                 if ev.get(key) in (None, ""):
                     errors.append(f"{tag}: missing {key}")
             if ev.get("circuit") and ev["circuit"] not in cfg.circuits:
                 errors.append(f"{tag}: unknown circuit {ev['circuit']} (add it to circuits.json)")
             if ev.get("status") and ev["status"] not in EVENT_STATUSES:
                 errors.append(f"{tag}: status must be one of {sorted(EVENT_STATUSES)}")
-            if ev.get("round") in rounds:
-                errors.append(f"{tag}: duplicate round {ev['round']}")
-            rounds.add(ev.get("round"))
-            try:
-                start, end = date.fromisoformat(ev["start"]), date.fromisoformat(ev["end"])
-                if end < start:
-                    errors.append(f"{tag}: end is before start")
-                if start.year != cal.get("year"):
-                    errors.append(f"{tag}: start is not in {cal.get('year')}")
-            except (KeyError, TypeError, ValueError):
-                errors.append(f"{tag}: start and end must be YYYY-MM-DD")
+            if ev.get("round") is not None:
+                if ev["round"] in rounds:
+                    errors.append(f"{tag}: duplicate round {ev['round']}")
+                rounds.add(ev["round"])
+            if tbc and ev.get("start") is None and ev.get("end") is None:
+                pass  # dates not announced yet
+            else:
+                try:
+                    start, end = date.fromisoformat(ev["start"]), date.fromisoformat(ev["end"])
+                    if end < start:
+                        errors.append(f"{tag}: end is before start")
+                    if start.year != cal.get("year"):
+                        errors.append(f"{tag}: start is not in {cal.get('year')}")
+                except (KeyError, TypeError, ValueError):
+                    errors.append(f"{tag}: start and end must be YYYY-MM-DD (or both null for a tbc event)")
             for s in ev.get("sessions", []):
                 t = s.get("start", "")
                 if not s.get("name") or not re.fullmatch(r"\d{4}-\d\d-\d\dT\d\d:\d\d(:\d\d)?Z", t):
@@ -375,25 +381,27 @@ def build_calendar(cfg: Config, now: datetime) -> dict[str, Any]:
     for cal in cfg.calendars:
         series = cfg.series[cal["series"]]
         for ev in cal.get("events", []):
-            circuit = cfg.circuits[ev["circuit"]]
+            circuit = cfg.circuits.get(ev.get("circuit") or "", {})
             sessions = sorted(ev.get("sessions", []), key=lambda s: s["start"])
             events.append({
                 "series": series["id"],
                 "series_name": series["name"],
                 "year": cal["year"],
-                "round": ev["round"],
+                "round": ev.get("round"),
                 "name": ev["name"],
-                "circuit": circuit["id"],
-                "circuit_name": circuit["name"],
-                "country": circuit["country"],
+                "format": ev.get("format"),
+                "circuit": circuit.get("id"),
+                "circuit_name": circuit.get("name"),
+                "country": circuit.get("country"),
                 "layout": ev.get("layout"),
-                "start": ev["start"],
-                "end": ev["end"],
+                "start": ev.get("start"),
+                "end": ev.get("end"),
                 "status": ev["status"],
                 "sessions": [{"name": s["name"], "start": s["start"]} for s in sessions],
-                "photo": pick_photo(cfg, [series["id"]], circuit["id"]),
+                "photo": pick_photo(cfg, [series["id"]], circuit.get("id")),
             })
-    events.sort(key=lambda e: (e["start"], e["series"], e["round"]))
+    # undated (tbc) events go after the dated ones of the same year
+    events.sort(key=lambda e: (e["year"], e["start"] or "9999", e["series"], e["round"] or 999))
     used = {e["photo"] for e in events if e["photo"]}
     return {"schema_version": SCHEMA_VERSION, "updated": iso(now), "events": events,
             "photos": photo_credits(cfg, used)}

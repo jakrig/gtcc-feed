@@ -1,6 +1,104 @@
 {
   "series": "btcc",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.btcc.net/2027-btcc-schedule-announced/",
+  "notes": "Rounds here are events; each has three races (30 races in total).",
+  "events": [
+    {
+      "round": 1,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "status": "confirmed",
+      "format": "3 races",
+      "layout": "National"
+    },
+    {
+      "round": 2,
+      "name": "Brands Hatch",
+      "circuit": "brands-hatch",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "status": "confirmed",
+      "format": "3 races",
+      "layout": "Indy"
+    },
+    {
+      "round": 3,
+      "name": "Snetterton",
+      "circuit": "snetterton",
+      "start": "2027-05-29",
+      "end": "2027-05-30",
+      "status": "confirmed",
+      "format": "3 races"
+    },
+    {
+      "round": 4,
+      "name": "Oulton Park",
+      "circuit": "oulton-park",
+      "start": "2027-06-12",
+      "end": "2027-06-13",
+      "status": "provisional",
+      "format": "3 races",
+      "notes": "Most sources say 12-13 Jun; MSV's release reportedly says 13/14 Jun (14 Jun is a Monday)."
+    },
+    {
+      "round": 5,
+      "name": "Thruxton",
+      "circuit": "thruxton",
+      "start": "2027-07-24",
+      "end": "2027-07-25",
+      "status": "confirmed",
+      "format": "3 races"
+    },
+    {
+      "round": 6,
+      "name": "Knockhill",
+      "circuit": "knockhill",
+      "start": "2027-08-07",
+      "end": "2027-08-08",
+      "status": "confirmed",
+      "format": "3 races"
+    },
+    {
+      "round": 7,
+      "name": "Croft",
+      "circuit": "croft",
+      "start": "2027-08-14",
+      "end": "2027-08-15",
+      "status": "confirmed",
+      "format": "3 races"
+    },
+    {
+      "round": 8,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-09-11",
+      "end": "2027-09-12",
+      "status": "confirmed",
+      "format": "3 races",
+      "layout": "Grand Prix"
+    },
+    {
+      "round": 9,
+      "name": "Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-09-25",
+      "end": "2027-09-26",
+      "status": "provisional",
+      "format": "3 races",
+      "notes": "Reported as provisional; layout not yet named."
+    },
+    {
+      "round": 10,
+      "name": "Brands Hatch",
+      "circuit": "brands-hatch",
+      "start": "2027-10-09",
+      "end": "2027-10-10",
+      "status": "confirmed",
+      "format": "3 races",
+      "layout": "Grand Prix"
+    }
+  ]
 }

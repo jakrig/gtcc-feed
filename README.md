@@ -50,7 +50,11 @@ One file per series per year. Add events like this:
 ```
 
 - `circuit` must be an id from `data/circuits.json`; add the circuit there first if it's new.
-- `status` is `confirmed`, `provisional` or `cancelled`.
+- `status` is `confirmed`, `provisional`, `cancelled` or `tbc`. A `tbc` event is a placeholder for an announced round with no venue or date yet: `round`, `circuit`, `start` and `end` may be `null`. It is listed after the dated events.
+- `round` is optional, for one-off events that aren't a championship round (e.g. the Nürburgring 24h in `nls`).
+- `format` is optional free text shown to players: `sprint`, `24h`, `6h`, `3 races`, `Endurance Cup`.
+- `notes` is optional and for maintainers only (disputed dates, what still needs checking). It is not published.
+- Each race appears in **one** series only, its main one, so the game never lists it twice. For example the Spa 24 Hours lives in `gtwc-europe` and the Nürburgring 24h in `nls`, even though both also count for the Intercontinental GT Challenge.
 - `sessions` is optional. Add it when the event timetable comes out. Times are **UTC** with a trailing `Z` (convert from the local time on the timetable).
 - `layout` is optional free text.
 - Type the dates yourself from the official announcement rather than copying another site's table.
@@ -109,7 +113,30 @@ Keep photos small (about 640 px wide) so the game downloads them quickly.
 }
 ```
 
-`calendar.json` has the same envelope with `events`: series and series name, year, round, name, circuit id and name, country, layout, start and end dates, status, sessions (UTC) and photo.
+`calendar.json` has the same envelope with `events`: series and series name, year, round, name, format, circuit id and name, country, layout, start and end dates, status, sessions (UTC) and photo. For `tbc` events, round, circuit fields and dates can be `null`.
+
+### 2027 calendar coverage
+
+Typed from announcements found by web search in November 2026 (the official pages could not be opened from the research session); each file's `source_url` names the main source and `notes` flag disputed dates.
+
+| File | Events | Status |
+| --- | --- | --- |
+| `f1` | 24 | Official; Turkey and Las Vegas provisional |
+| `wec` | 9 | Official |
+| `imsa` | 11 | Official; Road America date disputed |
+| `btcc` | 10 events (30 races) | Official; Oulton Park and Silverstone provisional |
+| `british-gt` | 6 events (8 races) | Provisional |
+| `gtwc-europe` | 9 + 1 TBC | Provisional |
+| `gtwc-america` | 7 | Provisional |
+| `gtwc-asia` | 6 | Provisional |
+| `gtwc-australia` | 5 + 1 TBC | Provisional |
+| `igtc` | 2 (Bathurst 12h, Suzuka 1000km) | Other three rounds listed in their main series |
+| `nls` | 8 + 24h Qualifiers + Nürburgring 24h | Provisional; the 24h is confirmed |
+| `24h-series` | 6 | Kyalami confirmed, rest provisional |
+| `super-taikyu` | 7 (incl. Fuji 24 Hours) | Provisional |
+| `belcar` | 24 Hours of Zolder, TBC | Not announced |
+
+IndyCar is not tracked.
 
 Up to 40 headlines, at most 10 per source, none older than 14 days, newest first, duplicates removed. Past calendar events are kept; the game hides them.
 

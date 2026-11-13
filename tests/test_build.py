@@ -90,6 +90,23 @@ class Validation(unittest.TestCase):
         for expected in ("unknown circuit", "end is before start", "status must be", "UTC start"):
             self.assertIn(expected, errors)
 
+    def test_tbc_event_may_omit_round_circuit_and_dates(self) -> None:
+        cfg = build.load_config()
+        cfg.calendars = [{"_path": "data/calendar/2027/btcc.json", "series": "btcc", "year": 2027, "events": [
+            {"round": None, "name": "Round to be announced", "circuit": None, "start": None, "end": None, "status": "tbc"},
+            {"name": "One-off race", "circuit": "spa", "start": "2027-06-01", "end": "2027-06-02", "status": "confirmed"}]}]
+        self.assertEqual(build.validate(cfg), [])
+        events = build.build_calendar(cfg, NOW)["events"]
+        self.assertEqual([e["name"] for e in events], ["One-off race", "Round to be announced"])  # undated last
+
+    def test_only_tbc_events_may_skip_dates(self) -> None:
+        cfg = build.load_config()
+        cfg.calendars = [{"_path": "data/calendar/2027/btcc.json", "series": "btcc", "year": 2027, "events": [
+            {"round": 1, "name": "Donington", "circuit": None, "start": None, "end": None, "status": "provisional"}]}]
+        errors = "\n".join(build.validate(cfg))
+        self.assertIn("missing circuit", errors)
+        self.assertIn("start and end must be", errors)
+
     def test_denied_feed_cannot_be_enabled(self) -> None:
         cfg = build.load_config()
         cfg.feeds = [multi_series_feed() | {"home": "https://example.com", "enabled": True, "permission": "denied"}]

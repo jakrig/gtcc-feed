@@ -1,0 +1,111 @@
+{
+  "series": "nls",
+  "year": 2027,
+  "source_url": "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/09/11/full-throttle-into-the-nurburgring-anniversary-nls-calendar-features-eight-races/",
+  "notes": "50th NLS season. NLS dates are race days; the per-round 4h lengths follow from 'seven 4h races and one 6h'.",
+  "events": [
+    {
+      "round": 1,
+      "name": "NLS 1",
+      "circuit": "nurburgring",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife"
+    },
+    {
+      "round": 2,
+      "name": "NLS 2",
+      "circuit": "nurburgring",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife"
+    },
+    {
+      "round": null,
+      "name": "24h Nürburgring Qualifiers",
+      "circuit": "nurburgring",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "status": "provisional",
+      "layout": "Nordschleife",
+      "notes": "ADAC event; not an NLS points round."
+    },
+    {
+      "round": null,
+      "name": "ADAC 24h Nürburgring",
+      "circuit": "nurburgring",
+      "start": "2027-05-27",
+      "end": "2027-05-30",
+      "status": "confirmed",
+      "format": "24h",
+      "layout": "Nordschleife",
+      "notes": "ADAC event run alongside the NLS, not an NLS points round. Also an Intercontinental GT Challenge round."
+    },
+    {
+      "round": 3,
+      "name": "NLS 3",
+      "circuit": "nurburgring",
+      "start": "2027-07-03",
+      "end": "2027-07-03",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife"
+    },
+    {
+      "round": 4,
+      "name": "NLS 4",
+      "circuit": "nurburgring",
+      "start": "2027-08-07",
+      "end": "2027-08-07",
+      "status": "provisional",
+      "format": "6h",
+      "layout": "Nordschleife"
+    },
+    {
+      "round": 5,
+      "name": "NLS 5",
+      "circuit": "nurburgring",
+      "start": "2027-09-11",
+      "end": "2027-09-11",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife",
+      "notes": "Double-header with NLS 6."
+    },
+    {
+      "round": 6,
+      "name": "NLS 6",
+      "circuit": "nurburgring",
+      "start": "2027-09-12",
+      "end": "2027-09-12",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife",
+      "notes": "Double-header with NLS 5."
+    },
+    {
+      "round": 7,
+      "name": "NLS 7",
+      "circuit": "nurburgring",
+      "start": "2027-09-25",
+      "end": "2027-09-25",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife"
+    },
+    {
+      "round": 8,
+      "name": "NLS 8",
+      "circuit": "nurburgring",
+      "start": "2027-10-09",
+      "end": "2027-10-09",
+      "status": "provisional",
+      "format": "4h",
+      "layout": "Nordschleife"
+    }
+  ]
+}

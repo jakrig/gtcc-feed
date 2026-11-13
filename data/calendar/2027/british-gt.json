@@ -1,6 +1,63 @@
 {
   "series": "british-gt",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.britishgt.com/news/1264/2027-snetterton-and-silverstone-british-gt-dates-revised",
+  "notes": "Rounds here are events (8 races in total).",
+  "events": [
+    {
+      "round": 1,
+      "name": "Snetterton",
+      "circuit": "snetterton",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "status": "provisional",
+      "format": "2 x 60 min"
+    },
+    {
+      "round": 2,
+      "name": "Oulton Park",
+      "circuit": "oulton-park",
+      "start": "2027-05-29",
+      "end": "2027-05-31",
+      "status": "provisional",
+      "format": "2 x 60 min",
+      "notes": "Races on Saturday and Bank Holiday Monday; no Sunday racing."
+    },
+    {
+      "round": 3,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-06-19",
+      "end": "2027-06-20",
+      "status": "provisional",
+      "format": "2h"
+    },
+    {
+      "round": 4,
+      "name": "Silverstone 500",
+      "circuit": "silverstone",
+      "start": "2027-08-07",
+      "end": "2027-08-08",
+      "status": "provisional",
+      "format": "3h"
+    },
+    {
+      "round": 5,
+      "name": "Brands Hatch",
+      "circuit": "brands-hatch",
+      "start": "2027-09-11",
+      "end": "2027-09-12",
+      "status": "provisional",
+      "format": "2h"
+    },
+    {
+      "round": 6,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-10-16",
+      "end": "2027-10-17",
+      "status": "provisional",
+      "format": "2h"
+    }
+  ]
 }

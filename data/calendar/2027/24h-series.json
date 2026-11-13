@@ -1,0 +1,63 @@
+{
+  "series": "24h-series",
+  "year": 2027,
+  "source_url": "https://sportscar365.com/other-series/creventic/24hseries/24h-european-series-to-return-to-red-bull-ring-for-2027/",
+  "notes": "Round numbers here follow date order; Kyalami belongs to the Middle East Trophy, the rest to the European series.",
+  "events": [
+    {
+      "round": 1,
+      "name": "24H Kyalami",
+      "circuit": "kyalami",
+      "start": "2027-01-08",
+      "end": "2027-01-10",
+      "status": "confirmed",
+      "format": "24h",
+      "notes": "Middle East Trophy; replaces the 24H Dubai for 2027."
+    },
+    {
+      "round": 2,
+      "name": "12H Mugello",
+      "circuit": "mugello",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "status": "provisional",
+      "format": "12h"
+    },
+    {
+      "round": 3,
+      "name": "12H Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "status": "provisional",
+      "format": "12h"
+    },
+    {
+      "round": 4,
+      "name": "12H Red Bull Ring",
+      "circuit": "red-bull-ring",
+      "start": "2027-05-14",
+      "end": "2027-05-16",
+      "status": "provisional",
+      "format": "12h"
+    },
+    {
+      "round": 5,
+      "name": "12H Paul Ricard",
+      "circuit": "paul-ricard",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "status": "provisional",
+      "format": "12h"
+    },
+    {
+      "round": 6,
+      "name": "24H Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "status": "provisional",
+      "format": "24h"
+    }
+  ]
+}

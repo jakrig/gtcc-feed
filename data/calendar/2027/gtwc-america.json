@@ -1,6 +1,66 @@
 {
   "series": "gtwc-america",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://racer.com/2026/06/26/8-hour-race-at-cota-return-to-the-glen-feature-in-7-race-sro-america-slate-for-2027",
+  "events": [
+    {
+      "round": 1,
+      "name": "Sonoma",
+      "circuit": "sonoma",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "status": "provisional"
+    },
+    {
+      "round": 2,
+      "name": "Texas 8 Hour",
+      "circuit": "cota",
+      "start": "2027-05-07",
+      "end": "2027-05-09",
+      "status": "provisional",
+      "format": "8h",
+      "notes": "Also an Intercontinental GT Challenge round."
+    },
+    {
+      "round": 3,
+      "name": "Watkins Glen",
+      "circuit": "watkins-glen",
+      "start": "2027-05-21",
+      "end": "2027-05-23",
+      "status": "provisional"
+    },
+    {
+      "round": 4,
+      "name": "Road Atlanta",
+      "circuit": "road-atlanta",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "status": "provisional"
+    },
+    {
+      "round": 5,
+      "name": "Road America",
+      "circuit": "road-america",
+      "start": "2027-08-27",
+      "end": "2027-08-29",
+      "status": "provisional"
+    },
+    {
+      "round": 6,
+      "name": "Barber",
+      "circuit": "barber",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "status": "provisional"
+    },
+    {
+      "round": 7,
+      "name": "Indianapolis",
+      "circuit": "indianapolis",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "status": "provisional",
+      "format": "3h"
+    }
+  ]
 }

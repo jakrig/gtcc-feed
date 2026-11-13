@@ -1,6 +1,101 @@
 {
   "series": "gtwc-europe",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.gt-report.com/2026/06/26/sro-motorsports-group-announces-2027-gt-world-challenge-europe-calendar/",
+  "events": [
+    {
+      "round": 1,
+      "name": "Paul Ricard",
+      "circuit": "paul-ricard",
+      "start": "2027-04-16",
+      "end": "2027-04-18",
+      "status": "provisional",
+      "format": "Endurance Cup"
+    },
+    {
+      "round": 2,
+      "name": "Brands Hatch",
+      "circuit": "brands-hatch",
+      "start": "2027-05-01",
+      "end": "2027-05-02",
+      "status": "provisional",
+      "format": "Sprint Cup"
+    },
+    {
+      "round": 3,
+      "name": "Imola",
+      "circuit": "imola",
+      "start": "2027-05-21",
+      "end": "2027-05-23",
+      "status": "provisional",
+      "format": "Endurance Cup",
+      "notes": "Replaces Monza for 2027 only."
+    },
+    {
+      "round": 4,
+      "name": "CrowdStrike 24 Hours of Spa",
+      "circuit": "spa",
+      "start": "2027-06-24",
+      "end": "2027-06-27",
+      "status": "provisional",
+      "format": "24h",
+      "notes": "Endurance Cup; also an Intercontinental GT Challenge round."
+    },
+    {
+      "round": 5,
+      "name": "Misano",
+      "circuit": "misano",
+      "start": "2027-07-16",
+      "end": "2027-07-18",
+      "status": "provisional",
+      "format": "Sprint Cup"
+    },
+    {
+      "round": 6,
+      "name": "Nürburgring",
+      "circuit": "nurburgring",
+      "start": "2027-08-27",
+      "end": "2027-08-29",
+      "status": "provisional",
+      "format": "Endurance Cup",
+      "layout": "Grand Prix"
+    },
+    {
+      "round": 7,
+      "name": "Zandvoort",
+      "circuit": "zandvoort",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "status": "provisional",
+      "format": "Sprint Cup"
+    },
+    {
+      "round": 8,
+      "name": "Hungaroring",
+      "circuit": "hungaroring",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "status": "provisional",
+      "format": "Sprint Cup"
+    },
+    {
+      "round": 9,
+      "name": "Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-10-22",
+      "end": "2027-10-24",
+      "status": "provisional",
+      "format": "Endurance Cup"
+    },
+    {
+      "round": null,
+      "name": "Sprint Cup round",
+      "circuit": null,
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "format": "Sprint Cup",
+      "notes": "SRO announced 10 events; the fifth Sprint Cup round has no published venue or date (possibly Magny-Cours)."
+    }
+  ]
 }

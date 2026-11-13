@@ -1,6 +1,106 @@
 {
   "series": "imsa",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.imsa.com/news/2026/03/19/2027-schedules-revealed-for-imsa-weathertech-sportscar-championship-imsa-michelin-pilot-challenge/",
+  "events": [
+    {
+      "round": 1,
+      "name": "Rolex 24 at Daytona",
+      "circuit": "daytona",
+      "start": "2027-01-28",
+      "end": "2027-01-31",
+      "status": "confirmed",
+      "format": "24h",
+      "notes": "Roar Before the Rolex 24 test 22-24 Jan."
+    },
+    {
+      "round": 2,
+      "name": "Twelve Hours of Sebring",
+      "circuit": "sebring",
+      "start": "2027-03-17",
+      "end": "2027-03-20",
+      "status": "confirmed",
+      "format": "12h",
+      "notes": "75th running."
+    },
+    {
+      "round": 3,
+      "name": "Grand Prix of Long Beach",
+      "circuit": "long-beach",
+      "start": "2027-04-16",
+      "end": "2027-04-17",
+      "status": "confirmed"
+    },
+    {
+      "round": 4,
+      "name": "Laguna Seca",
+      "circuit": "laguna-seca",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "status": "confirmed"
+    },
+    {
+      "round": 5,
+      "name": "Detroit Grand Prix",
+      "circuit": "detroit",
+      "start": "2027-06-04",
+      "end": "2027-06-05",
+      "status": "confirmed"
+    },
+    {
+      "round": 6,
+      "name": "Six Hours of The Glen",
+      "circuit": "watkins-glen",
+      "start": "2027-06-24",
+      "end": "2027-06-27",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 7,
+      "name": "Canadian Tire Motorsport Park",
+      "circuit": "ctmp",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "confirmed",
+      "format": "2h40m"
+    },
+    {
+      "round": 8,
+      "name": "SportsCar Endurance Grand Prix",
+      "circuit": "road-america",
+      "start": "2027-07-29",
+      "end": "2027-08-01",
+      "status": "provisional",
+      "format": "6h",
+      "notes": "Press coverage says 29 Jul-1 Aug; IMSA's own event page said 5-8 Aug with placeholder text. Check before the season."
+    },
+    {
+      "round": 9,
+      "name": "Virginia International Raceway",
+      "circuit": "vir",
+      "start": "2027-08-20",
+      "end": "2027-08-22",
+      "status": "confirmed"
+    },
+    {
+      "round": 10,
+      "name": "Battle on the Bricks",
+      "circuit": "indianapolis",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "status": "confirmed",
+      "format": "2h40m",
+      "layout": "Road course"
+    },
+    {
+      "round": 11,
+      "name": "Petit Le Mans",
+      "circuit": "road-atlanta",
+      "start": "2027-10-06",
+      "end": "2027-10-09",
+      "status": "confirmed",
+      "notes": "30th running."
+    }
+  ]
 }

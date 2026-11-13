@@ -1,6 +1,56 @@
 {
   "series": "gtwc-asia",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.sportscar365.com/?p=147820",
+  "events": [
+    {
+      "round": 1,
+      "name": "Sepang",
+      "circuit": "sepang",
+      "start": "2027-04-03",
+      "end": "2027-04-04",
+      "status": "provisional"
+    },
+    {
+      "round": 2,
+      "name": "Buriram",
+      "circuit": "buriram",
+      "start": "2027-05-01",
+      "end": "2027-05-02",
+      "status": "provisional"
+    },
+    {
+      "round": 3,
+      "name": "Suzuka",
+      "circuit": "suzuka",
+      "start": "2027-06-12",
+      "end": "2027-06-13",
+      "status": "provisional",
+      "notes": "Japan Cup joins this weekend."
+    },
+    {
+      "round": 4,
+      "name": "Fuji",
+      "circuit": "fuji",
+      "start": "2027-07-10",
+      "end": "2027-07-11",
+      "status": "provisional"
+    },
+    {
+      "round": 5,
+      "name": "Beijing",
+      "circuit": "beijing",
+      "start": "2027-10-02",
+      "end": "2027-10-03",
+      "status": "provisional"
+    },
+    {
+      "round": 6,
+      "name": "Shanghai",
+      "circuit": "shanghai",
+      "start": "2027-10-23",
+      "end": "2027-10-24",
+      "status": "provisional"
+    }
+  ]
 }

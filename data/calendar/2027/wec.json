@@ -1,6 +1,90 @@
 {
   "series": "wec",
   "year": 2027,
-  "source_url": "",
-  "events": []
+  "source_url": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "events": [
+    {
+      "round": 1,
+      "name": "Qatar 1812km",
+      "circuit": "lusail",
+      "start": "2027-03-25",
+      "end": "2027-03-27",
+      "status": "confirmed",
+      "format": "1812km",
+      "notes": "Prologue test 21-22 Mar."
+    },
+    {
+      "round": 2,
+      "name": "6 Hours of Imola",
+      "circuit": "imola",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 3,
+      "name": "6 Hours of Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-04-23",
+      "end": "2027-04-25",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 4,
+      "name": "6 Hours of Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-05-13",
+      "end": "2027-05-15",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 5,
+      "name": "24 Hours of Le Mans",
+      "circuit": "le-mans",
+      "start": "2027-06-09",
+      "end": "2027-06-13",
+      "status": "confirmed",
+      "format": "24h",
+      "notes": "95th running; race 12-13 Jun."
+    },
+    {
+      "round": 6,
+      "name": "6 Hours of São Paulo",
+      "circuit": "interlagos",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 7,
+      "name": "Lone Star Le Mans",
+      "circuit": "cota",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 8,
+      "name": "6 Hours of Fuji",
+      "circuit": "fuji",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "status": "confirmed",
+      "format": "6h"
+    },
+    {
+      "round": 9,
+      "name": "8 Hours of Bahrain",
+      "circuit": "sakhir",
+      "start": "2027-11-04",
+      "end": "2027-11-06",
+      "status": "confirmed",
+      "format": "8h"
+    }
+  ]
 }

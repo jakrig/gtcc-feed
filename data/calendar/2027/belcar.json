@@ -1,0 +1,17 @@
+{
+  "series": "belcar",
+  "year": 2027,
+  "source_url": "",
+  "events": [
+    {
+      "round": null,
+      "name": "24 Hours of Zolder",
+      "circuit": "zolder",
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "format": "24h",
+      "notes": "2027 date not announced; recent editions ran in late August."
+    }
+  ]
+}
