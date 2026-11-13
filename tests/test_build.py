@@ -126,6 +126,14 @@ class Output(unittest.TestCase):
         self.assertEqual([it["url"] for it in news["items"]], ["https://b/2", "https://a/1"])
         self.assertEqual(news["schema_version"], build.SCHEMA_VERSION)
 
+    def test_cached_items_of_removed_series_are_dropped(self) -> None:
+        cfg = build.load_config()
+        base = {"source": "A", "time": "2026-11-13T09:00:00Z", "circuit": None, "photo": None}
+        state = {"a": {"items": [base | {"title": "Old IndyCar story", "url": "https://a/1", "series": ["indycar"]},
+                                 base | {"title": "Mixed story", "url": "https://a/2", "series": ["indycar", "imsa"]}]}}
+        items = build.build_news(cfg, state, NOW)["items"]
+        self.assertEqual([(it["url"], it["series"]) for it in items], [("https://a/2", ["imsa"])])
+
 
 if __name__ == "__main__":
     unittest.main()

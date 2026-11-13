@@ -362,6 +362,10 @@ def build_news(cfg: Config, state: dict[str, Any], now: datetime) -> dict[str, A
     pool = [it for fid in sorted(state) for it in state[fid].get("items", [])]
     pool.sort(key=lambda it: (it["time"], it["url"]), reverse=True)
     for it in pool:
+        # a series removed from series.json drops its cached headlines at once
+        it = it | {"series": [s for s in it["series"] if s in cfg.series]}
+        if not it["series"]:
+            continue
         key = re.sub(r"\W+", "", it["title"].lower())
         if it["url"] in seen_urls or key in seen_titles or parse_time(it["time"]) < cutoff:
             continue
