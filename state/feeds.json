@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "racer": {
     "etag": null,
@@ -52,8 +52,8 @@
       "https://racer.com/2026/11/13/nominees-unveiled-for-2026-racer-creator-awards": "2026-11-13T13:11:29Z",
       "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title": "2026-11-13T12:37:11Z",
       "https://racer.com/2026/11/12/van-der-zande-joins-tower-motorsports-for-imsa-lmp2": "2026-11-12T16:50:05Z",
-      "https://racer.com/2026/11/12/the-art-of-the-baja-1000-co-driver-holding-it-all-together": "2026-11-12T15:50:53Z",
-      "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z"
+      "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
+      "https://racer.com/2026/11/11/racing-on-tv-november-13-15": "2026-11-13T13:50:08Z"
     },
     "items": [
       {
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,7 +153,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "motorsportweek": {
     "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
@@ -227,11 +227,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "gt-report": {
-    "etag": "W/\"e30fe39a454920c6666c2f731bfecc17-gzip\"",
-    "last_modified": "Thu, 12 Nov 2026 18:17:27 GMT",
+    "etag": "W/\"9227c06ff814a137695a11ff19af7c06-gzip\"",
+    "last_modified": "Fri, 13 Nov 2026 19:39:56 GMT",
     "first_seen": {
       "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
       "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
@@ -240,7 +240,7 @@
       "https://www.gt-report.com/2026/11/10/stefano-gai-and-fabrizio-fontana-turned-a-dare-into-titles-he-said-yes-why-not/": "2026-11-10T13:30:11Z",
       "https://www.gt-report.com/2026/11/08/italian-gt-mugello-photo-gallery/": "2026-11-08T20:09:55Z",
       "https://www.gt-report.com/2026/11/08/cadillac-wins-wec-season-finale-at-monza-toyota-crowned-champions/": "2026-11-08T18:36:06Z",
-      "https://www.gt-report.com/2026/11/08/international-gt-open-2026-barcelona-season-finale-emson-lebbon-champions/": "2026-11-08T09:31:16Z"
+      "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z"
     },
     "items": [
       {
@@ -266,7 +266,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "dailysportscar": {
     "etag": "\"c07cef882da14b67d111db26f31c9220\"",
@@ -332,10 +332,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "speedcafe": {
-    "etag": "W/\"643e8ac6a9e0bebb61a4474b075ccc7f-gzip\"",
+    "etag": "W/\"0886baa3ec30759b0a946d94467c3d1f-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
@@ -384,11 +384,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Fri, 13 Nov 2026 19:17:23 GMT",
+    "last_modified": "Fri, 13 Nov 2026 20:17:17 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -436,6 +436,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T19:19:21Z"
+    "last_ok": "2026-11-13T20:19:40Z"
   }
 }
