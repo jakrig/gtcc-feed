@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-13T18:27:12Z",
+  "updated": "2026-11-13T19:19:21Z",
   "items": [
+    {
+      "title": "Former F1 teammate recalls softer side of ‘very loveable’ Jones",
+      "source": "Speedcafe",
+      "time": "2026-11-13T18:55:56Z",
+      "url": "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
       "source": "Motorsport Week",
@@ -168,34 +179,12 @@
       "photo": null
     },
     {
-      "title": "BTCC team has race car stolen at promotional event",
-      "source": "RACER",
-      "time": "2026-11-12T15:41:49Z",
-      "url": "https://racer.com/2026/11/12/btcc-team-has-race-car-stolen-at-promotional-event",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
       "title": "Power Maxed Racing appeals for help after BTCC Audi stolen",
       "source": "TouringCarTimes",
       "time": "2026-11-12T14:27:22Z",
       "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
       "series": [
         "btcc"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Toto Wolff responds to Mercedes ‘loser’ claims during F1 lull",
-      "source": "Motorsport Week",
-      "time": "2026-11-12T12:15:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/12/toto-wolff-mercedes-losers/",
-      "series": [
-        "f1"
       ],
       "circuit": null,
       "photo": null

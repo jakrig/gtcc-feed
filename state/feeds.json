@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "racer": {
     "etag": null,
@@ -53,7 +53,7 @@
       "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title": "2026-11-13T12:37:11Z",
       "https://racer.com/2026/11/12/van-der-zande-joins-tower-motorsports-for-imsa-lmp2": "2026-11-12T16:50:05Z",
       "https://racer.com/2026/11/12/the-art-of-the-baja-1000-co-driver-holding-it-all-together": "2026-11-12T15:50:53Z",
-      "https://racer.com/2026/11/12/btcc-team-has-race-car-stolen-at-promotional-event": "2026-11-12T15:41:49Z"
+      "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z"
     },
     "items": [
       {
@@ -88,20 +88,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "BTCC team has race car stolen at promotional event",
-        "source": "RACER",
-        "time": "2026-11-12T15:41:49Z",
-        "url": "https://racer.com/2026/11/12/btcc-team-has-race-car-stolen-at-promotional-event",
-        "series": [
-          "btcc"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -164,11 +153,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "motorsportweek": {
-    "etag": "\"a6a93495df1f3e43ee41d8a7d24a824a\"",
-    "last_modified": "Fri, 13 Nov 2026 18:10:31 GMT",
+    "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
+    "last_modified": "Fri, 13 Nov 2026 18:24:50 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
       "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
@@ -179,7 +168,7 @@
       "https://www.motorsportweek.com/2026/11/12/lewis-hamilton-gaza-message/": "2026-11-12T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/george-russell-karting-academy-launch/": "2026-11-12T15:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/christian-horner-red-bull-claims/": "2026-11-12T13:00:00Z",
-      "https://www.motorsportweek.com/2026/11/12/toto-wolff-mercedes-losers/": "2026-11-12T12:15:00Z"
+      "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z"
     },
     "items": [
       {
@@ -236,20 +225,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Toto Wolff responds to Mercedes ‘loser’ claims during F1 lull",
-        "source": "Motorsport Week",
-        "time": "2026-11-12T12:15:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/12/toto-wolff-mercedes-losers/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "gt-report": {
     "etag": "W/\"e30fe39a454920c6666c2f731bfecc17-gzip\"",
@@ -288,11 +266,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "dailysportscar": {
-    "etag": "\"6f3fe28048a3dd6a4d0f9923e61dd5ed\"",
-    "last_modified": "Fri, 13 Nov 2026 18:22:53 GMT",
+    "etag": "\"c07cef882da14b67d111db26f31c9220\"",
+    "last_modified": "Fri, 13 Nov 2026 18:35:25 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -305,7 +283,7 @@
       "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html": "2026-11-12T11:10:13Z",
       "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html": "2026-11-12T11:01:32Z",
       "https://www.dailysportscar.com/2026/11/12/innovation-on-display-at-2026-pmw-expo.html": "2026-11-12T08:02:35Z",
-      "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html": "2026-11-12T07:51:44Z"
+      "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z"
     },
     "items": [
       {
@@ -354,10 +332,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "speedcafe": {
-    "etag": "W/\"82eec38c16ef6f7fd50fc08e0f86ae0b-gzip\"",
+    "etag": "W/\"643e8ac6a9e0bebb61a4474b075ccc7f-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
@@ -369,9 +347,20 @@
       "https://speedcafe.com/f1-news-2026-liam-lawson-contract-update-latest-2027-drives-season-performance-form-statistics/": "2026-11-13T00:24:17Z",
       "https://speedcafe.com/motorsport-news-2026-btcc-power-maxed-racing-audi-stolen-excel-london-comments-reaction-details/": "2026-11-12T22:43:23Z",
       "https://speedcafe.com/f1-news-2026-nikola-tsolov-red-bull-signing-racing-bulls-reserve-driver-2027-future-liam-lawson-update-bulgaria/": "2026-11-12T19:39:35Z",
-      "https://speedcafe.com/supercars-news-triple-eight-denies-matt-payne-interest-reports-jamie-whincup-reaction-nascar-grove-racing/": "2026-11-12T18:55:45Z"
+      "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/": "2026-11-13T18:55:56Z"
     },
     "items": [
+      {
+        "title": "Former F1 teammate recalls softer side of ‘very loveable’ Jones",
+        "source": "Speedcafe",
+        "time": "2026-11-13T18:55:56Z",
+        "url": "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "The drives that saved Liam Lawson’s F1 career",
         "source": "Speedcafe",
@@ -395,11 +384,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Fri, 13 Nov 2026 18:26:28 GMT",
+    "last_modified": "Fri, 13 Nov 2026 19:17:23 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -447,6 +436,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:27:12Z"
+    "last_ok": "2026-11-13T19:19:21Z"
   }
 }
