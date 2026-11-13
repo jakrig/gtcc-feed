@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-13T18:20:03Z",
+  "updated": "2026-11-13T18:27:12Z",
   "items": [
     {
       "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
@@ -31,28 +31,6 @@
       "url": "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/",
       "series": [
         "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "IndyCar confirms 15-round 2027 Indy NXT schedule",
-      "source": "RACER",
-      "time": "2026-11-13T16:01:05Z",
-      "url": "https://racer.com/2026/11/13/indycar-confirms-15-round-2027-indy-nxt-schedule",
-      "series": [
-        "indycar"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "IndyCar’s Chevrolet teams vie for 2028 manufacturer deal",
-      "source": "RACER",
-      "time": "2026-11-13T14:47:24Z",
-      "url": "https://racer.com/2026/11/13/indycar-s-chevrolet-teams-vie-for-2028-manufacturer-deal",
-      "series": [
-        "indycar"
       ],
       "circuit": null,
       "photo": null
@@ -132,17 +110,6 @@
         "super-taikyu"
       ],
       "circuit": "fuji",
-      "photo": null
-    },
-    {
-      "title": "Andretti’s Ruzewski says ‘value add’ potential key to fourth Indy 500 entry",
-      "source": "RACER",
-      "time": "2026-11-12T19:55:12Z",
-      "url": "https://racer.com/2026/11/12/andretti-s-ruzewski-says-value-add-potential-key-to-fourth-indy-500-entry",
-      "series": [
-        "indycar"
-      ],
-      "circuit": "indianapolis",
       "photo": null
     },
     {
