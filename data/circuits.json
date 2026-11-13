@@ -1,0 +1,120 @@
+{
+  "circuits": [
+    {
+      "id": "brands-hatch",
+      "name": "Brands Hatch",
+      "country": "GB",
+      "keywords": [
+        "Brands Hatch"
+      ]
+    },
+    {
+      "id": "donington-park",
+      "name": "Donington Park",
+      "country": "GB",
+      "keywords": [
+        "Donington"
+      ]
+    },
+    {
+      "id": "silverstone",
+      "name": "Silverstone",
+      "country": "GB",
+      "keywords": [
+        "Silverstone"
+      ]
+    },
+    {
+      "id": "snetterton",
+      "name": "Snetterton",
+      "country": "GB",
+      "keywords": [
+        "Snetterton"
+      ]
+    },
+    {
+      "id": "thruxton",
+      "name": "Thruxton",
+      "country": "GB",
+      "keywords": [
+        "Thruxton"
+      ]
+    },
+    {
+      "id": "oulton-park",
+      "name": "Oulton Park",
+      "country": "GB",
+      "keywords": [
+        "Oulton Park"
+      ]
+    },
+    {
+      "id": "croft",
+      "name": "Croft",
+      "country": "GB",
+      "keywords": [
+        "Croft"
+      ]
+    },
+    {
+      "id": "knockhill",
+      "name": "Knockhill",
+      "country": "GB",
+      "keywords": [
+        "Knockhill"
+      ]
+    },
+    {
+      "id": "spa",
+      "name": "Spa-Francorchamps",
+      "country": "BE",
+      "keywords": [
+        "Spa-Francorchamps",
+        "Spa"
+      ]
+    },
+    {
+      "id": "le-mans",
+      "name": "Circuit de la Sarthe",
+      "country": "FR",
+      "keywords": [
+        "24 Hours of Le Mans",
+        "Le Mans 24 Hours",
+        "Circuit de la Sarthe"
+      ]
+    },
+    {
+      "id": "daytona",
+      "name": "Daytona International Speedway",
+      "country": "US",
+      "keywords": [
+        "Daytona"
+      ]
+    },
+    {
+      "id": "sebring",
+      "name": "Sebring International Raceway",
+      "country": "US",
+      "keywords": [
+        "Sebring"
+      ]
+    },
+    {
+      "id": "indianapolis",
+      "name": "Indianapolis Motor Speedway",
+      "country": "US",
+      "keywords": [
+        "Indianapolis",
+        "Indy 500"
+      ]
+    },
+    {
+      "id": "monza",
+      "name": "Monza",
+      "country": "IT",
+      "keywords": [
+        "Monza"
+      ]
+    }
+  ]
+}

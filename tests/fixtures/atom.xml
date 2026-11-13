@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example F1</title>
+  <entry>
+    <title type="html">Verstappen &lt;em&gt;quickest&lt;/em&gt; in F1 practice at Monza</title>
+    <link rel="alternate" href="https://example.org/f1/monza"/>
+    <link rel="enclosure" href="https://example.org/pic.jpg"/>
+    <published>2026-11-13T08:00:00Z</published>
+  </entry>
+</feed>

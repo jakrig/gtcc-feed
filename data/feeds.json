@@ -1,0 +1,12 @@
+{
+  "feeds": [
+    {"id": "the-race-f1", "name": "The Race", "url": "https://www.the-race.com/category/formula-1/feed/", "home": "https://www.the-race.com", "series": ["f1"], "enabled": false, "permission": "unknown", "verified": false, "notes": "Feed URL seen in a feed directory; not fetched yet."},
+    {"id": "sportscar365", "name": "Sportscar365", "url": "https://sportscar365.com/feed/", "home": "https://sportscar365.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Series detected from the headline."},
+    {"id": "racer", "name": "RACER", "url": "https://racer.com/feed/", "home": "https://racer.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Series detected from the headline."},
+    {"id": "touringcartimes", "name": "TouringCarTimes", "url": "https://www.touringcartimes.com/feed/", "home": "https://www.touringcartimes.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet. Covers many touring car series, so only headlines that match a known series are kept."},
+    {"id": "motorsportweek", "name": "Motorsport Week", "url": "https://www.motorsportweek.com/feed/", "home": "https://www.motorsportweek.com", "series": [], "enabled": false, "permission": "unknown", "verified": false, "notes": "Standard WordPress feed path; not fetched yet."},
+    {"id": "autosport-btcc", "name": "Autosport", "url": "https://www.autosport.com/rss/btcc/news/", "home": "https://www.autosport.com", "series": ["btcc"], "enabled": false, "permission": "required", "verified": false, "notes": "Motorsport Network terms require written approval for commercial use. Path is a guess based on autosport.com/rss/imsa/news/."},
+    {"id": "autosport-imsa", "name": "Autosport", "url": "https://www.autosport.com/rss/imsa/news/", "home": "https://www.autosport.com", "series": ["imsa"], "enabled": false, "permission": "required", "verified": false, "notes": "Motorsport Network terms require written approval for commercial use. Its channel title reads 'WEC - Stories'; check before enabling."},
+    {"id": "formula1", "name": "Formula 1", "url": "https://www.formula1.com/en/latest/all.xml", "home": "https://www.formula1.com", "series": ["f1"], "enabled": false, "permission": "required", "verified": false, "notes": "Site terms allow personal non-commercial use only."}
+  ]
+}

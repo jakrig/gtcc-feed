@@ -1,0 +1,93 @@
+{
+  "series": [
+    {
+      "id": "f1",
+      "name": "Formula 1",
+      "keywords": [
+        "F1",
+        "Formula 1",
+        "Formula One"
+      ]
+    },
+    {
+      "id": "indycar",
+      "name": "IndyCar",
+      "keywords": [
+        "IndyCar",
+        "INDYCAR",
+        "Indy 500",
+        "Indianapolis 500"
+      ]
+    },
+    {
+      "id": "wec",
+      "name": "FIA WEC",
+      "keywords": [
+        "WEC",
+        "World Endurance Championship",
+        "24 Hours of Le Mans",
+        "Le Mans 24 Hours"
+      ]
+    },
+    {
+      "id": "imsa",
+      "name": "IMSA",
+      "keywords": [
+        "IMSA",
+        "Rolex 24",
+        "Petit Le Mans",
+        "Sebring 12 Hours",
+        "12 Hours of Sebring"
+      ]
+    },
+    {
+      "id": "btcc",
+      "name": "BTCC",
+      "keywords": [
+        "BTCC",
+        "British Touring Car"
+      ]
+    },
+    {
+      "id": "british-gt",
+      "name": "British GT",
+      "keywords": [
+        "British GT"
+      ]
+    },
+    {
+      "id": "gtwc-europe",
+      "name": "GT World Challenge Europe",
+      "keywords": [
+        "GT World Challenge Europe",
+        "GTWC Europe",
+        "Spa 24 Hours",
+        "24 Hours of Spa"
+      ]
+    },
+    {
+      "id": "gtwc-america",
+      "name": "GT World Challenge America",
+      "keywords": [
+        "GT World Challenge America",
+        "GTWC America"
+      ]
+    },
+    {
+      "id": "gtwc-asia",
+      "name": "GT World Challenge Asia",
+      "keywords": [
+        "GT World Challenge Asia",
+        "GTWC Asia"
+      ]
+    },
+    {
+      "id": "gtwc-australia",
+      "name": "GT World Challenge Australia",
+      "keywords": [
+        "GT World Challenge Australia",
+        "GTWC Australia"
+      ]
+    }
+  ]
+}

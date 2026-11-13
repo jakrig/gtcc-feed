@@ -1,0 +1,88 @@
+name: Build feed
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # hourly, off the top of the hour (GitHub may start it late)
+  workflow_dispatch:         # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**", ".github/workflows/**"]
+  pull_request:              # tests and data validation only, nothing published
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Validate data (no network)
+        run: python3 scripts/build.py --offline
+
+  build:
+    if: github.event_name != 'pull_request'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit site/ and state/
+      issues: write     # open an issue when a feed has been failing for days
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build news.json and calendar.json
+        run: python3 scripts/build.py
+
+      - name: Commit output
+        # Also keeps the repo active, so GitHub doesn't pause the schedule after 60 quiet days.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site state
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Report stale feeds
+        if: hashFiles('state/stale.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          open=$(gh issue list --label stale-feed --state open --json number --jq 'length')
+          if [ "$open" = "0" ]; then
+            gh label create stale-feed --color d93f0b --description "A news feed keeps failing" --force
+            gh issue create --title "A news feed keeps failing" --body-file state/stale.md --label stale-feed
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

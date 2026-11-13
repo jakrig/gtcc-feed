@@ -1,0 +1,36 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Example Sportscars</title>
+  <item>
+    <title>IMSA confirms &amp;#8216;Petit Le Mans&amp;#8217; date for 2027</title>
+    <link>https://example.com/imsa-petit?utm_source=rss&amp;id=7</link>
+    <pubDate>Fri, 13 Nov 2026 10:15:00 +0000</pubDate>
+    <description><![CDATA[<img src="x.jpg"> Summary we must not show]]></description>
+  </item>
+  <item>
+    <title>BTCC champion tests at Snetterton</title>
+    <link>https://example.com/btcc-test</link>
+    <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>NASCAR silly season roundup</title>
+    <link>https://example.com/nascar</link>
+    <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Old WEC story</title>
+    <link>https://example.com/old</link>
+    <pubDate>Mon, 01 Jun 2026 09:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>WEC story with no date</title>
+    <link>https://example.com/nodate</link>
+  </item>
+  <item>
+    <title>Bad link</title>
+    <link>javascript:alert(1)</link>
+  </item>
+</channel>
+</rss>
