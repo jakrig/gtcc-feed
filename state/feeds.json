@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "racer": {
     "etag": null,
@@ -134,7 +134,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -197,7 +197,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "motorsportweek": {
     "etag": "\"a6a93495df1f3e43ee41d8a7d24a824a\"",
@@ -282,7 +282,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "gt-report": {
     "etag": "W/\"e30fe39a454920c6666c2f731bfecc17-gzip\"",
@@ -321,7 +321,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "dailysportscar": {
     "etag": "\"1b662886addf3ee2492ea4ef77f1777a\"",
@@ -387,7 +387,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "speedcafe": {
     "etag": "W/\"82eec38c16ef6f7fd50fc08e0f86ae0b-gzip\"",
@@ -428,7 +428,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   },
   "fia": {
     "etag": null,
@@ -480,6 +480,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-13T18:18:26Z"
+    "last_ok": "2026-11-13T18:20:03Z"
   }
 }
