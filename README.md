@@ -136,7 +136,7 @@ Typed from announcements found by web search in November 2026 (the official page
 | `super-taikyu` | 7 (incl. Fuji 24 Hours) | Provisional |
 | `belcar` | 24 Hours of Zolder, TBC | Not announced |
 
-IndyCar is not tracked.
+IndyCar is not tracked, in the calendar or the news.
 
 Up to 40 headlines, at most 10 per source, none older than 14 days, newest first, duplicates removed. Past calendar events are kept; the game hides them.
 
