@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,7 +153,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "motorsportweek": {
     "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
@@ -227,7 +227,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -266,11 +266,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "dailysportscar": {
-    "etag": "\"35755fb26849ed3eb07479876f8c2b8c\"",
-    "last_modified": "Sat, 14 Nov 2026 05:29:51 GMT",
+    "etag": "\"1a1be9e30fc72a45530b5b237b036815\"",
+    "last_modified": "Sat, 14 Nov 2026 07:41:33 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -281,9 +281,9 @@
       "https://www.dailysportscar.com/2026/11/12/edgar-joins-corvette-racing-factory-ranks.html": "2026-11-12T12:01:50Z",
       "https://www.dailysportscar.com/2026/11/12/thursday-morning-paddock-notes-from-paul-ricard.html": "2026-11-12T11:26:42Z",
       "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html": "2026-11-12T11:10:13Z",
-      "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html": "2026-11-12T11:01:32Z",
       "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
-      "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z"
+      "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z",
+      "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z"
     },
     "items": [
       {
@@ -329,36 +329,24 @@
         ],
         "circuit": "bathurst",
         "photo": null
-      },
-      {
-        "title": "Walkenhorst Set To Return To GTWC Europe & N24 In 2027",
-        "source": "Dailysportscar",
-        "time": "2026-11-12T11:01:32Z",
-        "url": "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html",
-        "series": [
-          "gtwc-europe",
-          "nls"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "speedcafe": {
-    "etag": "W/\"ae455aa2476ce8ce224d798f64dae415-gzip\"",
+    "etag": "W/\"4ffe43d064949316245090fdf32799ca-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
       "https://speedcafe.com/megan-foster-djr-ceo-sponsor-journey/": "2026-11-13T06:03:16Z",
       "https://speedcafe.com/motorsport-news-2026-national-sports-sedan-series-phillip-island-entry-list-audi/": "2026-11-13T05:59:43Z",
-      "https://speedcafe.com/supercars-news-2027-calendar-race-formats-tyres-practice-qualifying-racing-explained-exclusive/": "2026-11-13T02:48:41Z",
       "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/": "2026-11-13T18:55:56Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-finale-sydney-motorsport-park-track-schedule-how-to-watch-broadcast-details/": "2026-11-13T22:00:03Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-13T21:30:45Z",
       "https://speedcafe.com/supercars-news-2026-super-soft-tyre-axing-reaction-brodie-kostecki-will-brown-comments/": "2026-11-14T02:04:26Z",
       "https://speedcafe.com/motorsport-news-live-2026-hi-tec-oils-super-series-sydney-motorsport-park-round-6-season-finale-watch-details/": "2026-11-14T02:40:19Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-craig-thomspon-crash-rollover-details-legends-morning-recap/": "2026-11-14T02:27:09Z"
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-craig-thomspon-crash-rollover-details-legends-morning-recap/": "2026-11-14T02:27:09Z",
+      "https://speedcafe.com/motorsport-news-2027-hi-tec-oils-super-series-calendar-revealed-phillip-island-sandown-added-details/": "2026-11-14T07:25:28Z"
     },
     "items": [
       {
@@ -373,11 +361,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 07:17:39 GMT",
+    "last_modified": "Sat, 14 Nov 2026 08:17:45 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -425,6 +413,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T07:19:03Z"
+    "last_ok": "2026-11-14T08:20:04Z"
   }
 }
