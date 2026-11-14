@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14T11:19:18Z",
+  "updated": "2026-11-14T12:22:01Z",
   "items": [
+    {
+      "title": "F1 Academy champion secures racing future with Red Bull backing",
+      "source": "Motorsport Week",
+      "time": "2026-11-14T12:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "F1 drivers issue damning Pirelli verdict after torrential Sao Paulo GP",
       "source": "Motorsport Week",
@@ -18,17 +29,6 @@
       "source": "RACER",
       "time": "2026-11-13T21:45:21Z",
       "url": "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Former F1 teammate recalls softer side of ‘very loveable’ Jones",
-      "source": "Speedcafe",
-      "time": "2026-11-13T18:55:56Z",
-      "url": "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/",
       "series": [
         "f1"
       ],
