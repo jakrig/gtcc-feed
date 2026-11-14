@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,7 +142,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "motorsportweek": {
     "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "gt-report": {
     "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "dailysportscar": {
     "etag": "\"db6b18966913afab0ada7e7447d8986f\"",
@@ -298,7 +298,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "speedcafe": {
     "etag": "W/\"7534287e5fbaea8ee7e30831744ea405-gzip\"",
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 22:18:27 GMT",
+    "last_modified": "Sat, 14 Nov 2026 23:18:59 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -343,7 +343,7 @@
       "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship": "2026-11-08T20:06:00Z",
       "https://www.fia.com/news/hoogendoorn-and-venant-victorious-italy-become-2026-fia-karting-world-champions": "2026-11-08T19:32:00Z",
       "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-race-press-conference-transcript": "2026-11-08T17:00:00Z",
-      "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos": "2026-11-07T21:45:00Z"
+      "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z"
     },
     "items": [
       {
@@ -367,19 +367,8 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos",
-        "source": "FIA",
-        "time": "2026-11-07T21:45:00Z",
-        "url": "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos",
-        "series": [
-          "f1"
-        ],
-        "circuit": "interlagos",
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T22:19:05Z"
+    "last_ok": "2026-11-14T23:18:54Z"
   }
 }
