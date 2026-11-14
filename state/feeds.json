@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"b62edcd52035c2a9dfb0d08a7deae7d0\"",
-    "last_modified": "Fri, 13 Nov 2026 17:23:25 GMT",
+    "etag": "W/\"63485e5d1712fb0ed090025d9df35666\"",
+    "last_modified": "Sat, 14 Nov 2026 12:46:57 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,24 +153,35 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "motorsportweek": {
-    "etag": "\"8f76ef188c00ee08f6489268c9f60e1d\"",
-    "last_modified": "Sat, 14 Nov 2026 12:00:00 GMT",
+    "etag": "\"042829e7769e7514eee1cd0326af60e5\"",
+    "last_modified": "Sat, 14 Nov 2026 13:00:00 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
       "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
       "https://www.motorsportweek.com/2026/11/13/lewis-hamilton-ferrari-al-capone/": "2026-11-13T14:44:59Z",
       "https://www.motorsportweek.com/2026/11/13/david-coulthard-f1-wet-weather/": "2026-11-13T10:42:15Z",
       "https://www.motorsportweek.com/2026/11/12/liam-lawson-red-bull-message/": "2026-11-12T19:00:00Z",
-      "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/": "2026-11-12T18:00:00Z",
       "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
       "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z",
-      "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z"
+      "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z",
+      "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z"
     },
     "items": [
+      {
+        "title": "Carlos Sainz makes Ferrari comparison after 2026 F1 frustrations",
+        "source": "Motorsport Week",
+        "time": "2026-11-14T13:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "F1 Academy champion secures racing future with Red Bull backing",
         "source": "Motorsport Week",
@@ -236,20 +247,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Red Bull gives junior star new responsibility with vital F1 announcement",
-        "source": "Motorsport Week",
-        "time": "2026-11-12T18:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -288,7 +288,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "dailysportscar": {
     "etag": "\"c69fadf84ad0511e5752e395d6f9fe07\"",
@@ -342,7 +342,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "speedcafe": {
     "etag": "W/\"c377a69024434b9c5a80cd15f2b3db0e-gzip\"",
@@ -360,11 +360,11 @@
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z"
     },
     "items": [],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 12:20:56 GMT",
+    "last_modified": "Sat, 14 Nov 2026 13:18:18 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -412,6 +412,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T12:22:01Z"
+    "last_ok": "2026-11-14T13:18:13Z"
   }
 }

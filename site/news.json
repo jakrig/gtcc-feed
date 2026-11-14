@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14T12:22:01Z",
+  "updated": "2026-11-14T13:18:13Z",
   "items": [
+    {
+      "title": "Carlos Sainz makes Ferrari comparison after 2026 F1 frustrations",
+      "source": "Motorsport Week",
+      "time": "2026-11-14T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "F1 Academy champion secures racing future with Red Bull backing",
       "source": "Motorsport Week",
@@ -154,17 +165,6 @@
         "wec"
       ],
       "circuit": "monza",
-      "photo": null
-    },
-    {
-      "title": "Red Bull gives junior star new responsibility with vital F1 announcement",
-      "source": "Motorsport Week",
-      "time": "2026-11-12T18:00:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
       "photo": null
     },
     {
