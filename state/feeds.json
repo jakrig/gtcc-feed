@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,7 +153,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "motorsportweek": {
     "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
@@ -227,7 +227,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -266,11 +266,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "dailysportscar": {
-    "etag": "\"d901343a40a5f0341d4d5d92a526aa31\"",
-    "last_modified": "Sat, 14 Nov 2026 05:14:12 GMT",
+    "etag": "\"35755fb26849ed3eb07479876f8c2b8c\"",
+    "last_modified": "Sat, 14 Nov 2026 05:29:51 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -282,10 +282,21 @@
       "https://www.dailysportscar.com/2026/11/12/thursday-morning-paddock-notes-from-paul-ricard.html": "2026-11-12T11:26:42Z",
       "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html": "2026-11-12T11:10:13Z",
       "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html": "2026-11-12T11:01:32Z",
-      "https://www.dailysportscar.com/2026/11/12/innovation-on-display-at-2026-pmw-expo.html": "2026-11-12T08:02:35Z",
-      "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z"
+      "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
+      "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z"
     },
     "items": [
+      {
+        "title": "Le Mans 24 Hours 2027: Top Accommodation Options For Groups Of All Sizes, From 3-15 Nights, From Project 100",
+        "source": "Dailysportscar",
+        "time": "2026-11-13T16:59:27Z",
+        "url": "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": "le-mans",
+        "photo": null
+      },
       {
         "title": "TKRI Clinches Super Taikyu ST-X Title After Craft-Bamboo Misses Fuji Finale",
         "source": "Dailysportscar",
@@ -332,10 +343,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "speedcafe": {
-    "etag": "W/\"52ff45af2bc6bbe7d98c3a149a3459dd-gzip\"",
+    "etag": "W/\"ae455aa2476ce8ce224d798f64dae415-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
@@ -362,11 +373,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 05:18:27 GMT",
+    "last_modified": "Sat, 14 Nov 2026 06:25:05 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -414,6 +425,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T05:19:05Z"
+    "last_ok": "2026-11-14T06:25:00Z"
   }
 }
