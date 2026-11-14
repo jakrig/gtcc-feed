@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,24 +153,46 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "motorsportweek": {
-    "etag": "\"042829e7769e7514eee1cd0326af60e5\"",
-    "last_modified": "Sat, 14 Nov 2026 13:00:00 GMT",
+    "etag": "\"c04f37cf66a9be78e596425b52811720\"",
+    "last_modified": "Sat, 14 Nov 2026 16:06:16 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
       "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
       "https://www.motorsportweek.com/2026/11/13/lewis-hamilton-ferrari-al-capone/": "2026-11-13T14:44:59Z",
-      "https://www.motorsportweek.com/2026/11/13/david-coulthard-f1-wet-weather/": "2026-11-13T10:42:15Z",
-      "https://www.motorsportweek.com/2026/11/12/liam-lawson-red-bull-message/": "2026-11-12T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
       "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z",
-      "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z"
+      "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z",
+      "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
+      "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/": "2026-11-14T15:35:45Z"
     },
     "items": [
+      {
+        "title": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues",
+        "source": "Motorsport Week",
+        "time": "2026-11-14T16:06:14Z",
+        "url": "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "FIA confirm F1 ban for Daily Mail journalist over Ferrari spat",
+        "source": "Motorsport Week",
+        "time": "2026-11-14T15:35:45Z",
+        "url": "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Carlos Sainz makes Ferrari comparison after 2026 F1 frustrations",
         "source": "Motorsport Week",
@@ -225,31 +247,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "David Coulthard makes ‘disrespect’ claim on wet weather F1 races",
-        "source": "Motorsport Week",
-        "time": "2026-11-13T10:42:15Z",
-        "url": "https://www.motorsportweek.com/2026/11/13/david-coulthard-f1-wet-weather/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      },
-      {
-        "title": "Liam Lawson issues telling Red Bull message amid 2027 F1 confirmation",
-        "source": "Motorsport Week",
-        "time": "2026-11-12T19:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/12/liam-lawson-red-bull-message/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -288,11 +288,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "dailysportscar": {
-    "etag": "\"c69fadf84ad0511e5752e395d6f9fe07\"",
-    "last_modified": "Sat, 14 Nov 2026 11:27:54 GMT",
+    "etag": "\"5c7e1e09eae104a92fb59f1fd5756cc8\"",
+    "last_modified": "Sat, 14 Nov 2026 15:37:54 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -342,7 +342,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "speedcafe": {
     "etag": "W/\"c377a69024434b9c5a80cd15f2b3db0e-gzip\"",
@@ -360,11 +360,11 @@
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z"
     },
     "items": [],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 15:19:12 GMT",
+    "last_modified": "Sat, 14 Nov 2026 16:17:58 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -412,6 +412,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T15:19:07Z"
+    "last_ok": "2026-11-14T16:18:28Z"
   }
 }
