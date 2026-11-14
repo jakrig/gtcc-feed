@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "racer": {
     "etag": null,
@@ -46,14 +46,14 @@
     "first_seen": {
       "https://racer.com/2026/11/13/indycar-s-chevrolet-teams-vie-for-2028-manufacturer-deal": "2026-11-13T14:47:24Z",
       "https://racer.com/2026/11/13/indycar-confirms-15-round-2027-indy-nxt-schedule": "2026-11-13T16:01:05Z",
-      "https://racer.com/2026/11/12/andretti-s-ruzewski-says-value-add-potential-key-to-fourth-indy-500-entry": "2026-11-12T19:55:12Z",
       "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team": "2026-11-13T17:16:48Z",
       "https://racer.com/2026/11/13/nominees-unveiled-for-2026-racer-creator-awards": "2026-11-13T13:11:29Z",
       "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title": "2026-11-13T12:37:11Z",
       "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
       "https://racer.com/2026/11/11/racing-on-tv-november-13-15": "2026-11-13T13:50:08Z",
       "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
-      "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z"
+      "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z",
+      "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality": "2026-11-14T17:30:35Z"
     },
     "items": [
       {
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,14 +153,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "motorsportweek": {
-    "etag": "\"f6173015ce8ca600db8b4027ff0932e8\"",
-    "last_modified": "Sat, 14 Nov 2026 17:00:00 GMT",
+    "etag": "\"414aca05a87bf57d7011dd929f0327c2\"",
+    "last_modified": "Sat, 14 Nov 2026 18:02:37 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
-      "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
       "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
       "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z",
@@ -168,7 +167,8 @@
       "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
       "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/": "2026-11-14T15:35:45Z",
-      "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z"
+      "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z",
+      "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z"
     },
     "items": [
       {
@@ -236,20 +236,9 @@
         ],
         "circuit": "las-vegas",
         "photo": null
-      },
-      {
-        "title": "FIA set court date for vital Yuki Tsunoda F1 decision",
-        "source": "Motorsport Week",
-        "time": "2026-11-13T17:16:09Z",
-        "url": "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -288,11 +277,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "dailysportscar": {
-    "etag": "\"979e67da0f54540e807fc783c99b3aca\"",
-    "last_modified": "Sat, 14 Nov 2026 16:41:05 GMT",
+    "etag": "\"aa7bb7e7f49dea27262fa524a571511b\"",
+    "last_modified": "Sat, 14 Nov 2026 18:17:09 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -342,7 +331,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "speedcafe": {
     "etag": "W/\"c377a69024434b9c5a80cd15f2b3db0e-gzip\"",
@@ -360,11 +349,11 @@
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z"
     },
     "items": [],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 17:18:22 GMT",
+    "last_modified": "Sat, 14 Nov 2026 18:18:41 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -412,6 +401,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T17:18:39Z"
+    "last_ok": "2026-11-14T18:19:39Z"
   }
 }
