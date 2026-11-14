@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,11 +153,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "motorsportweek": {
-    "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
-    "last_modified": "Fri, 13 Nov 2026 18:24:50 GMT",
+    "etag": "\"98e9829989ec619a2e49810430d70036\"",
+    "last_modified": "Sat, 14 Nov 2026 10:00:00 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
       "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
@@ -167,8 +167,8 @@
       "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/": "2026-11-12T18:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/lewis-hamilton-gaza-message/": "2026-11-12T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/george-russell-karting-academy-launch/": "2026-11-12T15:00:00Z",
-      "https://www.motorsportweek.com/2026/11/12/christian-horner-red-bull-claims/": "2026-11-12T13:00:00Z",
-      "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z"
+      "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
+      "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z"
     },
     "items": [
       {
@@ -227,7 +227,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -266,7 +266,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "dailysportscar": {
     "etag": "\"1a1be9e30fc72a45530b5b237b036815\"",
@@ -331,14 +331,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "speedcafe": {
-    "etag": "W/\"941d8ec77e0090d3445627c51af31c0d-gzip\"",
+    "etag": "W/\"a81f0ad0d1c57bc07ac5c522473abb0b-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
-      "https://speedcafe.com/megan-foster-djr-ceo-sponsor-journey/": "2026-11-13T06:03:16Z",
       "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/": "2026-11-13T18:55:56Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-finale-sydney-motorsport-park-track-schedule-how-to-watch-broadcast-details/": "2026-11-13T22:00:03Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-13T21:30:45Z",
@@ -346,7 +345,8 @@
       "https://speedcafe.com/motorsport-news-live-2026-hi-tec-oils-super-series-sydney-motorsport-park-round-6-season-finale-watch-details/": "2026-11-14T02:40:19Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-craig-thomspon-crash-rollover-details-legends-morning-recap/": "2026-11-14T02:27:09Z",
       "https://speedcafe.com/motorsport-news-2027-hi-tec-oils-super-series-calendar-revealed-phillip-island-sandown-added-details/": "2026-11-14T07:25:28Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-heat-race-results-report-final-points-standings-details/": "2026-11-14T08:48:01Z"
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-heat-race-results-report-final-points-standings-details/": "2026-11-14T08:48:01Z",
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-heat-race-results-report-final-points-standings-details/": "2026-11-14T10:00:14Z"
     },
     "items": [
       {
@@ -361,11 +361,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 09:17:43 GMT",
+    "last_modified": "Sat, 14 Nov 2026 10:03:08 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -413,6 +413,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T09:19:24Z"
+    "last_ok": "2026-11-14T10:05:04Z"
   }
 }
