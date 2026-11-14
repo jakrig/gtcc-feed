@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,11 +153,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "motorsportweek": {
-    "etag": "\"98e9829989ec619a2e49810430d70036\"",
-    "last_modified": "Sat, 14 Nov 2026 10:00:00 GMT",
+    "etag": "\"e1e540762f4bdb3cd84834b821d5feb3\"",
+    "last_modified": "Sat, 14 Nov 2026 11:00:00 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
       "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/": "2026-11-13T17:16:09Z",
@@ -166,11 +166,22 @@
       "https://www.motorsportweek.com/2026/11/12/liam-lawson-red-bull-message/": "2026-11-12T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/": "2026-11-12T18:00:00Z",
       "https://www.motorsportweek.com/2026/11/12/lewis-hamilton-gaza-message/": "2026-11-12T17:00:00Z",
-      "https://www.motorsportweek.com/2026/11/12/george-russell-karting-academy-launch/": "2026-11-12T15:00:00Z",
       "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
-      "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z"
+      "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z",
+      "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z"
     },
     "items": [
+      {
+        "title": "F1 drivers issue damning Pirelli verdict after torrential Sao Paulo GP",
+        "source": "Motorsport Week",
+        "time": "2026-11-14T11:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
         "source": "Motorsport Week",
@@ -227,7 +238,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -266,11 +277,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "dailysportscar": {
-    "etag": "\"1a1be9e30fc72a45530b5b237b036815\"",
-    "last_modified": "Sat, 14 Nov 2026 07:41:33 GMT",
+    "etag": "\"e56a48b1ffe4185b7b0695e45df8b372\"",
+    "last_modified": "Sat, 14 Nov 2026 10:20:45 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -280,10 +291,10 @@
       "https://www.dailysportscar.com/2026/11/12/tower-motorsports-adds-van-der-zande-peebles-for-2027-imsa-lmp2-programme.html": "2026-11-12T16:31:09Z",
       "https://www.dailysportscar.com/2026/11/12/edgar-joins-corvette-racing-factory-ranks.html": "2026-11-12T12:01:50Z",
       "https://www.dailysportscar.com/2026/11/12/thursday-morning-paddock-notes-from-paul-ricard.html": "2026-11-12T11:26:42Z",
-      "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html": "2026-11-12T11:10:13Z",
       "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
       "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z",
-      "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z"
+      "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z",
+      "https://www.dailysportscar.com/2026/11/14/strategy-gamble-pays-off-for-gms-duqueine-in-asian-le-mans-cup-opener.html": "2026-11-14T10:20:45Z"
     },
     "items": [
       {
@@ -318,20 +329,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Record-Breaking GT3 Entry Set For 2027 Bathurst 12 Hour",
-        "source": "Dailysportscar",
-        "time": "2026-11-12T11:10:13Z",
-        "url": "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html",
-        "series": [
-          "igtc"
-        ],
-        "circuit": "bathurst",
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "speedcafe": {
     "etag": "W/\"287a0502953289e454e69e89c63cfe0c-gzip\"",
@@ -361,11 +361,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 10:17:48 GMT",
+    "last_modified": "Sat, 14 Nov 2026 11:19:23 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -413,6 +413,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T10:19:03Z"
+    "last_ok": "2026-11-14T11:19:18Z"
   }
 }
