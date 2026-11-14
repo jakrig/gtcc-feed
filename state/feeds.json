@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"4deab2622165f61d3b745959f009e090\"",
-    "last_modified": "Sat, 14 Nov 2026 17:04:03 GMT",
+    "etag": "W/\"6cfdf4a5e7b3a37dca5e02447bf767e0\"",
+    "last_modified": "Sat, 14 Nov 2026 18:40:17 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,14 +153,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "motorsportweek": {
-    "etag": "\"414aca05a87bf57d7011dd929f0327c2\"",
-    "last_modified": "Sat, 14 Nov 2026 18:02:37 GMT",
+    "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
+    "last_modified": "Sat, 14 Nov 2026 19:00:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/": "2026-11-13T18:10:19Z",
-      "https://www.motorsportweek.com/2026/11/13/kimi-antonelli-italian-football-fans/": "2026-11-13T18:24:34Z",
       "https://www.motorsportweek.com/2026/11/14/ferrari-engineer-lewis-hamilton-charles-leclerc/": "2026-11-14T10:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z",
@@ -168,7 +166,9 @@
       "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
       "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/": "2026-11-14T15:35:45Z",
       "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z",
-      "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z"
+      "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
+      "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
+      "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z"
     },
     "items": [
       {
@@ -225,24 +225,13 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
-        "source": "Motorsport Week",
-        "time": "2026-11-13T18:10:19Z",
-        "url": "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/",
-        "series": [
-          "f1"
-        ],
-        "circuit": "las-vegas",
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "gt-report": {
-    "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
-    "last_modified": "Fri, 13 Nov 2026 19:43:02 GMT",
+    "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
+    "last_modified": "Sat, 14 Nov 2026 19:13:47 GMT",
     "first_seen": {
       "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
       "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
@@ -250,8 +239,8 @@
       "https://www.gt-report.com/2026/11/10/legends-of-le-mans-monza-peugeot-and-lola-aston-martin-split-wins-in-season-finale/": "2026-11-10T19:00:38Z",
       "https://www.gt-report.com/2026/11/10/stefano-gai-and-fabrizio-fontana-turned-a-dare-into-titles-he-said-yes-why-not/": "2026-11-10T13:30:11Z",
       "https://www.gt-report.com/2026/11/08/italian-gt-mugello-photo-gallery/": "2026-11-08T20:09:55Z",
-      "https://www.gt-report.com/2026/11/08/cadillac-wins-wec-season-finale-at-monza-toyota-crowned-champions/": "2026-11-08T18:36:06Z",
-      "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z"
+      "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z",
+      "https://www.gt-report.com/2026/11/14/asian-le-mans-series-paul-ricard-race-1-sees-ferrari-one-two-on-hypercar-debut/": "2026-11-14T19:13:47Z"
     },
     "items": [
       {
@@ -264,24 +253,13 @@
         ],
         "circuit": "monza",
         "photo": null
-      },
-      {
-        "title": "WEC Monza: Cadillac wins season finale, Toyota crowned champions",
-        "source": "GT Report",
-        "time": "2026-11-08T18:36:06Z",
-        "url": "https://www.gt-report.com/2026/11/08/cadillac-wins-wec-season-finale-at-monza-toyota-crowned-champions/",
-        "series": [
-          "wec"
-        ],
-        "circuit": "monza",
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "dailysportscar": {
-    "etag": "\"aa7bb7e7f49dea27262fa524a571511b\"",
-    "last_modified": "Sat, 14 Nov 2026 18:17:09 GMT",
+    "etag": "\"a5215e79abe81d3b098a8f83b4ec814c\"",
+    "last_modified": "Sat, 14 Nov 2026 18:32:35 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -331,13 +309,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "speedcafe": {
-    "etag": "W/\"c377a69024434b9c5a80cd15f2b3db0e-gzip\"",
+    "etag": "W/\"7534287e5fbaea8ee7e30831744ea405-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-finale-sydney-motorsport-park-track-schedule-how-to-watch-broadcast-details/": "2026-11-13T22:00:03Z",
       "https://speedcafe.com/supercars-news-2026-super-soft-tyre-axing-reaction-brodie-kostecki-will-brown-comments/": "2026-11-14T02:04:26Z",
       "https://speedcafe.com/motorsport-news-live-2026-hi-tec-oils-super-series-sydney-motorsport-park-round-6-season-finale-watch-details/": "2026-11-14T02:40:19Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-craig-thomspon-crash-rollover-details-legends-morning-recap/": "2026-11-14T02:27:09Z",
@@ -346,14 +323,27 @@
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-heat-race-results-report-final-points-standings-details/": "2026-11-14T10:00:14Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-dash-for-cash-final-sam-simpson-win-results-report/": "2026-11-14T11:41:25Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-support-categories-irc-formual-rx8-champions-crowned-lee-stibbs-emily-caccaviello-stiaan-kriel-results-report/": "2026-11-14T11:35:16Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z"
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z",
+      "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/": "2026-11-14T18:55:58Z"
     },
-    "items": [],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "items": [
+      {
+        "title": "Why F1 fans still can’t get enough of Guenther Steiner",
+        "source": "Speedcafe",
+        "time": "2026-11-14T18:55:58Z",
+        "url": "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-14T19:19:02Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 18:18:41 GMT",
+    "last_modified": "Sat, 14 Nov 2026 19:18:12 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -401,6 +391,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T18:19:39Z"
+    "last_ok": "2026-11-14T19:19:02Z"
   }
 }

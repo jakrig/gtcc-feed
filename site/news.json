@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14T18:19:39Z",
+  "updated": "2026-11-14T19:19:02Z",
   "items": [
+    {
+      "title": "Why F1 fans still can’t get enough of Guenther Steiner",
+      "source": "Speedcafe",
+      "time": "2026-11-14T18:55:58Z",
+      "url": "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues",
       "source": "Motorsport Week",
@@ -66,17 +77,6 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
-      "source": "Motorsport Week",
-      "time": "2026-11-13T18:10:19Z",
-      "url": "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/",
-      "series": [
-        "f1"
-      ],
-      "circuit": "las-vegas",
       "photo": null
     },
     {
@@ -220,17 +220,6 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "WEC Monza: Cadillac wins season finale, Toyota crowned champions",
-      "source": "GT Report",
-      "time": "2026-11-08T18:36:06Z",
-      "url": "https://www.gt-report.com/2026/11/08/cadillac-wins-wec-season-finale-at-monza-toyota-crowned-champions/",
-      "series": [
-        "wec"
-      ],
-      "circuit": "monza",
       "photo": null
     },
     {
