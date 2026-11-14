@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,7 +142,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "motorsportweek": {
     "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "gt-report": {
     "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
@@ -244,11 +244,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "dailysportscar": {
-    "etag": "\"a5215e79abe81d3b098a8f83b4ec814c\"",
-    "last_modified": "Sat, 14 Nov 2026 18:32:35 GMT",
+    "etag": "\"db6b18966913afab0ada7e7447d8986f\"",
+    "last_modified": "Sat, 14 Nov 2026 20:47:57 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -298,7 +298,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "speedcafe": {
     "etag": "W/\"7534287e5fbaea8ee7e30831744ea405-gzip\"",
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 20:18:23 GMT",
+    "last_modified": "Sat, 14 Nov 2026 21:18:27 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -380,6 +380,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T20:19:19Z"
+    "last_ok": "2026-11-14T21:18:22Z"
   }
 }
