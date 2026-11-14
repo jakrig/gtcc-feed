@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "racer": {
     "etag": null,
@@ -90,7 +90,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,7 +153,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "motorsportweek": {
     "etag": "\"ea7231a8d9313adaf50d29a8180adf8d\"",
@@ -227,7 +227,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "gt-report": {
     "etag": "W/\"b58de38ca00b07b34cdf635b8fde8d51-gzip\"",
@@ -266,7 +266,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "dailysportscar": {
     "etag": "\"07408ba29e54362cee6a9e33d49b8215\"",
@@ -332,22 +332,22 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "speedcafe": {
-    "etag": "W/\"4bf5b10b472b0c762bc9236cd92e3b07-gzip\"",
+    "etag": "W/\"52ff45af2bc6bbe7d98c3a149a3459dd-gzip\"",
     "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/motorsport-podcast-supercars-news-analysis-2027-format-changes-details-international-expansion-matt-payne-f1-liam-lawson-deal/": "2026-11-13T10:09:02Z",
       "https://speedcafe.com/megan-foster-djr-ceo-sponsor-journey/": "2026-11-13T06:03:16Z",
       "https://speedcafe.com/motorsport-news-2026-national-sports-sedan-series-phillip-island-entry-list-audi/": "2026-11-13T05:59:43Z",
       "https://speedcafe.com/supercars-news-2027-calendar-race-formats-tyres-practice-qualifying-racing-explained-exclusive/": "2026-11-13T02:48:41Z",
-      "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-championship-tyler-cheney-livery-revealed-entry-list/": "2026-11-13T01:51:41Z",
-      "https://speedcafe.com/motogp-news-2026-adelaide-park-lands-protest-trees-felled-november-update-comments-reaction/": "2026-11-13T01:09:56Z",
       "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/": "2026-11-13T18:55:56Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-finale-sydney-motorsport-park-track-schedule-how-to-watch-broadcast-details/": "2026-11-13T22:00:03Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-13T21:30:45Z",
-      "https://speedcafe.com/supercars-news-2026-super-soft-tyre-axing-reaction-brodie-kostecki-will-brown-comments/": "2026-11-14T02:04:26Z"
+      "https://speedcafe.com/supercars-news-2026-super-soft-tyre-axing-reaction-brodie-kostecki-will-brown-comments/": "2026-11-14T02:04:26Z",
+      "https://speedcafe.com/motorsport-news-live-2026-hi-tec-oils-super-series-sydney-motorsport-park-round-6-season-finale-watch-details/": "2026-11-14T02:40:19Z",
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-craig-thomspon-crash-rollover-details-legends-morning-recap/": "2026-11-14T02:27:09Z"
     },
     "items": [
       {
@@ -362,11 +362,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 02:20:22 GMT",
+    "last_modified": "Sat, 14 Nov 2026 03:17:30 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -414,6 +414,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T02:22:43Z"
+    "last_ok": "2026-11-14T03:19:58Z"
   }
 }
