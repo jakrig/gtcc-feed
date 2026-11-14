@@ -131,6 +131,11 @@
         "24 Hours of Zolder",
         "Zolder 24"
       ]
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP",
+      "keywords": []
     }
   ]
 }

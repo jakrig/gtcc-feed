@@ -1,0 +1,98 @@
+{
+  "series": "f1",
+  "year": 2026,
+  "source_url": "https://github.com/sportstimes/f1/blob/main/_db/f1/2026.json",
+  "notes": "Remaining 2026 rounds only, from the sportstimes calendar data (MIT licence, copyright Andrew Yates, Si Jobling, Andy Higgs). Event dates are local to the circuit; session times are UTC.",
+  "events": [
+    {
+      "round": 21,
+      "name": "Las Vegas Grand Prix",
+      "circuit": "las-vegas",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "status": "confirmed",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "start": "2026-11-20T00:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-20T04:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-11-21T00:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-11-21T04:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-22T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": 22,
+      "name": "Qatar Grand Prix",
+      "circuit": "lusail",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "start": "2026-11-27T13:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-27T17:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-11-28T14:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-11-28T18:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-29T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": 23,
+      "name": "Abu Dhabi Grand Prix",
+      "circuit": "yas-marina",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "status": "confirmed",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "start": "2026-12-04T09:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-12-04T13:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "start": "2026-12-05T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "start": "2026-12-05T14:00:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-12-06T13:00:00Z"
+        }
+      ]
+    }
+  ]
+}

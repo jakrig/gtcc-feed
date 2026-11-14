@@ -15,7 +15,7 @@ The game reads only these files. It never contacts a racing site, so there are n
 | --- | --- | --- |
 | `data/calendar/<year>/<series>.json` | Race weekends, typed from each series' official calendar | You |
 | `data/feeds.json` | News sources, each switched on or off | You |
-| `data/series.json` | Series ids, names, and headline keywords used to tag multi-series feeds | You |
+| `data/series.json` | Series ids, names, and headline keywords used to tag multi-series feeds. A series with no keywords (`"keywords": []`) is calendar-only and never appears in the news | You |
 | `data/circuits.json` | Circuit ids, names, countries, headline keywords | You |
 | `data/photos.json` + `data/photos/` | Openly licensed photos (e.g. Wikimedia Commons), with credits | You |
 | `scripts/build.py` | The build (Python standard library only) | Code |
@@ -137,6 +137,15 @@ Typed from announcements found by web search in November 2026 (the official page
 | `belcar` | 24 Hours of Zolder, TBC | Not announced |
 
 IndyCar is not tracked, in the calendar or the news.
+
+### 2026 calendar coverage
+
+Only the rounds still to run when added (14 Nov 2026), with session times, from the [sportstimes](https://github.com/sportstimes/f1) calendar data (MIT licence, © Andrew Yates, Si Jobling, Andy Higgs):
+
+| File | Events |
+| --- | --- |
+| `f1` | Las Vegas, Qatar, Abu Dhabi (rounds 21–23) |
+| `motogp` | Portugal, Valencia (rounds 21–22). MotoGP is calendar-only: no headlines. |
 
 Up to 40 headlines, at most 10 per source, none older than 14 days, newest first, duplicates removed. Past calendar events are kept; the game hides them.
 

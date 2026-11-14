@@ -1,0 +1,92 @@
+{
+  "series": "motogp",
+  "year": 2026,
+  "source_url": "https://github.com/sportstimes/f1/blob/main/_db/motogp/2026.json",
+  "notes": "Remaining 2026 rounds only, from the sportstimes calendar data (MIT licence, copyright Andrew Yates, Si Jobling, Andy Higgs). Event dates are local to the circuit; session times are UTC.",
+  "events": [
+    {
+      "round": 21,
+      "name": "Portuguese Grand Prix",
+      "circuit": "portimao",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "status": "confirmed",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "start": "2026-11-20T10:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "start": "2026-11-20T15:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-21T10:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "start": "2026-11-21T10:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "start": "2026-11-21T11:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "start": "2026-11-21T15:00:00Z"
+        },
+        {
+          "name": "Warm Up",
+          "start": "2026-11-22T09:40:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-22T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": 22,
+      "name": "Valencian Community Grand Prix",
+      "circuit": "valencia",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "start": "2026-11-27T09:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "start": "2026-11-27T14:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "start": "2026-11-28T09:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "start": "2026-11-28T09:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "start": "2026-11-28T10:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "start": "2026-11-28T14:00:00Z"
+        },
+        {
+          "name": "Warm Up",
+          "start": "2026-11-29T08:40:00Z"
+        },
+        {
+          "name": "Race",
+          "start": "2026-11-29T13:00:00Z"
+        }
+      ]
+    }
+  ]
+}

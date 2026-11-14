@@ -266,8 +266,9 @@ def fetch(feed: dict[str, Any], st: dict[str, Any]) -> bytes | None:
 
 class Matcher:
     def __init__(self, cfg: Config) -> None:
-        self.series = [(sid, keyword_pattern(s["keywords"])) for sid, s in cfg.series.items()]
-        self.circuits = [(cid, keyword_pattern(c["keywords"])) for cid, c in cfg.circuits.items()]
+        # a series with no keywords is calendar-only: never matched in headlines
+        self.series = [(sid, keyword_pattern(s["keywords"])) for sid, s in cfg.series.items() if s["keywords"]]
+        self.circuits = [(cid, keyword_pattern(c["keywords"])) for cid, c in cfg.circuits.items() if c["keywords"]]
 
     def series_in(self, title: str) -> list[str]:
         return [sid for sid, pat in self.series if pat.search(title)]
@@ -361,9 +362,10 @@ def build_news(cfg: Config, state: dict[str, Any], now: datetime) -> dict[str, A
     items = []
     pool = [it for fid in sorted(state) for it in state[fid].get("items", [])]
     pool.sort(key=lambda it: (it["time"], it["url"]), reverse=True)
+    in_news = {sid for sid, s in cfg.series.items() if s["keywords"]}
     for it in pool:
-        # a series removed from series.json drops its cached headlines at once
-        it = it | {"series": [s for s in it["series"] if s in cfg.series]}
+        # a series removed from series.json (or made calendar-only) drops its cached headlines at once
+        it = it | {"series": [s for s in it["series"] if s in in_news]}
         if not it["series"]:
             continue
         key = re.sub(r"\W+", "", it["title"].lower())

@@ -69,6 +69,11 @@ class Helpers(unittest.TestCase):
         self.assertFalse(pat.search("the wec of it"))
         self.assertTrue(pat.search("LE MANS winner"))
 
+    def test_calendar_only_series_never_matches_headlines(self) -> None:
+        cfg = build.load_config()
+        cfg.series["calendar-only"] = {"id": "calendar-only", "name": "X", "keywords": []}
+        self.assertEqual(build.Matcher(cfg).series_in("Anything at all"), [])
+
     def test_whole_words_only(self) -> None:
         self.assertFalse(build.keyword_pattern(["Spa"]).search("Spanish GP"))
 

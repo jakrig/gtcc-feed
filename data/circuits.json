@@ -562,6 +562,15 @@
       "keywords": [
         "Okayama"
       ]
+    },
+    {
+      "id": "valencia",
+      "name": "Circuit Ricardo Tormo",
+      "country": "ES",
+      "keywords": [
+        "Ricardo Tormo",
+        "Cheste"
+      ]
     }
   ]
 }
