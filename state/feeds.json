@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "racer": {
     "etag": null,
@@ -48,12 +48,12 @@
       "https://racer.com/2026/11/13/indycar-confirms-15-round-2027-indy-nxt-schedule": "2026-11-13T16:01:05Z",
       "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team": "2026-11-13T17:16:48Z",
       "https://racer.com/2026/11/13/nominees-unveiled-for-2026-racer-creator-awards": "2026-11-13T13:11:29Z",
-      "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title": "2026-11-13T12:37:11Z",
       "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
       "https://racer.com/2026/11/11/racing-on-tv-november-13-15": "2026-11-13T13:50:08Z",
       "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
       "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z",
-      "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality": "2026-11-14T17:30:35Z"
+      "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality": "2026-11-14T17:30:35Z",
+      "https://racer.com/2026/11/14/af-corse-wins-first-asian-le-mans-series-hypercar-race-at-paul-ricard": "2026-11-14T19:36:24Z"
     },
     "items": [
       {
@@ -77,20 +77,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Red Bull promotes Palmowski to junior team after F1 Academy title",
-        "source": "RACER",
-        "time": "2026-11-13T12:37:11Z",
-        "url": "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -153,7 +142,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "motorsportweek": {
     "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
@@ -227,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "gt-report": {
     "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
@@ -255,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "dailysportscar": {
     "etag": "\"a5215e79abe81d3b098a8f83b4ec814c\"",
@@ -309,7 +298,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "speedcafe": {
     "etag": "W/\"7534287e5fbaea8ee7e30831744ea405-gzip\"",
@@ -339,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sat, 14 Nov 2026 19:18:12 GMT",
+    "last_modified": "Sat, 14 Nov 2026 20:18:23 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -391,6 +380,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-14T19:19:02Z"
+    "last_ok": "2026-11-14T20:19:19Z"
   }
 }
