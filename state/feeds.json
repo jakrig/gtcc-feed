@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"6cfdf4a5e7b3a37dca5e02447bf767e0\"",
-    "last_modified": "Sat, 14 Nov 2026 18:40:17 GMT",
+    "etag": "W/\"3eaf7e4396dd3b77332be7d86cdfc49f\"",
+    "last_modified": "Sun, 15 Nov 2026 16:53:10 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
@@ -11,8 +11,8 @@
       "https://sportscar365.com/imsa/iwsc/van-der-zande-lands-full-season-tower-lmp2-drive/": "2026-11-12T16:42:03Z",
       "https://sportscar365.com/sro/gt4-america/bsi-racing-to-make-gt4-america-debut-with-mustang-gt4/": "2026-11-12T15:38:33Z",
       "https://sportscar365.com/other-series/mustang-single-make/ford-veterans-day-classic-notebook/": "2026-11-12T12:02:29Z",
-      "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/": "2026-11-12T11:59:12Z",
-      "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z"
+      "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
+      "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z"
     },
     "items": [
       {
@@ -25,20 +25,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "WEC LMGT3 Champion Edgar Named Corvette Factory Driver",
-        "source": "Sportscar365",
-        "time": "2026-11-12T11:59:12Z",
-        "url": "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/",
-        "series": [
-          "wec"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "racer": {
     "etag": null,
@@ -52,8 +41,8 @@
       "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
       "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z",
       "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality": "2026-11-14T17:30:35Z",
-      "https://racer.com/2026/11/14/af-corse-wins-first-asian-le-mans-series-hypercar-race-at-paul-ricard": "2026-11-14T19:36:24Z",
-      "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z"
+      "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z",
+      "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z"
     },
     "items": [
       {
@@ -79,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,13 +131,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "motorsportweek": {
-    "etag": "\"e53ebbef28bb2bd9cd2eb97092d1eb80\"",
-    "last_modified": "Sun, 15 Nov 2026 16:00:00 GMT",
+    "etag": "\"939dcff349b813c2b883399c43e9bb3e\"",
+    "last_modified": "Sun, 15 Nov 2026 16:30:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
       "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
@@ -157,9 +145,21 @@
       "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z",
       "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z",
       "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
-      "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z"
+      "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z",
+      "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z"
     },
     "items": [
+      {
+        "title": "McLaren to set ‘foundations’ for F1 2027 with Las Vegas upgrades",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T16:30:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
         "source": "Motorsport Week",
@@ -203,20 +203,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues",
-        "source": "Motorsport Week",
-        "time": "2026-11-14T16:06:14Z",
-        "url": "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "gt-report": {
     "etag": "W/\"4dc82409c2b327a2027a9d1849a91cd5-gzip\"",
@@ -244,7 +233,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "dailysportscar": {
     "etag": "\"b9e75ad234935a7ae4588e03efc7668f\"",
@@ -298,7 +287,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T16:18:45Z",
+    "last_error": "HTTPError: HTTP Error 401: Unauthorized",
+    "stale_since": "2026-11-15T17:19:05Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -328,11 +319,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 16:17:47 GMT",
+    "last_modified": "Sun, 15 Nov 2026 17:16:39 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -358,6 +349,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z"
+    "last_ok": "2026-11-15T17:19:05Z"
   }
 }

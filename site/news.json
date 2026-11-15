@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-15T16:18:45Z",
+  "updated": "2026-11-15T17:19:05Z",
   "items": [
+    {
+      "title": "McLaren to set ‘foundations’ for F1 2027 with Las Vegas upgrades",
+      "source": "Motorsport Week",
+      "time": "2026-11-15T16:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
     {
       "title": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
       "source": "Motorsport Week",
@@ -62,17 +73,6 @@
       "source": "Speedcafe",
       "time": "2026-11-14T18:55:58Z",
       "url": "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Valtteri Bottas delivers Cadillac promise as 2027 F1 speculation continues",
-      "source": "Motorsport Week",
-      "time": "2026-11-14T16:06:14Z",
-      "url": "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/",
       "series": [
         "f1"
       ],
@@ -163,17 +163,6 @@
       "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
       "series": [
         "btcc"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "WEC LMGT3 Champion Edgar Named Corvette Factory Driver",
-      "source": "Sportscar365",
-      "time": "2026-11-12T11:59:12Z",
-      "url": "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/",
-      "series": [
-        "wec"
       ],
       "circuit": null,
       "photo": null
