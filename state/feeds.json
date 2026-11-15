@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,7 +142,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "motorsportweek": {
     "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
@@ -216,20 +216,20 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "gt-report": {
-    "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
-    "last_modified": "Sat, 14 Nov 2026 19:13:47 GMT",
+    "etag": "W/\"0bb2c8fdd555b5663f130f70d032eb4a-gzip\"",
+    "last_modified": "Sun, 15 Nov 2026 08:21:21 GMT",
     "first_seen": {
       "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
       "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
       "https://www.gt-report.com/2026/11/11/vittorio-vigliettis-ambitions-grow-after-first-gt3-wins-even-more-now-than-before/": "2026-11-11T17:57:45Z",
       "https://www.gt-report.com/2026/11/10/legends-of-le-mans-monza-peugeot-and-lola-aston-martin-split-wins-in-season-finale/": "2026-11-10T19:00:38Z",
       "https://www.gt-report.com/2026/11/10/stefano-gai-and-fabrizio-fontana-turned-a-dare-into-titles-he-said-yes-why-not/": "2026-11-10T13:30:11Z",
-      "https://www.gt-report.com/2026/11/08/italian-gt-mugello-photo-gallery/": "2026-11-08T20:09:55Z",
       "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z",
-      "https://www.gt-report.com/2026/11/14/asian-le-mans-series-paul-ricard-race-1-sees-ferrari-one-two-on-hypercar-debut/": "2026-11-14T19:13:47Z"
+      "https://www.gt-report.com/2026/11/14/asian-le-mans-series-paul-ricard-race-1-sees-ferrari-one-two-on-hypercar-debut/": "2026-11-14T19:13:47Z",
+      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-photo-gallery/": "2026-11-15T08:20:07Z"
     },
     "items": [
       {
@@ -244,11 +244,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "dailysportscar": {
-    "etag": "\"2b1cb41a16305e799ad87b4f09bf9d89\"",
-    "last_modified": "Sun, 15 Nov 2026 06:55:58 GMT",
+    "etag": "\"f506879cdec282f99488d39f8c9b4b91\"",
+    "last_modified": "Sun, 15 Nov 2026 07:42:38 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -298,7 +298,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 07:18:50 GMT",
+    "last_modified": "Sun, 15 Nov 2026 08:18:55 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -369,6 +369,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T07:19:18Z"
+    "last_ok": "2026-11-15T08:21:23Z"
   }
 }
