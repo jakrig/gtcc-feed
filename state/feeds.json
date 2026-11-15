@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,24 +142,46 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "motorsportweek": {
-    "etag": "\"7f2cf469aa0e4fc90ebdbc8888f76461\"",
-    "last_modified": "Sun, 15 Nov 2026 15:05:11 GMT",
+    "etag": "\"e53ebbef28bb2bd9cd2eb97092d1eb80\"",
+    "last_modified": "Sun, 15 Nov 2026 16:00:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
-      "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/": "2026-11-14T15:35:45Z",
       "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z",
       "https://www.motorsportweek.com/2026/11/15/f1-aduo-for-teams-plans/": "2026-11-15T11:11:01Z",
       "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z",
-      "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z"
+      "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z",
+      "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
+      "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z"
     },
     "items": [
+      {
+        "title": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T16:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Ex-Liberty boss hints at potential F1 sale with ‘easy money’ verdict",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T15:30:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Jenson Button makes honest admission over Fernando Alonso F1 future",
         "source": "Motorsport Week",
@@ -192,31 +214,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "FIA confirm F1 ban for Daily Mail journalist over Ferrari spat",
-        "source": "Motorsport Week",
-        "time": "2026-11-14T15:35:45Z",
-        "url": "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      },
-      {
-        "title": "Carlos Sainz makes Ferrari comparison after 2026 F1 frustrations",
-        "source": "Motorsport Week",
-        "time": "2026-11-14T13:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "gt-report": {
     "etag": "W/\"4dc82409c2b327a2027a9d1849a91cd5-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "dailysportscar": {
     "etag": "\"b9e75ad234935a7ae4588e03efc7668f\"",
@@ -298,7 +298,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 15:19:34 GMT",
+    "last_modified": "Sun, 15 Nov 2026 16:17:47 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -358,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T15:19:28Z"
+    "last_ok": "2026-11-15T16:18:45Z"
   }
 }
