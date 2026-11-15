@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,7 +142,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "motorsportweek": {
     "etag": "\"742b03bacc9bc7812ab5fef7b78475e1\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "gt-report": {
     "etag": "W/\"3cb8ec7c50ca322b7fe36c012e43449b-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "dailysportscar": {
     "etag": "\"db6b18966913afab0ada7e7447d8986f\"",
@@ -298,13 +298,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "speedcafe": {
-    "etag": "W/\"f60559f482b8ba278f0960a1ec8105ff-gzip\"",
+    "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-live-2026-hi-tec-oils-super-series-sydney-motorsport-park-round-6-season-finale-watch-details/": "2026-11-14T02:40:19Z",
       "https://speedcafe.com/motorsport-news-2027-hi-tec-oils-super-series-calendar-revealed-phillip-island-sandown-added-details/": "2026-11-14T07:25:28Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-heat-race-results-report-final-points-standings-details/": "2026-11-14T08:48:01Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-heat-race-results-report-final-points-standings-details/": "2026-11-14T10:00:14Z",
@@ -313,7 +312,8 @@
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z",
       "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/": "2026-11-14T18:55:58Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-mark-skaife-holden-commodore-golden-child-bathurst-1000-winner/": "2026-11-15T00:19:08Z",
-      "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-14T21:30:45Z"
+      "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-14T21:30:45Z",
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z"
     },
     "items": [
       {
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 00:39:27 GMT",
+    "last_modified": "Sun, 15 Nov 2026 01:18:20 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -369,6 +369,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T00:42:00Z"
+    "last_ok": "2026-11-15T01:19:03Z"
   }
 }
