@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,13 +142,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "motorsportweek": {
-    "etag": "\"c59ee870dd6bbe31441ea03e3793e9ab\"",
-    "last_modified": "Sun, 15 Nov 2026 11:11:02 GMT",
+    "etag": "\"0a6641e13250ba7bb0e8eadddf90de21\"",
+    "last_modified": "Sun, 15 Nov 2026 13:40:29 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/": "2026-11-14T11:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
@@ -157,9 +156,21 @@
       "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z",
-      "https://www.motorsportweek.com/2026/11/15/f1-aduo-for-teams-plans/": "2026-11-15T11:11:01Z"
+      "https://www.motorsportweek.com/2026/11/15/f1-aduo-for-teams-plans/": "2026-11-15T11:11:01Z",
+      "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z"
     },
     "items": [
+      {
+        "title": "Jenson Button makes honest admission over Fernando Alonso F1 future",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T13:40:27Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "F1 set to discuss ‘ADUO for teams’ cost cap rule overhaul",
         "source": "Motorsport Week",
@@ -214,20 +225,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "F1 drivers issue damning Pirelli verdict after torrential Sao Paulo GP",
-        "source": "Motorsport Week",
-        "time": "2026-11-14T11:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/14/f1-pirelli-verdict-sao-paulo/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "gt-report": {
     "etag": "W/\"4dc82409c2b327a2027a9d1849a91cd5-gzip\"",
@@ -255,7 +255,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "dailysportscar": {
     "etag": "\"6b90ae6a02a618845b9e21c90c7723de\"",
@@ -309,7 +309,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -339,11 +339,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 13:17:14 GMT",
+    "last_modified": "Sun, 15 Nov 2026 14:17:08 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -353,8 +353,8 @@
       "https://www.fia.com/news/al-attiyah-and-delfino-secure-clean-sweep-fia-middle-east-baja-cup-successes-qataris-fourth-win": "2026-11-08T23:48:00Z",
       "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship": "2026-11-08T20:06:00Z",
       "https://www.fia.com/news/hoogendoorn-and-venant-victorious-italy-become-2026-fia-karting-world-champions": "2026-11-08T19:32:00Z",
-      "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-race-press-conference-transcript": "2026-11-08T17:00:00Z",
-      "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z"
+      "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z",
+      "https://www.fia.com/news/top-drivers-mix-fia-gt-world-cup-hat-trick": "2026-11-15T14:01:00Z"
     },
     "items": [
       {
@@ -367,19 +367,8 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "F1 - 2026 São Paulo Grand Prix Post-Race Press Conference Transcript",
-        "source": "FIA",
-        "time": "2026-11-08T17:00:00Z",
-        "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-race-press-conference-transcript",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T13:19:07Z"
+    "last_ok": "2026-11-15T14:19:01Z"
   }
 }
