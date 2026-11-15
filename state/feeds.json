@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"3eaf7e4396dd3b77332be7d86cdfc49f\"",
-    "last_modified": "Sun, 15 Nov 2026 16:53:10 GMT",
+    "etag": "W/\"2fc3131be3edb8205715654e7be4d60c\"",
+    "last_modified": "Sun, 15 Nov 2026 17:37:50 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -131,13 +131,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "motorsportweek": {
-    "etag": "\"939dcff349b813c2b883399c43e9bb3e\"",
-    "last_modified": "Sun, 15 Nov 2026 16:30:00 GMT",
+    "etag": "\"53d4a70de339b8a294a46dd969ea3a65\"",
+    "last_modified": "Sun, 15 Nov 2026 17:30:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/toto-wolff-makes-mercedes-f1-resignation-claim/": "2026-11-14T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z",
@@ -146,7 +145,8 @@
       "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z",
       "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
       "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z",
-      "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z"
+      "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z",
+      "https://www.motorsportweek.com/2026/11/15/christian-horner-max-verstappen-red-bull-sadness-f1/": "2026-11-15T17:30:00Z"
     },
     "items": [
       {
@@ -205,20 +205,20 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "gt-report": {
-    "etag": "W/\"4dc82409c2b327a2027a9d1849a91cd5-gzip\"",
-    "last_modified": "Sun, 15 Nov 2026 09:22:46 GMT",
+    "etag": "W/\"83d06733f041ec1f082c6aca0333d6f9-gzip\"",
+    "last_modified": "Sun, 15 Nov 2026 18:16:57 GMT",
     "first_seen": {
       "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
       "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
       "https://www.gt-report.com/2026/11/11/vittorio-vigliettis-ambitions-grow-after-first-gt3-wins-even-more-now-than-before/": "2026-11-11T17:57:45Z",
       "https://www.gt-report.com/2026/11/10/legends-of-le-mans-monza-peugeot-and-lola-aston-martin-split-wins-in-season-finale/": "2026-11-10T19:00:38Z",
-      "https://www.gt-report.com/2026/11/10/stefano-gai-and-fabrizio-fontana-turned-a-dare-into-titles-he-said-yes-why-not/": "2026-11-10T13:30:11Z",
       "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z",
       "https://www.gt-report.com/2026/11/14/asian-le-mans-series-paul-ricard-race-1-sees-ferrari-one-two-on-hypercar-debut/": "2026-11-14T19:13:47Z",
-      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-photo-gallery/": "2026-11-15T08:20:07Z"
+      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-photo-gallery/": "2026-11-15T08:20:07Z",
+      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-af-corse-ferrari-makes-it-two-from-two-in-race-2/": "2026-11-15T18:16:33Z"
     },
     "items": [
       {
@@ -233,24 +233,24 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "dailysportscar": {
-    "etag": "\"b9e75ad234935a7ae4588e03efc7668f\"",
-    "last_modified": "Sun, 15 Nov 2026 14:48:27 GMT",
+    "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
+    "last_modified": "Sun, 15 Nov 2026 17:58:59 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
       "https://www.dailysportscar.com/2026/11/13/cetilar-499p-leads-shortened-fp2-at-paul-ricard.html": "2026-11-13T14:01:44Z",
       "https://www.dailysportscar.com/2026/11/13/fuoco-on-top-in-fp1-at-le-castellet.html": "2026-11-13T10:47:01Z",
-      "https://www.dailysportscar.com/2026/11/12/tkri-clinches-super-taikyu-st-x-title-after-craft-bamboo-misses-fuji-finale.html": "2026-11-12T20:31:06Z",
       "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
       "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z",
       "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z",
       "https://www.dailysportscar.com/2026/11/14/strategy-gamble-pays-off-for-gms-duqueine-in-asian-le-mans-cup-opener.html": "2026-11-14T10:20:45Z",
       "https://www.dailysportscar.com/2026/11/14/af-corse-wins-chaotic-asian-le-mans-opener-at-wet-le-castellet.html": "2026-11-14T16:32:47Z",
       "https://www.dailysportscar.com/2026/11/15/gms-team-sweeps-paul-ricard-season-opener.html": "2026-11-15T10:38:44Z",
-      "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html": "2026-11-15T14:42:20Z"
+      "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html": "2026-11-15T14:42:20Z",
+      "https://www.dailysportscar.com/2026/11/15/af-corse-doubles-up-in-asian-le-mans-4h-le-castellet.html": "2026-11-15T16:19:52Z"
     },
     "items": [
       {
@@ -274,22 +274,9 @@
         ],
         "circuit": "le-mans",
         "photo": null
-      },
-      {
-        "title": "TKRI Clinches Super Taikyu ST-X Title After Craft-Bamboo Misses Fuji Finale",
-        "source": "Dailysportscar",
-        "time": "2026-11-12T20:31:06Z",
-        "url": "https://www.dailysportscar.com/2026/11/12/tkri-clinches-super-taikyu-st-x-title-after-craft-bamboo-misses-fuji-finale.html",
-        "series": [
-          "super-taikyu"
-        ],
-        "circuit": "fuji",
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T16:18:45Z",
-    "last_error": "HTTPError: HTTP Error 401: Unauthorized",
-    "stale_since": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -319,11 +306,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 17:16:39 GMT",
+    "last_modified": "Sun, 15 Nov 2026 18:19:16 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -349,6 +336,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T17:19:05Z"
+    "last_ok": "2026-11-15T18:19:37Z"
   }
 }
