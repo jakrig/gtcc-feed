@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-15T14:19:01Z",
+  "updated": "2026-11-15T15:19:28Z",
   "items": [
+    {
+      "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
+      "source": "Dailysportscar",
+      "time": "2026-11-15T14:42:20Z",
+      "url": "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html",
+      "series": [
+        "super-taikyu"
+      ],
+      "circuit": "fuji",
+      "photo": null
+    },
     {
       "title": "Jenson Button makes honest admission over Fernando Alonso F1 future",
       "source": "Motorsport Week",
@@ -62,17 +73,6 @@
       "source": "Motorsport Week",
       "time": "2026-11-14T13:00:00Z",
       "url": "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "F1 Academy champion secures racing future with Red Bull backing",
-      "source": "Motorsport Week",
-      "time": "2026-11-14T12:00:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/",
       "series": [
         "f1"
       ],
@@ -154,17 +154,6 @@
         "wec"
       ],
       "circuit": "monza",
-      "photo": null
-    },
-    {
-      "title": "Tower Motorsports Adds Van der Zande, Peebles For 2027 IMSA LMP2 Programme",
-      "source": "Dailysportscar",
-      "time": "2026-11-12T16:31:09Z",
-      "url": "https://www.dailysportscar.com/2026/11/12/tower-motorsports-adds-van-der-zande-peebles-for-2027-imsa-lmp2-programme.html",
-      "series": [
-        "imsa"
-      ],
-      "circuit": null,
       "photo": null
     },
     {

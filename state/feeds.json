@@ -38,7 +38,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "racer": {
     "etag": null,
@@ -79,7 +79,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -142,13 +142,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "motorsportweek": {
-    "etag": "\"0a6641e13250ba7bb0e8eadddf90de21\"",
-    "last_modified": "Sun, 15 Nov 2026 13:40:29 GMT",
+    "etag": "\"7f2cf469aa0e4fc90ebdbc8888f76461\"",
+    "last_modified": "Sun, 15 Nov 2026 15:05:11 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/": "2026-11-14T12:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/carlos-sainz-ferrari-2026-f1-season/": "2026-11-14T13:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/valtteri-bottas-on-f1-future/": "2026-11-14T16:06:14Z",
       "https://www.motorsportweek.com/2026/11/14/fia-confirm-f1-ban-for-daily-mail-journalist-over-ferrari-spat/": "2026-11-14T15:35:45Z",
@@ -157,7 +156,8 @@
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z",
       "https://www.motorsportweek.com/2026/11/15/f1-aduo-for-teams-plans/": "2026-11-15T11:11:01Z",
-      "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z"
+      "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z",
+      "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z"
     },
     "items": [
       {
@@ -214,20 +214,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "F1 Academy champion secures racing future with Red Bull backing",
-        "source": "Motorsport Week",
-        "time": "2026-11-14T12:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/14/f1-academy-champion-red-bull/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "gt-report": {
     "etag": "W/\"4dc82409c2b327a2027a9d1849a91cd5-gzip\"",
@@ -255,26 +244,37 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "dailysportscar": {
-    "etag": "\"6b90ae6a02a618845b9e21c90c7723de\"",
-    "last_modified": "Sun, 15 Nov 2026 11:02:36 GMT",
+    "etag": "\"b9e75ad234935a7ae4588e03efc7668f\"",
+    "last_modified": "Sun, 15 Nov 2026 14:48:27 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
       "https://www.dailysportscar.com/2026/11/13/cetilar-499p-leads-shortened-fp2-at-paul-ricard.html": "2026-11-13T14:01:44Z",
       "https://www.dailysportscar.com/2026/11/13/fuoco-on-top-in-fp1-at-le-castellet.html": "2026-11-13T10:47:01Z",
       "https://www.dailysportscar.com/2026/11/12/tkri-clinches-super-taikyu-st-x-title-after-craft-bamboo-misses-fuji-finale.html": "2026-11-12T20:31:06Z",
-      "https://www.dailysportscar.com/2026/11/12/tower-motorsports-adds-van-der-zande-peebles-for-2027-imsa-lmp2-programme.html": "2026-11-12T16:31:09Z",
       "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
       "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z",
       "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z",
       "https://www.dailysportscar.com/2026/11/14/strategy-gamble-pays-off-for-gms-duqueine-in-asian-le-mans-cup-opener.html": "2026-11-14T10:20:45Z",
       "https://www.dailysportscar.com/2026/11/14/af-corse-wins-chaotic-asian-le-mans-opener-at-wet-le-castellet.html": "2026-11-14T16:32:47Z",
-      "https://www.dailysportscar.com/2026/11/15/gms-team-sweeps-paul-ricard-season-opener.html": "2026-11-15T10:38:44Z"
+      "https://www.dailysportscar.com/2026/11/15/gms-team-sweeps-paul-ricard-season-opener.html": "2026-11-15T10:38:44Z",
+      "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html": "2026-11-15T14:42:20Z"
     },
     "items": [
+      {
+        "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
+        "source": "Dailysportscar",
+        "time": "2026-11-15T14:42:20Z",
+        "url": "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html",
+        "series": [
+          "super-taikyu"
+        ],
+        "circuit": "fuji",
+        "photo": null
+      },
       {
         "title": "Le Mans 24 Hours 2027: Top Accommodation Options For Groups Of All Sizes, From 3-15 Nights, From Project 100",
         "source": "Dailysportscar",
@@ -296,20 +296,9 @@
         ],
         "circuit": "fuji",
         "photo": null
-      },
-      {
-        "title": "Tower Motorsports Adds Van der Zande, Peebles For 2027 IMSA LMP2 Programme",
-        "source": "Dailysportscar",
-        "time": "2026-11-12T16:31:09Z",
-        "url": "https://www.dailysportscar.com/2026/11/12/tower-motorsports-adds-van-der-zande-peebles-for-2027-imsa-lmp2-programme.html",
-        "series": [
-          "imsa"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "speedcafe": {
     "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
@@ -339,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 14:17:08 GMT",
+    "last_modified": "Sun, 15 Nov 2026 15:19:34 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -369,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T14:19:01Z"
+    "last_ok": "2026-11-15T15:19:28Z"
   }
 }
