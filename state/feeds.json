@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "touringcartimes": {
     "etag": "\"d55d0efe69439fc74eb2616f8dbff78d\"",
@@ -131,24 +131,35 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "motorsportweek": {
-    "etag": "\"53d4a70de339b8a294a46dd969ea3a65\"",
-    "last_modified": "Sun, 15 Nov 2026 17:30:00 GMT",
+    "etag": "\"068e26b1c86b585fce65285669a49587\"",
+    "last_modified": "Sun, 15 Nov 2026 19:00:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/14/adrian-newey-aston-martin-struggles-f1/": "2026-11-14T18:02:35Z",
       "https://www.motorsportweek.com/2026/11/14/liam-lawson-musical-plans/": "2026-11-14T19:00:00Z",
-      "https://www.motorsportweek.com/2026/11/14/lewis-hamilton-ferrari-focus-f1-2026/": "2026-11-14T18:30:06Z",
       "https://www.motorsportweek.com/2026/11/15/f1-aduo-for-teams-plans/": "2026-11-15T11:11:01Z",
       "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/": "2026-11-15T13:40:27Z",
       "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z",
       "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
       "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z",
-      "https://www.motorsportweek.com/2026/11/15/christian-horner-max-verstappen-red-bull-sadness-f1/": "2026-11-15T17:30:00Z"
+      "https://www.motorsportweek.com/2026/11/15/christian-horner-max-verstappen-red-bull-sadness-f1/": "2026-11-15T17:30:00Z",
+      "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/": "2026-11-15T19:00:00Z",
+      "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/": "2026-11-15T18:57:24Z"
     },
     "items": [
+      {
+        "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T18:57:24Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "McLaren to set ‘foundations’ for F1 2027 with Las Vegas upgrades",
         "source": "Motorsport Week",
@@ -205,11 +216,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "gt-report": {
-    "etag": "W/\"83d06733f041ec1f082c6aca0333d6f9-gzip\"",
-    "last_modified": "Sun, 15 Nov 2026 18:16:57 GMT",
+    "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
+    "last_modified": "Sun, 15 Nov 2026 18:54:01 GMT",
     "first_seen": {
       "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
       "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
@@ -233,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -276,13 +287,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "speedcafe": {
-    "etag": "W/\"1371a940ae3f574285b9fe92fdc4d7e5-gzip\"",
+    "etag": "W/\"2a2214f896449104745c2d818b7bc367-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-2027-hi-tec-oils-super-series-calendar-revealed-phillip-island-sandown-added-details/": "2026-11-14T07:25:28Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-heat-race-results-report-final-points-standings-details/": "2026-11-14T08:48:01Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-heat-race-results-report-final-points-standings-details/": "2026-11-14T10:00:14Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-dash-for-cash-final-sam-simpson-win-results-report/": "2026-11-14T11:41:25Z",
@@ -291,7 +301,8 @@
       "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/": "2026-11-14T18:55:58Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-mark-skaife-holden-commodore-golden-child-bathurst-1000-winner/": "2026-11-15T00:19:08Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-14T21:30:45Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z"
+      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z",
+      "https://speedcafe.com/supercars-news-team-orders-rules-regulations-review-corruption-sporting-integrity-australia/": "2026-11-15T18:55:59Z"
     },
     "items": [
       {
@@ -306,11 +317,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 18:19:16 GMT",
+    "last_modified": "Sun, 15 Nov 2026 19:19:27 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -336,6 +347,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T18:19:37Z"
+    "last_ok": "2026-11-15T19:19:23Z"
   }
 }
