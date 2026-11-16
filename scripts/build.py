@@ -36,10 +36,10 @@ STALE_REPORT = ROOT / "state" / "stale.md"
 SCHEMA_VERSION = 1
 USER_AGENT = "gtcc-feed/1.0"
 FETCH_TIMEOUT_S = 20
-MAX_ITEMS = 40            # items in news.json
-MAX_ITEMS_PER_FEED = 10   # so one outlet can't fill the list
+MAX_ITEMS = 1000          # safety ceiling only; the 14-day window is the real limit (no per-series cap)
+MAX_ITEMS_PER_FEED = 50   # matching items taken from one fetch of one feed
 MAX_AGE_DAYS = 14         # older headlines are dropped
-MAX_TITLE_CHARS = 200
+MAX_TITLE_CHARS = 200     # also caps category tag length
 STALE_AFTER_DAYS = 7      # an enabled feed failing this long is reported
 PERMISSIONS = {"unknown", "required", "granted", "denied"}
 EVENT_STATUSES = {"confirmed", "provisional", "cancelled", "tbc"}  # tbc: round, circuit and dates may be null
@@ -226,7 +226,7 @@ def validate(cfg: Config) -> list[str]:
 # --------------------------------------------------------------------------- feeds
 
 def parse_feed(body: bytes) -> list[dict[str, Any]]:
-    """RSS 2.0 or Atom -> [{title, url, time}] in feed order."""
+    """RSS 2.0 or Atom -> [{title, url, time, categories}] in feed order."""
     root = ET.fromstring(body.lstrip())  # some feeds send whitespace before <?xml
     entries: list[dict[str, Any]] = []
     if root.tag == f"{ATOM}feed":
@@ -237,12 +237,17 @@ def parse_feed(body: bytes) -> list[dict[str, Any]]:
                     link = l.get("href")
                     break
             when = e.findtext(f"{ATOM}published") or e.findtext(f"{ATOM}updated")
-            entries.append({"title": e.findtext(f"{ATOM}title"), "url": link, "time": when})
+            cats = [c.get("label") or c.get("term") or "" for c in e.findall(f"{ATOM}category")]
+            entries.append({"title": e.findtext(f"{ATOM}title"), "url": link, "time": when, "categories": cats})
     else:
         for ns in ("", RSS1):  # RSS 2.0 items are un-namespaced, RSS 1.0 (RDF) items are not
             for e in root.iter(f"{ns}item"):
                 when = e.findtext("pubDate") or e.findtext(f"{DC}date")
-                entries.append({"title": e.findtext(f"{ns}title"), "url": e.findtext(f"{ns}link"), "time": when})
+                cats = [c.text or "" for c in e.findall("category")] + [c.text or "" for c in e.findall(f"{DC}subject")]
+                entries.append({"title": e.findtext(f"{ns}title"), "url": e.findtext(f"{ns}link"), "time": when,
+                                "categories": cats})
+    for e in entries:
+        e["categories"] = [c for c in (clean_title(c) for c in e["categories"]) if c]
     return entries
 
 
@@ -304,7 +309,9 @@ def items_for_feed(feed: dict[str, Any], entries: list[dict[str, Any]], st: dict
         when = min(when, now)  # a future-dated item would sit at the top forever
         if when < now - timedelta(days=MAX_AGE_DAYS):
             continue
-        series = list(feed.get("series") or matcher.series_in(title))
+        # the headline plus the article's own category tags ("British GT", "IMSA", ...)
+        tags = " | ".join([title, *e.get("categories", [])])
+        series = list(feed.get("series") or matcher.series_in(tags))
         if not series:
             continue  # multi-series feed, nothing we cover
         circuit = matcher.circuit_in(title)
@@ -325,6 +332,18 @@ def items_for_feed(feed: dict[str, Any], entries: list[dict[str, Any]], st: dict
     return items
 
 
+def merge_items(fresh: list[dict[str, Any]], kept: list[dict[str, Any]], now: datetime) -> list[dict[str, Any]]:
+    """Fresh items plus earlier ones that have dropped out of the feed, for MAX_AGE_DAYS.
+
+    A feed only lists its newest few articles, so without this a busy outlet would push
+    a niche series' story out of the news within hours.
+    """
+    cutoff = iso(now - timedelta(days=MAX_AGE_DAYS))
+    urls = {it["url"] for it in fresh}
+    older = [it for it in kept if it["url"] not in urls and it["time"] >= cutoff]
+    return sorted(fresh + older, key=lambda it: (it["time"], it["url"]), reverse=True)
+
+
 def update_feeds(cfg: Config, state: dict[str, Any], now: datetime, offline: bool) -> list[str]:
     """Refresh each enabled feed's cached items in state. Returns stale-feed lines."""
     matcher = Matcher(cfg)
@@ -341,7 +360,8 @@ def update_feeds(cfg: Config, state: dict[str, Any], now: datetime, offline: boo
             try:
                 body = fetch(feed, st)
                 if body is not None:
-                    st["items"] = items_for_feed(feed, parse_feed(body), st, cfg, matcher, now)
+                    fresh = items_for_feed(feed, parse_feed(body), st, cfg, matcher, now)
+                    st["items"] = merge_items(fresh, st.get("items", []), now)
                 st["last_ok"] = iso(now)
                 st.pop("last_error", None)
                 st.pop("stale_since", None)

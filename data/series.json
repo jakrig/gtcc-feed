@@ -10,6 +10,24 @@
       ]
     },
     {
+      "id": "f2",
+      "name": "Formula 2",
+      "keywords": [
+        "F2",
+        "Formula 2",
+        "FIA Formula 2"
+      ]
+    },
+    {
+      "id": "f3",
+      "name": "Formula 3",
+      "keywords": [
+        "F3",
+        "Formula 3",
+        "FIA Formula 3"
+      ]
+    },
+    {
       "id": "wec",
       "name": "FIA WEC",
       "keywords": [
@@ -100,7 +118,10 @@
         "24h Nürburgring",
         "24 Hours of Nürburgring",
         "N24",
-        "Nürburgring Langstrecken"
+        "Nürburgring Langstrecken",
+        "Nürburgring Endurance Series",
+        "Nurburgring Endurance Series",
+        "VLN"
       ]
     },
     {

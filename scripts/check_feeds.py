@@ -19,6 +19,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -32,50 +33,85 @@ ORIGIN = "https://jakrig.github.io"
 TIMEOUT_S = 25
 
 FEEDS: list[tuple[str, str]] = [
-    # (site, url)
-    ("The Race", "https://www.the-race.com/feed/"),
-    ("The Race", "https://www.the-race.com/category/formula-1/feed/"),
-    ("The Race", "https://www.the-race.com/formula-1/feed/"),
-    ("The Race", "https://www.the-race.com/category/wec/feed/"),
-    ("The Race", "https://www.the-race.com/category/imsa/feed/"),
+    # (site, url). Enabled feeds are listed again so the report shows their category tags.
     ("Sportscar365", "https://sportscar365.com/feed/"),
     ("RACER", "https://racer.com/feed/"),
     ("TouringCarTimes", "https://www.touringcartimes.com/feed/"),
     ("Motorsport Week", "https://www.motorsportweek.com/feed/"),
     ("GT Report", "https://www.gt-report.com/feed/"),
     ("Dailysportscar", "https://www.dailysportscar.com/feed"),
-    ("Dailysportscar", "https://www.dailysportscar.com/rss"),
     ("Speedcafe", "https://speedcafe.com/feed/"),
-    ("Dive Bomb", "https://www.dive-bomb.com/feed"),
-    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/feed/"),
-    ("BTCC (official)", "https://www.btcc.net/feed/"),
-    ("IMSA (official)", "https://www.imsa.com/feed/"),
-    ("FIA WEC (official)", "https://www.fiawec.com/en/rss"),
-    ("FIA (official)", "https://www.fia.com/rss/news"),
-    ("Formula 1 (official)", "https://www.formula1.com/en/latest/all.xml"),
-    ("Autosport", "https://www.autosport.com/rss/feed/f1"),
-    ("Autosport", "https://www.autosport.com/rss/btcc/news/"),
-    ("Autosport", "https://www.autosport.com/rss/wec/news/"),
-    ("Autosport", "https://www.autosport.com/rss/imsa/news/"),
-    ("Motorsport.com", "https://www.motorsport.com/rss/f1/news/"),
-    ("Motorsport.com", "https://www.motorsport.com/rss/wec/news/"),
+    ("FIA", "https://www.fia.com/rss/news"),
+    # NLS / Nürburgring 24h
+    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/language/en/feed/"),
+    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/language/de/feed/"),
+    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/en/feed/"),
+    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/en/feed/"),
+    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/feed/"),
+    ("Speedweek", "https://www.speedweek.com/en/rss"),
+    ("Speedweek", "https://www.speedweek.com/rss"),
+    ("GT Report", "https://www.gt-report.com/category/nls/feed/"),
+    ("GT Report", "https://www.gt-report.com/category/24h-nurburgring/feed/"),
+    # SRO: British GT, GT World Challenge, IGTC
+    ("British GT (official)", "https://www.britishgt.com/rss"),
+    ("British GT (official)", "https://www.britishgt.com/news/rss"),
+    ("British GT (official)", "https://www.britishgt.com/feed"),
+    ("GTWC Europe (official)", "https://www.gt-world-challenge-europe.com/rss"),
+    ("GTWC Europe (official)", "https://www.gt-world-challenge-europe.com/news/rss"),
+    ("GTWC America (official)", "https://www.gt-world-challenge-america.com/rss"),
+    ("SRO (official)", "https://www.sro-motorsports.com/rss"),
+    ("IGTC (official)", "https://www.intercontinentalgtchallenge.com/rss"),
+    ("Pit Debrief", "https://pitdebrief.com/feed/"),
+    ("Sportscar365", "https://sportscar365.com/sro/feed/"),
+    ("Sportscar365", "https://sportscar365.com/sro/world-challenge-america/feed/"),
+    ("Sportscar365", "https://sportscar365.com/sro/world-challenge-europe/feed/"),
+    ("Sportscar365", "https://sportscar365.com/sro/british-gt/feed/"),
+    ("Sportscar365", "https://sportscar365.com/imsa/feed/"),
+    ("Sportscar365", "https://sportscar365.com/other-series/feed/"),
+    ("Sportscar365", "https://sportscar365.com/other-series/creventic/feed/"),
+    ("GT Report", "https://www.gt-report.com/category/british-gt/feed/"),
+    ("GT Report", "https://www.gt-report.com/category/gt-world-challenge/feed/"),
+    # 24H Series
+    ("24H Series (official)", "https://www.24hseries.com/feed"),
+    ("24H Series (official)", "https://www.24hseries.com/rss"),
+    ("24H Series (official)", "https://www.24hseries.com/news/rss"),
+    # BTCC and endurance
+    ("TouringCars.net", "https://www.touringcars.net/feed/"),
+    ("Endurance-Info", "https://www.endurance-info.com/en/feed"),
+    ("Endurance-Info", "https://www.endurance-info.com/feed"),
+    # F2 / F3
+    ("FIA Formula 2 (official)", "https://www.fiaformula2.com/rss"),
+    ("FIA Formula 3 (official)", "https://www.fiaformula3.com/rss"),
+    ("Feeder Series", "https://www.feederseries.net/feed/"),
+    ("Formula Scout", "https://www.formulascout.com/feed"),
+    ("Formula Scout", "https://www.formulascout.com/feed/"),
+    ("Motorsport Week", "https://www.motorsportweek.com/category/formula-2/feed/"),
 ]
 
-TERMS: list[tuple[str, str]] = [
-    ("The Race", "https://www.the-race.com/terms-and-conditions/"),
-    ("The Race", "https://www.the-race.com/terms-of-use/"),
-    ("Sportscar365", "https://sportscar365.com/terms-of-use/"),
-    ("Sportscar365", "https://sportscar365.com/terms/"),
-    ("RACER", "https://racer.com/terms-of-use/"),
-    ("TouringCarTimes", "https://www.touringcartimes.com/terms-and-conditions/"),
-    ("Motorsport Week", "https://www.motorsportweek.com/terms-and-conditions/"),
-    ("GT Report", "https://www.gt-report.com/terms-and-conditions/"),
-    ("Dailysportscar", "https://www.dailysportscar.com/terms-and-conditions"),
-    ("Speedcafe", "https://speedcafe.com/terms-and-conditions/"),
-    ("Autosport", "https://www.autosport.com/info/terms-of-use/"),
-    ("Motorsport.com", "https://www.motorsport.com/info/terms-of-use/"),
-    ("Formula 1", "https://www.formula1.com/en/information/legal-notices.7egvZU48hzrypubGBNcQKt"),
+# Terms pages are found by following "terms / legal / conditions / impressum" links on each homepage.
+HOMES: list[tuple[str, str]] = [
+    ("Sportscar365", "https://sportscar365.com/"),
+    ("RACER", "https://racer.com/"),
+    ("TouringCarTimes", "https://www.touringcartimes.com/"),
+    ("Motorsport Week", "https://www.motorsportweek.com/"),
+    ("GT Report", "https://www.gt-report.com/"),
+    ("Dailysportscar", "https://www.dailysportscar.com/"),
+    ("Speedcafe", "https://speedcafe.com/"),
+    ("FIA", "https://www.fia.com/"),
+    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/"),
+    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/en/"),
+    ("Speedweek", "https://www.speedweek.com/en/"),
+    ("British GT (official)", "https://www.britishgt.com/"),
+    ("SRO (official)", "https://www.sro-motorsports.com/"),
+    ("Pit Debrief", "https://pitdebrief.com/"),
+    ("24H Series (official)", "https://www.24hseries.com/"),
+    ("TouringCars.net", "https://www.touringcars.net/"),
+    ("Endurance-Info", "https://www.endurance-info.com/"),
+    ("Feeder Series", "https://www.feederseries.net/"),
+    ("Formula Scout", "https://www.formulascout.com/"),
+    ("FIA Formula 2 (official)", "https://www.fiaformula2.com/"),
 ]
+TERMS_LINK = re.compile(r"terms|legal|conditions|condizioni|impressum|nutzungsbedingungen|agb|disclaimer|copyright|mentions", re.I)
 
 TERMS_WORDS = re.compile(r"\b(rss|feeds?|syndicat\w*|commercial\w*|headlines?|hyperlink\w*|link(?:s|ing)?|scrap\w*|crawl\w*|aggregat\w*|framing|reproduc\w*)\b", re.I)
 MEDIA = ("{http://search.yahoo.com/mrss/}content", "{http://search.yahoo.com/mrss/}thumbnail", "enclosure")
@@ -122,8 +158,13 @@ def check_feed(site: str, url: str) -> dict[str, Any]:
         out["looks_like"] = "html" if b"<html" in body[:2000].lower() else "other"
         return out
     times = [t for t in (build.parse_time(e["time"]) for e in entries) if t]
+    cats: dict[str, int] = {}
+    for e in entries:
+        for c in e.get("categories", []):
+            cats[c] = cats.get(c, 0) + 1
     out |= {"items": len(entries), "newest": build.iso(max(times)) if times else None,
-            "samples": [build.clean_title(e["title"]) for e in entries[:2]], "images": has_images(body)}
+            "samples": [build.clean_title(e["title"]) for e in entries[:2]], "images": has_images(body),
+            "categories": sorted(cats, key=lambda c: -cats[c])[:15]}
     return out
 
 
@@ -149,9 +190,29 @@ def check_terms(site: str, url: str) -> dict[str, Any]:
     return out
 
 
+def find_terms(site: str, home: str) -> list[dict[str, Any]]:
+    """Follow up to three terms/legal links from the homepage."""
+    try:
+        status, _, body, final = get(home)
+    except Exception as err:
+        return [{"site": site, "url": home, "error": f"{type(err).__name__}: {err}"[:200]}]
+    if status != 200:
+        return [{"site": site, "url": home, "status": status}]
+    links = []
+    for href, text in re.findall(r'(?is)<a\b[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', body.decode("utf-8", "replace")):
+        label = re.sub(r"<[^>]+>", " ", text)
+        if TERMS_LINK.search(href) or TERMS_LINK.search(label):
+            url = urllib.parse.urljoin(final, href)
+            if url.startswith("http") and url not in links:
+                links.append(url)
+    if not links:
+        return [{"site": site, "url": home, "status": status, "sentences": ["(no terms/legal link found on the homepage)"]}]
+    return [check_terms(site, u) for u in links[:3]]
+
+
 def main() -> int:
     feeds = [check_feed(s, u) for s, u in FEEDS]
-    terms = [check_terms(s, u) for s, u in TERMS]
+    terms = [t for s, h in HOMES for t in find_terms(s, h)]
     Path("site-check").mkdir(exist_ok=True)
     Path("site-check/feeds.json").write_text(json.dumps({"feeds": feeds, "terms": terms}, ensure_ascii=False, indent=2))
 
@@ -164,6 +225,8 @@ def main() -> int:
     for f in feeds:
         if f.get("samples"):
             lines.append(f"- **{f['site']}** ({f['url']}): " + " / ".join(f["samples"]))
+            if f.get("categories"):
+                lines.append(f"  - categories: " + ", ".join(f["categories"]))
     lines += ["", "## Terms pages", ""]
     for t in terms:
         lines.append(f"### {t['site']}: {t['url']} (HTTP {t.get('status', t.get('error'))})")

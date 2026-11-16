@@ -43,6 +43,10 @@ class FeedParsing(unittest.TestCase):
         self.assertEqual(by_url["https://example.com/btcc-test"]["series"], ["btcc"])
         self.assertEqual(by_url["https://example.com/btcc-test"]["circuit"], "snetterton")
 
+    def test_series_from_category_tags(self) -> None:
+        by_url = {it["url"]: it for it in self.items("wordpress.rss", multi_series_feed())}
+        self.assertEqual(by_url["https://example.com/barwell"]["series"], ["british-gt"])  # headline names no series
+
     def test_drops_unmatched_old_and_unsafe(self) -> None:
         urls = {it["url"] for it in self.items("wordpress.rss", multi_series_feed())}
         self.assertNotIn("https://example.com/nascar", urls)  # no series we cover
@@ -63,6 +67,11 @@ class FeedParsing(unittest.TestCase):
 
 
 class Helpers(unittest.TestCase):
+    def test_junior_formulas_tagged_separately(self) -> None:
+        matcher = build.Matcher(build.load_config())
+        self.assertEqual(matcher.series_in("Sprint win in F2 at Monza"), ["f2"])
+        self.assertEqual(matcher.series_in("FIA Formula 3 champion steps up"), ["f3"])
+
     def test_acronyms_are_case_sensitive(self) -> None:
         pat = build.keyword_pattern(["WEC", "Le Mans"])
         self.assertTrue(pat.search("WEC title fight"))
@@ -130,6 +139,22 @@ class Output(unittest.TestCase):
         news = build.build_news(cfg, state, NOW)
         self.assertEqual([it["url"] for it in news["items"]], ["https://b/2", "https://a/1"])
         self.assertEqual(news["schema_version"], build.SCHEMA_VERSION)
+
+    def test_items_that_left_the_feed_are_kept_for_max_age(self) -> None:
+        base = {"source": "A", "series": ["nls"], "circuit": None, "photo": None}
+        fresh = [base | {"title": "New", "url": "https://a/new", "time": "2026-11-13T11:00:00Z"}]
+        kept = [base | {"title": "Gone from feed", "url": "https://a/old", "time": "2026-11-05T10:00:00Z"},
+                base | {"title": "Too old", "url": "https://a/ancient", "time": "2026-10-20T10:00:00Z"},
+                base | {"title": "New (stale copy)", "url": "https://a/new", "time": "2026-11-13T11:00:00Z"}]
+        merged = build.merge_items(fresh, kept, NOW)
+        self.assertEqual([it["title"] for it in merged], ["New", "Gone from feed"])
+
+    def test_no_per_series_cap(self) -> None:
+        cfg = build.load_config()
+        base = {"source": "A", "series": ["f1"], "circuit": None, "photo": None}
+        state = {"a": {"items": [base | {"title": f"Story {i}", "url": f"https://a/{i}",
+                                         "time": f"2026-11-13T{i % 10:02d}:{i // 10:02d}:00Z"} for i in range(60)]}}
+        self.assertEqual(len(build.build_news(cfg, state, NOW)["items"]), 60)
 
     def test_cached_items_of_removed_series_are_dropped(self) -> None:
         cfg = build.load_config()
