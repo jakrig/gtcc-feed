@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -287,13 +287,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "speedcafe": {
-    "etag": "W/\"e3caec01b3ecb3666b32b4eb3525b0c7-gzip\"",
+    "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/supercars-news-team-orders-rules-regulations-review-corruption-sporting-integrity-australia/": "2026-11-15T18:55:59Z",
       "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-taupo-results-tyler-cheney-jarrod-hughes-declan-fraser-video-highlights/": "2026-11-15T22:43:30Z",
       "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
       "https://speedcafe.com/motorsport-news-2026-coral-taylor-retirement-australian-rally-championship-bates-family-comments-reaction-statement/": "2026-11-16T00:14:34Z",
@@ -302,7 +301,8 @@
       "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/": "2026-11-16T02:17:44Z",
       "https://speedcafe.com/asbk-news-2026-the-bend-round-two-wrap-race-report-cam-dunker-wins-podium/": "2026-11-16T03:06:23Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-most-popular-driver-award-poll-mostert-feeney-kostecki-payne-vote/": "2026-11-16T04:50:20Z",
-      "https://speedcafe.com/motorsport-news-2026-shift-nation-debut-sandown-event-details-comments-spectator-ticket-cost/": "2026-11-16T04:31:38Z"
+      "https://speedcafe.com/motorsport-news-2026-shift-nation-debut-sandown-event-details-comments-spectator-ticket-cost/": "2026-11-16T04:31:38Z",
+      "https://speedcafe.com/motorsport-news-2026-rovantra-launch-details-harri-jones-business-venture-explained-cost-details-supercars-co-driver/": "2026-11-16T08:00:03Z"
     },
     "items": [
       {
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 07:30:50 GMT",
+    "last_modified": "Mon, 16 Nov 2026 08:37:56 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -358,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T07:30:45Z"
+    "last_ok": "2026-11-16T08:38:22Z"
   }
 }
