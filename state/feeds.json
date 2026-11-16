@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"7e986d606587345c53767e22f116aed1\"",
-    "last_modified": "Mon, 16 Nov 2026 20:12:03 GMT",
+    "etag": "W/\"06529592c46eb10fc7686a8eff343905\"",
+    "last_modified": "Mon, 16 Nov 2026 20:18:43 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
@@ -15,13 +15,12 @@
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "racer": {
     "etag": null,
     "last_modified": null,
     "first_seen": {
-      "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z",
       "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z",
       "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z",
       "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup": "2026-11-16T12:00:32Z",
@@ -30,7 +29,8 @@
       "https://racer.com/2026/11/16/meguiar-s-shows-new-products-at-sema-to-make-road-and-race-cars-look-better": "2026-11-16T15:51:56Z",
       "https://racer.com/2026/11/16/malukas-family-sells-hmd-motorsports-to-pv3-enterprises": "2026-11-16T14:39:14Z",
       "https://racer.com/2026/11/16/mortara-leads-first-formula-e-pre-season-testing-day-at-circuito-del-jarama": "2026-11-16T18:55:10Z",
-      "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program": "2026-11-16T20:00:00Z"
+      "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program": "2026-11-16T20:00:00Z",
+      "https://racer.com/2026/11/16/hendrick-motorsports-makes-crew-chief-changes-for-bowman-byron-and-day": "2026-11-16T20:16:06Z"
     },
     "items": [
       {
@@ -56,7 +56,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -119,7 +119,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "motorsportweek": {
     "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
@@ -215,7 +215,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -243,7 +243,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "dailysportscar": {
     "etag": "\"2dfafdddf83c440728e3b206f180723d\"",
@@ -286,7 +286,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "speedcafe": {
     "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
@@ -316,11 +316,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 20:16:30 GMT",
+    "last_modified": "Mon, 16 Nov 2026 21:16:27 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -334,6 +334,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T20:19:13Z"
+    "last_ok": "2026-11-16T21:19:09Z"
   }
 }
