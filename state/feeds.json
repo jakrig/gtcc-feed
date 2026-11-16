@@ -1,39 +1,26 @@
 {
   "sportscar365": {
-    "etag": "W/\"d547bffce9863539293707d29cd41793\"",
-    "last_modified": "Mon, 16 Nov 2026 11:20:01 GMT",
+    "etag": "W/\"d58fe743974c8ba068ca9e5b91c7f3e4\"",
+    "last_modified": "Mon, 16 Nov 2026 12:06:56 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
-      "https://sportscar365.com/lemans/asian-lms/fuoco-cetilar-set-the-pace-in-red-flagged-paul-ricard-practice/": "2026-11-13T14:14:27Z",
-      "https://sportscar365.substack.com/p/insight-the-timing-behind-hanley": "2026-11-13T13:22:24Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
       "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/": "2026-11-16T05:01:28Z",
       "https://sportscar365.com/other-series/super-gt/fraga-more-prepared-after-challenging-rookie-gt500-season/": "2026-11-16T05:26:00Z",
       "https://sportscar365.com/imsa/porsche-carrera-cup-na/porsche-junior-shootout-wraps-up-at-portimao/": "2026-11-16T07:00:38Z",
-      "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/": "2026-11-16T10:00:56Z"
+      "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/": "2026-11-16T10:00:56Z",
+      "https://sportscar365.com/imsa/impc/sellers-explains-hmis-bmw-decision-pilot-challenge-plans/": "2026-11-16T12:02:56Z",
+      "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z"
     },
-    "items": [
-      {
-        "title": "INSIGHT: The Timing Behind Hanley’s Ambitious IMSA Effort",
-        "source": "Sportscar365",
-        "time": "2026-11-13T13:22:24Z",
-        "url": "https://sportscar365.substack.com/p/insight-the-timing-behind-hanley",
-        "series": [
-          "imsa"
-        ],
-        "circuit": null,
-        "photo": null
-      }
-    ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "items": [],
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "racer": {
     "etag": null,
     "last_modified": null,
     "first_seen": {
-      "https://racer.com/2026/11/13/indycar-confirms-15-round-2027-indy-nxt-schedule": "2026-11-13T16:01:05Z",
       "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team": "2026-11-13T17:16:48Z",
       "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
       "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
@@ -42,9 +29,21 @@
       "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z",
       "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z",
       "https://racer.com/2026/11/15/proton-fights-through-to-lmp2-win-as-af-corse-sweeps-alms-hypercar-opener": "2026-11-15T19:46:56Z",
-      "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z"
+      "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z",
+      "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup": "2026-11-16T12:00:32Z"
     },
     "items": [
+      {
+        "title": "United Autosports completes first half of its IMSA lineup",
+        "source": "RACER",
+        "time": "2026-11-16T12:00:32Z",
+        "url": "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Quick shift: Breaking down the latest F1 silly season developments",
         "source": "RACER",
@@ -68,7 +67,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +130,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "motorsportweek": {
     "etag": "\"24dc836067db809f7bbf68fee6a68824\"",
@@ -227,7 +226,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -255,16 +254,14 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "dailysportscar": {
-    "etag": "\"477ad26e605c67ebcd5cf9198dd86cbc\"",
-    "last_modified": "Mon, 16 Nov 2026 09:35:49 GMT",
+    "etag": "\"86050343a0b26037feb31464da971b8c\"",
+    "last_modified": "Mon, 16 Nov 2026 12:34:13 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
-      "https://www.dailysportscar.com/2026/11/13/cetilar-499p-leads-shortened-fp2-at-paul-ricard.html": "2026-11-13T14:01:44Z",
-      "https://www.dailysportscar.com/2026/11/13/fuoco-on-top-in-fp1-at-le-castellet.html": "2026-11-13T10:47:01Z",
       "https://www.dailysportscar.com/2026/11/13/23events-racing-scores-pole-for-opening-asian-le-mans-cup-round.html": "2026-11-13T15:33:35Z",
       "https://www.dailysportscar.com/2026/11/13/top-accommodation-options-from-3-60-bedrooms-on-a-single-site-from-project-100-2.html": "2026-11-13T16:59:27Z",
       "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z",
@@ -272,7 +269,9 @@
       "https://www.dailysportscar.com/2026/11/14/af-corse-wins-chaotic-asian-le-mans-opener-at-wet-le-castellet.html": "2026-11-14T16:32:47Z",
       "https://www.dailysportscar.com/2026/11/15/gms-team-sweeps-paul-ricard-season-opener.html": "2026-11-15T10:38:44Z",
       "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html": "2026-11-15T14:42:20Z",
-      "https://www.dailysportscar.com/2026/11/15/af-corse-doubles-up-in-asian-le-mans-4h-le-castellet.html": "2026-11-15T16:19:52Z"
+      "https://www.dailysportscar.com/2026/11/15/af-corse-doubles-up-in-asian-le-mans-4h-le-castellet.html": "2026-11-15T16:19:52Z",
+      "https://www.dailysportscar.com/2026/11/16/boulle-aguilera-join-di-resta-at-united-autosports.html": "2026-11-16T12:02:07Z",
+      "https://www.dailysportscar.com/2026/11/16/porsche-completes-2027-junior-assessment.html": "2026-11-16T07:17:00Z"
     },
     "items": [
       {
@@ -298,7 +297,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "speedcafe": {
     "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
@@ -339,24 +338,24 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 11:24:04 GMT",
+    "last_modified": "Mon, 16 Nov 2026 12:32:13 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
       "https://www.fia.com/news/how-roussel-rose-make-more-macau-history-fia-f4-world-cup-triumph": "2026-11-12T07:29:00Z",
       "https://www.fia.com/news/fabiana-ecclestone-leads-high-impact-agenda-brazil-focusing-road-safety-and-female-empowerment": "2026-11-11T09:55:00Z",
-      "https://www.fia.com/news/fia-announces-aduo-results-following-third-review-periods-2026": "2026-11-10T10:50:00Z",
       "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z",
       "https://www.fia.com/news/top-drivers-mix-fia-gt-world-cup-hat-trick": "2026-11-15T14:01:00Z",
       "https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup": "2026-11-15T19:22:00Z",
       "https://www.fia.com/news/fia-and-formula-e-unleash-gen4-official-pre-season-testing": "2026-11-16T09:09:00Z",
-      "https://www.fia.com/news/2026-fia-european-baja-cup-titles-polish-duo-wiatr-and-laskawiec-after-hungarian-baja-victory": "2026-11-15T09:04:00Z"
+      "https://www.fia.com/news/2026-fia-european-baja-cup-titles-polish-duo-wiatr-and-laskawiec-after-hungarian-baja-victory": "2026-11-15T09:04:00Z",
+      "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T11:24:00Z"
+    "last_ok": "2026-11-16T12:34:26Z"
   }
 }

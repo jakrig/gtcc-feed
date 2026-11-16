@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T11:24:00Z",
+  "updated": "2026-11-16T12:34:26Z",
   "items": [
+    {
+      "title": "United Autosports completes first half of its IMSA lineup",
+      "source": "RACER",
+      "time": "2026-11-16T12:00:32Z",
+      "url": "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
       "source": "Motorsport Week",
@@ -143,17 +154,6 @@
         "wec"
       ],
       "circuit": "le-mans",
-      "photo": null
-    },
-    {
-      "title": "INSIGHT: The Timing Behind Hanley’s Ambitious IMSA Effort",
-      "source": "Sportscar365",
-      "time": "2026-11-13T13:22:24Z",
-      "url": "https://sportscar365.substack.com/p/insight-the-timing-behind-hanley",
-      "series": [
-        "imsa"
-      ],
-      "circuit": null,
       "photo": null
     },
     {
