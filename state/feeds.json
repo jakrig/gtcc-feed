@@ -15,7 +15,7 @@
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "racer": {
     "etag": null,
@@ -78,7 +78,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -141,7 +141,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "motorsportweek": {
     "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
@@ -237,35 +237,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:51:02Z"
-  },
-  "gt-report": {
-    "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
-    "last_modified": "Sun, 15 Nov 2026 18:54:01 GMT",
-    "first_seen": {
-      "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/": "2026-11-12T18:17:27Z",
-      "https://www.gt-report.com/2026/11/11/asian-le-mans-series-paul-ricard-wednesday-set-up-day-at-le-castellet-photos/": "2026-11-11T18:43:12Z",
-      "https://www.gt-report.com/2026/11/11/vittorio-vigliettis-ambitions-grow-after-first-gt3-wins-even-more-now-than-before/": "2026-11-11T17:57:45Z",
-      "https://www.gt-report.com/2026/11/10/legends-of-le-mans-monza-peugeot-and-lola-aston-martin-split-wins-in-season-finale/": "2026-11-10T19:00:38Z",
-      "https://www.gt-report.com/2026/11/13/asian-le-mans-series-paul-ricard-qualifying-ferrari-499ps-sweep-the-poles-for-season-opener/": "2026-11-13T19:39:32Z",
-      "https://www.gt-report.com/2026/11/14/asian-le-mans-series-paul-ricard-race-1-sees-ferrari-one-two-on-hypercar-debut/": "2026-11-14T19:13:47Z",
-      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-photo-gallery/": "2026-11-15T08:20:07Z",
-      "https://www.gt-report.com/2026/11/15/asian-le-mans-series-paul-ricard-af-corse-ferrari-makes-it-two-from-two-in-race-2/": "2026-11-15T18:16:33Z"
-    },
-    "items": [
-      {
-        "title": "WEC Monza photo gallery",
-        "source": "GT Report",
-        "time": "2026-11-12T18:17:27Z",
-        "url": "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/",
-        "series": [
-          "wec"
-        ],
-        "circuit": "monza",
-        "photo": null
-      }
-    ],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "dailysportscar": {
     "etag": "\"2dfafdddf83c440728e3b206f180723d\"",
@@ -308,7 +280,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "speedcafe": {
     "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
@@ -360,11 +332,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 21:51:07 GMT",
+    "last_modified": "Mon, 16 Nov 2026 21:58:26 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -378,6 +350,342 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T21:51:02Z"
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "british-gt-official": {
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 22:00:05 GMT",
+    "first_seen": {
+      "https://www.britishgt.com/news/1292/donington-park-result-confirmed-following-national-court-hearing": "2026-11-06T17:00:00Z",
+      "https://www.britishgt.com/news/1291/snetterton-locked-in-for-sro-uks-2027-season-launch": "2026-11-02T09:00:00Z",
+      "https://www.britishgt.com/news/1290/british-gts-sro-gt-academy-winner-waberski-first-to-seal-24-hours-of-spa-seat": "2026-09-28T08:00:00Z",
+      "https://www.britishgt.com/news/1289/gt3-battleofbrands-orange-and-clutton-overcome-the-odds-to-claim-victory-and-title": "2026-09-27T17:00:00Z",
+      "https://www.britishgt.com/news/1288/gt4-battleofbrands-optimum-wins-as-grange-takes-the-title-in-a-thriller": "2026-09-27T15:20:00Z",
+      "https://www.britishgt.com/news/1287/lulhamtse-and-stantongamble-bag-battleofbrands-pole-positions": "2026-09-26T16:00:00Z",
+      "https://www.britishgt.com/news/1286/double-top-for-mclaren-as-optimum-and-paddock-stay-ahead-in-brands-pre-qualifying": "2026-09-26T12:00:00Z",
+      "https://www.britishgt.com/news/1285/barnicoat-leaves-it-late-to-top-ultra-tight-opening-brands-hatch-practice": "2026-09-26T09:30:00Z",
+      "https://www.britishgt.com/news/1284/team-motopark-selected-to-field-mercedes-amg-gt3-for-sro-gt-academy-graduates-at-24-hours-of-spa": "2026-09-24T09:00:00Z",
+      "https://www.britishgt.com/news/1283/brands-hatch-gt4-preview-five-for-the-title-as-leaders-locked-together-ahead-of-season-finale": "2026-09-21T16:00:00Z"
+    },
+    "items": [
+      {
+        "title": "Donington Park result confirmed following National Court hearing",
+        "source": "British GT",
+        "time": "2026-11-06T17:00:00Z",
+        "url": "https://www.britishgt.com/news/1292/donington-park-result-confirmed-following-national-court-hearing",
+        "series": [
+          "british-gt"
+        ],
+        "circuit": "donington-park",
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "nls-official": {
+    "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
+    "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
+    "first_seen": {
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/10/16/early-holiday-gifts-in-the-green-hell-dnls-kicks-off-season-8/": "2026-10-16T10:00:02Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/10/10/adrenaline-trio-clinches-title-in-thrilling-finale/": "2026-10-10T20:46:20Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/10/08/the-big-title-fight-in-the-eifel/": "2026-10-08T11:05:57Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/09/13/falken-motorsports-makes-an-impressive-comeback/": "2026-09-13T18:41:59Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/09/12/narrow-victory-on-the-nordschleife-schubert-motorsport-wins-photo-finish-at-nls8/": "2026-09-12T18:27:10Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/09/11/full-throttle-into-the-nurburgring-anniversary-nls-calendar-features-eight-races/": "2026-09-11T13:06:36Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/09/10/double-the-action-the-nls-kicks-off-the-seasons-final-stretch-with-two-4-hour-races/": "2026-09-10T13:38:08Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/08/02/summer-festival-in-the-green-hell-emotional-triumph-at-the-6-hour-race/": "2026-08-01T22:03:26Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/07/30/the-6-hour-adac-ruhr-cup-race-marks-the-start-of-the-crunch-phase/": "2026-07-30T09:00:52Z",
+      "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
+    },
+    "items": [],
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "touringcars-net": {
+    "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
+    "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
+    "first_seen": {
+      "https://www.touringcars.net/2026/11/stolen-btcc-car-and-trailer-recovered": "2026-11-13T10:19:29Z",
+      "https://www.touringcars.net/2026/11/power-maxed-racing-offers-reward-for-return-of-stolen-touring-car": "2026-11-12T13:35:03Z",
+      "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut": "2026-11-11T08:42:17Z",
+      "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season": "2026-11-09T16:52:37Z",
+      "https://www.touringcars.net/2026/11/leonel-pernia-with-one-hand-on-the-title-after-rosario-victory": "2026-11-08T21:44:47Z",
+      "https://www.touringcars.net/2026/11/tom-ingram-signs-three-year-extension-with-excelr8-motorsport": "2026-11-06T14:45:02Z",
+      "https://www.touringcars.net/2026/11/callum-newsham-clinches-2026-tcr-uk-title-with-two-wins-at-brands-hatch": "2026-11-01T22:14:35Z",
+      "https://www.touringcars.net/2026/10/excelr8-motorsport-inks-three-year-vertu-motors-contract-extension": "2026-10-29T11:57:37Z",
+      "https://www.touringcars.net/2026/10/marco-butti-wins-tcr-europe-title-as-junesung-park-claims-finale-win": "2026-10-25T12:31:58Z",
+      "https://www.touringcars.net/2026/10/azcona-extends-points-lead-with-race-three-win-despite-urrutia-clash": "2026-10-25T07:57:46Z"
+    },
+    "items": [
+      {
+        "title": "Stolen BTCC car and trailer recovered",
+        "source": "TouringCars.net",
+        "time": "2026-11-13T10:19:29Z",
+        "url": "https://www.touringcars.net/2026/11/stolen-btcc-car-and-trailer-recovered",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Power Maxed Racing offers reward for return of stolen touring car",
+        "source": "TouringCars.net",
+        "time": "2026-11-12T13:35:03Z",
+        "url": "https://www.touringcars.net/2026/11/power-maxed-racing-offers-reward-for-return-of-stolen-touring-car",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Two-time MINI Challenge champion Tom Ovenden to make BTCC début",
+        "source": "TouringCars.net",
+        "time": "2026-11-11T08:42:17Z",
+        "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Sporting format changes agreed for 2027 BTCC season",
+        "source": "TouringCars.net",
+        "time": "2026-11-09T16:52:37Z",
+        "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Tom Ingram signs three-year extension with EXCELR8 Motorsport",
+        "source": "TouringCars.net",
+        "time": "2026-11-06T14:45:02Z",
+        "url": "https://www.touringcars.net/2026/11/tom-ingram-signs-three-year-extension-with-excelr8-motorsport",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "pitdebrief": {
+    "etag": "\"29db413a7c8cef79217c1db4d609e72a\"",
+    "last_modified": "Mon, 16 Nov 2026 21:48:24 GMT",
+    "first_seen": {
+      "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-1-mortara-fastest-in-disrupted-session/": "2026-11-16T21:48:23Z",
+      "https://www.pitdebrief.com/post/all-the-special-liveries-for-the-2026-f1-season/": "2026-11-16T19:18:00Z",
+      "https://www.pitdebrief.com/post/elliot-kaczynski-joins-mp-motorsport-for-2027-spanish-f4-title-challenge/": "2026-11-16T15:23:27Z",
+      "https://www.pitdebrief.com/post/komatsu-bearman-and-camara-discuss-haass-challenges-and-expectations-ahead-of-2026-f1-las-vegas-gp-weekend/": "2026-11-16T15:11:43Z",
+      "https://www.pitdebrief.com/post/deligny-targets-greater-consistency-in-2027-fia-f3-campaign-with-van-amersfoort-racing/": "2026-11-16T14:58:52Z",
+      "https://www.pitdebrief.com/post/hadjar-reflects-on-rookie-adaptations-and-the-importance-of-f2-growth-in-f1-2026/": "2026-11-16T12:17:17Z",
+      "https://www.pitdebrief.com/post/oliver-goethe-joins-ln4-fusion-for-2027-f2-season/": "2026-11-16T09:24:35Z",
+      "https://www.pitdebrief.com/post/everything-you-need-to-know-about-the-2026-fia-fr-world-cup-at-the-73rd-macau-gp/": "2026-11-16T08:00:00Z",
+      "https://www.pitdebrief.com/post/2026-27-almc-standings-after-le-castellet/": "2026-11-16T03:36:25Z",
+      "https://www.pitdebrief.com/post/2026-27-alms-standings-after-le-castellet/": "2026-11-16T03:19:08Z"
+    },
+    "items": [
+      {
+        "title": "All the special liveries for the 2026 F1 season",
+        "source": "Pit Debrief",
+        "time": "2026-11-16T19:18:00Z",
+        "url": "https://www.pitdebrief.com/post/all-the-special-liveries-for-the-2026-f1-season/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Komatsu, Bearman, and Câmara discuss Haas’s challenges and expectations ahead of 2026 F1 Las Vegas GP weekend",
+        "source": "Pit Debrief",
+        "time": "2026-11-16T15:11:43Z",
+        "url": "https://www.pitdebrief.com/post/komatsu-bearman-and-camara-discuss-haass-challenges-and-expectations-ahead-of-2026-f1-las-vegas-gp-weekend/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Deligny targets greater consistency in 2027 FIA F3 campaign with Van Amersfoort Racing",
+        "source": "Pit Debrief",
+        "time": "2026-11-16T14:58:52Z",
+        "url": "https://www.pitdebrief.com/post/deligny-targets-greater-consistency-in-2027-fia-f3-campaign-with-van-amersfoort-racing/",
+        "series": [
+          "f3"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Hadjar reflects on rookie adaptations and the importance of F2 growth in F1 2026",
+        "source": "Pit Debrief",
+        "time": "2026-11-16T12:17:17Z",
+        "url": "https://www.pitdebrief.com/post/hadjar-reflects-on-rookie-adaptations-and-the-importance-of-f2-growth-in-f1-2026/",
+        "series": [
+          "f1",
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Oliver Goethe joins LN4 Fusion for 2027 F2 season",
+        "source": "Pit Debrief",
+        "time": "2026-11-16T09:24:35Z",
+        "url": "https://www.pitdebrief.com/post/oliver-goethe-joins-ln4-fusion-for-2027-f2-season/",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "feederseries": {
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 17:07:47 GMT",
+    "first_seen": {
+      "https://feederseries.net/2026/11/16/feeder-series-podcast-2026-usf-pro-season-review-feat-rob-howden-champions-standouts-future-indycar-stars/": "2026-11-16T17:04:57Z",
+      "https://feederseries.net/2026/11/16/fia-formula-regional-world-cup-2026-macau-grand-prix-guide/": "2026-11-16T14:43:17Z",
+      "https://feederseries.net/2026/11/15/feeder-series-testing-round-up-1-15-november/": "2026-11-15T19:00:21Z",
+      "https://feederseries.net/2026/11/14/juan-manuel-correa-i-know-where-i-can-make-a-difference-with-my-experience/": "2026-11-14T17:56:41Z",
+      "https://feederseries.net/2026/11/13/how-jade-jacquets-french-f4-victory-helped-turn-her-f1-academy-season-around/": "2026-11-13T10:41:00Z",
+      "https://feederseries.net/2026/11/12/10-years-of-f2-alexa-quintin-director-of-communications/": "2026-11-12T12:19:00Z",
+      "https://feederseries.net/2026/11/11/feeder-series-podcast-how-schormans-and-bedrin-won-in-montmelo/": "2026-11-11T16:02:44Z",
+      "https://feederseries.net/2026/11/10/al-dhaheri-we-always-knew-we-had-a-chance-in-four-way-frec-title-fight/": "2026-11-10T12:31:45Z",
+      "https://feederseries.net/2026/11/09/feeder-series-weekend-review-results-and-standings-03-08-november-2026/": "2026-11-09T05:33:17Z",
+      "https://feederseries.net/2026/11/08/10-years-of-f2-jeremy-cotterill-mp-motorsport-team-manager/": "2026-11-08T08:28:00Z"
+    },
+    "items": [
+      {
+        "title": "Feeder Series testing round-up: 1–15 November",
+        "source": "Feeder Series",
+        "time": "2026-11-15T19:00:21Z",
+        "url": "https://feederseries.net/2026/11/15/feeder-series-testing-round-up-1-15-november/",
+        "series": [
+          "f3"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "How Jade Jacquet’s French F4 victory helped turn her F1 Academy season around",
+        "source": "Feeder Series",
+        "time": "2026-11-13T10:41:00Z",
+        "url": "https://feederseries.net/2026/11/13/how-jade-jacquets-french-f4-victory-helped-turn-her-f1-academy-season-around/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "10 years of F2: Alexa Quintin, director of communications",
+        "source": "Feeder Series",
+        "time": "2026-11-12T12:19:00Z",
+        "url": "https://feederseries.net/2026/11/12/10-years-of-f2-alexa-quintin-director-of-communications/",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "10 years of F2: Jeremy Cotterill, MP Motorsport team manager",
+        "source": "Feeder Series",
+        "time": "2026-11-08T08:28:00Z",
+        "url": "https://feederseries.net/2026/11/08/10-years-of-f2-jeremy-cotterill-mp-motorsport-team-manager/",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:00:01Z"
+  },
+  "formulascout": {
+    "etag": "W/\"4de5e73b4552fdeed8c142f4d7e7a0f9\"",
+    "last_modified": "Mon, 16 Nov 2026 10:33:04 GMT",
+    "first_seen": {
+      "https://formulascout.com/f2-leader-rafael-camara-to-make-second-f1-start-at-las-vegas-gp/141154": "2026-11-16T10:33:04Z",
+      "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147": "2026-11-16T10:08:46Z",
+      "https://formulascout.com/f1-academy-champion-palmowski-joins-red-bull-and-steps-up-to-frec/141052": "2026-11-13T18:18:15Z",
+      "https://formulascout.com/indy-nxts-oval-count-to-reduce-to-two-races-next-year/141050": "2026-11-13T17:53:27Z",
+      "https://formulascout.com/nikola-tsolov-to-be-reserve-driver-for-both-of-red-bulls-f1-teams-in-2027/141029": "2026-11-12T16:01:46Z",
+      "https://formulascout.com/indy-nxt-runner-up-enzo-fittipaldi-hired-by-lola-formula-e-team/141022": "2026-11-12T15:19:30Z",
+      "https://formulascout.com/fia-f3-champion-ugo-ugochukwu-to-step-up-to-f2-with-campos-racing/141019": "2026-11-12T14:47:23Z",
+      "https://formulascout.com/cram-motorsport-announces-rechenmacher-and-stalmach-for-german-f4/141008": "2026-11-11T20:58:50Z",
+      "https://formulascout.com/chip-ganassi-racing-signs-alessandro-de-tullio-for-indycar-and-indy-nxt/141005": "2026-11-11T19:19:10Z",
+      "https://formulascout.com/alex-ninovic-continues-with-rodin-for-sophomore-frec-campaign/141000": "2026-11-11T10:47:17Z"
+    },
+    "items": [
+      {
+        "title": "F2 leader Rafael Camara to make second F1 start at Las Vegas GP",
+        "source": "Formula Scout",
+        "time": "2026-11-16T10:33:04Z",
+        "url": "https://formulascout.com/f2-leader-rafael-camara-to-make-second-f1-start-at-las-vegas-gp/141154",
+        "series": [
+          "f1",
+          "f2"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Oliver Goethe leaves MP Motorsport for new LN4 Fusion team in F2",
+        "source": "Formula Scout",
+        "time": "2026-11-16T10:08:46Z",
+        "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Academy champion Palmowski joins Red Bull and steps up to FREC",
+        "source": "Formula Scout",
+        "time": "2026-11-13T18:18:15Z",
+        "url": "https://formulascout.com/f1-academy-champion-palmowski-joins-red-bull-and-steps-up-to-frec/141052",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Nikola Tsolov to be reserve driver for both of Red Bull’s F1 teams in 2027",
+        "source": "Formula Scout",
+        "time": "2026-11-12T16:01:46Z",
+        "url": "https://formulascout.com/nikola-tsolov-to-be-reserve-driver-for-both-of-red-bulls-f1-teams-in-2027/141029",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "FIA F3 champion Ugo Ugochukwu to step up to F2 with Campos Racing",
+        "source": "Formula Scout",
+        "time": "2026-11-12T14:47:23Z",
+        "url": "https://formulascout.com/fia-f3-champion-ugo-ugochukwu-to-step-up-to-f2-with-campos-racing/141019",
+        "series": [
+          "f2",
+          "f3"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:00:01Z"
   }
 }

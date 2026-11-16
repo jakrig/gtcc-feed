@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T21:51:02Z",
+  "updated": "2026-11-16T22:00:01Z",
   "items": [
     {
       "title": "Dillmann named reserve driver for Ford Hypercar program",
@@ -9,6 +9,17 @@
       "url": "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program",
       "series": [
         "wec"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "All the special liveries for the 2026 F1 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-16T19:18:00Z",
+      "url": "https://www.pitdebrief.com/post/all-the-special-liveries-for-the-2026-f1-season/",
+      "series": [
+        "f1"
       ],
       "circuit": null,
       "photo": null
@@ -58,12 +69,34 @@
       "photo": null
     },
     {
+      "title": "Komatsu, Bearman, and Câmara discuss Haas’s challenges and expectations ahead of 2026 F1 Las Vegas GP weekend",
+      "source": "Pit Debrief",
+      "time": "2026-11-16T15:11:43Z",
+      "url": "https://www.pitdebrief.com/post/komatsu-bearman-and-camara-discuss-haass-challenges-and-expectations-ahead-of-2026-f1-las-vegas-gp-weekend/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
       "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
       "source": "Motorsport Week",
       "time": "2026-11-16T15:06:09Z",
       "url": "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/",
       "series": [
         "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Deligny targets greater consistency in 2027 FIA F3 campaign with Van Amersfoort Racing",
+      "source": "Pit Debrief",
+      "time": "2026-11-16T14:58:52Z",
+      "url": "https://www.pitdebrief.com/post/deligny-targets-greater-consistency-in-2027-fia-f3-campaign-with-van-amersfoort-racing/",
+      "series": [
+        "f3"
       ],
       "circuit": null,
       "photo": null
@@ -102,6 +135,18 @@
       "photo": null
     },
     {
+      "title": "Hadjar reflects on rookie adaptations and the importance of F2 growth in F1 2026",
+      "source": "Pit Debrief",
+      "time": "2026-11-16T12:17:17Z",
+      "url": "https://www.pitdebrief.com/post/hadjar-reflects-on-rookie-adaptations-and-the-importance-of-f2-growth-in-f1-2026/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "United Autosports completes first half of its IMSA lineup",
       "source": "RACER",
       "time": "2026-11-16T12:00:32Z",
@@ -113,12 +158,46 @@
       "photo": null
     },
     {
+      "title": "F2 leader Rafael Camara to make second F1 start at Las Vegas GP",
+      "source": "Formula Scout",
+      "time": "2026-11-16T10:33:04Z",
+      "url": "https://formulascout.com/f2-leader-rafael-camara-to-make-second-f1-start-at-las-vegas-gp/141154",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "Oliver Goethe leaves MP Motorsport for new LN4 Fusion team in F2",
+      "source": "Formula Scout",
+      "time": "2026-11-16T10:08:46Z",
+      "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
       "source": "Motorsport Week",
       "time": "2026-11-16T09:31:16Z",
       "url": "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/",
       "series": [
         "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Oliver Goethe joins LN4 Fusion for 2027 F2 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-16T09:24:35Z",
+      "url": "https://www.pitdebrief.com/post/oliver-goethe-joins-ln4-fusion-for-2027-f2-season/",
+      "series": [
+        "f2"
       ],
       "circuit": null,
       "photo": null
@@ -146,6 +225,17 @@
       "photo": null
     },
     {
+      "title": "Feeder Series testing round-up: 1–15 November",
+      "source": "Feeder Series",
+      "time": "2026-11-15T19:00:21Z",
+      "url": "https://feederseries.net/2026/11/15/feeder-series-testing-round-up-1-15-november/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
       "source": "Motorsport Week",
       "time": "2026-11-15T18:57:24Z",
@@ -168,6 +258,17 @@
       "photo": null
     },
     {
+      "title": "F1 Academy champion Palmowski joins Red Bull and steps up to FREC",
+      "source": "Formula Scout",
+      "time": "2026-11-13T18:18:15Z",
+      "url": "https://formulascout.com/f1-academy-champion-palmowski-joins-red-bull-and-steps-up-to-frec/141052",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "Le Mans 24 Hours 2027: Top Accommodation Options For Groups Of All Sizes, From 3-15 Nights, From Project 100",
       "source": "Dailysportscar",
       "time": "2026-11-13T16:59:27Z",
@@ -176,6 +277,28 @@
         "wec"
       ],
       "circuit": "le-mans",
+      "photo": null
+    },
+    {
+      "title": "How Jade Jacquet’s French F4 victory helped turn her F1 Academy season around",
+      "source": "Feeder Series",
+      "time": "2026-11-13T10:41:00Z",
+      "url": "https://feederseries.net/2026/11/13/how-jade-jacquets-french-f4-victory-helped-turn-her-f1-academy-season-around/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Stolen BTCC car and trailer recovered",
+      "source": "TouringCars.net",
+      "time": "2026-11-13T10:19:29Z",
+      "url": "https://www.touringcars.net/2026/11/stolen-btcc-car-and-trailer-recovered",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
       "photo": null
     },
     {
@@ -190,14 +313,26 @@
       "photo": null
     },
     {
-      "title": "WEC Monza photo gallery",
-      "source": "GT Report",
-      "time": "2026-11-12T18:17:27Z",
-      "url": "https://www.gt-report.com/2026/11/12/wec-monza-photo-gallery/",
+      "title": "Nikola Tsolov to be reserve driver for both of Red Bull’s F1 teams in 2027",
+      "source": "Formula Scout",
+      "time": "2026-11-12T16:01:46Z",
+      "url": "https://formulascout.com/nikola-tsolov-to-be-reserve-driver-for-both-of-red-bulls-f1-teams-in-2027/141029",
       "series": [
-        "wec"
+        "f1"
       ],
-      "circuit": "monza",
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "FIA F3 champion Ugo Ugochukwu to step up to F2 with Campos Racing",
+      "source": "Formula Scout",
+      "time": "2026-11-12T14:47:23Z",
+      "url": "https://formulascout.com/fia-f3-champion-ugo-ugochukwu-to-step-up-to-f2-with-campos-racing/141019",
+      "series": [
+        "f2",
+        "f3"
+      ],
+      "circuit": null,
       "photo": null
     },
     {
@@ -205,6 +340,39 @@
       "source": "TouringCarTimes",
       "time": "2026-11-12T14:27:22Z",
       "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Power Maxed Racing offers reward for return of stolen touring car",
+      "source": "TouringCars.net",
+      "time": "2026-11-12T13:35:03Z",
+      "url": "https://www.touringcars.net/2026/11/power-maxed-racing-offers-reward-for-return-of-stolen-touring-car",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "10 years of F2: Alexa Quintin, director of communications",
+      "source": "Feeder Series",
+      "time": "2026-11-12T12:19:00Z",
+      "url": "https://feederseries.net/2026/11/12/10-years-of-f2-alexa-quintin-director-of-communications/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Two-time MINI Challenge champion Tom Ovenden to make BTCC début",
+      "source": "TouringCars.net",
+      "time": "2026-11-11T08:42:17Z",
+      "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
       "series": [
         "btcc"
       ],
@@ -223,10 +391,54 @@
       "photo": null
     },
     {
+      "title": "Sporting format changes agreed for 2027 BTCC season",
+      "source": "TouringCars.net",
+      "time": "2026-11-09T16:52:37Z",
+      "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "BTCC revises race weekend format for 2027 season",
       "source": "TouringCarTimes",
       "time": "2026-11-09T14:19:27Z",
       "url": "https://www.touringcartimes.com/2026/11/09/btcc-revises-race-weekend-format-for-2027-season/",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "10 years of F2: Jeremy Cotterill, MP Motorsport team manager",
+      "source": "Feeder Series",
+      "time": "2026-11-08T08:28:00Z",
+      "url": "https://feederseries.net/2026/11/08/10-years-of-f2-jeremy-cotterill-mp-motorsport-team-manager/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Donington Park result confirmed following National Court hearing",
+      "source": "British GT",
+      "time": "2026-11-06T17:00:00Z",
+      "url": "https://www.britishgt.com/news/1292/donington-park-result-confirmed-following-national-court-hearing",
+      "series": [
+        "british-gt"
+      ],
+      "circuit": "donington-park",
+      "photo": null
+    },
+    {
+      "title": "Tom Ingram signs three-year extension with EXCELR8 Motorsport",
+      "source": "TouringCars.net",
+      "time": "2026-11-06T14:45:02Z",
+      "url": "https://www.touringcars.net/2026/11/tom-ingram-signs-three-year-extension-with-excelr8-motorsport",
       "series": [
         "btcc"
       ],
