@@ -15,7 +15,7 @@
       "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "racer": {
     "etag": null,
@@ -30,7 +30,7 @@
       "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out": "2026-11-16T14:20:14Z",
       "https://racer.com/2026/11/16/meguiar-s-shows-new-products-at-sema-to-make-road-and-race-cars-look-better": "2026-11-16T15:51:56Z",
       "https://racer.com/2026/11/16/malukas-family-sells-hmd-motorsports-to-pv3-enterprises": "2026-11-16T14:39:14Z",
-      "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z"
+      "https://racer.com/2026/11/16/mortara-leads-first-formula-e-pre-season-testing-day-at-circuito-del-jarama": "2026-11-16T18:55:10Z"
     },
     "items": [
       {
@@ -54,20 +54,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Quick shift: Breaking down the latest F1 silly season developments",
-        "source": "RACER",
-        "time": "2026-11-13T21:45:21Z",
-        "url": "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -130,13 +119,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "motorsportweek": {
-    "etag": "\"aef83af4dc8a7e344bfa867ba153b959\"",
-    "last_modified": "Mon, 16 Nov 2026 18:09:49 GMT",
+    "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
+    "last_modified": "Mon, 16 Nov 2026 19:00:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/15/christian-horner-max-verstappen-red-bull-sadness-f1/": "2026-11-15T17:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/": "2026-11-15T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/": "2026-11-15T18:57:24Z",
       "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/": "2026-11-16T09:31:16Z",
@@ -145,9 +133,21 @@
       "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/": "2026-11-16T15:35:26Z",
       "https://www.motorsportweek.com/2026/11/16/fernando-alonso-f1-aston-martin-honda-faith/": "2026-11-16T17:00:00Z",
       "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/": "2026-11-16T16:45:00Z",
-      "https://www.motorsportweek.com/2026/11/16/williams-f1-las-vegas-gp-livery/": "2026-11-16T18:09:46Z"
+      "https://www.motorsportweek.com/2026/11/16/williams-f1-las-vegas-gp-livery/": "2026-11-16T18:09:46Z",
+      "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-caesars-palace/": "2026-11-16T19:00:00Z"
     },
     "items": [
+      {
+        "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
+        "source": "Motorsport Week",
+        "time": "2026-11-16T19:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-caesars-palace/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Motorsport Week’s F1 Las Vegas GP Preview",
         "source": "Motorsport Week",
@@ -215,7 +215,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -243,7 +243,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "dailysportscar": {
     "etag": "\"1ecb06722edbf096b5283179475e17be\"",
@@ -286,22 +286,22 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "speedcafe": {
-    "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
+    "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-taupo-results-tyler-cheney-jarrod-hughes-declan-fraser-video-highlights/": "2026-11-15T22:43:30Z",
       "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
       "https://speedcafe.com/motorsport-news-2026-coral-taylor-retirement-australian-rally-championship-bates-family-comments-reaction-statement/": "2026-11-16T00:14:34Z",
-      "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/": "2026-11-15T23:33:59Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-brodie-kostecki-matt-payne-broc-feeney-chaz-mostert/": "2026-11-16T00:51:32Z",
       "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/": "2026-11-16T02:17:44Z",
       "https://speedcafe.com/asbk-news-2026-the-bend-round-two-wrap-race-report-cam-dunker-wins-podium/": "2026-11-16T03:06:23Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-most-popular-driver-award-poll-mostert-feeney-kostecki-payne-vote/": "2026-11-16T04:50:20Z",
       "https://speedcafe.com/motorsport-news-2026-shift-nation-debut-sandown-event-details-comments-spectator-ticket-cost/": "2026-11-16T04:31:38Z",
-      "https://speedcafe.com/motorsport-news-2026-rovantra-launch-details-harri-jones-business-venture-explained-cost-details-supercars-co-driver/": "2026-11-16T08:00:03Z"
+      "https://speedcafe.com/motorsport-news-2026-rovantra-launch-details-harri-jones-business-venture-explained-cost-details-supercars-co-driver/": "2026-11-16T08:00:03Z",
+      "https://speedcafe.com/motorsport-podcast-supercars-news-f1-latest-details-full-credit-to-the-noise-former-legend-new-episode/": "2026-11-16T19:00:23Z",
+      "https://speedcafe.com/supercars-news-triple-eight-spec-dark-horse-ford-mustang-jamie-whincup-broc-feeney-details-specs-price/": "2026-11-16T18:55:37Z"
     },
     "items": [
       {
@@ -314,24 +314,13 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Piastri reveals biggest challenge behind difficult F1 season",
-        "source": "Speedcafe",
-        "time": "2026-11-15T23:33:59Z",
-        "url": "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 18:22:38 GMT",
+    "last_modified": "Mon, 16 Nov 2026 19:17:09 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -345,6 +334,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T18:22:54Z"
+    "last_ok": "2026-11-16T19:19:10Z"
   }
 }

@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T18:22:54Z",
+  "updated": "2026-11-16T19:19:10Z",
   "items": [
+    {
+      "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T19:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-caesars-palace/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
     {
       "title": "Motorsport Week’s F1 Las Vegas GP Preview",
       "source": "Motorsport Week",
@@ -91,17 +102,6 @@
       "photo": null
     },
     {
-      "title": "Piastri reveals biggest challenge behind difficult F1 season",
-      "source": "Speedcafe",
-      "time": "2026-11-15T23:33:59Z",
-      "url": "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
       "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
       "source": "Motorsport Week",
       "time": "2026-11-15T18:57:24Z",
@@ -121,17 +121,6 @@
         "super-taikyu"
       ],
       "circuit": "fuji",
-      "photo": null
-    },
-    {
-      "title": "Quick shift: Breaking down the latest F1 silly season developments",
-      "source": "RACER",
-      "time": "2026-11-13T21:45:21Z",
-      "url": "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
       "photo": null
     },
     {
