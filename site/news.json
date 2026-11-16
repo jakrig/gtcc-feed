@@ -1,7 +1,40 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T22:00:01Z",
+  "updated": "2026-11-16T22:03:44Z",
   "items": [
+    {
+      "title": "New Nürburgring Series for 2028 Now Off the Table",
+      "source": "Sportscar365",
+      "time": "2026-11-16T20:11:54Z",
+      "url": "https://sportscar365.com/other-series/n24/new-nurburgring-series-for-2028-now-off-the-table/",
+      "series": [
+        "nls"
+      ],
+      "circuit": "nurburgring",
+      "photo": null
+    },
+    {
+      "title": "Dillmann Named Ford Hypercar Reserve Driver",
+      "source": "Sportscar365",
+      "time": "2026-11-16T20:00:07Z",
+      "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
+      "source": "Dailysportscar",
+      "time": "2026-11-16T20:00:01Z",
+      "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Dillmann named reserve driver for Ford Hypercar program",
       "source": "RACER",
@@ -44,6 +77,28 @@
         "f1"
       ],
       "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "Williams to light up night sky with special Las Vegas livery",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T18:09:46Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/williams-f1-las-vegas-gp-livery/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T17:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/fernando-alonso-f1-aston-martin-honda-faith/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
       "photo": null
     },
     {
@@ -147,10 +202,43 @@
       "photo": null
     },
     {
+      "title": "Sellers Explains HMI’s BMW Decision, Pilot Challenge Plans",
+      "source": "Sportscar365",
+      "time": "2026-11-16T12:02:56Z",
+      "url": "https://sportscar365.com/imsa/impc/sellers-explains-hmis-bmw-decision-pilot-challenge-plans/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Boulle, Aguilera Join Di Resta At United Autosports",
+      "source": "Dailysportscar",
+      "time": "2026-11-16T12:02:07Z",
+      "url": "https://www.dailysportscar.com/2026/11/16/boulle-aguilera-join-di-resta-at-united-autosports.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "United Autosports completes first half of its IMSA lineup",
       "source": "RACER",
       "time": "2026-11-16T12:00:32Z",
       "url": "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Boulle Rejoins United, Set for First Full Season Since 2024",
+      "source": "Sportscar365",
+      "time": "2026-11-16T12:00:28Z",
+      "url": "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/",
       "series": [
         "imsa"
       ],
@@ -181,6 +269,17 @@
       "photo": null
     },
     {
+      "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
+      "source": "Sportscar365",
+      "time": "2026-11-16T10:00:56Z",
+      "url": "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
       "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
       "source": "Motorsport Week",
       "time": "2026-11-16T09:31:16Z",
@@ -200,6 +299,17 @@
         "f2"
       ],
       "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Watch the Ten Most Dramatic Moments from 6H Monza",
+      "source": "Sportscar365",
+      "time": "2026-11-16T05:01:28Z",
+      "url": "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/",
+      "series": [
+        "wec"
+      ],
+      "circuit": "monza",
       "photo": null
     },
     {
@@ -231,6 +341,17 @@
       "url": "https://feederseries.net/2026/11/15/feeder-series-testing-round-up-1-15-november/",
       "series": [
         "f3"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks",
+      "source": "Motorsport Week",
+      "time": "2026-11-15T19:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/",
+      "series": [
+        "f1"
       ],
       "circuit": null,
       "photo": null
@@ -277,6 +398,17 @@
         "wec"
       ],
       "circuit": "le-mans",
+      "photo": null
+    },
+    {
+      "title": "Jarett Andretti Joins Myers Riley Motorsports For 2027",
+      "source": "Dailysportscar",
+      "time": "2026-11-13T16:58:56Z",
+      "url": "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
       "photo": null
     },
     {

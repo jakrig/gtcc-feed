@@ -1,7 +1,5 @@
 {
   "sportscar365": {
-    "etag": "W/\"06529592c46eb10fc7686a8eff343905\"",
-    "last_modified": "Mon, 16 Nov 2026 20:18:43 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
@@ -14,12 +12,80 @@
       "https://sportscar365.com/other-series/n24/new-nurburgring-series-for-2028-now-off-the-table/": "2026-11-16T20:11:54Z",
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z"
     },
-    "items": [],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "items": [
+      {
+        "title": "New Nürburgring Series for 2028 Now Off the Table",
+        "source": "Sportscar365",
+        "time": "2026-11-16T20:11:54Z",
+        "url": "https://sportscar365.com/other-series/n24/new-nurburgring-series-for-2028-now-off-the-table/",
+        "series": [
+          "nls"
+        ],
+        "circuit": "nurburgring",
+        "photo": null
+      },
+      {
+        "title": "Dillmann Named Ford Hypercar Reserve Driver",
+        "source": "Sportscar365",
+        "time": "2026-11-16T20:00:07Z",
+        "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Sellers Explains HMI’s BMW Decision, Pilot Challenge Plans",
+        "source": "Sportscar365",
+        "time": "2026-11-16T12:02:56Z",
+        "url": "https://sportscar365.com/imsa/impc/sellers-explains-hmis-bmw-decision-pilot-challenge-plans/",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Boulle Rejoins United, Set for First Full Season Since 2024",
+        "source": "Sportscar365",
+        "time": "2026-11-16T12:00:28Z",
+        "url": "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
+        "source": "Sportscar365",
+        "time": "2026-11-16T10:00:56Z",
+        "url": "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Watch the Ten Most Dramatic Moments from 6H Monza",
+        "source": "Sportscar365",
+        "time": "2026-11-16T05:01:28Z",
+        "url": "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/",
+        "series": [
+          "wec"
+        ],
+        "circuit": "monza",
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "W/\"06529592c46eb10fc7686a8eff343905\"",
+    "last_modified": "Mon, 16 Nov 2026 20:18:43 GMT",
+    "rules": "96242d557236ce43"
   },
   "racer": {
-    "etag": null,
-    "last_modified": null,
     "first_seen": {
       "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z",
       "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z",
@@ -78,11 +144,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": null,
+    "last_modified": null,
+    "rules": "648ea183e5d6f88c"
   },
   "touringcartimes": {
-    "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
-    "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "first_seen": {
       "https://www.touringcartimes.com/2026/11/13/final-macau-entry-list-revealed/": "2026-11-13T13:33:21Z",
       "https://www.touringcartimes.com/2026/11/13/power-maxed-racing-btcc-audi-recovered-after-theft/": "2026-11-13T09:13:02Z",
@@ -141,11 +208,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
+    "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
+    "rules": "55d6ce569d7f4aea"
   },
   "motorsportweek": {
-    "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
-    "last_modified": "Mon, 16 Nov 2026 19:00:00 GMT",
     "first_seen": {
       "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/": "2026-11-15T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/": "2026-11-15T18:57:24Z",
@@ -168,6 +236,28 @@
           "f1"
         ],
         "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Williams to light up night sky with special Las Vegas livery",
+        "source": "Motorsport Week",
+        "time": "2026-11-16T18:09:46Z",
+        "url": "https://www.motorsportweek.com/2026/11/16/williams-f1-las-vegas-gp-livery/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim",
+        "source": "Motorsport Week",
+        "time": "2026-11-16T17:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/16/fernando-alonso-f1-aston-martin-honda-faith/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
         "photo": null
       },
       {
@@ -226,6 +316,17 @@
         "photo": null
       },
       {
+        "title": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks",
+        "source": "Motorsport Week",
+        "time": "2026-11-15T19:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
         "source": "Motorsport Week",
         "time": "2026-11-15T18:57:24Z",
@@ -237,11 +338,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
+    "last_modified": "Mon, 16 Nov 2026 19:00:00 GMT",
+    "rules": "67f18b83ed456b67"
   },
   "dailysportscar": {
-    "etag": "\"2dfafdddf83c440728e3b206f180723d\"",
-    "last_modified": "Mon, 16 Nov 2026 20:00:01 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -257,6 +359,28 @@
       "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html": "2026-11-16T20:00:01Z"
     },
     "items": [
+      {
+        "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
+        "source": "Dailysportscar",
+        "time": "2026-11-16T20:00:01Z",
+        "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Boulle, Aguilera Join Di Resta At United Autosports",
+        "source": "Dailysportscar",
+        "time": "2026-11-16T12:02:07Z",
+        "url": "https://www.dailysportscar.com/2026/11/16/boulle-aguilera-join-di-resta-at-united-autosports.html",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
         "source": "Dailysportscar",
@@ -278,13 +402,25 @@
         ],
         "circuit": "le-mans",
         "photo": null
+      },
+      {
+        "title": "Jarett Andretti Joins Myers Riley Motorsports For 2027",
+        "source": "Dailysportscar",
+        "time": "2026-11-13T16:58:56Z",
+        "url": "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "\"2dfafdddf83c440728e3b206f180723d\"",
+    "last_modified": "Mon, 16 Nov 2026 20:00:01 GMT",
+    "rules": "bfb252c96c75fd56"
   },
   "speedcafe": {
-    "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
-    "last_modified": null,
     "first_seen": {
       "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
       "https://speedcafe.com/motorsport-news-2026-coral-taylor-retirement-australian-rally-championship-bates-family-comments-reaction-statement/": "2026-11-16T00:14:34Z",
@@ -332,11 +468,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
+    "last_modified": null,
+    "rules": "039ebbcfd219a90f"
   },
   "fia": {
-    "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 21:58:26 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -350,11 +487,12 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 22:01:27 GMT",
+    "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
-    "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 22:00:05 GMT",
     "first_seen": {
       "https://www.britishgt.com/news/1292/donington-park-result-confirmed-following-national-court-hearing": "2026-11-06T17:00:00Z",
       "https://www.britishgt.com/news/1291/snetterton-locked-in-for-sro-uks-2027-season-launch": "2026-11-02T09:00:00Z",
@@ -380,11 +518,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 22:03:50 GMT",
+    "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
-    "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
-    "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "first_seen": {
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/10/16/early-holiday-gifts-in-the-green-hell-dnls-kicks-off-season-8/": "2026-10-16T10:00:02Z",
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/10/10/adrenaline-trio-clinches-title-in-thrilling-finale/": "2026-10-10T20:46:20Z",
@@ -398,11 +537,12 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
+    "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
+    "rules": "690445e562ef444b"
   },
   "touringcars-net": {
-    "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
-    "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "first_seen": {
       "https://www.touringcars.net/2026/11/stolen-btcc-car-and-trailer-recovered": "2026-11-13T10:19:29Z",
       "https://www.touringcars.net/2026/11/power-maxed-racing-offers-reward-for-return-of-stolen-touring-car": "2026-11-12T13:35:03Z",
@@ -472,11 +612,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
+    "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
+    "rules": "0035cd3f393f2204"
   },
   "pitdebrief": {
-    "etag": "\"29db413a7c8cef79217c1db4d609e72a\"",
-    "last_modified": "Mon, 16 Nov 2026 21:48:24 GMT",
     "first_seen": {
       "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-1-mortara-fastest-in-disrupted-session/": "2026-11-16T21:48:23Z",
       "https://www.pitdebrief.com/post/all-the-special-liveries-for-the-2026-f1-season/": "2026-11-16T19:18:00Z",
@@ -547,11 +688,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "\"29db413a7c8cef79217c1db4d609e72a\"",
+    "last_modified": "Mon, 16 Nov 2026 21:48:24 GMT",
+    "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
-    "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 17:07:47 GMT",
     "first_seen": {
       "https://feederseries.net/2026/11/16/feeder-series-podcast-2026-usf-pro-season-review-feat-rob-howden-champions-standouts-future-indycar-stars/": "2026-11-16T17:04:57Z",
       "https://feederseries.net/2026/11/16/fia-formula-regional-world-cup-2026-macau-grand-prix-guide/": "2026-11-16T14:43:17Z",
@@ -610,11 +752,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 17:05:16 GMT",
+    "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
-    "etag": "W/\"4de5e73b4552fdeed8c142f4d7e7a0f9\"",
-    "last_modified": "Mon, 16 Nov 2026 10:33:04 GMT",
     "first_seen": {
       "https://formulascout.com/f2-leader-rafael-camara-to-make-second-f1-start-at-las-vegas-gp/141154": "2026-11-16T10:33:04Z",
       "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147": "2026-11-16T10:08:46Z",
@@ -686,6 +829,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T22:00:01Z"
+    "last_ok": "2026-11-16T22:03:44Z",
+    "etag": "W/\"4de5e73b4552fdeed8c142f4d7e7a0f9\"",
+    "last_modified": "Mon, 16 Nov 2026 10:33:04 GMT",
+    "rules": "c92c32a02a3e76f6"
   }
 }
