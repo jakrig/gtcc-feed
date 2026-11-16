@@ -50,10 +50,10 @@
       "url": "https://www.gt-report.com/feed/",
       "home": "https://www.gt-report.com",
       "series": [],
-      "enabled": true,
-      "permission": "unknown",
+      "enabled": false,
+      "permission": "required",
       "verified": true,
-      "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found."
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. Terms (gt-report.com/info-and-legal) say you must not republish or redistribute GT Report material; switched off."
     },
     {
       "id": "dailysportscar",
@@ -76,6 +76,76 @@
       "permission": "unknown",
       "verified": true,
       "notes": "Checked from GitHub Actions on 2026-11-13: valid RSS, updated that day. No terms page found. Mostly Supercars; only matching series are kept."
+    },
+    {
+      "id": "british-gt-official",
+      "name": "British GT",
+      "url": "https://www.britishgt.com/feed",
+      "home": "https://www.britishgt.com",
+      "series": [
+        "british-gt"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. Official SRO site; no terms page linked from the homepage."
+    },
+    {
+      "id": "nls-official",
+      "name": "NLS",
+      "url": "https://www.nuerburgring-langstrecken-serie.de/language/en/feed/",
+      "home": "https://www.nuerburgring-langstrecken-serie.de",
+      "series": [
+        "nls"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. Official English news; posts roughly monthly. Only an Impressum (legal notice), no reuse terms."
+    },
+    {
+      "id": "touringcars-net",
+      "name": "TouringCars.net",
+      "url": "https://www.touringcars.net/feed/",
+      "home": "https://www.touringcars.net",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. No terms page found."
+    },
+    {
+      "id": "pitdebrief",
+      "name": "Pit Debrief",
+      "url": "https://pitdebrief.com/feed/",
+      "home": "https://pitdebrief.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. No terms page linked from the homepage."
+    },
+    {
+      "id": "feederseries",
+      "name": "Feeder Series",
+      "url": "https://www.feederseries.net/feed/",
+      "home": "https://www.feederseries.net",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. F2/F3 and junior formulas; no terms page linked from the homepage."
+    },
+    {
+      "id": "formulascout",
+      "name": "Formula Scout",
+      "url": "https://www.formulascout.com/feed/",
+      "home": "https://www.formulascout.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. F2/F3 and junior formulas; no terms page linked from the homepage."
     },
     {
       "id": "fia",
