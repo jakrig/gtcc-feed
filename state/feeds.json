@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,11 +244,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "dailysportscar": {
-    "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
-    "last_modified": "Sun, 15 Nov 2026 17:58:59 GMT",
+    "etag": "\"d9c84f5d2c2fb080c660488cd22e579f\"",
+    "last_modified": "Mon, 16 Nov 2026 09:22:32 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/13/ferraris-split-pole-positions-for-asian-le-mans-hypercar-debut.html": "2026-11-13T17:00:41Z",
       "https://www.dailysportscar.com/2026/11/13/jarett-andretti-joins-myers-riley-motorsports-for-2027.html": "2026-11-13T16:58:56Z",
@@ -287,7 +287,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "speedcafe": {
     "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
@@ -328,36 +328,24 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "last_ok": "2026-11-16T09:28:52Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 08:37:56 GMT",
+    "last_modified": "Mon, 16 Nov 2026 09:28:46 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
       "https://www.fia.com/news/how-roussel-rose-make-more-macau-history-fia-f4-world-cup-triumph": "2026-11-12T07:29:00Z",
       "https://www.fia.com/news/fabiana-ecclestone-leads-high-impact-agenda-brazil-focusing-road-safety-and-female-empowerment": "2026-11-11T09:55:00Z",
       "https://www.fia.com/news/fia-announces-aduo-results-following-third-review-periods-2026": "2026-11-10T10:50:00Z",
-      "https://www.fia.com/news/al-attiyah-and-delfino-secure-clean-sweep-fia-middle-east-baja-cup-successes-qataris-fourth-win": "2026-11-08T23:48:00Z",
-      "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship": "2026-11-08T20:06:00Z",
       "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z",
       "https://www.fia.com/news/top-drivers-mix-fia-gt-world-cup-hat-trick": "2026-11-15T14:01:00Z",
-      "https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup": "2026-11-15T19:22:00Z"
+      "https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup": "2026-11-15T19:22:00Z",
+      "https://www.fia.com/news/fia-and-formula-e-unleash-gen4-official-pre-season-testing": "2026-11-16T09:09:00Z",
+      "https://www.fia.com/news/2026-fia-european-baja-cup-titles-polish-duo-wiatr-and-laskawiec-after-hungarian-baja-victory": "2026-11-15T09:04:00Z"
     },
-    "items": [
-      {
-        "title": "F1 – Norris triumphs in São Paulo as Mercedes secure 2026 Constructors’ Championship",
-        "source": "FIA",
-        "time": "2026-11-08T20:06:00Z",
-        "url": "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      }
-    ],
-    "last_ok": "2026-11-16T08:38:22Z"
+    "items": [],
+    "last_ok": "2026-11-16T09:28:52Z"
   }
 }
