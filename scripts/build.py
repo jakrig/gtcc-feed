@@ -111,12 +111,16 @@ def canonical_url(url: str | None) -> str | None:
                                     urllib.parse.urlencode(query), ""))
 
 
-def keyword_pattern(keywords: list[str]) -> re.Pattern[str]:
-    """Whole-word match. All-caps keywords (acronyms) are case-sensitive."""
+def keyword_pattern(keywords: list[str], any_case: bool = False) -> re.Pattern[str]:
+    """Whole-word match. All-caps keywords (acronyms) are case-sensitive unless any_case.
+
+    Headlines need case-sensitive acronyms ("the wec of it"); category tags are written
+    freely ("nls", "IMSA") and are matched in any case.
+    """
     parts = []
     for kw in keywords:
         body = re.escape(kw)
-        parts.append(f"(?-i:{body})" if kw.isupper() else body)
+        parts.append(f"(?-i:{body})" if kw.isupper() and not any_case else body)
     return re.compile(r"(?<![\w-])(?:" + "|".join(parts) + r")(?![\w-])", re.IGNORECASE)
 
 
@@ -272,11 +276,15 @@ def fetch(feed: dict[str, Any], st: dict[str, Any]) -> bytes | None:
 class Matcher:
     def __init__(self, cfg: Config) -> None:
         # a series with no keywords is calendar-only: never matched in headlines
-        self.series = [(sid, keyword_pattern(s["keywords"])) for sid, s in cfg.series.items() if s["keywords"]]
+        news = [(sid, s) for sid, s in cfg.series.items() if s["keywords"]]
+        self.series = [(sid, keyword_pattern(s["keywords"])) for sid, s in news]
+        self.series_tags = [(sid, keyword_pattern(s["keywords"], any_case=True)) for sid, s in news]
         self.circuits = [(cid, keyword_pattern(c["keywords"])) for cid, c in cfg.circuits.items() if c["keywords"]]
 
-    def series_in(self, title: str) -> list[str]:
-        return [sid for sid, pat in self.series if pat.search(title)]
+    def series_in(self, title: str, categories: list[str] | None = None) -> list[str]:
+        tags = " | ".join(categories or [])
+        return [sid for (sid, pat), (_, tag_pat) in zip(self.series, self.series_tags)
+                if pat.search(title) or (tags and tag_pat.search(tags))]
 
     def circuit_in(self, title: str) -> str | None:
         return next((cid for cid, pat in self.circuits if pat.search(title)), None)
@@ -310,8 +318,7 @@ def items_for_feed(feed: dict[str, Any], entries: list[dict[str, Any]], st: dict
         if when < now - timedelta(days=MAX_AGE_DAYS):
             continue
         # the headline plus the article's own category tags ("British GT", "IMSA", ...)
-        tags = " | ".join([title, *e.get("categories", [])])
-        series = list(feed.get("series") or matcher.series_in(tags))
+        series = list(feed.get("series") or matcher.series_in(title, e.get("categories", [])))
         if not series:
             continue  # multi-series feed, nothing we cover
         circuit = matcher.circuit_in(title)

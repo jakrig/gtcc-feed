@@ -72,6 +72,14 @@ class Helpers(unittest.TestCase):
         self.assertEqual(matcher.series_in("Sprint win in F2 at Monza"), ["f2"])
         self.assertEqual(matcher.series_in("FIA Formula 3 champion steps up"), ["f3"])
 
+    def test_category_tags_match_in_any_case(self) -> None:
+        # real tag lists seen in Sportscar365, Dailysportscar and RACER feeds
+        matcher = build.Matcher(build.load_config())
+        self.assertEqual(matcher.series_in("New series for 2028 now off the table", ["Nürburgring Endurance", "adac", "nls"]), ["nls"])
+        self.assertEqual(matcher.series_in("Boulle joins United", ["IMSA WeatherTech", "Industry News"]), ["imsa"])
+        self.assertEqual(matcher.series_in("Pre-season test report", ["Indy NXT", "NASCAR"]), [])
+        self.assertEqual(matcher.series_in("the wec of it"), [])  # headlines keep case-sensitive acronyms
+
     def test_acronyms_are_case_sensitive(self) -> None:
         pat = build.keyword_pattern(["WEC", "Le Mans"])
         self.assertTrue(pat.search("WEC title fight"))
