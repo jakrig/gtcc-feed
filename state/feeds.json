@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -287,24 +287,46 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "speedcafe": {
-    "etag": "W/\"31eb28202bfc10dfe10452420266b0e7-gzip\"",
+    "etag": "W/\"93f9bcaee85710f9f52a1e7eba1065b3-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-heat-race-results-report-final-points-standings-details/": "2026-11-14T10:00:14Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-legend-cars-australia-dash-for-cash-final-sam-simpson-win-results-report/": "2026-11-14T11:41:25Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-support-categories-irc-formual-rx8-champions-crowned-lee-stibbs-emily-caccaviello-stiaan-kriel-results-report/": "2026-11-14T11:35:16Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-final-dash-for-cash-results-report/": "2026-11-14T11:20:01Z",
       "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/": "2026-11-14T18:55:58Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-mark-skaife-holden-commodore-golden-child-bathurst-1000-winner/": "2026-11-15T00:19:08Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-14T21:30:45Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z",
       "https://speedcafe.com/supercars-news-team-orders-rules-regulations-review-corruption-sporting-integrity-australia/": "2026-11-15T18:55:59Z",
-      "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-taupo-results-tyler-cheney-jarrod-hughes-declan-fraser-video-highlights/": "2026-11-15T22:43:30Z"
+      "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-taupo-results-tyler-cheney-jarrod-hughes-declan-fraser-video-highlights/": "2026-11-15T22:43:30Z",
+      "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
+      "https://speedcafe.com/motorsport-news-2026-coral-taylor-retirement-australian-rally-championship-bates-family-comments-reaction-statement/": "2026-11-16T00:14:34Z",
+      "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/": "2026-11-15T23:33:59Z"
     },
     "items": [
+      {
+        "title": "Antonelli identifies biggest rival for 2027 F1 crown",
+        "source": "Speedcafe",
+        "time": "2026-11-16T00:42:35Z",
+        "url": "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Piastri reveals biggest challenge behind difficult F1 season",
+        "source": "Speedcafe",
+        "time": "2026-11-15T23:33:59Z",
+        "url": "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Why F1 fans still can’t get enough of Guenther Steiner",
         "source": "Speedcafe",
@@ -317,11 +339,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Sun, 15 Nov 2026 23:19:19 GMT",
+    "last_modified": "Mon, 16 Nov 2026 00:43:26 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -347,6 +369,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-15T23:19:59Z"
+    "last_ok": "2026-11-16T00:44:27Z"
   }
 }
