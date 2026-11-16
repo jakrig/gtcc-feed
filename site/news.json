@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T22:18:23Z",
+  "updated": "2026-11-16T22:26:52Z",
   "items": [
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
@@ -11,29 +11,8 @@
         "nls"
       ],
       "circuit": "nurburgring",
-      "photo": null
-    },
-    {
-      "title": "Dillmann Named Ford Hypercar Reserve Driver",
-      "source": "Sportscar365",
-      "time": "2026-11-16T20:00:07Z",
-      "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
-      "source": "Dailysportscar",
-      "time": "2026-11-16T20:00:01Z",
-      "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Dillmann named reserve driver for Ford Hypercar program",
@@ -44,7 +23,19 @@
         "wec"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
+          "time": "2026-11-16T20:00:01Z"
+        },
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
+          "time": "2026-11-16T20:00:07Z"
+        }
+      ]
     },
     {
       "title": "All the special liveries for the 2026 F1 season",
@@ -55,7 +46,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "PODCAST: Your questions answered",
@@ -66,7 +58,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
@@ -77,7 +70,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Williams to light up night sky with special Las Vegas livery",
@@ -88,7 +82,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim",
@@ -99,7 +94,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Motorsport Week’s F1 Las Vegas GP Preview",
@@ -110,7 +106,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
@@ -121,7 +118,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Komatsu, Bearman, and Câmara discuss Haas’s challenges and expectations ahead of 2026 F1 Las Vegas GP weekend",
@@ -132,7 +130,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
@@ -143,7 +142,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Deligny targets greater consistency in 2027 FIA F3 campaign with Van Amersfoort Racing",
@@ -154,7 +154,8 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "It's too early to pick F1's 2027 champion. But there are already clues to how the fight will play out",
@@ -165,7 +166,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Camara retains Haas seat for Las Vegas GP; Hirakawa in for FP1",
@@ -176,7 +178,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Las Vegas GP unveils brand new trophies ahead of F1 return",
@@ -187,7 +190,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Hadjar reflects on rookie adaptations and the importance of F2 growth in F1 2026",
@@ -199,7 +203,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Sellers Explains HMI’s BMW Decision, Pilot Challenge Plans",
@@ -210,7 +215,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Boulle, Aguilera Join Di Resta At United Autosports",
@@ -221,7 +227,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "United Autosports completes first half of its IMSA lineup",
@@ -232,7 +239,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Boulle Rejoins United, Set for First Full Season Since 2024",
@@ -243,7 +251,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "F2 leader Rafael Camara to make second F1 start at Las Vegas GP",
@@ -255,18 +264,8 @@
         "f2"
       ],
       "circuit": "las-vegas",
-      "photo": null
-    },
-    {
-      "title": "Oliver Goethe leaves MP Motorsport for new LN4 Fusion team in F2",
-      "source": "Formula Scout",
-      "time": "2026-11-16T10:08:46Z",
-      "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
-      "series": [
-        "f2"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
@@ -277,7 +276,8 @@
         "wec"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
@@ -288,7 +288,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Oliver Goethe joins LN4 Fusion for 2027 F2 season",
@@ -299,7 +300,14 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Formula Scout",
+          "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
+          "time": "2026-11-16T10:08:46Z"
+        }
+      ]
     },
     {
       "title": "Watch the Ten Most Dramatic Moments from 6H Monza",
@@ -310,7 +318,8 @@
         "wec"
       ],
       "circuit": "monza",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Australian Grand Prix Corporation boss quits",
@@ -321,7 +330,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Antonelli identifies biggest rival for 2027 F1 crown",
@@ -332,7 +342,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Feeder Series testing round-up: 1–15 November",
@@ -343,7 +354,8 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks",
@@ -354,7 +366,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
@@ -365,7 +378,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
@@ -376,7 +390,8 @@
         "super-taikyu"
       ],
       "circuit": "fuji",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "F1 Academy champion Palmowski joins Red Bull and steps up to FREC",
@@ -387,7 +402,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Le Mans 24 Hours 2027: Top Accommodation Options For Groups Of All Sizes, From 3-15 Nights, From Project 100",
@@ -398,7 +414,8 @@
         "wec"
       ],
       "circuit": "le-mans",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Jarett Andretti Joins Myers Riley Motorsports For 2027",
@@ -409,7 +426,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "How Jade Jacquet’s French F4 victory helped turn her F1 Academy season around",
@@ -420,7 +438,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Stolen BTCC car and trailer recovered",
@@ -431,7 +450,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Power Maxed Racing BTCC Audi recovered after theft",
@@ -442,7 +462,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Nikola Tsolov to be reserve driver for both of Red Bull’s F1 teams in 2027",
@@ -453,7 +474,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "FIA F3 champion Ugo Ugochukwu to step up to F2 with Campos Racing",
@@ -465,18 +487,8 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Power Maxed Racing appeals for help after BTCC Audi stolen",
-      "source": "TouringCarTimes",
-      "time": "2026-11-12T14:27:22Z",
-      "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Power Maxed Racing offers reward for return of stolen touring car",
@@ -487,7 +499,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCarTimes",
+          "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
+          "time": "2026-11-12T14:27:22Z"
+        }
+      ]
     },
     {
       "title": "10 years of F2: Alexa Quintin, director of communications",
@@ -498,18 +517,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Two-time MINI Challenge champion Tom Ovenden to make BTCC début",
-      "source": "TouringCars.net",
-      "time": "2026-11-11T08:42:17Z",
-      "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Tom Ovenden to make BTCC debut with EXCELR8 in 2027",
@@ -520,18 +529,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Sporting format changes agreed for 2027 BTCC season",
-      "source": "TouringCars.net",
-      "time": "2026-11-09T16:52:37Z",
-      "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCars.net",
+          "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
+          "time": "2026-11-11T08:42:17Z"
+        }
+      ]
     },
     {
       "title": "BTCC revises race weekend format for 2027 season",
@@ -542,7 +547,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCars.net",
+          "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
+          "time": "2026-11-09T16:52:37Z"
+        }
+      ]
     },
     {
       "title": "10 years of F2: Jeremy Cotterill, MP Motorsport team manager",
@@ -553,7 +565,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Donington Park result confirmed following National Court hearing",
@@ -564,7 +577,8 @@
         "british-gt"
       ],
       "circuit": "donington-park",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Tom Ingram signs three-year extension with EXCELR8 Motorsport",
@@ -575,7 +589,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     }
   ],
   "photos": {}
