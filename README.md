@@ -107,7 +107,8 @@ Keep photos small (about 640 px wide) so the game downloads them quickly.
   "updated": "2026-11-13T14:17:00Z",
   "items": [
     {"title": "...", "source": "Sportscar365", "time": "2026-11-13T12:41:00Z",
-     "url": "https://...", "series": ["imsa"], "circuit": "sebring", "photo": null}
+     "url": "https://...", "series": ["imsa"], "circuit": "sebring", "photo": null,
+     "also": [{"source": "Dailysportscar", "url": "https://...", "time": "2026-11-13T13:05:00Z"}]}
   ],
   "photos": {}
 }
@@ -147,7 +148,11 @@ Only the rounds still to run when added (14 Nov 2026), with session times, from 
 | `f1` | Las Vegas, Qatar, Abu Dhabi (rounds 21–23) |
 | `motogp` | Portugal, Valencia (rounds 21–22). MotoGP is calendar-only: no headlines. |
 
-Up to 40 headlines, at most 10 per source, none older than 14 days, newest first, duplicates removed. Past calendar events are kept; the game hides them.
+News holds every matching headline from the last 14 days, newest first, with no per-series cap (a 1000-item ceiling exists only as a safety limit). Headlines stay for the full 14 days even after they drop out of the outlet's own feed. Series are matched on the headline and on the article's category tags.
+
+The same story from several outlets is shown once: the outlet that published it first leads, and the others are listed in `also` (source, link, time), so the game can show "also on Dailysportscar". Two headlines count as the same story when they come from different outlets within 72 hours and share at least three meaningful words making up at least 30% of their combined words, or are identical. An outlet's own follow-up articles are never merged.
+
+Past calendar events are kept; the game hides them.
 
 `schema_version` changes only for breaking changes. The game should ignore a file whose version is newer than it understands.
 
@@ -156,6 +161,7 @@ Up to 40 headlines, at most 10 per source, none older than 14 days, newest first
 - Download `news.json` and `calendar.json` when Home opens, at most once an hour, and cache them. Ship a copy inside the build for first launch and offline play.
 - Show "updated X ago" from `updated`.
 - On tap, open the article with `OS.shell_open(url)`: the phone's browser on Android, a new tab on the web build.
+- When `also` is not empty, show the other outlets under the headline (e.g. "also on Dailysportscar, Sportscar365"), each opening its own link.
 
 ## When things break
 

@@ -145,8 +145,35 @@ class Output(unittest.TestCase):
                             item | {"title": "Newer", "url": "https://b/2", "time": "2026-11-13T11:00:00Z"}]},
         }
         news = build.build_news(cfg, state, NOW)
-        self.assertEqual([it["url"] for it in news["items"]], ["https://b/2", "https://a/1"])
+        # same headline from two outlets: one story, led by the outlet that published first
+        self.assertEqual([it["url"] for it in news["items"]], ["https://b/2", "https://b/1"])
+        self.assertEqual([a["url"] for a in news["items"][1]["also"]], ["https://a/1"])
         self.assertEqual(news["schema_version"], build.SCHEMA_VERSION)
+
+    def test_same_story_from_two_outlets_is_merged(self) -> None:
+        # real pair seen on 2026-11-16
+        cfg = build.load_config()
+        base = {"series": ["wec"], "circuit": None, "photo": None}
+        state = {"a": {"items": [base | {"source": "Sportscar365", "title": "Dillmann Named Ford Hypercar Reserve Driver",
+                                         "url": "https://a/1", "time": "2026-11-13T10:00:00Z"}]},
+                 "b": {"items": [base | {"source": "Dailysportscar", "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
+                                         "url": "https://b/1", "time": "2026-11-13T11:30:00Z"}]}}
+        [story] = build.build_news(cfg, state, NOW)["items"]
+        self.assertEqual(story["source"], "Sportscar365")
+        self.assertEqual(story["also"], [{"source": "Dailysportscar", "url": "https://b/1", "time": "2026-11-13T11:30:00Z"}])
+
+    def test_different_stories_and_same_outlet_are_not_merged(self) -> None:
+        cfg = build.load_config()
+        base = {"series": ["btcc"], "circuit": None, "photo": None}
+        state = {"a": {"items": [
+            base | {"source": "TouringCarTimes", "title": "Power Maxed Racing BTCC Audi recovered after theft", "url": "https://a/1", "time": "2026-11-13T09:00:00Z"},
+            base | {"source": "TouringCarTimes", "title": "Power Maxed Racing BTCC Audi stolen", "url": "https://a/2", "time": "2026-11-12T09:00:00Z"}]},
+                 "b": {"items": [
+            base | {"source": "TouringCars.net", "title": "Stolen BTCC car and trailer recovered", "url": "https://b/1", "time": "2026-11-13T10:00:00Z"},
+            base | {"source": "TouringCars.net", "title": "BTCC Audi recovered after theft, says Power Maxed Racing", "url": "https://b/2", "time": "2026-11-20T10:00:00Z"}]}}
+        items = build.build_news(cfg, state, NOW + build.timedelta(days=8))["items"]
+        self.assertEqual(len(items), 4)  # different wording, same outlet, or more than 72 hours apart
+        self.assertTrue(all(it["also"] == [] for it in items))
 
     def test_items_that_left_the_feed_are_kept_for_max_age(self) -> None:
         base = {"source": "A", "series": ["nls"], "circuit": None, "photo": None}

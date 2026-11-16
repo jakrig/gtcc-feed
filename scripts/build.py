@@ -19,6 +19,7 @@ import json
 import re
 import shutil
 import sys
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -36,6 +37,12 @@ STALE_REPORT = ROOT / "state" / "stale.md"
 
 SCHEMA_VERSION = 1
 RULES_VERSION = 2  # bump when the matching code changes, so cached feeds are re-read
+DUP_WINDOW_HOURS = 72     # two outlets' headlines this close together may be the same story
+DUP_SIMILARITY = 0.3      # share of meaningful headline words in common (Jaccard) to count as the same story
+DUP_MIN_SHARED = 3        # ...and at least this many words in common, so short headlines need real overlap
+STOPWORDS = frozenset("""the and for with from into after over under ahead about amid his her its their our your
+are was were has have had will would can could not but out off new set sets says said who how why what when
+this that these those than then them they more most first last next year""".split())
 USER_AGENT = "gtcc-feed/1.0"
 FETCH_TIMEOUT_S = 20
 MAX_ITEMS = 1000          # safety ceiling only; the 14-day window is the real limit (no per-series cap)
@@ -397,27 +404,54 @@ def update_feeds(cfg: Config, state: dict[str, Any], now: datetime, offline: boo
     return stale
 
 
+def title_words(title: str) -> set[str]:
+    """Meaningful words of a headline, for spotting the same story under two headlines."""
+    folded = "".join(c for c in unicodedata.normalize("NFKD", title.lower()) if not unicodedata.combining(c))
+    words = re.findall(r"\w+", folded)
+    return {w for w in words if (len(w) > 2 or w.isdigit()) and w not in STOPWORDS}
+
+
+def same_story(a: dict[str, Any], b: dict[str, Any]) -> bool:
+    """Different outlets, published close together, mostly the same words."""
+    if a["source"] == b["source"]:
+        return False  # an outlet's own follow-ups are separate articles
+    gap = abs(parse_time(a["time"]) - parse_time(b["time"]))
+    if gap > timedelta(hours=DUP_WINDOW_HOURS):
+        return False
+    wa, wb = a["_words"], b["_words"]
+    if wa and wa == wb:
+        return True  # the same headline, however short
+    shared = len(wa & wb)
+    return shared >= DUP_MIN_SHARED and shared / len(wa | wb) >= DUP_SIMILARITY
+
+
 def build_news(cfg: Config, state: dict[str, Any], now: datetime) -> dict[str, Any]:
     cutoff = now - timedelta(days=MAX_AGE_DAYS)
     seen_urls: set[str] = set()
     seen_titles: set[str] = set()
-    items = []
+    stories: list[dict[str, Any]] = []
     pool = [it for fid in sorted(state) for it in state[fid].get("items", [])]
-    pool.sort(key=lambda it: (it["time"], it["url"]), reverse=True)
+    pool.sort(key=lambda it: (it["time"], it["url"]))  # oldest first: the outlet that broke a story leads it
     in_news = {sid for sid, s in cfg.series.items() if s["keywords"]}
     for it in pool:
         # a series removed from series.json (or made calendar-only) drops its cached headlines at once
         it = it | {"series": [s for s in it["series"] if s in in_news]}
         if not it["series"]:
             continue
-        key = re.sub(r"\W+", "", it["title"].lower())
+        key = it["source"] + "|" + re.sub(r"\W+", "", it["title"].lower())  # same outlet, same headline
         if it["url"] in seen_urls or key in seen_titles or parse_time(it["time"]) < cutoff:
             continue
         seen_urls.add(it["url"])
         seen_titles.add(key)
-        items.append(it)
-        if len(items) >= MAX_ITEMS:
-            break
+        it = it | {"_words": title_words(it["title"]), "also": []}
+        lead = next((s for s in stories if same_story(s, it)), None)
+        if lead is not None:
+            lead["also"].append({"source": it["source"], "url": it["url"], "time": it["time"]})
+            lead["series"] = lead["series"] + [s for s in it["series"] if s not in lead["series"]]
+            continue
+        stories.append(it)
+    stories.sort(key=lambda it: (it["time"], it["url"]), reverse=True)
+    items = [{k: v for k, v in it.items() if k != "_words"} for it in stories[:MAX_ITEMS]]
     return {"schema_version": SCHEMA_VERSION, "updated": iso(now), "items": items,
             "photos": photo_credits(cfg, {it["photo"] for it in items if it["photo"]})}
 
