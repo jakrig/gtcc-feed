@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -287,13 +287,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "speedcafe": {
-    "etag": "W/\"7967689cde109fdb0a63cd6d8a42abd8-gzip\"",
+    "etag": "W/\"c5ba8274f792cab152484695de514961-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/": "2026-11-14T18:55:58Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-mark-skaife-holden-commodore-golden-child-bathurst-1000-winner/": "2026-11-15T00:19:08Z",
       "https://speedcafe.com/motorsport-news-2026-live-stream-nextgen-nz-championship-round-2-taupo-ta2-trans-am/": "2026-11-14T21:30:45Z",
       "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z",
@@ -302,7 +301,8 @@
       "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
       "https://speedcafe.com/motorsport-news-2026-coral-taylor-retirement-australian-rally-championship-bates-family-comments-reaction-statement/": "2026-11-16T00:14:34Z",
       "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/": "2026-11-15T23:33:59Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-brodie-kostecki-matt-payne-broc-feeney-chaz-mostert/": "2026-11-16T00:51:32Z"
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-brodie-kostecki-matt-payne-broc-feeney-chaz-mostert/": "2026-11-16T00:51:32Z",
+      "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/": "2026-11-16T02:17:44Z"
     },
     "items": [
       {
@@ -326,24 +326,13 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Why F1 fans still can’t get enough of Guenther Steiner",
-        "source": "Speedcafe",
-        "time": "2026-11-14T18:55:58Z",
-        "url": "https://speedcafe.com/f1-news-2026-guenther-steiner-interview-tour-australia-fans-stories-haas-former-boss-thoughts-news-season-motogp-tech3/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 01:22:36 GMT",
+    "last_modified": "Mon, 16 Nov 2026 02:23:04 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -369,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T01:22:31Z"
+    "last_ok": "2026-11-16T02:25:29Z"
   }
 }
