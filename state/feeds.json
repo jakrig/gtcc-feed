@@ -15,7 +15,7 @@
       "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "racer": {
     "etag": null,
@@ -56,7 +56,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -119,14 +119,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "motorsportweek": {
-    "etag": "\"4d90a0b8ad94d3d17ce80132888967e3\"",
-    "last_modified": "Mon, 16 Nov 2026 15:35:28 GMT",
+    "etag": "\"526896dca90debce2d39614c37e42d1f\"",
+    "last_modified": "Mon, 16 Nov 2026 17:00:00 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
-      "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/christian-horner-max-verstappen-red-bull-sadness-f1/": "2026-11-15T17:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/": "2026-11-15T19:00:00Z",
@@ -134,9 +132,22 @@
       "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/": "2026-11-16T09:31:16Z",
       "https://www.motorsportweek.com/2026/11/16/las-vegas-f1-trophy/": "2026-11-16T13:27:08Z",
       "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/": "2026-11-16T15:06:09Z",
-      "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/": "2026-11-16T15:35:26Z"
+      "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/": "2026-11-16T15:35:26Z",
+      "https://www.motorsportweek.com/2026/11/16/fernando-alonso-f1-aston-martin-honda-faith/": "2026-11-16T17:00:00Z",
+      "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/": "2026-11-16T16:45:00Z"
     },
     "items": [
+      {
+        "title": "Motorsport Week’s F1 Las Vegas GP Preview",
+        "source": "Motorsport Week",
+        "time": "2026-11-16T16:45:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
         "source": "Motorsport Week",
@@ -202,31 +213,9 @@
         ],
         "circuit": "las-vegas",
         "photo": null
-      },
-      {
-        "title": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
-        "source": "Motorsport Week",
-        "time": "2026-11-15T16:00:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      },
-      {
-        "title": "Ex-Liberty boss hints at potential F1 sale with ‘easy money’ verdict",
-        "source": "Motorsport Week",
-        "time": "2026-11-15T15:30:00Z",
-        "url": "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -254,7 +243,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "dailysportscar": {
     "etag": "\"1ecb06722edbf096b5283179475e17be\"",
@@ -297,7 +286,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "speedcafe": {
     "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
@@ -338,11 +327,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 16:19:46 GMT",
+    "last_modified": "Mon, 16 Nov 2026 17:19:56 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -356,6 +345,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T16:22:31Z"
+    "last_ok": "2026-11-16T17:20:17Z"
   }
 }

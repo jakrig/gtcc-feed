@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T16:22:31Z",
+  "updated": "2026-11-16T17:20:17Z",
   "items": [
+    {
+      "title": "Motorsport Week’s F1 Las Vegas GP Preview",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T16:45:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
     {
       "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
       "source": "Motorsport Week",
@@ -110,28 +121,6 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
-    },
-    {
-      "title": "Kimi Antonelli continues F1 title celebrations with special presidential meeting",
-      "source": "Motorsport Week",
-      "time": "2026-11-15T16:00:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Ex-Liberty boss hints at potential F1 sale with ‘easy money’ verdict",
-      "source": "Motorsport Week",
-      "time": "2026-11-15T15:30:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
       "photo": null
     },
     {
