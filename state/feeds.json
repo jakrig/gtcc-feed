@@ -15,24 +15,35 @@
       "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "racer": {
     "etag": null,
     "last_modified": null,
     "first_seen": {
-      "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team": "2026-11-13T17:16:48Z",
-      "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
-      "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
       "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z",
       "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z",
       "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z",
       "https://racer.com/2026/11/15/proton-fights-through-to-lmp2-win-as-af-corse-sweeps-alms-hypercar-opener": "2026-11-15T19:46:56Z",
       "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z",
       "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup": "2026-11-16T12:00:32Z",
-      "https://racer.com/2026/11/16/camara-retains-haas-seat-for-las-vegas-gp-hirakawa-in-for-fp1": "2026-11-16T14:00:47Z"
+      "https://racer.com/2026/11/16/camara-retains-haas-seat-for-las-vegas-gp-hirakawa-in-for-fp1": "2026-11-16T14:00:47Z",
+      "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out": "2026-11-16T14:20:14Z",
+      "https://racer.com/2026/11/16/meguiar-s-shows-new-products-at-sema-to-make-road-and-race-cars-look-better": "2026-11-16T15:51:56Z",
+      "https://racer.com/2026/11/16/malukas-family-sells-hmd-motorsports-to-pv3-enterprises": "2026-11-16T14:39:14Z"
     },
     "items": [
+      {
+        "title": "It's too early to pick F1's 2027 champion. But there are already clues to how the fight will play out",
+        "source": "RACER",
+        "time": "2026-11-16T14:20:14Z",
+        "url": "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "United Autosports completes first half of its IMSA lineup",
         "source": "RACER",
@@ -43,31 +54,9 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "Quick shift: Breaking down the latest F1 silly season developments",
-        "source": "RACER",
-        "time": "2026-11-13T21:45:21Z",
-        "url": "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      },
-      {
-        "title": "Jarett Andretti joins Myers Riley IMSA GTD team",
-        "source": "RACER",
-        "time": "2026-11-13T17:16:48Z",
-        "url": "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team",
-        "series": [
-          "imsa"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -130,13 +119,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "motorsportweek": {
-    "etag": "\"c22578688c2ae03401a5e6ca92757244\"",
-    "last_modified": "Mon, 16 Nov 2026 15:06:11 GMT",
+    "etag": "\"4d90a0b8ad94d3d17ce80132888967e3\"",
+    "last_modified": "Mon, 16 Nov 2026 15:35:28 GMT",
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/15/ex-f1-star-career-decision-teaser/": "2026-11-15T15:05:09Z",
       "https://www.motorsportweek.com/2026/11/15/kimi-antonelli-italian-president/": "2026-11-15T16:00:00Z",
       "https://www.motorsportweek.com/2026/11/15/ex-f1-boss-hints-at-potential-sale/": "2026-11-15T15:30:00Z",
       "https://www.motorsportweek.com/2026/11/15/mclaren-f1-2027-las-vegas-gp-upgrades/": "2026-11-15T16:30:00Z",
@@ -145,9 +133,21 @@
       "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/": "2026-11-15T18:57:24Z",
       "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/": "2026-11-16T09:31:16Z",
       "https://www.motorsportweek.com/2026/11/16/las-vegas-f1-trophy/": "2026-11-16T13:27:08Z",
-      "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/": "2026-11-16T15:06:09Z"
+      "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/": "2026-11-16T15:06:09Z",
+      "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/": "2026-11-16T15:35:26Z"
     },
     "items": [
+      {
+        "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
+        "source": "Motorsport Week",
+        "time": "2026-11-16T15:35:26Z",
+        "url": "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
         "source": "Motorsport Week",
@@ -226,7 +226,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -254,7 +254,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "dailysportscar": {
     "etag": "\"1ecb06722edbf096b5283179475e17be\"",
@@ -297,7 +297,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "speedcafe": {
     "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
@@ -338,11 +338,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 15:28:52 GMT",
+    "last_modified": "Mon, 16 Nov 2026 16:19:46 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -356,6 +356,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T15:28:48Z"
+    "last_ok": "2026-11-16T16:22:31Z"
   }
 }
