@@ -15,7 +15,7 @@
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "racer": {
     "etag": null,
@@ -34,6 +34,17 @@
     },
     "items": [
       {
+        "title": "Dillmann named reserve driver for Ford Hypercar program",
+        "source": "RACER",
+        "time": "2026-11-16T20:00:00Z",
+        "url": "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "It's too early to pick F1's 2027 champion. But there are already clues to how the fight will play out",
         "source": "RACER",
         "time": "2026-11-16T14:20:14Z",
@@ -42,6 +53,17 @@
           "f1"
         ],
         "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Camara retains Haas seat for Las Vegas GP; Hirakawa in for FP1",
+        "source": "RACER",
+        "time": "2026-11-16T14:00:47Z",
+        "url": "https://racer.com/2026/11/16/camara-retains-haas-seat-for-las-vegas-gp-hirakawa-in-for-fp1",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
         "photo": null
       },
       {
@@ -56,7 +78,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -119,7 +141,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "motorsportweek": {
     "etag": "\"317a0c99b30827fff54cb3387493bf31\"",
@@ -215,7 +237,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -243,7 +265,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "dailysportscar": {
     "etag": "\"2dfafdddf83c440728e3b206f180723d\"",
@@ -286,7 +308,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "speedcafe": {
     "etag": "W/\"c285598691d0d28c9ec954e74ef59afc-gzip\"",
@@ -305,6 +327,28 @@
     },
     "items": [
       {
+        "title": "PODCAST: Your questions answered",
+        "source": "Speedcafe",
+        "time": "2026-11-16T19:00:23Z",
+        "url": "https://speedcafe.com/motorsport-podcast-supercars-news-f1-latest-details-full-credit-to-the-noise-former-legend-new-episode/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Australian Grand Prix Corporation boss quits",
+        "source": "Speedcafe",
+        "time": "2026-11-16T02:17:44Z",
+        "url": "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "Antonelli identifies biggest rival for 2027 F1 crown",
         "source": "Speedcafe",
         "time": "2026-11-16T00:42:35Z",
@@ -316,11 +360,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 21:16:27 GMT",
+    "last_modified": "Mon, 16 Nov 2026 21:51:07 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -334,6 +378,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T21:19:09Z"
+    "last_ok": "2026-11-16T21:51:02Z"
   }
 }

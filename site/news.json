@@ -1,7 +1,29 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T21:19:09Z",
+  "updated": "2026-11-16T21:51:02Z",
   "items": [
+    {
+      "title": "Dillmann named reserve driver for Ford Hypercar program",
+      "source": "RACER",
+      "time": "2026-11-16T20:00:00Z",
+      "url": "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "PODCAST: Your questions answered",
+      "source": "Speedcafe",
+      "time": "2026-11-16T19:00:23Z",
+      "url": "https://speedcafe.com/motorsport-podcast-supercars-news-f1-latest-details-full-credit-to-the-noise-former-legend-new-episode/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
       "source": "Motorsport Week",
@@ -58,6 +80,17 @@
       "photo": null
     },
     {
+      "title": "Camara retains Haas seat for Las Vegas GP; Hirakawa in for FP1",
+      "source": "RACER",
+      "time": "2026-11-16T14:00:47Z",
+      "url": "https://racer.com/2026/11/16/camara-retains-haas-seat-for-las-vegas-gp-hirakawa-in-for-fp1",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
       "title": "Las Vegas GP unveils brand new trophies ahead of F1 return",
       "source": "Motorsport Week",
       "time": "2026-11-16T13:27:08Z",
@@ -84,6 +117,17 @@
       "source": "Motorsport Week",
       "time": "2026-11-16T09:31:16Z",
       "url": "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Australian Grand Prix Corporation boss quits",
+      "source": "Speedcafe",
+      "time": "2026-11-16T02:17:44Z",
+      "url": "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/",
       "series": [
         "f1"
       ],
