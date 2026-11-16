@@ -1,34 +1,12 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14T09:19:24Z",
+  "updated": "2026-11-16T21:19:09Z",
   "items": [
     {
-      "title": "Quick shift: Breaking down the latest F1 silly season developments",
-      "source": "RACER",
-      "time": "2026-11-13T21:45:21Z",
-      "url": "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Former F1 teammate recalls softer side of ‘very loveable’ Jones",
-      "source": "Speedcafe",
-      "time": "2026-11-13T18:55:56Z",
-      "url": "https://speedcafe.com/f1-news-2026-riccardo-patreseon-alan-jones-death-teammate-exclusive-interview-opinion-tribute-shadow-first-win/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Williams confirms reserve driver switch for F1 Las Vegas GP",
+      "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
       "source": "Motorsport Week",
-      "time": "2026-11-13T18:10:19Z",
-      "url": "https://www.motorsportweek.com/2026/11/13/williams-f1-las-vegas-gp-reserve-driver/",
+      "time": "2026-11-16T19:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-caesars-palace/",
       "series": [
         "f1"
       ],
@@ -36,10 +14,65 @@
       "photo": null
     },
     {
-      "title": "Jarett Andretti joins Myers Riley IMSA GTD team",
+      "title": "Motorsport Week’s F1 Las Vegas GP Preview",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T16:45:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T15:35:26Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/haas-f1-las-vegas-gp-driver-decision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T15:06:09Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "It's too early to pick F1's 2027 champion. But there are already clues to how the fight will play out",
       "source": "RACER",
-      "time": "2026-11-13T17:16:48Z",
-      "url": "https://racer.com/2026/11/13/jarett-andretti-joins-myers-riley-imsa-gtd-team",
+      "time": "2026-11-16T14:20:14Z",
+      "url": "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Las Vegas GP unveils brand new trophies ahead of F1 return",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T13:27:08Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/las-vegas-f1-trophy/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null
+    },
+    {
+      "title": "United Autosports completes first half of its IMSA lineup",
+      "source": "RACER",
+      "time": "2026-11-16T12:00:32Z",
+      "url": "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup",
       "series": [
         "imsa"
       ],
@@ -47,14 +80,47 @@
       "photo": null
     },
     {
-      "title": "FIA set court date for vital Yuki Tsunoda F1 decision",
+      "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
       "source": "Motorsport Week",
-      "time": "2026-11-13T17:16:09Z",
-      "url": "https://www.motorsportweek.com/2026/11/13/yuki-tsunoda-f1-audi/",
+      "time": "2026-11-16T09:31:16Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/",
       "series": [
         "f1"
       ],
       "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Antonelli identifies biggest rival for 2027 F1 crown",
+      "source": "Speedcafe",
+      "time": "2026-11-16T00:42:35Z",
+      "url": "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
+      "source": "Motorsport Week",
+      "time": "2026-11-15T18:57:24Z",
+      "url": "https://www.motorsportweek.com/2026/11/15/michael-schumacher-f1-nico-rosberg/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
+    {
+      "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
+      "source": "Dailysportscar",
+      "time": "2026-11-15T14:42:20Z",
+      "url": "https://www.dailysportscar.com/2026/11/15/super-taikyu-fuji-finale-called-off-after-heavy-rain.html",
+      "series": [
+        "super-taikyu"
+      ],
+      "circuit": "fuji",
       "photo": null
     },
     {
@@ -69,67 +135,12 @@
       "photo": null
     },
     {
-      "title": "INSIGHT: The Timing Behind Hanley’s Ambitious IMSA Effort",
-      "source": "Sportscar365",
-      "time": "2026-11-13T13:22:24Z",
-      "url": "https://sportscar365.substack.com/p/insight-the-timing-behind-hanley",
-      "series": [
-        "imsa"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Red Bull promotes Palmowski to junior team after F1 Academy title",
-      "source": "RACER",
-      "time": "2026-11-13T12:37:11Z",
-      "url": "https://racer.com/2026/11/13/red-bull-promotes-palmowski-to-junior-team-after-f1-academy-title",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "David Coulthard makes ‘disrespect’ claim on wet weather F1 races",
-      "source": "Motorsport Week",
-      "time": "2026-11-13T10:42:15Z",
-      "url": "https://www.motorsportweek.com/2026/11/13/david-coulthard-f1-wet-weather/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
       "title": "Power Maxed Racing BTCC Audi recovered after theft",
       "source": "TouringCarTimes",
       "time": "2026-11-13T09:13:02Z",
       "url": "https://www.touringcartimes.com/2026/11/13/power-maxed-racing-btcc-audi-recovered-after-theft/",
       "series": [
         "btcc"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "TKRI Clinches Super Taikyu ST-X Title After Craft-Bamboo Misses Fuji Finale",
-      "source": "Dailysportscar",
-      "time": "2026-11-12T20:31:06Z",
-      "url": "https://www.dailysportscar.com/2026/11/12/tkri-clinches-super-taikyu-st-x-title-after-craft-bamboo-misses-fuji-finale.html",
-      "series": [
-        "super-taikyu"
-      ],
-      "circuit": "fuji",
-      "photo": null
-    },
-    {
-      "title": "Liam Lawson issues telling Red Bull message amid 2027 F1 confirmation",
-      "source": "Motorsport Week",
-      "time": "2026-11-12T19:00:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/12/liam-lawson-red-bull-message/",
-      "series": [
-        "f1"
       ],
       "circuit": null,
       "photo": null
@@ -146,28 +157,6 @@
       "photo": null
     },
     {
-      "title": "Red Bull gives junior star new responsibility with vital F1 announcement",
-      "source": "Motorsport Week",
-      "time": "2026-11-12T18:00:00Z",
-      "url": "https://www.motorsportweek.com/2026/11/12/red-bull-junior-f1-driver/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Tower Motorsports Adds Van der Zande, Peebles For 2027 IMSA LMP2 Programme",
-      "source": "Dailysportscar",
-      "time": "2026-11-12T16:31:09Z",
-      "url": "https://www.dailysportscar.com/2026/11/12/tower-motorsports-adds-van-der-zande-peebles-for-2027-imsa-lmp2-programme.html",
-      "series": [
-        "imsa"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
       "title": "Power Maxed Racing appeals for help after BTCC Audi stolen",
       "source": "TouringCarTimes",
       "time": "2026-11-12T14:27:22Z",
@@ -176,28 +165,6 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "WEC LMGT3 Champion Edgar Named Corvette Factory Driver",
-      "source": "Sportscar365",
-      "time": "2026-11-12T11:59:12Z",
-      "url": "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Record-Breaking GT3 Entry Set For 2027 Bathurst 12 Hour",
-      "source": "Dailysportscar",
-      "time": "2026-11-12T11:10:13Z",
-      "url": "https://www.dailysportscar.com/2026/11/12/record-breaking-gt3-entry-set-for-2027-bathurst-12-hour.html",
-      "series": [
-        "igtc"
-      ],
-      "circuit": "bathurst",
       "photo": null
     },
     {
@@ -220,50 +187,6 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "F1 – Norris triumphs in São Paulo as Mercedes secure 2026 Constructors’ Championship",
-      "source": "FIA",
-      "time": "2026-11-08T20:06:00Z",
-      "url": "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "WEC Monza: Cadillac wins season finale, Toyota crowned champions",
-      "source": "GT Report",
-      "time": "2026-11-08T18:36:06Z",
-      "url": "https://www.gt-report.com/2026/11/08/cadillac-wins-wec-season-finale-at-monza-toyota-crowned-champions/",
-      "series": [
-        "wec"
-      ],
-      "circuit": "monza",
-      "photo": null
-    },
-    {
-      "title": "F1 - 2026 São Paulo Grand Prix Post-Race Press Conference Transcript",
-      "source": "FIA",
-      "time": "2026-11-08T17:00:00Z",
-      "url": "https://www.fia.com/news/f1-2026-sao-paulo-grand-prix-post-race-press-conference-transcript",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "F1 – Norris takes São Paulo pole as rain-hit Qualifying delivers drama at Interlagos",
-      "source": "FIA",
-      "time": "2026-11-07T21:45:00Z",
-      "url": "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos",
-      "series": [
-        "f1"
-      ],
-      "circuit": "interlagos",
       "photo": null
     }
   ],
