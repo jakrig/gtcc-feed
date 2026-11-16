@@ -15,7 +15,7 @@
       "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "racer": {
     "etag": null,
@@ -25,12 +25,12 @@
       "https://racer.com/2026/11/13/gridlife-heading-to-vir-next-september": "2026-11-13T18:35:12Z",
       "https://racer.com/2026/11/13/quick-shift-breaking-down-the-latest-f1-silly-season-developments": "2026-11-13T21:45:21Z",
       "https://racer.com/2026/11/13/kalitta-capps-glenn-and-herrera-open-nhra-finals-in-no-1-spots": "2026-11-14T02:09:06Z",
-      "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality": "2026-11-14T17:30:35Z",
       "https://racer.com/2026/11/14/herrera-wins-postponed-vegas-race-kalitta-capps-glenn-and-herrera-qualify-no-1-at-nhra-finals-in-pomona": "2026-11-15T01:35:10Z",
       "https://racer.com/2026/11/15/fusion-formula-e-team-breaks-cover": "2026-11-15T16:20:47Z",
       "https://racer.com/2026/11/15/proton-fights-through-to-lmp2-win-as-af-corse-sweeps-alms-hypercar-opener": "2026-11-15T19:46:56Z",
       "https://racer.com/2026/11/15/todd-wins-race-title-in-dramatic-fashion-at-nhra-finals-kalitta-glenn-herrera-also-get-victories": "2026-11-16T03:00:46Z",
-      "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup": "2026-11-16T12:00:32Z"
+      "https://racer.com/2026/11/15/united-autosports-completes-first-half-of-its-imsa-lineup": "2026-11-16T12:00:32Z",
+      "https://racer.com/2026/11/16/camara-retains-haas-seat-for-las-vegas-gp-hirakawa-in-for-fp1": "2026-11-16T14:00:47Z"
     },
     "items": [
       {
@@ -67,7 +67,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -130,7 +130,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "motorsportweek": {
     "etag": "\"de81f5f9bce500d8ec187c9737d5bcaa\"",
@@ -226,7 +226,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -254,7 +254,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "dailysportscar": {
     "etag": "\"1ecb06722edbf096b5283179475e17be\"",
@@ -297,7 +297,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "speedcafe": {
     "etag": "W/\"b37aeb0704e68c5fb1803ed92116716e-gzip\"",
@@ -338,11 +338,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 13:37:53 GMT",
+    "last_modified": "Mon, 16 Nov 2026 14:38:10 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -356,6 +356,6 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-16T13:39:54Z"
+    "last_ok": "2026-11-16T14:38:06Z"
   }
 }
