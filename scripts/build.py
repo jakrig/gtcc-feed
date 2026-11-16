@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import email.utils
+import hashlib
 import html
 import json
 import re
@@ -34,6 +35,7 @@ STATE_FILE = ROOT / "state" / "feeds.json"
 STALE_REPORT = ROOT / "state" / "stale.md"
 
 SCHEMA_VERSION = 1
+RULES_VERSION = 2  # bump when the matching code changes, so cached feeds are re-read
 USER_AGENT = "gtcc-feed/1.0"
 FETCH_TIMEOUT_S = 20
 MAX_ITEMS = 1000          # safety ceiling only; the 14-day window is the real limit (no per-series cap)
@@ -255,6 +257,12 @@ def parse_feed(body: bytes) -> list[dict[str, Any]]:
     return entries
 
 
+def rules_hash(cfg: Config, feed: dict[str, Any]) -> str:
+    """Everything that decides which items a feed yields and how they are tagged."""
+    rules = {"build": RULES_VERSION, "feed": feed, "series": cfg.series, "circuits": cfg.circuits, "photos": cfg.photos}
+    return hashlib.sha256(json.dumps(rules, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:16]
+
+
 def fetch(feed: dict[str, Any], st: dict[str, Any]) -> bytes | None:
     """GET with conditional headers. None means 304 Not Modified."""
     req = urllib.request.Request(feed["url"], headers={"User-Agent": USER_AGENT})
@@ -363,12 +371,19 @@ def update_feeds(cfg: Config, state: dict[str, Any], now: datetime, offline: boo
         if not feed.get("enabled"):
             continue
         st = state.setdefault(feed["id"], {})
+        rules = rules_hash(cfg, feed)
+        if st.get("rules") != rules:
+            # matching rules changed since the cached items were made: refetch in full,
+            # or a "304 Not Modified" would keep items tagged by the old rules
+            st.pop("etag", None)
+            st.pop("last_modified", None)
         if not offline:
             try:
                 body = fetch(feed, st)
                 if body is not None:
                     fresh = items_for_feed(feed, parse_feed(body), st, cfg, matcher, now)
                     st["items"] = merge_items(fresh, st.get("items", []), now)
+                    st["rules"] = rules
                 st["last_ok"] = iso(now)
                 st.pop("last_error", None)
                 st.pop("stale_since", None)

@@ -164,6 +164,25 @@ class Output(unittest.TestCase):
                                          "time": f"2026-11-13T{i % 10:02d}:{i // 10:02d}:00Z"} for i in range(60)]}}
         self.assertEqual(len(build.build_news(cfg, state, NOW)["items"]), 60)
 
+    def test_rule_change_forces_full_refetch(self) -> None:
+        cfg = build.load_config()
+        feed = multi_series_feed() | {"home": "https://example.com", "enabled": True, "permission": "unknown"}
+        cfg.feeds = [feed]
+        body = (FIXTURES / "wordpress.rss").read_bytes()
+        seen: list[dict] = []
+        original = build.fetch
+        build.fetch = lambda f, st: (seen.append(dict(st)), body)[1]
+        try:
+            state = {"ex": {"etag": "abc", "last_modified": "x", "rules": "old", "items": []}}
+            build.update_feeds(cfg, state, NOW, offline=False)
+            self.assertNotIn("etag", seen[0])  # old cache markers dropped before the request
+            self.assertEqual(state["ex"]["rules"], build.rules_hash(cfg, feed))
+            self.assertTrue(state["ex"]["items"])
+            build.update_feeds(cfg, state | {"ex": state["ex"] | {"etag": "def"}}, NOW, offline=False)
+            self.assertEqual(seen[1].get("etag"), "def")  # same rules: conditional request kept
+        finally:
+            build.fetch = original
+
     def test_cached_items_of_removed_series_are_dropped(self) -> None:
         cfg = build.load_config()
         base = {"source": "A", "time": "2026-11-13T09:00:00Z", "circuit": None, "photo": None}
