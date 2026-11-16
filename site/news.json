@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T14:38:06Z",
+  "updated": "2026-11-16T15:28:48Z",
   "items": [
+    {
+      "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
+      "source": "Motorsport Week",
+      "time": "2026-11-16T15:06:09Z",
+      "url": "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null
+    },
     {
       "title": "Las Vegas GP unveils brand new trophies ahead of F1 return",
       "source": "Motorsport Week",
@@ -110,17 +121,6 @@
         "super-taikyu"
       ],
       "circuit": "fuji",
-      "photo": null
-    },
-    {
-      "title": "Jenson Button makes honest admission over Fernando Alonso F1 future",
-      "source": "Motorsport Week",
-      "time": "2026-11-15T13:40:27Z",
-      "url": "https://www.motorsportweek.com/2026/11/15/jenson-button-fernando-alonso-f1/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
       "photo": null
     },
     {
