@@ -1,7 +1,7 @@
 {
   "sportscar365": {
-    "etag": "W/\"1314d2e2e866e7cec2f72c541fd86de7\"",
-    "last_modified": "Sun, 15 Nov 2026 19:36:23 GMT",
+    "etag": "W/\"3edbcc76529b33af245a6e273daae1b7\"",
+    "last_modified": "Mon, 16 Nov 2026 05:01:28 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
@@ -10,9 +10,9 @@
       "https://sportscar365.com/imsa/iwsc/tincknell-set-for-aston-gt3-outings-in-expanded-program/": "2026-11-13T11:19:09Z",
       "https://sportscar365.com/imsa/iwsc/van-der-zande-lands-full-season-tower-lmp2-drive/": "2026-11-12T16:42:03Z",
       "https://sportscar365.com/sro/gt4-america/bsi-racing-to-make-gt4-america-debut-with-mustang-gt4/": "2026-11-12T15:38:33Z",
-      "https://sportscar365.com/other-series/mustang-single-make/ford-veterans-day-classic-notebook/": "2026-11-12T12:02:29Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
-      "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z"
+      "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
+      "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/": "2026-11-16T05:01:28Z"
     },
     "items": [
       {
@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -287,14 +287,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "speedcafe": {
-    "etag": "W/\"53a47a04995e6389e6af772afbc0836e-gzip\"",
+    "etag": "W/\"e3caec01b3ecb3666b32b4eb3525b0c7-gzip\"",
     "last_modified": null,
     "first_seen": {
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-mark-skaife-holden-commodore-golden-child-bathurst-1000-winner/": "2026-11-15T00:19:08Z",
-      "https://speedcafe.com/motorsport-news-2026-hi-tec-oils-super-series-sydney-finale-aussie-racing-cars-reuben-goodall-post-race-penalty-major-cash-prize-judicial-hearing-details/": "2026-11-15T00:51:49Z",
       "https://speedcafe.com/supercars-news-team-orders-rules-regulations-review-corruption-sporting-integrity-australia/": "2026-11-15T18:55:59Z",
       "https://speedcafe.com/motorsport-news-2026-ta2-new-zealand-taupo-results-tyler-cheney-jarrod-hughes-declan-fraser-video-highlights/": "2026-11-15T22:43:30Z",
       "https://speedcafe.com/f1-news-2026-kimi-antonelli-mercedes-max-verstappen-2027-championship-rival-thoughts-biggest-threat-comments-title-defence/": "2026-11-16T00:42:35Z",
@@ -302,7 +300,9 @@
       "https://speedcafe.com/f1-news-2026-oscar-piastri-mclaren-season-thoughts-comments-form-recovery-reason-drop-future-final-races/": "2026-11-15T23:33:59Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-brodie-kostecki-matt-payne-broc-feeney-chaz-mostert/": "2026-11-16T00:51:32Z",
       "https://speedcafe.com/f1-news-2026-australian-grand-prix-corporation-travis-auld-resigns-new-job-statement-comments-reaction/": "2026-11-16T02:17:44Z",
-      "https://speedcafe.com/asbk-news-2026-the-bend-round-two-wrap-race-report-cam-dunker-wins-podium/": "2026-11-16T03:06:23Z"
+      "https://speedcafe.com/asbk-news-2026-the-bend-round-two-wrap-race-report-cam-dunker-wins-podium/": "2026-11-16T03:06:23Z",
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-most-popular-driver-award-poll-mostert-feeney-kostecki-payne-vote/": "2026-11-16T04:50:20Z",
+      "https://speedcafe.com/motorsport-news-2026-shift-nation-debut-sandown-event-details-comments-spectator-ticket-cost/": "2026-11-16T04:31:38Z"
     },
     "items": [
       {
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 04:22:33 GMT",
+    "last_modified": "Mon, 16 Nov 2026 05:19:58 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -358,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T04:23:56Z"
+    "last_ok": "2026-11-16T05:20:38Z"
   }
 }
