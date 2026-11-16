@@ -1,18 +1,18 @@
 {
   "sportscar365": {
-    "etag": "W/\"5d89c935e78645a81672c32c6e2bcceb\"",
-    "last_modified": "Mon, 16 Nov 2026 05:28:11 GMT",
+    "etag": "W/\"af294f4f76bd99f9b5e19ebbf042c462\"",
+    "last_modified": "Mon, 16 Nov 2026 07:00:38 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/asian-lms/cetilar-af-corse-ferraris-split-pole-positions-for-paul-ricard/": "2026-11-13T16:48:17Z",
       "https://sportscar365.com/imsa/iwsc/andretti-lands-full-time-drive-in-myers-riley-mustang-gt3-evo/": "2026-11-13T16:29:43Z",
       "https://sportscar365.com/lemans/asian-lms/fuoco-cetilar-set-the-pace-in-red-flagged-paul-ricard-practice/": "2026-11-13T14:14:27Z",
       "https://sportscar365.substack.com/p/insight-the-timing-behind-hanley": "2026-11-13T13:22:24Z",
       "https://sportscar365.com/imsa/iwsc/tincknell-set-for-aston-gt3-outings-in-expanded-program/": "2026-11-13T11:19:09Z",
-      "https://sportscar365.com/imsa/iwsc/van-der-zande-lands-full-season-tower-lmp2-drive/": "2026-11-12T16:42:03Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-sails-to-victory-in-rain-affected-paul-ricard-opener/": "2026-11-14T16:54:23Z",
       "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
       "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/": "2026-11-16T05:01:28Z",
-      "https://sportscar365.com/other-series/super-gt/fraga-more-prepared-after-challenging-rookie-gt500-season/": "2026-11-16T05:26:00Z"
+      "https://sportscar365.com/other-series/super-gt/fraga-more-prepared-after-challenging-rookie-gt500-season/": "2026-11-16T05:26:00Z",
+      "https://sportscar365.com/imsa/porsche-carrera-cup-na/porsche-junior-shootout-wraps-up-at-portimao/": "2026-11-16T07:00:38Z"
     },
     "items": [
       {
@@ -27,7 +27,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "racer": {
     "etag": null,
@@ -68,7 +68,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "touringcartimes": {
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
@@ -131,7 +131,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "motorsportweek": {
     "etag": "\"068e26b1c86b585fce65285669a49587\"",
@@ -216,7 +216,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "gt-report": {
     "etag": "W/\"64a058d439103e58704dcd597c3bdf16-gzip\"",
@@ -244,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "dailysportscar": {
     "etag": "\"035bdd8e9a0803e932b449bd7a0da3f1\"",
@@ -287,7 +287,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "speedcafe": {
     "etag": "W/\"e3caec01b3ecb3666b32b4eb3525b0c7-gzip\"",
@@ -328,11 +328,11 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   },
   "fia": {
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 06:40:36 GMT",
+    "last_modified": "Mon, 16 Nov 2026 07:30:50 GMT",
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
       "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
@@ -358,6 +358,6 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-16T06:41:15Z"
+    "last_ok": "2026-11-16T07:30:45Z"
   }
 }
