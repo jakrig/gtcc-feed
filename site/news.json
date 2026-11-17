@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T14:20:12Z",
+  "updated": "2026-11-17T15:19:47Z",
   "items": [
+    {
+      "title": "Bernie Ecclestone urges Lewis Hamilton ‘to think about quitting’ F1",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T15:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/bernie-ecclestone-urges-lewis-hamilton-to-think-about-quitting-f1/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Beganovic gets another F1 practice call-up with Ferrari in Las Vegas",
+      "source": "Formula Scout",
+      "time": "2026-11-17T14:49:42Z",
+      "url": "https://formulascout.com/beganovic-gets-another-f1-practice-call-up-with-ferrari-in-las-vegas/141185",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Toto Wolff shuts down speculation of Kimi Antonelli Ferrari defection",
       "source": "Motorsport Week",
