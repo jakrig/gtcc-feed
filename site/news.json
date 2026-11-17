@@ -1,7 +1,61 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T16:21:53Z",
+  "updated": "2026-11-17T17:19:14Z",
   "items": [
+    {
+      "title": "Quinn to Continue With CrowdStrike by APR in 2027",
+      "source": "Sportscar365",
+      "time": "2026-11-17T16:38:55Z",
+      "url": "https://sportscar365.com/imsa/iwsc/quinn-to-continue-with-crowdstrike-by-apr/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "CrowdStrike By APR Keeps Line-Up Intact",
+      "source": "Dailysportscar",
+      "time": "2026-11-17T16:33:38Z",
+      "url": "https://www.dailysportscar.com/2026/11/17/crowdstrike-by-apr-keeps-line-up-intact-for-imsa-title-defence.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/17/crowdstrike-racing-by-apr-keeps-title-winning-trio-for-2027",
+          "time": "2026-11-17T16:51:07Z"
+        }
+      ]
+    },
+    {
+      "title": "Max Verstappen delivers hilarious Red Bull engine jibe",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T16:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/max-verstappen-red-bull-engine-jibe/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac goes translucent as F1 teams roll out special Las Vegas liveries",
+      "source": "RACER",
+      "time": "2026-11-17T16:15:51Z",
+      "url": "https://racer.com/2026/11/17/cadillac-goes-translucent-as-f1-teams-roll-out-special-las-vegas-liveries",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "“Hungry to prove everyone wrong”: Maini on his 2026 F2 season with ART Grand Prix",
       "source": "Pit Debrief",
@@ -24,7 +78,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/jacquet-to-continue-with-williams-and-art-grand-prix-for-2027-f1-academy-season/",
+          "time": "2026-11-17T17:18:21Z"
+        }
+      ]
     },
     {
       "title": "Piastri reveals why the MCL40 is difficult to handle and whether he still enjoys driving in 2026 F1 season",
