@@ -136,7 +136,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "W/\"c73fa3060c3a5fc2f75b1460ff31f172\"",
     "last_modified": "Tue, 17 Nov 2026 17:05:29 GMT",
     "rules": "96242d557236ce43"
@@ -144,7 +144,6 @@
   "racer": {
     "first_seen": {
       "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out": "2026-11-16T14:20:14Z",
-      "https://racer.com/2026/11/16/meguiar-s-shows-new-products-at-sema-to-make-road-and-race-cars-look-better": "2026-11-16T15:51:56Z",
       "https://racer.com/2026/11/16/mortara-leads-first-formula-e-pre-season-testing-day-at-circuito-del-jarama": "2026-11-16T18:55:10Z",
       "https://racer.com/2026/11/16/dillmann-named-reserve-driver-for-ford-hypercar-program": "2026-11-16T20:00:00Z",
       "https://racer.com/2026/11/16/hendrick-motorsports-makes-crew-chief-changes-for-bowman-byron-and-day": "2026-11-16T20:16:06Z",
@@ -152,9 +151,21 @@
       "https://racer.com/2026/11/16/menzies-mcmillin-claim-baja-1000-victory": "2026-11-16T19:58:38Z",
       "https://racer.com/2026/11/17/aston-martin-to-take-on-dakar-with-alonso-loeb": "2026-11-17T11:52:27Z",
       "https://racer.com/2026/11/17/cadillac-goes-translucent-as-f1-teams-roll-out-special-las-vegas-liveries": "2026-11-17T16:15:51Z",
-      "https://racer.com/2026/11/17/crowdstrike-racing-by-apr-keeps-title-winning-trio-for-2027": "2026-11-17T16:51:07Z"
+      "https://racer.com/2026/11/17/crowdstrike-racing-by-apr-keeps-title-winning-trio-for-2027": "2026-11-17T16:51:07Z",
+      "https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell": "2026-11-17T18:33:23Z"
     },
     "items": [
+      {
+        "title": "Antonelli set for grid penalty for Mercedes ADUO as team targets P2 for Russell",
+        "source": "RACER",
+        "time": "2026-11-17T18:33:23Z",
+        "url": "https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "CrowdStrike Racing by APR keeps title winning trio for 2027",
         "source": "RACER",
@@ -222,7 +233,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -286,7 +297,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -493,14 +504,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "\"0f933b8aa8b398c421472fc73b9fcb39\"",
     "last_modified": "Tue, 17 Nov 2026 18:00:00 GMT",
     "rules": "67f18b83ed456b67"
   },
   "dailysportscar": {
     "first_seen": {
-      "https://www.dailysportscar.com/2026/11/14/asian-le-mans-4h-le-castellet-saturday-paddock-notes.html": "2026-11-14T07:32:10Z",
       "https://www.dailysportscar.com/2026/11/14/strategy-gamble-pays-off-for-gms-duqueine-in-asian-le-mans-cup-opener.html": "2026-11-14T10:20:45Z",
       "https://www.dailysportscar.com/2026/11/14/af-corse-wins-chaotic-asian-le-mans-opener-at-wet-le-castellet.html": "2026-11-14T16:32:47Z",
       "https://www.dailysportscar.com/2026/11/15/gms-team-sweeps-paul-ricard-season-opener.html": "2026-11-15T10:38:44Z",
@@ -511,7 +521,8 @@
       "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html": "2026-11-16T20:00:01Z",
       "https://www.dailysportscar.com/2026/11/16/adac-nordrhein-nls-map-out-future-of-racing-on-nordschleife.html": "2026-11-16T19:29:23Z",
       "https://www.dailysportscar.com/2026/11/17/mannol-grupo-prom-racing-continue-partnership-with-expanded-2027-programme.html": "2026-11-17T12:43:45Z",
-      "https://www.dailysportscar.com/2026/11/17/crowdstrike-by-apr-keeps-line-up-intact-for-imsa-title-defence.html": "2026-11-17T16:33:38Z"
+      "https://www.dailysportscar.com/2026/11/17/crowdstrike-by-apr-keeps-line-up-intact-for-imsa-title-defence.html": "2026-11-17T16:33:38Z",
+      "https://www.dailysportscar.com/2026/11/17/bathurst-12h-supporting-combined-sports-cars-and-sedans-attracts-55-car-field-for-2027.html": "2026-11-17T12:59:32Z"
     },
     "items": [
       {
@@ -592,14 +603,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
-    "etag": "\"489b5a91f9b6bdfa9480369f6a844687\"",
-    "last_modified": "Tue, 17 Nov 2026 16:33:38 GMT",
+    "last_ok": "2026-11-17T19:19:24Z",
+    "etag": "\"0c741d7cf8698edab66c2e5f44e8d5bd\"",
+    "last_modified": "Tue, 17 Nov 2026 19:00:10 GMT",
     "rules": "bfb252c96c75fd56"
   },
   "speedcafe": {
     "first_seen": {
-      "https://speedcafe.com/asbk-news-2026-australian-superbikes-championship-round-two-photos-the-bend-motorsport-park/": "2026-11-17T00:51:25Z",
       "https://speedcafe.com/supercars-news-2027-safety-car-standing-start-regulations-update-procedure/": "2026-11-17T01:37:31Z",
       "https://speedcafe.com/indycar-news-2026-andretti-global-will-power-zone-nicotine-pouch-sponsorship-agreement-deal-details/": "2026-11-17T01:28:43Z",
       "https://speedcafe.com/supercars-news-2027-regulations-rookie-classification-erebus-motorsport-jarrod-hughes/": "2026-11-17T02:39:37Z",
@@ -608,7 +618,8 @@
       "https://speedcafe.com/supercars-news-2026-kelly-racing-return-nissan-altima-australian-touring-car-classic-atcc-entry-sandown/": "2026-11-17T05:30:49Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-david-reynolds-team-18-future-harri-jones-contract/": "2026-11-17T07:20:32Z",
       "https://speedcafe.com/bathurst-12-hour-news-2027-combined-sportscars-and-sedans-entry-list-details-55-cars/": "2026-11-17T07:24:32Z",
-      "https://speedcafe.com/f1-news-2026-fernando-alonso-enters-2027-dakar-rally-aston-martin-dreadnought-prodrive-details/": "2026-11-17T09:45:59Z"
+      "https://speedcafe.com/f1-news-2026-fernando-alonso-enters-2027-dakar-rally-aston-martin-dreadnought-prodrive-details/": "2026-11-17T09:45:59Z",
+      "https://speedcafe.com/motorsport-news-2026-vervisch-replaces-feeney-gt-world-challenge-australia-adelaide-schumacher-interview-exclusive/": "2026-11-17T18:55:10Z"
     },
     "items": [
       {
@@ -700,8 +711,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
-    "etag": "W/\"26717621dd60191f4e8bbff9476e6a21-gzip\"",
+    "last_ok": "2026-11-17T19:19:24Z",
+    "etag": "W/\"506a4cfec5de9a7bc8b34fc6d02168b0-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -719,9 +730,9 @@
       "https://www.fia.com/news/wrc-commission-meeting-16112026-media-update": "2026-11-17T09:55:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 18:20:18 GMT",
+    "last_modified": "Tue, 17 Nov 2026 19:18:30 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -750,9 +761,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 18:22:30 GMT",
+    "last_modified": "Tue, 17 Nov 2026 19:19:32 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -769,7 +780,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -844,7 +855,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -855,14 +866,25 @@
       "https://www.pitdebrief.com/post/all-the-special-liveries-for-the-2026-f1-season/": "2026-11-16T19:18:00Z",
       "https://www.pitdebrief.com/post/elliot-kaczynski-joins-mp-motorsport-for-2027-spanish-f4-title-challenge/": "2026-11-16T15:23:27Z",
       "https://www.pitdebrief.com/post/komatsu-bearman-and-camara-discuss-haass-challenges-and-expectations-ahead-of-2026-f1-las-vegas-gp-weekend/": "2026-11-16T15:11:43Z",
-      "https://www.pitdebrief.com/post/deligny-targets-greater-consistency-in-2027-fia-f3-campaign-with-van-amersfoort-racing/": "2026-11-16T14:58:52Z",
       "https://www.pitdebrief.com/post/johnson-on-his-excitement-for-signing-with-dcr-for-2027-indycar-rookie-campaign/": "2026-11-17T12:00:00Z",
       "https://www.pitdebrief.com/post/hungry-to-prove-everyone-wrong-maini-on-his-2026-f2-season-with-art-grand-prix/": "2026-11-17T16:05:00Z",
       "https://www.pitdebrief.com/post/piastri-reveals-why-the-mcl40-is-difficult-to-handle-and-whether-he-still-enjoys-driving-in-2026-f1-season/": "2026-11-17T15:30:00Z",
       "https://www.pitdebrief.com/post/formula-e-a-look-at-all-2027-gen4-liveries-revealed/": "2026-11-17T13:13:48Z",
-      "https://www.pitdebrief.com/post/jacquet-to-continue-with-williams-and-art-grand-prix-for-2027-f1-academy-season/": "2026-11-17T17:18:21Z"
+      "https://www.pitdebrief.com/post/jacquet-to-continue-with-williams-and-art-grand-prix-for-2027-f1-academy-season/": "2026-11-17T17:18:21Z",
+      "https://www.pitdebrief.com/post/2026-f1-audi-allan-mcnish-nico-hulkenberg-gabriel-bortoleto/": "2026-11-17T19:00:08Z"
     },
     "items": [
+      {
+        "title": "McNish explains the pattern of contrasting fortunes for Audi F1 drivers Hülkenberg and Bortoleto",
+        "source": "Pit Debrief",
+        "time": "2026-11-17T19:00:08Z",
+        "url": "https://www.pitdebrief.com/post/2026-f1-audi-allan-mcnish-nico-hulkenberg-gabriel-bortoleto/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Jacquet to continue with Williams and ART Grand Prix for 2027 F1 Academy season",
         "source": "Pit Debrief",
@@ -953,9 +975,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
-    "etag": "\"e3082c09c29f8bb249be297200b83dae\"",
-    "last_modified": "Tue, 17 Nov 2026 17:43:43 GMT",
+    "last_ok": "2026-11-17T19:19:24Z",
+    "etag": "\"c705ba243f4504d0624b65742127b1f2\"",
+    "last_modified": "Tue, 17 Nov 2026 19:00:54 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1017,9 +1039,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 13:24:18 GMT",
+    "last_modified": "Tue, 17 Nov 2026 13:24:06 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -1105,7 +1127,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T18:22:26Z",
+    "last_ok": "2026-11-17T19:19:24Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"
