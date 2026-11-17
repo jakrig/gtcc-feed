@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T12:25:29Z",
+  "updated": "2026-11-17T13:19:48Z",
   "items": [
+    {
+      "title": "McLaren Entering “Next Phase” of Development Program",
+      "source": "Sportscar365",
+      "time": "2026-11-17T13:00:23Z",
+      "url": "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso to return to Dakar Rally in 2027 with Aston Martin",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/fernando-alonso-dakar-2027-aston-martin/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Toyota: GR GT3 Set For FIA Homologation in “Near Future”",
       "source": "Sportscar365",
