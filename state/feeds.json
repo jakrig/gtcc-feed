@@ -136,7 +136,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "W/\"c73fa3060c3a5fc2f75b1460ff31f172\"",
     "last_modified": "Tue, 17 Nov 2026 17:05:29 GMT",
     "rules": "96242d557236ce43"
@@ -233,7 +233,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -297,7 +297,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -515,7 +515,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "\"78b351a269f49e0511b67f6940422dfc\"",
     "last_modified": "Tue, 17 Nov 2026 20:06:50 GMT",
     "rules": "67f18b83ed456b67"
@@ -614,7 +614,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "\"0c741d7cf8698edab66c2e5f44e8d5bd\"",
     "last_modified": "Tue, 17 Nov 2026 19:00:10 GMT",
     "rules": "bfb252c96c75fd56"
@@ -722,15 +722,14 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
-    "etag": "W/\"8b7b9809720e674e3c51343b474858bc-gzip\"",
+    "last_ok": "2026-11-17T22:18:52Z",
+    "etag": "W/\"b8f3694864ef592a3ef6624707b51dc0-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
   "fia": {
     "first_seen": {
       "https://www.fia.com/news/fia-world-cups-bring-added-excitement-macau-grand-prix": "2026-11-13T17:27:00Z",
-      "https://www.fia.com/news/fia-confirms-path-argentinas-return-fia-world-rally-championship-2028": "2026-11-12T13:07:00Z",
       "https://www.fia.com/news/mission-discovery-young-stars-assemble-second-fia-f4-world-cup": "2026-11-14T22:57:00Z",
       "https://www.fia.com/news/top-drivers-mix-fia-gt-world-cup-hat-trick": "2026-11-15T14:01:00Z",
       "https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup": "2026-11-15T19:22:00Z",
@@ -738,12 +737,25 @@
       "https://www.fia.com/news/2026-fia-european-baja-cup-titles-polish-duo-wiatr-and-laskawiec-after-hungarian-baja-victory": "2026-11-15T09:04:00Z",
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z",
       "https://www.fia.com/news/final-titles-season-grabs-accessible-fia-karting-arrive-and-drive-world-cup": "2026-11-17T07:36:00Z",
-      "https://www.fia.com/news/wrc-commission-meeting-16112026-media-update": "2026-11-17T09:55:00Z"
+      "https://www.fia.com/news/wrc-commission-meeting-16112026-media-update": "2026-11-17T09:55:00Z",
+      "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences": "2026-11-17T13:07:00Z"
     },
-    "items": [],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "items": [
+      {
+        "title": "F1 - 2026 Las Vegas GP Schedule of Press Conferences",
+        "source": "FIA",
+        "time": "2026-11-17T13:07:00Z",
+        "url": "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      }
+    ],
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 21:17:39 GMT",
+    "last_modified": "Tue, 17 Nov 2026 22:17:55 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -772,9 +784,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 21:19:13 GMT",
+    "last_modified": "Tue, 17 Nov 2026 22:18:56 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -791,7 +803,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -866,7 +878,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -986,9 +998,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
-    "etag": "\"c705ba243f4504d0624b65742127b1f2\"",
-    "last_modified": "Tue, 17 Nov 2026 19:00:54 GMT",
+    "last_ok": "2026-11-17T22:18:52Z",
+    "etag": "\"1f807626273fa55edb8043ff5a5ebc7a\"",
+    "last_modified": "Tue, 17 Nov 2026 22:12:02 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1050,9 +1062,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 20:42:36 GMT",
+    "last_modified": "Tue, 17 Nov 2026 20:44:16 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -1138,7 +1150,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T21:19:09Z",
+    "last_ok": "2026-11-17T22:18:52Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"

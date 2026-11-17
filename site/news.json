@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T21:19:09Z",
+  "updated": "2026-11-17T22:18:52Z",
   "items": [
     {
       "title": "F1 Academy prepares for Las Vegas with special livery",
@@ -191,6 +191,18 @@
         "f1"
       ],
       "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 - 2026 Las Vegas GP Schedule of Press Conferences",
+      "source": "FIA",
+      "time": "2026-11-17T13:07:00Z",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
       "photo": null,
       "also": []
     },
