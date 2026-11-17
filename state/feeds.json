@@ -1,7 +1,6 @@
 {
   "sportscar365": {
     "first_seen": {
-      "https://sportscar365.com/lemans/asian-lms/af-corse-doubles-up-with-sunday-paul-ricard-win/": "2026-11-15T16:33:09Z",
       "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/": "2026-11-16T05:01:28Z",
       "https://sportscar365.com/other-series/super-gt/fraga-more-prepared-after-challenging-rookie-gt500-season/": "2026-11-16T05:26:00Z",
       "https://sportscar365.com/imsa/porsche-carrera-cup-na/porsche-junior-shootout-wraps-up-at-portimao/": "2026-11-16T07:00:38Z",
@@ -10,7 +9,8 @@
       "https://sportscar365.com/imsa/iwsc/boulle-rejoins-united-set-for-first-full-season-since-2024/": "2026-11-16T12:00:28Z",
       "https://sportscar365.com/other-series/n24/new-nurburgring-series-for-2028-now-off-the-table/": "2026-11-16T20:11:54Z",
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z",
-      "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/": "2026-11-17T05:01:47Z"
+      "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/": "2026-11-17T05:01:47Z",
+      "https://sportscar365.com/other-series/porsche/pccj/pmap-expects-at-least-20-cars-for-2027-series-reboot/": "2026-11-17T06:00:34Z"
     },
     "items": [
       {
@@ -91,9 +91,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
-    "etag": "W/\"0d249bcca3f3565b6471b179872e36c6\"",
-    "last_modified": "Tue, 17 Nov 2026 05:01:47 GMT",
+    "last_ok": "2026-11-17T06:27:59Z",
+    "etag": "W/\"d66f00bc0080d53c4dc930c70623ce62\"",
+    "last_modified": "Tue, 17 Nov 2026 06:00:34 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
@@ -155,7 +155,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -219,7 +219,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -349,7 +349,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "\"a02885ad9355f5fa6c6960d906fb0755\"",
     "last_modified": "Mon, 16 Nov 2026 23:14:32 GMT",
     "rules": "67f18b83ed456b67"
@@ -437,7 +437,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "\"14117ae56778f2a2c1c59b3e44dbff07\"",
     "last_modified": "Tue, 17 Nov 2026 00:32:28 GMT",
     "rules": "bfb252c96c75fd56"
@@ -445,7 +445,6 @@
   "speedcafe": {
     "first_seen": {
       "https://speedcafe.com/supercars-news-2027-rule-book-kai-allen-grove-racing-appeal-tyre-pressure-regulations/": "2026-11-17T00:22:51Z",
-      "https://speedcafe.com/formula-e-news-2026-taylor-barnard-contract-dispute-fortescue-zero-vs-fusion-details-comments-statement/": "2026-11-16T23:43:15Z",
       "https://speedcafe.com/asbk-news-2026-australian-superbikes-championship-round-two-photos-the-bend-motorsport-park/": "2026-11-17T00:51:25Z",
       "https://speedcafe.com/motogp-news-2026-portugal-francesco-bagnaia-injury-replacement-confirmed-iker-lecuona-algarve/": "2026-11-17T00:47:55Z",
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-williams-aston-martin-livery-new-gallery-pictures-updated/": "2026-11-17T00:41:45Z",
@@ -453,7 +452,8 @@
       "https://speedcafe.com/indycar-news-2026-andretti-global-will-power-zone-nicotine-pouch-sponsorship-agreement-deal-details/": "2026-11-17T01:28:43Z",
       "https://speedcafe.com/supercars-news-2027-regulations-rookie-classification-erebus-motorsport-jarrod-hughes/": "2026-11-17T02:39:37Z",
       "https://speedcafe.com/motorsport-news-2026-gt-world-challenge-australia-porsche-entry-long-term-plans-2027/": "2026-11-17T04:30:47Z",
-      "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-australia-shahin-heinrich-entry-confirmed/": "2026-11-17T04:30:00Z"
+      "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-australia-shahin-heinrich-entry-confirmed/": "2026-11-17T04:30:00Z",
+      "https://speedcafe.com/supercars-news-2026-kelly-racing-return-nissan-altima-australian-touring-car-classic-atcc-entry-sandown/": "2026-11-17T05:30:49Z"
     },
     "items": [
       {
@@ -534,8 +534,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
-    "etag": "W/\"6957e46678cc7e60926af5fe0c3b3ddf-gzip\"",
+    "last_ok": "2026-11-17T06:27:59Z",
+    "etag": "W/\"3921d42032d3c78365934f371ed725a3-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -553,9 +553,9 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 05:17:00 GMT",
+    "last_modified": "Tue, 17 Nov 2026 06:25:45 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -584,9 +584,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 05:19:31 GMT",
+    "last_modified": "Tue, 17 Nov 2026 06:28:04 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -603,7 +603,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -678,7 +678,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -754,7 +754,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "\"29db413a7c8cef79217c1db4d609e72a\"",
     "last_modified": "Mon, 16 Nov 2026 21:48:24 GMT",
     "rules": "6f28778e5de9bb63"
@@ -818,7 +818,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": null,
     "last_modified": "Mon, 16 Nov 2026 17:05:16 GMT",
     "rules": "dbb13c3cb4e2f318"
@@ -895,7 +895,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T05:19:27Z",
+    "last_ok": "2026-11-17T06:27:59Z",
     "etag": "W/\"4de5e73b4552fdeed8c142f4d7e7a0f9\"",
     "last_modified": "Mon, 16 Nov 2026 10:33:04 GMT",
     "rules": "c92c32a02a3e76f6"
