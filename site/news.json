@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T04:21:23Z",
+  "updated": "2026-11-17T05:19:27Z",
   "items": [
+    {
+      "title": "Watch the Full-Length Replay of 6H Barcelona",
+      "source": "Sportscar365",
+      "time": "2026-11-17T05:01:47Z",
+      "url": "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/",
+      "series": [
+        "wec"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Porsche teams wants permanent GT World Challenge Australia stay",
+      "source": "Speedcafe",
+      "time": "2026-11-17T04:30:47Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-gt-world-challenge-australia-porsche-entry-long-term-plans-2027/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Shahin confirms Adelaide entry with Porsche champion",
+      "source": "Speedcafe",
+      "time": "2026-11-17T04:30:00Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-australia-shahin-heinrich-entry-confirmed/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
       "source": "Sportscar365",
