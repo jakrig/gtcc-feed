@@ -1,7 +1,19 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T19:19:24Z",
+  "updated": "2026-11-17T20:19:21Z",
   "items": [
+    {
+      "title": "F1 Academy prepares for Las Vegas with special livery",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T20:05:17Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/f1-academy-prepares-for-las-vegas-with-special-livery/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "McNish explains the pattern of contrasting fortunes for Audi F1 drivers Hülkenberg and Bortoleto",
       "source": "Pit Debrief",
