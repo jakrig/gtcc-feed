@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T00:39:16Z",
+  "updated": "2026-11-17T01:20:49Z",
   "items": [
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
@@ -95,7 +95,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-williams-aston-martin-livery-new-gallery-pictures-updated/",
+          "time": "2026-11-17T00:41:45Z"
+        }
+      ]
     },
     {
       "title": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim",

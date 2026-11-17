@@ -80,7 +80,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "W/\"06529592c46eb10fc7686a8eff343905\"",
     "last_modified": "Mon, 16 Nov 2026 20:18:43 GMT",
     "rules": "96242d557236ce43"
@@ -144,7 +144,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -208,7 +208,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -338,7 +338,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "\"a02885ad9355f5fa6c6960d906fb0755\"",
     "last_modified": "Mon, 16 Nov 2026 23:14:32 GMT",
     "rules": "67f18b83ed456b67"
@@ -426,25 +426,36 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "\"14117ae56778f2a2c1c59b3e44dbff07\"",
     "last_modified": "Tue, 17 Nov 2026 00:32:28 GMT",
     "rules": "bfb252c96c75fd56"
   },
   "speedcafe": {
     "first_seen": {
-      "https://speedcafe.com/asbk-news-2026-the-bend-round-two-wrap-race-report-cam-dunker-wins-podium/": "2026-11-16T03:06:23Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-most-popular-driver-award-poll-mostert-feeney-kostecki-payne-vote/": "2026-11-16T04:50:20Z",
-      "https://speedcafe.com/motorsport-news-2026-shift-nation-debut-sandown-event-details-comments-spectator-ticket-cost/": "2026-11-16T04:31:38Z",
       "https://speedcafe.com/motorsport-news-2026-rovantra-launch-details-harri-jones-business-venture-explained-cost-details-supercars-co-driver/": "2026-11-16T08:00:03Z",
       "https://speedcafe.com/motorsport-podcast-supercars-news-f1-latest-details-full-credit-to-the-noise-former-legend-new-episode/": "2026-11-16T19:00:23Z",
       "https://speedcafe.com/supercars-news-triple-eight-spec-dark-horse-ford-mustang-jamie-whincup-broc-feeney-details-specs-price/": "2026-11-16T18:55:37Z",
       "https://speedcafe.com/motorsport-news-2026-race-of-champions-brendon-hartley-alisha-palmowski-entry-confirmed-details-comments/": "2026-11-16T22:56:55Z",
       "https://speedcafe.com/supercars-news-2027-rule-book-kai-allen-grove-racing-appeal-tyre-pressure-regulations/": "2026-11-17T00:22:51Z",
       "https://speedcafe.com/formula-e-news-2026-taylor-barnard-contract-dispute-fortescue-zero-vs-fusion-details-comments-statement/": "2026-11-16T23:43:15Z",
-      "https://speedcafe.com/f1-news-2026-haas-driver-signing-las-vegas-rafael-camara-ryo-hirakawa-jack-doohan-future-replacement/": "2026-11-16T23:38:30Z"
+      "https://speedcafe.com/f1-news-2026-haas-driver-signing-las-vegas-rafael-camara-ryo-hirakawa-jack-doohan-future-replacement/": "2026-11-16T23:38:30Z",
+      "https://speedcafe.com/asbk-news-2026-australian-superbikes-championship-round-two-photos-the-bend-motorsport-park/": "2026-11-17T00:51:25Z",
+      "https://speedcafe.com/motogp-news-2026-portugal-francesco-bagnaia-injury-replacement-confirmed-iker-lecuona-algarve/": "2026-11-17T00:47:55Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-williams-aston-martin-livery-new-gallery-pictures-updated/": "2026-11-17T00:41:45Z"
     },
     "items": [
+      {
+        "title": "Williams and Aston Martin reveal special liveries for Las Vegas",
+        "source": "Speedcafe",
+        "time": "2026-11-17T00:41:45Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-williams-aston-martin-livery-new-gallery-pictures-updated/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Haas confirms Camara for second F1 start in Las Vegas",
         "source": "Speedcafe",
@@ -490,8 +501,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
-    "etag": "W/\"4b84316fc616da130d32cf33ac05bef7-gzip\"",
+    "last_ok": "2026-11-17T01:20:49Z",
+    "etag": "W/\"13c135dd43b604abfb14b72a1c4f6c7e-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -509,9 +520,9 @@
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 00:37:58 GMT",
+    "last_modified": "Tue, 17 Nov 2026 01:19:32 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -540,9 +551,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 00:39:20 GMT",
+    "last_modified": "Tue, 17 Nov 2026 01:20:54 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -559,7 +570,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -634,7 +645,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -710,7 +721,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "\"29db413a7c8cef79217c1db4d609e72a\"",
     "last_modified": "Mon, 16 Nov 2026 21:48:24 GMT",
     "rules": "6f28778e5de9bb63"
@@ -774,7 +785,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": null,
     "last_modified": "Mon, 16 Nov 2026 17:07:47 GMT",
     "rules": "dbb13c3cb4e2f318"
@@ -851,7 +862,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T00:39:16Z",
+    "last_ok": "2026-11-17T01:20:49Z",
     "etag": "W/\"4de5e73b4552fdeed8c142f4d7e7a0f9\"",
     "last_modified": "Mon, 16 Nov 2026 10:33:04 GMT",
     "rules": "c92c32a02a3e76f6"
