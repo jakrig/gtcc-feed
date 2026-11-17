@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T23:18:37Z",
+  "updated": "2026-11-17T00:39:16Z",
   "items": [
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
@@ -36,6 +36,18 @@
           "time": "2026-11-16T20:00:07Z"
         }
       ]
+    },
+    {
+      "title": "ADAC Nordrhein & NLS Map Out Future Of Racing On Nordschleife",
+      "source": "Dailysportscar",
+      "time": "2026-11-16T19:29:23Z",
+      "url": "https://www.dailysportscar.com/2026/11/16/adac-nordrhein-nls-map-out-future-of-racing-on-nordschleife.html",
+      "series": [
+        "nls"
+      ],
+      "circuit": "nurburgring",
+      "photo": null,
+      "also": []
     },
     {
       "title": "All the special liveries for the 2026 F1 season",
@@ -265,7 +277,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-haas-driver-signing-las-vegas-rafael-camara-ryo-hirakawa-jack-doohan-future-replacement/",
+          "time": "2026-11-16T23:38:30Z"
+        }
+      ]
     },
     {
       "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
