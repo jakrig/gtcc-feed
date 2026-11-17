@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T08:23:13Z",
+  "updated": "2026-11-17T09:21:05Z",
   "items": [
     {
       "title": "Popular Combined Sedans to bring 55 entries to Bathurst 12 Hour",
@@ -48,7 +48,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/sro/australian-gt/heinrich-shahin-team-up-at-ebm-for-adelaide-finale/",
+          "time": "2026-11-17T08:35:34Z"
+        }
+      ]
     },
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
