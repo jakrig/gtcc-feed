@@ -125,7 +125,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "W/\"002f4f64710cc1247ef74db86aeff11f\"",
     "last_modified": "Tue, 17 Nov 2026 13:00:23 GMT",
     "rules": "96242d557236ce43"
@@ -189,7 +189,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -253,14 +253,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
   },
   "motorsportweek": {
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/15/ferrari-boss-lewis-hamilton-charles-leclerc-talks/": "2026-11-15T19:00:00Z",
       "https://www.motorsportweek.com/2026/11/16/liam-lawson-max-verstappen-f1-comparisons/": "2026-11-16T09:31:16Z",
       "https://www.motorsportweek.com/2026/11/16/las-vegas-f1-trophy/": "2026-11-16T13:27:08Z",
       "https://www.motorsportweek.com/2026/11/16/sergio-perez-cadillac-f1-teammate/": "2026-11-16T15:06:09Z",
@@ -269,9 +268,21 @@
       "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-preview/": "2026-11-16T16:45:00Z",
       "https://www.motorsportweek.com/2026/11/16/williams-f1-las-vegas-gp-livery/": "2026-11-16T18:09:46Z",
       "https://www.motorsportweek.com/2026/11/16/f1-las-vegas-gp-caesars-palace/": "2026-11-16T19:00:00Z",
-      "https://www.motorsportweek.com/2026/11/17/fernando-alonso-dakar-2027-aston-martin/": "2026-11-17T13:00:00Z"
+      "https://www.motorsportweek.com/2026/11/17/fernando-alonso-dakar-2027-aston-martin/": "2026-11-17T13:00:00Z",
+      "https://www.motorsportweek.com/2026/11/17/toto-wolff-shuts-down-speculation-of-kimi-antonelli-ferrari-defection/": "2026-11-17T14:00:29Z"
     },
     "items": [
+      {
+        "title": "Toto Wolff shuts down speculation of Kimi Antonelli Ferrari defection",
+        "source": "Motorsport Week",
+        "time": "2026-11-17T14:00:29Z",
+        "url": "https://www.motorsportweek.com/2026/11/17/toto-wolff-shuts-down-speculation-of-kimi-antonelli-ferrari-defection/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Fernando Alonso to return to Dakar Rally in 2027 with Aston Martin",
         "source": "Motorsport Week",
@@ -394,9 +405,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
-    "etag": "\"7e41297fa6a91de2fc767b1f77a4bb9d\"",
-    "last_modified": "Tue, 17 Nov 2026 13:00:00 GMT",
+    "last_ok": "2026-11-17T14:20:12Z",
+    "etag": "\"7253b939609aa77f9b2b2201948f129d\"",
+    "last_modified": "Tue, 17 Nov 2026 14:10:39 GMT",
     "rules": "67f18b83ed456b67"
   },
   "dailysportscar": {
@@ -482,7 +493,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "\"8133ec70a070cedcf008c7950479071a\"",
     "last_modified": "Tue, 17 Nov 2026 12:44:23 GMT",
     "rules": "bfb252c96c75fd56"
@@ -590,7 +601,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "W/\"26717621dd60191f4e8bbff9476e6a21-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
@@ -609,9 +620,9 @@
       "https://www.fia.com/news/wrc-commission-meeting-16112026-media-update": "2026-11-17T09:55:00Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 13:19:46 GMT",
+    "last_modified": "Tue, 17 Nov 2026 14:20:25 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -640,9 +651,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 13:19:53 GMT",
+    "last_modified": "Tue, 17 Nov 2026 14:20:17 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -659,7 +670,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -734,7 +745,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -810,7 +821,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "\"a73293028305411d61cabfb2e425d1ef\"",
     "last_modified": "Tue, 17 Nov 2026 13:14:36 GMT",
     "rules": "6f28778e5de9bb63"
@@ -826,7 +837,7 @@
       "https://feederseries.net/2026/11/11/feeder-series-podcast-how-schormans-and-bedrin-won-in-montmelo/": "2026-11-11T16:02:44Z",
       "https://feederseries.net/2026/11/10/al-dhaheri-we-always-knew-we-had-a-chance-in-four-way-frec-title-fight/": "2026-11-10T12:31:45Z",
       "https://feederseries.net/2026/11/09/feeder-series-weekend-review-results-and-standings-03-08-november-2026/": "2026-11-09T05:33:17Z",
-      "https://feederseries.net/2026/11/08/10-years-of-f2-jeremy-cotterill-mp-motorsport-team-manager/": "2026-11-08T08:28:00Z"
+      "https://feederseries.net/2026/11/17/your-guide-to-the-2026-fia-formula-4-world-cup-in-macau/": "2026-11-17T13:21:17Z"
     },
     "items": [
       {
@@ -874,9 +885,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 17:07:47 GMT",
+    "last_modified": "Tue, 17 Nov 2026 13:24:18 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -951,7 +962,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T13:19:48Z",
+    "last_ok": "2026-11-17T14:20:12Z",
     "etag": "W/\"aaf383bb562507ac36db483e6840debf\"",
     "last_modified": "Tue, 17 Nov 2026 12:37:17 GMT",
     "rules": "c92c32a02a3e76f6"
