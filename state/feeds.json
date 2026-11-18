@@ -203,14 +203,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "W/\"418c842e5b8795d78a9f17219f35d061\"",
     "last_modified": "Wed, 18 Nov 2026 15:31:04 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
     "first_seen": {
-      "https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell": "2026-11-17T18:33:23Z",
       "https://racer.com/2026/11/17/how-the-blue-oval-tamed-the-green-hell": "2026-11-17T20:50:32Z",
       "https://racer.com/2026/11/17/tony-kanaan-joins-featured-speakers-at-7th-annual-race-industry-week": "2026-11-17T23:01:38Z",
       "https://racer.com/2026/11/17/the-racer-mailbag-november-18": "2026-11-18T10:00:00Z",
@@ -219,7 +218,8 @@
       "https://racer.com/2026/11/18/will-indycar-spring-another-calendar-surprise-for-2027-": "2026-11-18T15:43:56Z",
       "https://racer.com/2026/11/18/newgarden-signs-multi-year-extension-with-team-penske": "2026-11-18T15:36:54Z",
       "https://racer.com/2026/11/18/races-on-tv-november-19-22": "2026-11-18T13:26:20Z",
-      "https://racer.com/2026/11/18/nascar-announces-format-eligibility-criteria-for-2027-clash": "2026-11-18T16:29:56Z"
+      "https://racer.com/2026/11/18/nascar-announces-format-eligibility-criteria-for-2027-clash": "2026-11-18T16:29:56Z",
+      "https://racer.com/2026/11/18/openai-replaces-dhl-on-palou-s-no-10-indycar": "2026-11-18T17:10:48Z"
     },
     "items": [
       {
@@ -324,7 +324,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -388,15 +388,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "\"eef8ed1a60b5e438115db753501d3604\"",
     "last_modified": "Wed, 18 Nov 2026 13:25:11 GMT",
     "rules": "55d6ce569d7f4aea"
   },
   "motorsportweek": {
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/18/carlos-sainz-completely-unexpected-ferrari-exit/": "2026-11-18T06:00:00Z",
-      "https://www.motorsportweek.com/2026/11/18/george-russell-reveals-bounce-back-plan-for-2027-f1-season/": "2026-11-18T09:31:30Z",
       "https://www.motorsportweek.com/2026/11/18/racing-bulls-boss-reveals-reason-behind-liam-lawson-extension/": "2026-11-18T10:30:00Z",
       "https://www.motorsportweek.com/2026/11/18/zak-brown-explains-adaptations-contributing-to-2026-oscar-piastri-f1-dip/": "2026-11-18T11:30:00Z",
       "https://www.motorsportweek.com/2026/11/18/max-verstappen-delivers-telling-statement-over-f1-future-following-kimi-antonelli-title/": "2026-11-18T13:00:00Z",
@@ -404,9 +402,22 @@
       "https://www.motorsportweek.com/2026/11/18/alpine-to-run-new-livery-for-remainder-of-the-f1-season/": "2026-11-18T13:30:00Z",
       "https://www.motorsportweek.com/2026/11/18/mercedes-reveal-championship-priority-george-russell-f1-las-vegas-gp/": "2026-11-18T15:00:00Z",
       "https://www.motorsportweek.com/2026/11/18/oscar-piastri-to-take-a-significant-penalty-for-las-vegas-gp/": "2026-11-18T16:00:00Z",
-      "https://www.motorsportweek.com/2026/11/18/team-penske-retains-longest-tenured-driver-with-multi-year-extension/": "2026-11-18T15:35:12Z"
+      "https://www.motorsportweek.com/2026/11/18/team-penske-retains-longest-tenured-driver-with-multi-year-extension/": "2026-11-18T15:35:12Z",
+      "https://www.motorsportweek.com/2026/11/18/zak-brown-mclaren-must-do-a-better-job-after-2026-f1-struggles/": "2026-11-18T17:30:00Z",
+      "https://www.motorsportweek.com/2026/11/18/indycar-champ-alex-palou-swaps-primary-sponsor-for-2027-season/": "2026-11-18T17:27:03Z"
     },
     "items": [
+      {
+        "title": "Zak Brown urges that McLaren must ‘do a better job’ after 2026 F1 struggles",
+        "source": "Motorsport Week",
+        "time": "2026-11-18T17:30:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/18/zak-brown-mclaren-must-do-a-better-job-after-2026-f1-struggles/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Oscar Piastri to take a significant penalty for Las Vegas GP",
         "source": "Motorsport Week",
@@ -694,9 +705,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
-    "etag": "\"e9e83253e41cb54f3ed4767a39209d12\"",
-    "last_modified": "Wed, 18 Nov 2026 16:00:00 GMT",
+    "last_ok": "2026-11-18T18:20:50Z",
+    "etag": "\"2d9d57fcefd5d419ab092add0413f467\"",
+    "last_modified": "Wed, 18 Nov 2026 17:30:00 GMT",
     "rules": "67f18b83ed456b67"
   },
   "dailysportscar": {
@@ -804,7 +815,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "\"40cff42dd9c1e4d1842435d647b8d2d1\"",
     "last_modified": "Wed, 18 Nov 2026 14:01:14 GMT",
     "rules": "bfb252c96c75fd56"
@@ -956,7 +967,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "W/\"791a84b2610c1fd0ff217ae89a8204a6-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
@@ -998,9 +1009,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 17:19:17 GMT",
+    "last_modified": "Wed, 18 Nov 2026 18:19:25 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1029,9 +1040,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 17:19:05 GMT",
+    "last_modified": "Wed, 18 Nov 2026 18:20:54 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1048,7 +1059,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1123,15 +1134,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
   },
   "pitdebrief": {
     "first_seen": {
-      "https://www.pitdebrief.com/post/2026-f1-audi-allan-mcnish-nico-hulkenberg-gabriel-bortoleto/": "2026-11-17T19:00:08Z",
-      "https://www.pitdebrief.com/post/clerot-targets-2027-f3-title-challenge-with-rodin-motorsport-after-strong-finish-to-rookie-season/": "2026-11-17T22:19:09Z",
       "https://www.pitdebrief.com/post/everything-you-need-to-know-about-the-2026-fia-f4-world-cup-at-the-73rd-macau-gp/": "2026-11-18T03:13:58Z",
       "https://www.pitdebrief.com/post/frederic-vervisch-replaces-broc-feeney-for-2026-gtwc-australia-adelaide-title-decider/": "2026-11-17T22:27:00Z",
       "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-preview-champions-and-f3-stars-target-victory-in-gen2-debut/": "2026-11-18T08:00:00Z",
@@ -1139,9 +1148,22 @@
       "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/": "2026-11-18T12:00:00Z",
       "https://www.pitdebrief.com/post/2026-f3-season-review-alessandro-giusti/": "2026-11-18T13:00:00Z",
       "https://www.pitdebrief.com/post/watch-2026-macau-gp-here/": "2026-11-18T16:12:52Z",
-      "https://www.pitdebrief.com/post/two-time-indycar-champion-newgarden-agrees-new-multi-year-deal-with-team-penske/": "2026-11-18T15:54:23Z"
+      "https://www.pitdebrief.com/post/two-time-indycar-champion-newgarden-agrees-new-multi-year-deal-with-team-penske/": "2026-11-18T15:54:23Z",
+      "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-2-report/": "2026-11-18T17:58:48Z",
+      "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/": "2026-11-18T17:30:00Z"
     },
     "items": [
+      {
+        "title": "2026 F1 FP1 rookies: A full list",
+        "source": "Pit Debrief",
+        "time": "2026-11-18T17:30:00Z",
+        "url": "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "2026 F3 | Season Review | Alessandro Giusti",
         "source": "Pit Debrief",
@@ -1342,9 +1364,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
-    "etag": "\"20edf3dd4c894df1626309942be8c50f\"",
-    "last_modified": "Wed, 18 Nov 2026 16:12:54 GMT",
+    "last_ok": "2026-11-18T18:20:50Z",
+    "etag": "\"77d7e612d157df56c3e342e5a8d79e53\"",
+    "last_modified": "Wed, 18 Nov 2026 17:58:49 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1357,10 +1379,21 @@
       "https://feederseries.net/2026/11/12/10-years-of-f2-alexa-quintin-director-of-communications/": "2026-11-12T12:19:00Z",
       "https://feederseries.net/2026/11/11/feeder-series-podcast-how-schormans-and-bedrin-won-in-montmelo/": "2026-11-11T16:02:44Z",
       "https://feederseries.net/2026/11/10/al-dhaheri-we-always-knew-we-had-a-chance-in-four-way-frec-title-fight/": "2026-11-10T12:31:45Z",
-      "https://feederseries.net/2026/11/09/feeder-series-weekend-review-results-and-standings-03-08-november-2026/": "2026-11-09T05:33:17Z",
-      "https://feederseries.net/2026/11/17/your-guide-to-the-2026-fia-formula-4-world-cup-in-macau/": "2026-11-17T13:21:17Z"
+      "https://feederseries.net/2026/11/17/your-guide-to-the-2026-fia-formula-4-world-cup-in-macau/": "2026-11-17T13:21:17Z",
+      "https://feederseries.net/2026/11/18/feeder-series-weekend-preview-and-schedule-19-22-november-2026/": "2026-11-18T17:35:00Z"
     },
     "items": [
+      {
+        "title": "Feeder Series weekend preview and schedule: 19–22 November 2026",
+        "source": "Feeder Series",
+        "time": "2026-11-18T17:35:00Z",
+        "url": "https://feederseries.net/2026/11/18/feeder-series-weekend-preview-and-schedule-19-22-november-2026/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Feeder Series testing round-up: 1–15 November",
         "source": "Feeder Series",
@@ -1406,9 +1439,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 11:43:09 GMT",
+    "last_modified": "Wed, 18 Nov 2026 17:39:45 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -1494,7 +1527,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T17:19:01Z",
+    "last_ok": "2026-11-18T18:20:50Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"
