@@ -1,7 +1,19 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T01:20:14Z",
+  "updated": "2026-11-18T02:23:59Z",
   "items": [
+    {
+      "title": "Here’s what V8-powered F1 cars could sound like in 2030",
+      "source": "Speedcafe",
+      "time": "2026-11-18T01:22:54Z",
+      "url": "https://speedcafe.com/f1-news-2026-v8-engines-return-when-latest-update-mohammed-ben-sulayem-fia-comments-meeting/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Cadillac unveils unique new look for Las Vegas Grand Prix",
       "source": "Speedcafe",
@@ -279,6 +291,18 @@
       "also": []
     },
     {
+      "title": "Ford appoints two-time Le Mans class winner Tom Dillmann as 2027 WEC Hypercar reserve",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T12:05:00Z",
+      "url": "https://www.pitdebrief.com/post/ford-appoints-two-time-le-mans-class-winner-tom-dillmann-as-2027-wec-hypercar-reserve/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Toyota: GR GT3 Set For FIA Homologation in “Near Future”",
       "source": "Sportscar365",
       "time": "2026-11-17T10:21:52Z",
@@ -468,7 +492,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview",
+          "time": "2026-11-17T16:20:00Z"
+        }
+      ]
     },
     {
       "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
