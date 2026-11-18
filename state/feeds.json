@@ -203,7 +203,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "W/\"418c842e5b8795d78a9f17219f35d061\"",
     "last_modified": "Wed, 18 Nov 2026 15:31:04 GMT",
     "rules": "96242d557236ce43"
@@ -335,7 +335,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -399,7 +399,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "\"eef8ed1a60b5e438115db753501d3604\"",
     "last_modified": "Wed, 18 Nov 2026 13:25:11 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -727,7 +727,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "\"35517e34ac3b63ec4a205bc915f4ce96\"",
     "last_modified": "Wed, 18 Nov 2026 21:40:34 GMT",
     "rules": "67f18b83ed456b67"
@@ -837,7 +837,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "\"40cff42dd9c1e4d1842435d647b8d2d1\"",
     "last_modified": "Wed, 18 Nov 2026 14:01:14 GMT",
     "rules": "bfb252c96c75fd56"
@@ -845,7 +845,6 @@
   "speedcafe": {
     "first_seen": {
       "https://speedcafe.com/motogp-news-2026-mick-doohan-sport-australia-hall-of-fame-legend-status-comments-reaction/": "2026-11-18T05:10:37Z",
-      "https://speedcafe.com/motogp-news-2026-adelaide-park-lands-protest-arrest-police-allegation-stop-the-chop/": "2026-11-18T04:41:13Z",
       "https://speedcafe.com/motorsport-news-2026-aussie-racing-cars-teenage-karting-liam-carr-debut-sydney-podium-details-comments/": "2026-11-18T06:00:30Z",
       "https://speedcafe.com/supercars-news-2027-calendar-state-of-origin-sandown-ipswich-queensland-raceway/": "2026-11-18T07:11:02Z",
       "https://speedcafe.com/podcast-grassroots-racing-93-with-steve-chopping/": "2026-11-18T10:36:51Z",
@@ -853,9 +852,21 @@
       "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/": "2026-11-18T20:18:14Z",
       "https://speedcafe.com/indycar-news-2026-josef-newgarden-team-penske-contract-extension-deal-comments-reaction/": "2026-11-18T20:58:51Z",
       "https://speedcafe.com/supercars-news-james-golding-new-backer-2027-season-blanchard-racing-team-blahst-car-care-penrite-oil/": "2026-11-18T20:30:40Z",
-      "https://speedcafe.com/supercars-news-2026-driver-market-mark-skaife-on-david-reynolds-future-contract-team-18-james-courtney/": "2026-11-18T21:36:44Z"
+      "https://speedcafe.com/supercars-news-2026-driver-market-mark-skaife-on-david-reynolds-future-contract-team-18-james-courtney/": "2026-11-18T21:36:44Z",
+      "https://speedcafe.com/f1-news-2026-liam-lawson-on-red-bull-junior-helmut-marko-euroformula-open-team-motopark-comments/": "2026-11-18T23:00:58Z"
     },
     "items": [
+      {
+        "title": "Lawson reveals ugly blowup that nearly ended Red Bull deal",
+        "source": "Speedcafe",
+        "time": "2026-11-18T23:00:58Z",
+        "url": "https://speedcafe.com/f1-news-2026-liam-lawson-on-red-bull-junior-helmut-marko-euroformula-open-team-motopark-comments/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Cadillac ends Herta speculation with Bottas re-signing",
         "source": "Speedcafe",
@@ -1000,8 +1011,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
-    "etag": "W/\"f1548523c25ee4360854444039a66822-gzip\"",
+    "last_ok": "2026-11-18T23:19:25Z",
+    "etag": "W/\"264bfe86528c642c1de2aafd5995149c-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -1042,9 +1053,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 22:18:45 GMT",
+    "last_modified": "Wed, 18 Nov 2026 23:19:39 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1073,9 +1084,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 22:18:38 GMT",
+    "last_modified": "Wed, 18 Nov 2026 23:19:30 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1092,7 +1103,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1167,7 +1178,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -1441,7 +1452,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "\"c316c124bab7b6d6052fd56ea6a62c69\"",
     "last_modified": "Wed, 18 Nov 2026 21:04:55 GMT",
     "rules": "6f28778e5de9bb63"
@@ -1516,9 +1527,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 17:39:45 GMT",
+    "last_modified": "Wed, 18 Nov 2026 17:37:21 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -1604,7 +1615,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T22:18:33Z",
+    "last_ok": "2026-11-18T23:19:25Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"
