@@ -1,7 +1,33 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T09:20:28Z",
+  "updated": "2026-11-18T10:19:56Z",
   "items": [
+    {
+      "title": "The RACER Mailbag, November 18",
+      "source": "RACER",
+      "time": "2026-11-18T10:00:00Z",
+      "url": "https://racer.com/2026/11/17/the-racer-mailbag-november-18",
+      "series": [
+        "f1",
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "George Russell reveals bounce-back plan for 2027 F1 season",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T09:31:30Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/george-russell-reveals-bounce-back-plan-for-2027-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "2026 | Macau GP | FIA FR World Cup | Preview | Champions and F3 stars target victory in Gen2 debut",
       "source": "Pit Debrief",
