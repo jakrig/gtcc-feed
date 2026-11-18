@@ -1,7 +1,19 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T03:22:11Z",
+  "updated": "2026-11-18T04:21:10Z",
   "items": [
+    {
+      "title": "Piastri hit with 10-place Las Vegas grid drop",
+      "source": "Speedcafe",
+      "time": "2026-11-18T03:56:50Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-mclaren-grid-penalty-10-place-reason-why-drop/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Here’s what V8-powered F1 cars could sound like in 2030",
       "source": "Speedcafe",
@@ -115,6 +127,18 @@
       "source": "Motorsport Week",
       "time": "2026-11-17T17:30:00Z",
       "url": "https://www.motorsportweek.com/2026/11/17/bernie-ecclestone-makes-overwhelmed-claim-about-ferrari-fred-vasseur/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Emma Felbermayr confirms third F1 Academy season with Audi and Rodin Motorsport for 2027",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T16:44:00Z",
+      "url": "https://www.pitdebrief.com/post/emma-felbermayr-confirms-third-f1-academy-season-with-audi-and-rodin-motorsport-for-2027/",
       "series": [
         "f1"
       ],
