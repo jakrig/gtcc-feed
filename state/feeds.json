@@ -203,7 +203,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "W/\"418c842e5b8795d78a9f17219f35d061\"",
     "last_modified": "Wed, 18 Nov 2026 15:31:04 GMT",
     "rules": "96242d557236ce43"
@@ -324,7 +324,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -388,7 +388,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "\"eef8ed1a60b5e438115db753501d3604\"",
     "last_modified": "Wed, 18 Nov 2026 13:25:11 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -705,7 +705,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "\"2d9d57fcefd5d419ab092add0413f467\"",
     "last_modified": "Wed, 18 Nov 2026 17:30:00 GMT",
     "rules": "67f18b83ed456b67"
@@ -815,7 +815,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "\"40cff42dd9c1e4d1842435d647b8d2d1\"",
     "last_modified": "Wed, 18 Nov 2026 14:01:14 GMT",
     "rules": "bfb252c96c75fd56"
@@ -825,15 +825,26 @@
       "https://speedcafe.com/titles-on-the-line-as-ndrc-decider-hits-the-bend/": "2026-11-18T03:59:53Z",
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-mclaren-grid-penalty-10-place-reason-why-drop/": "2026-11-18T03:56:50Z",
       "https://speedcafe.com/motorsport-news-2026-targa-australia-ownership-change-details-dutton-automotive-bullitt-tasmania/": "2026-11-18T03:43:33Z",
-      "https://speedcafe.com/motorsport-news-2026-macau-grand-prix-fia-gt-world-cup-tigani-motorsport-shipping-delays/": "2026-11-18T03:28:39Z",
       "https://speedcafe.com/motogp-news-2026-mick-doohan-sport-australia-hall-of-fame-legend-status-comments-reaction/": "2026-11-18T05:10:37Z",
       "https://speedcafe.com/motogp-news-2026-adelaide-park-lands-protest-arrest-police-allegation-stop-the-chop/": "2026-11-18T04:41:13Z",
       "https://speedcafe.com/motorsport-news-2026-aussie-racing-cars-teenage-karting-liam-carr-debut-sydney-podium-details-comments/": "2026-11-18T06:00:30Z",
       "https://speedcafe.com/supercars-news-2027-calendar-state-of-origin-sandown-ipswich-queensland-raceway/": "2026-11-18T07:11:02Z",
       "https://speedcafe.com/podcast-grassroots-racing-93-with-steve-chopping/": "2026-11-18T10:36:51Z",
-      "https://speedcafe.com/motorsport-news-2026-tony-quinn-foundation-tom-bewley-donation-support-porsche-carrera-cup-australia-season/": "2026-11-18T19:00:41Z"
+      "https://speedcafe.com/motorsport-news-2026-tony-quinn-foundation-tom-bewley-donation-support-porsche-carrera-cup-australia-season/": "2026-11-18T19:00:41Z",
+      "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/": "2026-11-18T20:18:14Z"
     },
     "items": [
+      {
+        "title": "Cadillac ends Herta speculation with Bottas re-signing",
+        "source": "Speedcafe",
+        "time": "2026-11-18T20:18:14Z",
+        "url": "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Piastri hit with 10-place Las Vegas grid drop",
         "source": "Speedcafe",
@@ -967,8 +978,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
-    "etag": "W/\"70edee47f0549e3cd90de63da2e86976-gzip\"",
+    "last_ok": "2026-11-18T20:19:13Z",
+    "etag": "W/\"503120496e61ff4c630e1e95158f3f87-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -1009,9 +1020,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 19:16:35 GMT",
+    "last_modified": "Wed, 18 Nov 2026 20:19:24 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1040,9 +1051,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 19:19:10 GMT",
+    "last_modified": "Wed, 18 Nov 2026 20:19:17 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1059,7 +1070,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1134,7 +1145,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -1142,7 +1153,6 @@
   "pitdebrief": {
     "first_seen": {
       "https://www.pitdebrief.com/post/everything-you-need-to-know-about-the-2026-fia-f4-world-cup-at-the-73rd-macau-gp/": "2026-11-18T03:13:58Z",
-      "https://www.pitdebrief.com/post/frederic-vervisch-replaces-broc-feeney-for-2026-gtwc-australia-adelaide-title-decider/": "2026-11-17T22:27:00Z",
       "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-preview-champions-and-f3-stars-target-victory-in-gen2-debut/": "2026-11-18T08:00:00Z",
       "https://www.pitdebrief.com/post/2026-macau-gp-fia-f4-world-cup-preview/": "2026-11-18T08:00:00Z",
       "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/": "2026-11-18T12:00:00Z",
@@ -1150,9 +1160,21 @@
       "https://www.pitdebrief.com/post/watch-2026-macau-gp-here/": "2026-11-18T16:12:52Z",
       "https://www.pitdebrief.com/post/two-time-indycar-champion-newgarden-agrees-new-multi-year-deal-with-team-penske/": "2026-11-18T15:54:23Z",
       "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-2-report/": "2026-11-18T17:58:48Z",
-      "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/": "2026-11-18T17:30:00Z"
+      "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/": "2026-11-18T17:30:00Z",
+      "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/": "2026-11-18T19:24:30Z"
     },
     "items": [
+      {
+        "title": "Patrese disagrees with Verstappen about F1 Las Vegas GP show",
+        "source": "Pit Debrief",
+        "time": "2026-11-18T19:24:30Z",
+        "url": "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "2026 F1 FP1 rookies: A full list",
         "source": "Pit Debrief",
@@ -1364,9 +1386,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
-    "etag": "\"7b0f3d2fbc835eb55b41e6a206f61023\"",
-    "last_modified": "Wed, 18 Nov 2026 18:27:39 GMT",
+    "last_ok": "2026-11-18T20:19:13Z",
+    "etag": "\"b57ba567de7e581f3a9b365c7b9e9c7a\"",
+    "last_modified": "Wed, 18 Nov 2026 19:24:34 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1439,7 +1461,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": null,
     "last_modified": "Wed, 18 Nov 2026 17:39:45 GMT",
     "rules": "dbb13c3cb4e2f318"
@@ -1527,7 +1549,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T19:19:07Z",
+    "last_ok": "2026-11-18T20:19:13Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"

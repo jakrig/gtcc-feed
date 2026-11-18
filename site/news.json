@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T19:19:07Z",
+  "updated": "2026-11-18T20:19:13Z",
   "items": [
+    {
+      "title": "Cadillac ends Herta speculation with Bottas re-signing",
+      "source": "Speedcafe",
+      "time": "2026-11-18T20:18:14Z",
+      "url": "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Patrese disagrees with Verstappen about F1 Las Vegas GP show",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T19:24:30Z",
+      "url": "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Feeder Series weekend preview and schedule: 19–22 November 2026",
       "source": "Feeder Series",
