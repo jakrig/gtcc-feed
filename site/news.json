@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T02:23:59Z",
+  "updated": "2026-11-18T03:22:11Z",
   "items": [
     {
       "title": "Here’s what V8-powered F1 cars could sound like in 2030",
@@ -31,6 +31,18 @@
       "source": "Sportscar365",
       "time": "2026-11-17T23:51:07Z",
       "url": "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Frédéric Vervisch replaces Broc Feeney for 2026 GTWC Australia Adelaide title decider",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T22:27:00Z",
+      "url": "https://www.pitdebrief.com/post/frederic-vervisch-replaces-broc-feeney-for-2026-gtwc-australia-adelaide-title-decider/",
       "series": [
         "gtwc-australia"
       ],
@@ -285,6 +297,18 @@
       "url": "https://www.motorsportweek.com/2026/11/17/fernando-alonso-dakar-2027-aston-martin/",
       "series": [
         "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Yasser Shahin reunites with Laurin Heinrich for 2026 GTWC Australia Adelaide finale",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T12:40:00Z",
+      "url": "https://www.pitdebrief.com/post/yasser-shahin-reunites-with-laurin-heinrich-for-2026-gtwc-australia-adelaide-finale/",
+      "series": [
+        "gtwc-australia"
       ],
       "circuit": null,
       "photo": null,
