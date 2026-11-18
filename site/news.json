@@ -1,7 +1,56 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T12:24:59Z",
+  "updated": "2026-11-18T13:19:57Z",
   "items": [
+    {
+      "title": "2026 F3 | Season Review | Alessandro Giusti",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T13:00:00Z",
+      "url": "https://www.pitdebrief.com/post/2026-f3-season-review-alessandro-giusti/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen delivers telling statement over F1 future following Kimi Antonelli title",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/max-verstappen-delivers-telling-statement-over-f1-future-following-kimi-antonelli-title/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Dallara Has Capacity to Continue With Four OEMs in 2030",
+      "source": "Sportscar365",
+      "time": "2026-11-18T12:52:21Z",
+      "url": "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/",
+      "series": [
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fayer, Jensen, and McElrea Continue At United Autosports For 2027",
+      "source": "Dailysportscar",
+      "time": "2026-11-18T12:31:24Z",
+      "url": "https://www.dailysportscar.com/2026/11/18/fayer-jensen-and-mcelrea-continue-at-united-autosports-for-2027.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "United Autosports announces drivers for second IMSA entry",
       "source": "RACER",
@@ -777,7 +826,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/imsa/iwsc/unchanged-lineup-for-no-2-united-autosports-oreca/",
+          "time": "2026-11-18T12:23:50Z"
+        }
+      ]
     },
     {
       "title": "Boulle Rejoins United, Set for First Full Season Since 2024",
