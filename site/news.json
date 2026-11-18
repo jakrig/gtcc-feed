@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T23:19:13Z",
+  "updated": "2026-11-18T00:39:35Z",
   "items": [
+    {
+      "title": "Cadillac unveils unique new look for Las Vegas Grand Prix",
+      "source": "Speedcafe",
+      "time": "2026-11-18T00:22:55Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-livery-cadillac-gallery-photos-special-lights/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Vervisch Chosen as Feeney Stand-in at MPC for Adelaide",
+      "source": "Sportscar365",
+      "time": "2026-11-17T23:51:07Z",
+      "url": "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Clerot targets 2027 F3 title challenge with Rodin Motorsport after strong finish to rookie season",
       "source": "Pit Debrief",
@@ -632,7 +656,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-liam-lawson-contract-details-alan-permane-comments-future-nikola-tsolov-red-bull/",
+          "time": "2026-11-17T23:55:49Z"
+        }
+      ]
     },
     {
       "title": "Oliver Goethe joins LN4 Fusion for 2027 F2 season",

@@ -1,7 +1,6 @@
 {
   "sportscar365": {
     "first_seen": {
-      "https://sportscar365.com/imsa/impc/sellers-explains-hmis-bmw-decision-pilot-challenge-plans/": "2026-11-16T12:02:56Z",
       "https://sportscar365.com/other-series/n24/new-nurburgring-series-for-2028-now-off-the-table/": "2026-11-16T20:11:54Z",
       "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z",
       "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/": "2026-11-17T05:01:47Z",
@@ -10,9 +9,21 @@
       "https://sportscar365.com/lemans/wec/toyota-gr-gt3-set-for-fia-homologation-in-near-future/": "2026-11-17T10:21:52Z",
       "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/": "2026-11-17T13:00:23Z",
       "https://sportscar365.com/imsa/mustang-challenge-na/rushbrook-ford-always-looking-at-future-of-single-make-platform/": "2026-11-17T14:00:38Z",
-      "https://sportscar365.com/imsa/iwsc/quinn-to-continue-with-crowdstrike-by-apr/": "2026-11-17T16:38:55Z"
+      "https://sportscar365.com/imsa/iwsc/quinn-to-continue-with-crowdstrike-by-apr/": "2026-11-17T16:38:55Z",
+      "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/": "2026-11-17T23:51:07Z"
     },
     "items": [
+      {
+        "title": "Vervisch Chosen as Feeney Stand-in at MPC for Adelaide",
+        "source": "Sportscar365",
+        "time": "2026-11-17T23:51:07Z",
+        "url": "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Quinn to Continue With CrowdStrike by APR in 2027",
         "source": "Sportscar365",
@@ -136,9 +147,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
-    "etag": "W/\"c73fa3060c3a5fc2f75b1460ff31f172\"",
-    "last_modified": "Tue, 17 Nov 2026 17:05:29 GMT",
+    "last_ok": "2026-11-18T00:39:35Z",
+    "etag": "W/\"89bf73a805759b2805237def77ffbee8\"",
+    "last_modified": "Tue, 17 Nov 2026 23:54:02 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
@@ -233,7 +244,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -297,7 +308,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "\"5ef17686ed3f2adaff238b8fa1ce471e\"",
     "last_modified": "Sun, 15 Nov 2026 22:29:52 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -515,7 +526,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "\"78b351a269f49e0511b67f6940422dfc\"",
     "last_modified": "Tue, 17 Nov 2026 20:06:50 GMT",
     "rules": "67f18b83ed456b67"
@@ -614,15 +625,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "\"0c741d7cf8698edab66c2e5f44e8d5bd\"",
     "last_modified": "Tue, 17 Nov 2026 19:00:10 GMT",
     "rules": "bfb252c96c75fd56"
   },
   "speedcafe": {
     "first_seen": {
-      "https://speedcafe.com/motorsport-news-2026-gt-world-challenge-australia-porsche-entry-long-term-plans-2027/": "2026-11-17T04:30:47Z",
-      "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-australia-shahin-heinrich-entry-confirmed/": "2026-11-17T04:30:00Z",
       "https://speedcafe.com/supercars-news-2026-kelly-racing-return-nissan-altima-australian-touring-car-classic-atcc-entry-sandown/": "2026-11-17T05:30:49Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-david-reynolds-team-18-future-harri-jones-contract/": "2026-11-17T07:20:32Z",
       "https://speedcafe.com/bathurst-12-hour-news-2027-combined-sportscars-and-sedans-entry-list-details-55-cars/": "2026-11-17T07:24:32Z",
@@ -630,9 +639,33 @@
       "https://speedcafe.com/motorsport-news-2026-vervisch-replaces-feeney-gt-world-challenge-australia-adelaide-schumacher-interview-exclusive/": "2026-11-17T18:55:10Z",
       "https://speedcafe.com/motorsport-news-2026-adelaide-rally-tim-possingham-question-and-answer-interview-sponsored-content/": "2026-11-17T19:51:31Z",
       "https://speedcafe.com/motorsport-news-2027-mustang-cup-australia-jack-perkins-triple-eight-car-sold-formula-rx8-champions-stiaan-kriel-details/": "2026-11-17T23:05:02Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-shane-van-gisbergen-triple-eight-red-bull-holden-commodore/": "2026-11-17T22:27:49Z"
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-shane-van-gisbergen-triple-eight-red-bull-holden-commodore/": "2026-11-17T22:27:49Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-livery-cadillac-gallery-photos-special-lights/": "2026-11-18T00:22:55Z",
+      "https://speedcafe.com/f1-news-2026-liam-lawson-contract-details-alan-permane-comments-future-nikola-tsolov-red-bull/": "2026-11-17T23:55:49Z"
     },
     "items": [
+      {
+        "title": "Cadillac unveils unique new look for Las Vegas Grand Prix",
+        "source": "Speedcafe",
+        "time": "2026-11-18T00:22:55Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-livery-cadillac-gallery-photos-special-lights/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Racing Bulls’ rationale behind slow Liam Lawson re-signing",
+        "source": "Speedcafe",
+        "time": "2026-11-17T23:55:49Z",
+        "url": "https://speedcafe.com/f1-news-2026-liam-lawson-contract-details-alan-permane-comments-future-nikola-tsolov-red-bull/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Popular Combined Sedans to bring 55 entries to Bathurst 12 Hour",
         "source": "Speedcafe",
@@ -722,8 +755,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
-    "etag": "W/\"8b64ac69e2443470927a7c8067c4a500-gzip\"",
+    "last_ok": "2026-11-18T00:39:35Z",
+    "etag": "W/\"30ef1d6a1f5624e596a7ff488864054a-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -753,9 +786,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 23:19:25 GMT",
+    "last_modified": "Wed, 18 Nov 2026 00:39:45 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -784,9 +817,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": null,
-    "last_modified": "Tue, 17 Nov 2026 23:19:17 GMT",
+    "last_modified": "Wed, 18 Nov 2026 00:39:39 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -803,7 +836,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -878,7 +911,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
@@ -1020,9 +1053,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
-    "etag": "\"14737dfb30ba661a1246dc20e3330e45\"",
-    "last_modified": "Tue, 17 Nov 2026 23:19:16 GMT",
+    "last_ok": "2026-11-18T00:39:35Z",
+    "etag": "\"47881008f66a7fa6a91cb78602167970\"",
+    "last_modified": "Wed, 18 Nov 2026 00:26:46 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1084,7 +1117,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": null,
     "last_modified": "Tue, 17 Nov 2026 20:42:36 GMT",
     "rules": "dbb13c3cb4e2f318"
@@ -1172,7 +1205,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-17T23:19:13Z",
+    "last_ok": "2026-11-18T00:39:35Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"
