@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T20:19:13Z",
+  "updated": "2026-11-18T21:19:02Z",
   "items": [
+    {
+      "title": "2027 F1 grid: Drivers, car numbers and teams",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T20:43:00Z",
+      "url": "https://www.pitdebrief.com/post/2027-f1-grid-drivers-and-their-car-numbers/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac officially confirm Bottas for 2027 F1 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T20:33:14Z",
+      "url": "https://www.pitdebrief.com/post/cadillac-officially-confirm-bottas-for-2027-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac F1 confirms Bottas for 2027, leaving Herta’s future uncertain",
+      "source": "RACER",
+      "time": "2026-11-18T20:25:20Z",
+      "url": "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Cadillac ends Herta speculation with Bottas re-signing",
       "source": "Speedcafe",
@@ -55,6 +91,18 @@
       "source": "Motorsport Week",
       "time": "2026-11-18T17:30:00Z",
       "url": "https://www.motorsportweek.com/2026/11/18/zak-brown-mclaren-must-do-a-better-job-after-2026-f1-struggles/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Hadjar reflects on interrupted 2026 F1 season and praises team’s remarkable progress",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T16:00:00Z",
+      "url": "https://www.pitdebrief.com/post/hadjar-reflects-on-interrupted-2026-f1-season-and-praises-teams-remarkable-progress/",
       "series": [
         "f1"
       ],

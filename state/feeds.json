@@ -203,25 +203,36 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "W/\"418c842e5b8795d78a9f17219f35d061\"",
     "last_modified": "Wed, 18 Nov 2026 15:31:04 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
     "first_seen": {
-      "https://racer.com/2026/11/17/tony-kanaan-joins-featured-speakers-at-7th-annual-race-industry-week": "2026-11-17T23:01:38Z",
       "https://racer.com/2026/11/17/the-racer-mailbag-november-18": "2026-11-18T10:00:00Z",
-      "https://racer.com/2026/11/17/united-autosports-announces-drivers-for-second-imsa-entry": "2026-11-18T12:00:45Z",
       "https://racer.com/2026/11/18/why-the-time-was-right-to-sell-indy-nxt-s-biggest-team": "2026-11-18T13:54:59Z",
       "https://racer.com/2026/11/18/will-indycar-spring-another-calendar-surprise-for-2027-": "2026-11-18T15:43:56Z",
       "https://racer.com/2026/11/18/newgarden-signs-multi-year-extension-with-team-penske": "2026-11-18T15:36:54Z",
-      "https://racer.com/2026/11/18/races-on-tv-november-19-22": "2026-11-18T13:26:20Z",
       "https://racer.com/2026/11/18/nascar-announces-format-eligibility-criteria-for-2027-clash": "2026-11-18T16:29:56Z",
       "https://racer.com/2026/11/18/openai-replaces-dhl-on-palou-s-no-10-indycar": "2026-11-18T17:10:48Z",
-      "https://racer.com/2026/11/18/mortara-sets-the-pace-on-day-2-of-formula-e-preseason-testing": "2026-11-18T18:37:07Z"
+      "https://racer.com/2026/11/18/mortara-sets-the-pace-on-day-2-of-formula-e-preseason-testing": "2026-11-18T18:37:07Z",
+      "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain": "2026-11-18T20:25:20Z",
+      "https://racer.com/2026/11/18/corr-presented-by-amsoil-returns-to-racer-network-with-free-streaming-on-racer-": "2026-11-18T20:38:45Z",
+      "https://racer.com/2026/11/18/23xi-s-wallace-heim-get-new-crew-chiefs-for-2027": "2026-11-18T20:15:24Z"
     },
     "items": [
+      {
+        "title": "Cadillac F1 confirms Bottas for 2027, leaving Herta’s future uncertain",
+        "source": "RACER",
+        "time": "2026-11-18T20:25:20Z",
+        "url": "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "United Autosports announces drivers for second IMSA entry",
         "source": "RACER",
@@ -324,7 +335,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -388,7 +399,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "\"eef8ed1a60b5e438115db753501d3604\"",
     "last_modified": "Wed, 18 Nov 2026 13:25:11 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -705,7 +716,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "\"2d9d57fcefd5d419ab092add0413f467\"",
     "last_modified": "Wed, 18 Nov 2026 17:30:00 GMT",
     "rules": "67f18b83ed456b67"
@@ -815,7 +826,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "\"40cff42dd9c1e4d1842435d647b8d2d1\"",
     "last_modified": "Wed, 18 Nov 2026 14:01:14 GMT",
     "rules": "bfb252c96c75fd56"
@@ -823,15 +834,15 @@
   "speedcafe": {
     "first_seen": {
       "https://speedcafe.com/titles-on-the-line-as-ndrc-decider-hits-the-bend/": "2026-11-18T03:59:53Z",
-      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-mclaren-grid-penalty-10-place-reason-why-drop/": "2026-11-18T03:56:50Z",
-      "https://speedcafe.com/motorsport-news-2026-targa-australia-ownership-change-details-dutton-automotive-bullitt-tasmania/": "2026-11-18T03:43:33Z",
       "https://speedcafe.com/motogp-news-2026-mick-doohan-sport-australia-hall-of-fame-legend-status-comments-reaction/": "2026-11-18T05:10:37Z",
       "https://speedcafe.com/motogp-news-2026-adelaide-park-lands-protest-arrest-police-allegation-stop-the-chop/": "2026-11-18T04:41:13Z",
       "https://speedcafe.com/motorsport-news-2026-aussie-racing-cars-teenage-karting-liam-carr-debut-sydney-podium-details-comments/": "2026-11-18T06:00:30Z",
       "https://speedcafe.com/supercars-news-2027-calendar-state-of-origin-sandown-ipswich-queensland-raceway/": "2026-11-18T07:11:02Z",
       "https://speedcafe.com/podcast-grassroots-racing-93-with-steve-chopping/": "2026-11-18T10:36:51Z",
       "https://speedcafe.com/motorsport-news-2026-tony-quinn-foundation-tom-bewley-donation-support-porsche-carrera-cup-australia-season/": "2026-11-18T19:00:41Z",
-      "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/": "2026-11-18T20:18:14Z"
+      "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/": "2026-11-18T20:18:14Z",
+      "https://speedcafe.com/indycar-news-2026-josef-newgarden-team-penske-contract-extension-deal-comments-reaction/": "2026-11-18T20:58:51Z",
+      "https://speedcafe.com/supercars-news-james-golding-new-backer-2027-season-blanchard-racing-team-blahst-car-care-penrite-oil/": "2026-11-18T20:30:40Z"
     },
     "items": [
       {
@@ -978,8 +989,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
-    "etag": "W/\"503120496e61ff4c630e1e95158f3f87-gzip\"",
+    "last_ok": "2026-11-18T21:19:02Z",
+    "etag": "W/\"b8e7e16880023098ddd44de68b83148a-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -1020,9 +1031,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 20:19:24 GMT",
+    "last_modified": "Wed, 18 Nov 2026 21:17:01 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1051,9 +1062,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 20:19:17 GMT",
+    "last_modified": "Wed, 18 Nov 2026 21:19:06 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1070,7 +1081,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1145,25 +1156,47 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
   },
   "pitdebrief": {
     "first_seen": {
-      "https://www.pitdebrief.com/post/everything-you-need-to-know-about-the-2026-fia-f4-world-cup-at-the-73rd-macau-gp/": "2026-11-18T03:13:58Z",
-      "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-preview-champions-and-f3-stars-target-victory-in-gen2-debut/": "2026-11-18T08:00:00Z",
-      "https://www.pitdebrief.com/post/2026-macau-gp-fia-f4-world-cup-preview/": "2026-11-18T08:00:00Z",
       "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/": "2026-11-18T12:00:00Z",
       "https://www.pitdebrief.com/post/2026-f3-season-review-alessandro-giusti/": "2026-11-18T13:00:00Z",
       "https://www.pitdebrief.com/post/watch-2026-macau-gp-here/": "2026-11-18T16:12:52Z",
       "https://www.pitdebrief.com/post/two-time-indycar-champion-newgarden-agrees-new-multi-year-deal-with-team-penske/": "2026-11-18T15:54:23Z",
       "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-2-report/": "2026-11-18T17:58:48Z",
       "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/": "2026-11-18T17:30:00Z",
-      "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/": "2026-11-18T19:24:30Z"
+      "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/": "2026-11-18T19:24:30Z",
+      "https://www.pitdebrief.com/post/2027-f1-grid-drivers-and-their-car-numbers/": "2026-11-18T20:43:00Z",
+      "https://www.pitdebrief.com/post/cadillac-officially-confirm-bottas-for-2027-f1-season/": "2026-11-18T20:33:14Z",
+      "https://www.pitdebrief.com/post/hadjar-reflects-on-interrupted-2026-f1-season-and-praises-teams-remarkable-progress/": "2026-11-18T16:00:00Z"
     },
     "items": [
+      {
+        "title": "2027 F1 grid: Drivers, car numbers and teams",
+        "source": "Pit Debrief",
+        "time": "2026-11-18T20:43:00Z",
+        "url": "https://www.pitdebrief.com/post/2027-f1-grid-drivers-and-their-car-numbers/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Cadillac officially confirm Bottas for 2027 F1 season",
+        "source": "Pit Debrief",
+        "time": "2026-11-18T20:33:14Z",
+        "url": "https://www.pitdebrief.com/post/cadillac-officially-confirm-bottas-for-2027-f1-season/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Patrese disagrees with Verstappen about F1 Las Vegas GP show",
         "source": "Pit Debrief",
@@ -1180,6 +1213,17 @@
         "source": "Pit Debrief",
         "time": "2026-11-18T17:30:00Z",
         "url": "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Hadjar reflects on interrupted 2026 F1 season and praises team’s remarkable progress",
+        "source": "Pit Debrief",
+        "time": "2026-11-18T16:00:00Z",
+        "url": "https://www.pitdebrief.com/post/hadjar-reflects-on-interrupted-2026-f1-season-and-praises-teams-remarkable-progress/",
         "series": [
           "f1"
         ],
@@ -1386,9 +1430,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
-    "etag": "\"b57ba567de7e581f3a9b365c7b9e9c7a\"",
-    "last_modified": "Wed, 18 Nov 2026 19:24:34 GMT",
+    "last_ok": "2026-11-18T21:19:02Z",
+    "etag": "\"c316c124bab7b6d6052fd56ea6a62c69\"",
+    "last_modified": "Wed, 18 Nov 2026 21:04:55 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1461,7 +1505,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": null,
     "last_modified": "Wed, 18 Nov 2026 17:39:45 GMT",
     "rules": "dbb13c3cb4e2f318"
@@ -1549,7 +1593,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T20:19:13Z",
+    "last_ok": "2026-11-18T21:19:02Z",
     "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
     "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
     "rules": "c92c32a02a3e76f6"
