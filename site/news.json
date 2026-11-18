@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T11:19:28Z",
+  "updated": "2026-11-18T12:24:59Z",
   "items": [
+    {
+      "title": "United Autosports announces drivers for second IMSA entry",
+      "source": "RACER",
+      "time": "2026-11-18T12:00:45Z",
+      "url": "https://racer.com/2026/11/17/united-autosports-announces-drivers-for-second-imsa-entry",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Stella balances McLaren optimism with top-speed concerns ahead of 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T12:00:00Z",
+      "url": "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Zak Brown explains ‘adaptations’ contributing to 2026 Oscar Piastri F1 dip",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T11:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/zak-brown-explains-adaptations-contributing-to-2026-oscar-piastri-f1-dip/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Racing Bulls boss reveals reason behind Liam Lawson extension",
       "source": "Motorsport Week",
