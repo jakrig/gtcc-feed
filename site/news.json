@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T15:19:15Z",
+  "updated": "2026-11-18T16:19:08Z",
   "items": [
+    {
+      "title": "Oscar Piastri to take a significant penalty for Las Vegas GP",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/oscar-piastri-to-take-a-significant-penalty-for-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari Challenge Title Battles to Go Down to Wire in Barcelona",
+      "source": "Sportscar365",
+      "time": "2026-11-18T15:30:13Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/ferrari-challenge-title-battles-to-go-down-to-wire-in-barcelona/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Mercedes reveal championship ‘priority’ after leaving George Russell upgrade-less at F1 Las Vegas GP",
       "source": "Motorsport Week",
