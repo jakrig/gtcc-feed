@@ -1,18 +1,40 @@
 {
   "sportscar365": {
     "first_seen": {
-      "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/": "2026-11-17T13:00:23Z",
-      "https://sportscar365.com/imsa/mustang-challenge-na/rushbrook-ford-always-looking-at-future-of-single-make-platform/": "2026-11-17T14:00:38Z",
-      "https://sportscar365.com/imsa/iwsc/quinn-to-continue-with-crowdstrike-by-apr/": "2026-11-17T16:38:55Z",
-      "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/": "2026-11-17T23:51:07Z",
-      "https://sportscar365.com/other-series/gt-world-cup/tigani-recalls-wild-delays-that-jeopardized-macau-debut/": "2026-11-18T05:01:02Z",
-      "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/": "2026-11-18T12:52:21Z",
-      "https://sportscar365.com/imsa/iwsc/unchanged-lineup-for-no-2-united-autosports-oreca/": "2026-11-18T12:23:50Z",
       "https://sportscar365.com/imsa/iwsc/cindric-open-to-more-sports-car-opportunities/": "2026-11-18T13:30:52Z",
       "https://sportscar365.substack.com/p/insight-how-vesti-excelled-at-imsas": "2026-11-18T14:00:34Z",
-      "https://sportscar365.com/imsa/ferrari-challenge-na/ferrari-challenge-title-battles-to-go-down-to-wire-in-barcelona/": "2026-11-18T15:30:13Z"
+      "https://sportscar365.com/imsa/ferrari-challenge-na/ferrari-challenge-title-battles-to-go-down-to-wire-in-barcelona/": "2026-11-18T15:30:13Z",
+      "https://sportscar365.com/other-series/gt-world-cup/heinrich-tops-fp1-in-chijin-rex-porsche-at-macau/": "2026-11-19T04:55:53Z",
+      "https://sportscar365.com/other-series/gt-world-cup/craft-bamboo-did-1000-km-of-testing-for-torque-sensors/": "2026-11-19T03:20:47Z",
+      "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/": "2026-11-19T02:38:58Z",
+      "https://sportscar365.com/other-series/gt-world-cup/marciello-sad-fuoco-not-present-to-defend-title/": "2026-11-19T00:27:09Z",
+      "https://sportscar365.com/other-series/gt-world-cup/sorensen-bit-of-a-shock-to-hear-of-aston-macau-entry/": "2026-11-19T00:00:22Z",
+      "https://sportscar365.com/videos/watch-20-years-of-gt3-the-story-of-the-worlds-most-successful-customer-class/": "2026-11-18T21:41:54Z",
+      "https://sportscar365.com/imsa/ferrari-challenge-na/kaminskey-takes-ferrari-challenge-pole-for-both-barcelona-finales/": "2026-11-18T20:00:18Z"
     },
     "items": [
+      {
+        "title": "Team NZ Mercedes-AMG Joins Burgeoning Adelaide Grid",
+        "source": "Sportscar365",
+        "time": "2026-11-19T02:38:58Z",
+        "url": "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Kaminskey Takes Poles for Both Barcelona Season Finale Races",
+        "source": "Sportscar365",
+        "time": "2026-11-18T20:00:18Z",
+        "url": "https://sportscar365.com/imsa/ferrari-challenge-na/kaminskey-takes-ferrari-challenge-pole-for-both-barcelona-finales/",
+        "series": [
+          "imsa"
+        ],
+        "circuit": "barcelona",
+        "photo": null
+      },
       {
         "title": "Ferrari Challenge Title Battles to Go Down to Wire in Barcelona",
         "source": "Sportscar365",
@@ -203,9 +225,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "W/\"418c842e5b8795d78a9f17219f35d061\"",
-    "last_modified": "Wed, 18 Nov 2026 15:31:04 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "W/\"5c9021fc161f01d563b6d036cc5c9ed6\"",
+    "last_modified": "Thu, 19 Nov 2026 07:15:34 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
@@ -335,7 +357,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -349,9 +371,9 @@
       "https://www.touringcartimes.com/2026/11/09/btcc-revises-race-weekend-format-for-2027-season/": "2026-11-09T14:19:27Z",
       "https://www.touringcartimes.com/2026/11/08/leonel-pernia-closes-in-on-title-as-he-and-nestor-girolami-share-rosario-wins/": "2026-11-08T19:55:11Z",
       "https://www.touringcartimes.com/2026/11/08/felipe-fernandez-charges-to-barcelona-double/": "2026-11-08T16:25:50Z",
-      "https://www.touringcartimes.com/2026/11/08/felipe-fernandez-wins-as-viktor-andersson-is-crowned-champion/": "2026-11-08T10:33:03Z",
-      "https://www.touringcartimes.com/2026/11/08/matt-payne-wins-sandown-thriller-as-supercars-title-contenders-are-set/": "2026-11-08T09:29:43Z",
-      "https://www.touringcartimes.com/2026/11/18/three-title-contenders-remain-in-iconic-macau-season-finale/": "2026-11-18T09:40:40Z"
+      "https://www.touringcartimes.com/2026/11/18/three-title-contenders-remain-in-iconic-macau-season-finale/": "2026-11-18T09:40:40Z",
+      "https://www.touringcartimes.com/2026/11/19/yann-ehrlacher-my-taget-is-a-victory/": "2026-11-19T05:35:18Z",
+      "https://www.touringcartimes.com/2026/11/19/mikel-azcona-tops-opening-practice-at-macau-2/": "2026-11-19T05:21:05Z"
     },
     "items": [
       {
@@ -399,14 +421,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "\"eef8ed1a60b5e438115db753501d3604\"",
-    "last_modified": "Wed, 18 Nov 2026 13:25:11 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "\"2a0cd8dd88c848d5831abfbdd374e421\"",
+    "last_modified": "Thu, 19 Nov 2026 05:35:18 GMT",
     "rules": "55d6ce569d7f4aea"
   },
   "motorsportweek": {
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/18/zak-brown-explains-adaptations-contributing-to-2026-oscar-piastri-f1-dip/": "2026-11-18T11:30:00Z",
       "https://www.motorsportweek.com/2026/11/18/max-verstappen-delivers-telling-statement-over-f1-future-following-kimi-antonelli-title/": "2026-11-18T13:00:00Z",
       "https://www.motorsportweek.com/2026/11/18/marc-marquez-scenarios-champion-portuguesegp/": "2026-11-18T14:00:00Z",
       "https://www.motorsportweek.com/2026/11/18/alpine-to-run-new-livery-for-remainder-of-the-f1-season/": "2026-11-18T13:30:00Z",
@@ -415,9 +436,21 @@
       "https://www.motorsportweek.com/2026/11/18/team-penske-retains-longest-tenured-driver-with-multi-year-extension/": "2026-11-18T15:35:12Z",
       "https://www.motorsportweek.com/2026/11/18/zak-brown-mclaren-must-do-a-better-job-after-2026-f1-struggles/": "2026-11-18T17:30:00Z",
       "https://www.motorsportweek.com/2026/11/18/indycar-champ-alex-palou-swaps-primary-sponsor-for-2027-season/": "2026-11-18T17:27:03Z",
-      "https://www.motorsportweek.com/2026/11/18/valtteri-bottas-cadillac-2027-f1-decision/": "2026-11-18T21:40:33Z"
+      "https://www.motorsportweek.com/2026/11/18/valtteri-bottas-cadillac-2027-f1-decision/": "2026-11-18T21:40:33Z",
+      "https://www.motorsportweek.com/2026/11/19/oliver-bearman-haas-f1-disappointment/": "2026-11-19T06:00:00Z"
     },
     "items": [
+      {
+        "title": "Oliver Bearman airs ‘disappointment’ with prolonged Haas contract saga",
+        "source": "Motorsport Week",
+        "time": "2026-11-19T06:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/19/oliver-bearman-haas-f1-disappointment/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Valtteri Bottas decision reached as Cadillac announces 2027 F1 lineup",
         "source": "Motorsport Week",
@@ -727,16 +760,14 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "\"35517e34ac3b63ec4a205bc915f4ce96\"",
-    "last_modified": "Wed, 18 Nov 2026 21:40:34 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "\"c1a8106cfd7c7c1bae17f432769e8c08\"",
+    "last_modified": "Thu, 19 Nov 2026 06:00:00 GMT",
     "rules": "67f18b83ed456b67"
   },
   "dailysportscar": {
     "first_seen": {
-      "https://www.dailysportscar.com/2026/11/15/af-corse-doubles-up-in-asian-le-mans-4h-le-castellet.html": "2026-11-15T16:19:52Z",
       "https://www.dailysportscar.com/2026/11/16/boulle-aguilera-join-di-resta-at-united-autosports.html": "2026-11-16T12:02:07Z",
-      "https://www.dailysportscar.com/2026/11/16/porsche-completes-2027-junior-assessment.html": "2026-11-16T07:17:00Z",
       "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html": "2026-11-16T20:00:01Z",
       "https://www.dailysportscar.com/2026/11/16/adac-nordrhein-nls-map-out-future-of-racing-on-nordschleife.html": "2026-11-16T19:29:23Z",
       "https://www.dailysportscar.com/2026/11/17/mannol-grupo-prom-racing-continue-partnership-with-expanded-2027-programme.html": "2026-11-17T12:43:45Z",
@@ -745,7 +776,9 @@
       "https://www.dailysportscar.com/2026/11/18/road-to-dtm-to-feature-e1-5m-prize-pool-in-2027.html": "2026-11-18T09:56:31Z",
       "https://www.dailysportscar.com/2026/11/18/elite-completes-landmark-gt3-gt4-championship-double.html": "2026-11-18T12:20:31Z",
       "https://www.dailysportscar.com/2026/11/18/fayer-jensen-and-mcelrea-continue-at-united-autosports-for-2027.html": "2026-11-18T12:31:24Z",
-      "https://www.dailysportscar.com/2026/11/18/inside-gm-motorsports-part-1-a-day-and-night-in-daytona.html": "2026-11-18T14:01:14Z"
+      "https://www.dailysportscar.com/2026/11/18/inside-gm-motorsports-part-1-a-day-and-night-in-daytona.html": "2026-11-18T14:01:14Z",
+      "https://www.dailysportscar.com/2026/11/19/fia-gt-world-cup.html": "2026-11-19T06:53:15Z",
+      "https://www.dailysportscar.com/2026/11/19/heinrich-beats-macau-fp1-lap-record-five-times-to-top-opening-session.html": "2026-11-19T05:09:30Z"
     },
     "items": [
       {
@@ -837,25 +870,80 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "\"40cff42dd9c1e4d1842435d647b8d2d1\"",
-    "last_modified": "Wed, 18 Nov 2026 14:01:14 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "\"5578ad7550e228edbacce17bef2fc325\"",
+    "last_modified": "Thu, 19 Nov 2026 06:53:35 GMT",
     "rules": "bfb252c96c75fd56"
   },
   "speedcafe": {
     "first_seen": {
-      "https://speedcafe.com/motogp-news-2026-mick-doohan-sport-australia-hall-of-fame-legend-status-comments-reaction/": "2026-11-18T05:10:37Z",
-      "https://speedcafe.com/motorsport-news-2026-aussie-racing-cars-teenage-karting-liam-carr-debut-sydney-podium-details-comments/": "2026-11-18T06:00:30Z",
-      "https://speedcafe.com/supercars-news-2027-calendar-state-of-origin-sandown-ipswich-queensland-raceway/": "2026-11-18T07:11:02Z",
-      "https://speedcafe.com/podcast-grassroots-racing-93-with-steve-chopping/": "2026-11-18T10:36:51Z",
-      "https://speedcafe.com/motorsport-news-2026-tony-quinn-foundation-tom-bewley-donation-support-porsche-carrera-cup-australia-season/": "2026-11-18T19:00:41Z",
-      "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/": "2026-11-18T20:18:14Z",
-      "https://speedcafe.com/indycar-news-2026-josef-newgarden-team-penske-contract-extension-deal-comments-reaction/": "2026-11-18T20:58:51Z",
-      "https://speedcafe.com/supercars-news-james-golding-new-backer-2027-season-blanchard-racing-team-blahst-car-care-penrite-oil/": "2026-11-18T20:30:40Z",
-      "https://speedcafe.com/supercars-news-2026-driver-market-mark-skaife-on-david-reynolds-future-contract-team-18-james-courtney/": "2026-11-18T21:36:44Z",
-      "https://speedcafe.com/f1-news-2026-liam-lawson-on-red-bull-junior-helmut-marko-euroformula-open-team-motopark-comments/": "2026-11-18T23:00:58Z"
+      "https://speedcafe.com/motorsport-news-2026-challenge-bathurst-mustang-cup-dark-horse-legends-champion-john-goodacre-car-heavy-crash-david-tan-details/": "2026-11-19T06:48:46Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-on-sandpapergate-cricket-australia-sandpaper-comments-thoughts/": "2026-11-19T06:46:40Z",
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-super2-series-entry-list-jesse-love-nascar/": "2026-11-19T06:37:09Z",
+      "https://speedcafe.com/motorsport-news-2026-the-bend-championship-series-season-finale-round-6-mallala-details/": "2026-11-19T05:27:01Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fernando-alonso-le-mans-indy500-dakar-future-racing-aston-martin/": "2026-11-19T04:53:04Z",
+      "https://speedcafe.com/motorsport-news-2026-macau-grand-prix-optimum-motorsport-tribute-livery-oliver-goethe-hulme-mclaren-photos/": "2026-11-19T04:39:26Z",
+      "https://speedcafe.com/supercars-news-2027-calendar-queensland-raceway-ipswich-barclay-nettlefold-tony-quinn-comment/": "2026-11-19T03:11:53Z",
+      "https://speedcafe.com/f1-news-2026-mclaren-auction-2027-next-year-car-sale-sothebys-where-when/": "2026-11-19T02:34:06Z",
+      "https://speedcafe.com/motorsport-news-2026-earl-bamber-motorsport-adelaide-entry-gt-world-challenge-australia-chris-van-der-drift/": "2026-11-19T02:30:23Z",
+      "https://speedcafe.com/f1-news-2026-lego-formula-1-minifigures-drivers-release-date-2027-when-where-how-much/": "2026-11-19T02:12:07Z"
     },
     "items": [
+      {
+        "title": "Piastri weighs in on explosive sandpapergate cricket saga",
+        "source": "Speedcafe",
+        "time": "2026-11-19T06:46:40Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-on-sandpapergate-cricket-australia-sandpaper-comments-thoughts/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Fernando Alonso says Indianapolis, Le Mans ‘on my mind’",
+        "source": "Speedcafe",
+        "time": "2026-11-19T04:53:04Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fernando-alonso-le-mans-indy500-dakar-future-racing-aston-martin/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "indianapolis",
+        "photo": null
+      },
+      {
+        "title": "McLaren puts 2027 F1 car on auction block",
+        "source": "Speedcafe",
+        "time": "2026-11-19T02:34:06Z",
+        "url": "https://speedcafe.com/f1-news-2026-mclaren-auction-2027-next-year-car-sale-sothebys-where-when/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "All-Kiwi squad enters GT World Challenge Australia finale",
+        "source": "Speedcafe",
+        "time": "2026-11-19T02:30:23Z",
+        "url": "https://speedcafe.com/motorsport-news-2026-earl-bamber-motorsport-adelaide-entry-gt-world-challenge-australia-chris-van-der-drift/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lego unveils minifigures of entire F1 grid",
+        "source": "Speedcafe",
+        "time": "2026-11-19T02:12:07Z",
+        "url": "https://speedcafe.com/f1-news-2026-lego-formula-1-minifigures-drivers-release-date-2027-when-where-how-much/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Lawson reveals ugly blowup that nearly ended Red Bull deal",
         "source": "Speedcafe",
@@ -1011,8 +1099,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "W/\"264bfe86528c642c1de2aafd5995149c-gzip\"",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "W/\"a57450c1fe5d4df2623b763107323ba6-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -1021,15 +1109,26 @@
       "https://www.fia.com/news/top-drivers-mix-fia-gt-world-cup-hat-trick": "2026-11-15T14:01:00Z",
       "https://www.fia.com/news/benediktas-cirba-takes-fia-intercontinental-drifting-cup-victory-greece-wins-nations-cup": "2026-11-15T19:22:00Z",
       "https://www.fia.com/news/fia-and-formula-e-unleash-gen4-official-pre-season-testing": "2026-11-16T09:09:00Z",
-      "https://www.fia.com/news/2026-fia-european-baja-cup-titles-polish-duo-wiatr-and-laskawiec-after-hungarian-baja-victory": "2026-11-15T09:04:00Z",
       "https://www.fia.com/news/frec-heroes-go-fia-fr-world-cup-gold-macau-grand-prix": "2026-11-16T11:43:00Z",
       "https://www.fia.com/news/final-titles-season-grabs-accessible-fia-karting-arrive-and-drive-world-cup": "2026-11-17T07:36:00Z",
       "https://www.fia.com/news/wrc-commission-meeting-16112026-media-update": "2026-11-17T09:55:00Z",
       "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences": "2026-11-17T13:07:00Z",
       "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview": "2026-11-17T16:20:00Z",
-      "https://www.fia.com/news/2026-south-american-esports-championship-held-colombia": "2026-11-18T10:37:00Z"
+      "https://www.fia.com/news/2026-south-american-esports-championship-held-colombia": "2026-11-18T10:37:00Z",
+      "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript": "2026-11-18T18:45:00Z"
     },
     "items": [
+      {
+        "title": "F1 - 2026 Las Vegas Grand Prix - Wednesday Press Conference Transcript",
+        "source": "FIA",
+        "time": "2026-11-18T18:45:00Z",
+        "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "F1 - 2026 Las Vegas Grand Prix Preview",
         "source": "FIA",
@@ -1053,9 +1152,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 23:19:39 GMT",
+    "last_modified": "Thu, 19 Nov 2026 07:19:37 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1084,9 +1183,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 23:19:30 GMT",
+    "last_modified": "Thu, 19 Nov 2026 07:20:36 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1103,7 +1202,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1178,25 +1277,36 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": "W/\"0a81b3ae99b489dcff0a3d3105a3fc0d-gzip\"",
     "last_modified": "Fri, 13 Nov 2026 10:19:29 GMT",
     "rules": "0035cd3f393f2204"
   },
   "pitdebrief": {
     "first_seen": {
-      "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/": "2026-11-18T12:00:00Z",
-      "https://www.pitdebrief.com/post/2026-f3-season-review-alessandro-giusti/": "2026-11-18T13:00:00Z",
       "https://www.pitdebrief.com/post/watch-2026-macau-gp-here/": "2026-11-18T16:12:52Z",
-      "https://www.pitdebrief.com/post/two-time-indycar-champion-newgarden-agrees-new-multi-year-deal-with-team-penske/": "2026-11-18T15:54:23Z",
       "https://www.pitdebrief.com/post/formula-e-2027-pre-season-testing-day-2-report/": "2026-11-18T17:58:48Z",
       "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/": "2026-11-18T17:30:00Z",
       "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/": "2026-11-18T19:24:30Z",
       "https://www.pitdebrief.com/post/2027-f1-grid-drivers-and-their-car-numbers/": "2026-11-18T20:43:00Z",
       "https://www.pitdebrief.com/post/cadillac-officially-confirm-bottas-for-2027-f1-season/": "2026-11-18T20:33:14Z",
-      "https://www.pitdebrief.com/post/hadjar-reflects-on-interrupted-2026-f1-season-and-praises-teams-remarkable-progress/": "2026-11-18T16:00:00Z"
+      "https://www.pitdebrief.com/post/2026-macau-gp-fia-gt-world-cup-fp1-report-and-results/": "2026-11-19T04:55:49Z",
+      "https://www.pitdebrief.com/post/2026-macau-gp-fia-f4-world-cup-fp1-report-and-results/": "2026-11-19T03:08:50Z",
+      "https://www.pitdebrief.com/post/colnaghi-targets-2027-f3-title-with-campos-racing-after-challenging-rookie-campaign/": "2026-11-19T02:26:54Z",
+      "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-fp1-report/": "2026-11-19T02:16:19Z"
     },
     "items": [
+      {
+        "title": "Colnaghi targets 2027 F3 title with Campos Racing after challenging rookie campaign",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T02:26:54Z",
+        "url": "https://www.pitdebrief.com/post/colnaghi-targets-2027-f3-title-with-campos-racing-after-challenging-rookie-campaign/",
+        "series": [
+          "f3"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "2027 F1 grid: Drivers, car numbers and teams",
         "source": "Pit Debrief",
@@ -1452,9 +1562,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "\"c316c124bab7b6d6052fd56ea6a62c69\"",
-    "last_modified": "Wed, 18 Nov 2026 21:04:55 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "\"7d32d95908a326f03e3e308b7e92a131\"",
+    "last_modified": "Thu, 19 Nov 2026 05:17:05 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1527,9 +1637,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
+    "last_ok": "2026-11-19T07:20:30Z",
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 17:37:21 GMT",
+    "last_modified": "Wed, 18 Nov 2026 17:37:49 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -1541,11 +1651,23 @@
       "https://formulascout.com/nikola-tsolov-to-be-reserve-driver-for-both-of-red-bulls-f1-teams-in-2027/141029": "2026-11-12T16:01:46Z",
       "https://formulascout.com/indy-nxt-runner-up-enzo-fittipaldi-hired-by-lola-formula-e-team/141022": "2026-11-12T15:19:30Z",
       "https://formulascout.com/fia-f3-champion-ugo-ugochukwu-to-step-up-to-f2-with-campos-racing/141019": "2026-11-12T14:47:23Z",
-      "https://formulascout.com/cram-motorsport-announces-rechenmacher-and-stalmach-for-german-f4/141008": "2026-11-11T20:58:50Z",
       "https://formulascout.com/pv3-enterprises-acquires-indy-nxt-team-hmd-motorsports/141180": "2026-11-17T12:37:17Z",
-      "https://formulascout.com/beganovic-gets-another-f1-practice-call-up-with-ferrari-in-las-vegas/141185": "2026-11-17T14:49:42Z"
+      "https://formulascout.com/beganovic-gets-another-f1-practice-call-up-with-ferrari-in-las-vegas/141185": "2026-11-17T14:49:42Z",
+      "https://formulascout.com/herta-misses-out-on-f1-seat-for-2027-as-american-rejects-second-f2-season/141188": "2026-11-18T23:19:54Z"
     },
     "items": [
+      {
+        "title": "Herta misses out on F1 seat for 2027 as American rejects second F2 season",
+        "source": "Formula Scout",
+        "time": "2026-11-18T23:19:54Z",
+        "url": "https://formulascout.com/herta-misses-out-on-f1-seat-for-2027-as-american-rejects-second-f2-season/141188",
+        "series": [
+          "f1",
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Beganovic gets another F1 practice call-up with Ferrari in Las Vegas",
         "source": "Formula Scout",
@@ -1615,9 +1737,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-18T23:19:25Z",
-    "etag": "W/\"0931f8702f1e8e79029e8ed15e3fae3b\"",
-    "last_modified": "Tue, 17 Nov 2026 14:49:42 GMT",
+    "last_ok": "2026-11-19T07:20:30Z",
+    "etag": "W/\"85a8b3d9bab4834472f48403762a30a2\"",
+    "last_modified": "Wed, 18 Nov 2026 23:19:54 GMT",
     "rules": "c92c32a02a3e76f6"
   }
 }

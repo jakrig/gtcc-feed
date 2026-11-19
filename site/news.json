@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18T23:19:25Z",
+  "updated": "2026-11-19T07:20:30Z",
   "items": [
+    {
+      "title": "Piastri weighs in on explosive sandpapergate cricket saga",
+      "source": "Speedcafe",
+      "time": "2026-11-19T06:46:40Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-on-sandpapergate-cricket-australia-sandpaper-comments-thoughts/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oliver Bearman airs ‘disappointment’ with prolonged Haas contract saga",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T06:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/oliver-bearman-haas-f1-disappointment/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso says Indianapolis, Le Mans ‘on my mind’",
+      "source": "Speedcafe",
+      "time": "2026-11-19T04:53:04Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fernando-alonso-le-mans-indy500-dakar-future-racing-aston-martin/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "indianapolis",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Team NZ Mercedes-AMG Joins Burgeoning Adelaide Grid",
+      "source": "Sportscar365",
+      "time": "2026-11-19T02:38:58Z",
+      "url": "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "McLaren puts 2027 F1 car on auction block",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:34:06Z",
+      "url": "https://speedcafe.com/f1-news-2026-mclaren-auction-2027-next-year-car-sale-sothebys-where-when/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "All-Kiwi squad enters GT World Challenge Australia finale",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:30:23Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-earl-bamber-motorsport-adelaide-entry-gt-world-challenge-australia-chris-van-der-drift/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Colnaghi targets 2027 F3 title with Campos Racing after challenging rookie campaign",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T02:26:54Z",
+      "url": "https://www.pitdebrief.com/post/colnaghi-targets-2027-f3-title-with-campos-racing-after-challenging-rookie-campaign/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lego unveils minifigures of entire F1 grid",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:12:07Z",
+      "url": "https://speedcafe.com/f1-news-2026-lego-formula-1-minifigures-drivers-release-date-2027-when-where-how-much/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Herta misses out on F1 seat for 2027 as American rejects second F2 season",
+      "source": "Formula Scout",
+      "time": "2026-11-18T23:19:54Z",
+      "url": "https://formulascout.com/herta-misses-out-on-f1-seat-for-2027-as-american-rejects-second-f2-season/141188",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Lawson reveals ugly blowup that nearly ended Red Bull deal",
       "source": "Speedcafe",
@@ -71,6 +180,18 @@
         "f1"
       ],
       "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kaminskey Takes Poles for Both Barcelona Season Finale Races",
+      "source": "Sportscar365",
+      "time": "2026-11-18T20:00:18Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/kaminskey-takes-ferrari-challenge-pole-for-both-barcelona-finales/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": "barcelona",
       "photo": null,
       "also": []
     },
@@ -387,7 +508,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript",
+          "time": "2026-11-18T18:45:00Z"
+        }
+      ]
     },
     {
       "title": "Vervisch Chosen as Feeney Stand-in at MPC for Adelaide",
