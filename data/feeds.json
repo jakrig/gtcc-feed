@@ -148,6 +148,65 @@
       "notes": "Checked from GitHub Actions on 2026-11-16: valid RSS. F2/F3 and junior formulas; no terms page linked from the homepage."
     },
     {
+      "id": "crash-btcc",
+      "name": "Crash.net",
+      "url": "https://www.crash.net/rss/btcc",
+      "home": "https://www.crash.net",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. No terms page linked from the homepage."
+    },
+    {
+      "id": "crash-f1",
+      "name": "Crash.net",
+      "url": "https://www.crash.net/rss/f1",
+      "home": "https://www.crash.net",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Also carries MotoGP items; only tracked series are kept. No terms page linked from the homepage."
+    },
+    {
+      "id": "racefans",
+      "name": "RaceFans",
+      "url": "https://www.racefans.net/feed/",
+      "home": "https://www.racefans.net",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. No terms page linked from the homepage."
+    },
+    {
+      "id": "gpfans",
+      "name": "GPFans",
+      "url": "https://www.gpfans.com/en/rss.xml",
+      "home": "https://www.gpfans.com/en/",
+      "series": [
+        "f1"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. F1-only site; headlines rarely say F1, so the series is fixed. Terms page blocked the check (403); terms unknown."
+    },
+    {
+      "id": "joesaward",
+      "name": "Joe Saward",
+      "url": "https://joesaward.wordpress.com/feed/",
+      "home": "https://joesaward.wordpress.com",
+      "series": [
+        "f1"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. F1 journalist's blog; series fixed. No terms page found."
+    },
+    {
       "id": "fia",
       "name": "FIA",
       "url": "https://www.fia.com/rss/news",
