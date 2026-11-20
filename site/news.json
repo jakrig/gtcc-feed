@@ -1,7 +1,31 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T00:19:50Z",
+  "updated": "2026-11-20T00:35:50Z",
   "items": [
+    {
+      "title": "Global sporting giant announces F1 return",
+      "source": "Speedcafe",
+      "time": "2026-11-20T00:30:18Z",
+      "url": "https://speedcafe.com/f1-news-2026-nike-partnership-announcement-apparel-official-supplier-puma-replacement/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA to introduce major F1 steward change for 2027",
+      "source": "Motorsport Week",
+      "time": "2026-11-20T00:15:23Z",
+      "url": "https://www.motorsportweek.com/2026/11/20/fia-f1-steward-2027/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Rafa Camara still unsure about finishing 2026 F1 season",
       "source": "Crash.net",
