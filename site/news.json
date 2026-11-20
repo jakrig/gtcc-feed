@@ -1,7 +1,322 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T00:43:56Z",
+  "updated": "2026-11-20T08:30:57Z",
   "items": [
+    {
+      "title": "Peugeot Poised for Shock WEC Exit",
+      "source": "Sportscar365",
+      "time": "2026-11-20T08:13:00Z",
+      "url": "https://sportscar365.com/lemans/wec/peugeot-poised-for-shock-wec-withdrawal/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Estre Confirmed At Toyota For 2027",
+      "source": "Dailysportscar",
+      "time": "2026-11-20T08:00:37Z",
+      "url": "https://www.dailysportscar.com/2026/11/20/estre-confirmed-at-toyota-for-2027.html",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/19/estre-joins-toyota-for-2027-wec-hypercar-program",
+          "time": "2026-11-20T08:02:53Z"
+        }
+      ]
+    },
+    {
+      "title": "Charles Leclerc at odds with FIA stewards' decision after being hit with controversial penalty",
+      "source": "GPFans",
+      "time": "2026-11-20T07:58:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093074/f1-charles-leclerc-ferrari-penalty-brazilian-grand-prix-liam-lawson-fia-harsh/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen’s curious lack of Las Vegas GP practice running explained",
+      "source": "Crash.net",
+      "time": "2026-11-20T07:13:05Z",
+      "url": "https://www.crash.net/f1/news/1110271/1/max-verstappens-curious-lack-las-vegas-gp-practice-running-explained",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Honda confirm Aston Martin F1 changes for 2027 after Lance Stroll nears unwanted record",
+      "source": "GPFans",
+      "time": "2026-11-20T07:12:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093079/f1-aston-martin-honda-changes-2027-lance-stroll-retirement-record/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri sees promise in new engine after Vegas rain",
+      "source": "Speedcafe",
+      "time": "2026-11-20T06:58:52Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-practice-reaction-comments-results-what-happened-mclaren/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Academy | 2026 Las Vegas GP | Qualifying | Palmowski dominates in final qualifying session of the year",
+      "source": "Pit Debrief",
+      "time": "2026-11-20T06:53:34Z",
+      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-qualifying-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lawson eager to make up lost ground in Las Vegas",
+      "source": "Speedcafe",
+      "time": "2026-11-20T06:51:55Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-practice-reaction-comments-results-what-happened-liam-lawson/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Alisha Palmowski crushes competition to score pole for final F1 Academy race",
+      "source": "Motorsport Week",
+      "time": "2026-11-20T06:42:52Z",
+      "url": "https://www.motorsportweek.com/2026/11/20/alisha-palmowski-crushes-competition-to-score-pole-for-final-f1-academy-race/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 has “agreement in principle” to ditch 2026 engines after just four seasons | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-20T06:29:22Z",
+      "url": "https://www.racefans.net/2026/11/20/f1-has-agreement-in-principle-to-ditch-2026-engines-after-just-four-seasons/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Charles Leclerc reveals Ferrari showdown as Rosberg gives Hamilton relationship update - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-20T06:27:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093084/f1-news-today-charles-leclerc-ferrari-showdown-details-nico-rosberg-lewis-hamilton-relationship/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 teams confirm “agreement in principle” on V8 return after deleted FIA posts cause confusion",
+      "source": "Crash.net",
+      "time": "2026-11-20T06:05:18Z",
+      "url": "https://www.crash.net/f1/news/1110269/1/f1-teams-confirm-agreement-principle-v8-return-after-deleted-fia-posts-cause",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Historic FIA stewards decision announced at F1 Las Vegas Grand Prix",
+      "source": "GPFans",
+      "time": "2026-11-20T05:55:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093088/fia-f1-stewards-full-time-from-2027/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Five drivers to take grid penalties at Las Vegas Grand Prix | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-20T05:35:57Z",
+      "url": "https://www.racefans.net/2026/11/20/five-drivers-to-take-grid-penalties-at-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-grid-penalties-update-kimi-antonelli-oscar-piastri-why-reasons-engine-change/",
+          "time": "2026-11-20T08:09:16Z"
+        }
+      ]
+    },
+    {
+      "title": "Billard hopes for wet Qualifying after impressive P2 in 2026 F1 Academy Las Vegas practice",
+      "source": "Pit Debrief",
+      "time": "2026-11-20T05:25:55Z",
+      "url": "https://www.pitdebrief.com/post/billard-hopes-for-wet-qualifying-after-impressive-p2-in-2026-f1-academy-las-vegas-practice/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Russell grabs fastest time after late red flag in second practice | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-20T05:18:55Z",
+      "url": "https://www.racefans.net/2026/11/20/russell-grabs-fastest-time-after-late-red-flag-in-second-practice/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 | 2026 Las Vegas GP | FP2 | Russell saves best for last to take spot",
+      "source": "Pit Debrief",
+      "time": "2026-11-20T05:12:36Z",
+      "url": "https://www.pitdebrief.com/post/f1-2026-las-vegas-gp-fp2-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/20/george-russell-fastest-fp2-f1-las-vegas-gp/",
+          "time": "2026-11-20T05:15:17Z"
+        },
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/20/russell-tops-wet-fp2-in-las-vegas",
+          "time": "2026-11-20T05:17:17Z"
+        },
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fp2-practice-results-mercedes-george-russell-pierre-gasly/",
+          "time": "2026-11-20T05:19:06Z"
+        },
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-russell-beats-gasly-and-leclerc-top-spot-wet-las-vegas-fp2",
+          "time": "2026-11-20T06:01:00Z"
+        }
+      ]
+    },
+    {
+      "title": "FIA GT World Cup: Resource Guide",
+      "source": "Dailysportscar",
+      "time": "2026-11-20T03:44:09Z",
+      "url": "https://www.dailysportscar.com/2026/11/20/fia-gt-world-cup-resource-guide.html",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Nike returns to F1 after 24 years as official apparel partner",
+      "source": "Crash.net",
+      "time": "2026-11-20T03:43:31Z",
+      "url": "https://www.crash.net/f1/news/1110240/1/nike-returns-f1-after-24-years-official-apparel-partner",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 sees Las Vegas washout in FP1 as no driver sets time",
+      "source": "Motorsport Week",
+      "time": "2026-11-20T02:32:48Z",
+      "url": "https://www.motorsportweek.com/2026/11/20/f1-las-vegas-gp-rain/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 – Rain limits running in opening practice for Las Vegas Grand Prix",
+      "source": "FIA",
+      "time": "2026-11-20T02:19:00Z",
+      "url": "https://www.fia.com/news/f1-rain-limits-running-opening-practice-las-vegas-grand-prix",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093087/f1-results-today-las-vegas-grand-prix-2026-practice-times-positions-fp1-fp2/",
+          "time": "2026-11-20T05:17:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Formula 1 teams set no lap times in wet first practice at Las Vegas | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-20T02:04:49Z",
+      "url": "https://www.racefans.net/2026/11/20/formula-1-teams-set-no-lap-times-set-in-wet-first-practice-at-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Engel: Macau Win Would Be ‘Cherry on Top’ After Strong Year",
+      "source": "Sportscar365",
+      "time": "2026-11-20T01:00:12Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/engel-macau-win-would-be-cherry-on-top-after-landmark-year/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Global sporting giant announces F1 return",
       "source": "Speedcafe",
@@ -27,6 +342,18 @@
       "also": []
     },
     {
+      "title": "“A Lot of Logistics” Behind Absolute’s Six-Car Macau Effort",
+      "source": "Sportscar365",
+      "time": "2026-11-20T00:00:20Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/a-lot-of-logistics-behind-absolutes-six-car-macau-effort/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Rafa Camara still unsure about finishing 2026 F1 season",
       "source": "Crash.net",
       "time": "2026-11-19T23:54:18Z",
@@ -35,18 +362,6 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
-      "source": "Crash.net",
-      "time": "2026-11-19T23:04:53Z",
-      "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
-      "series": [
-        "f1"
-      ],
-      "circuit": "las-vegas",
       "photo": null,
       "also": []
     },
@@ -154,6 +469,29 @@
       "circuit": null,
       "photo": null,
       "also": []
+    },
+    {
+      "title": "F1 - 2026 Las Vegas Grand Prix - Thursday Press Conference Transcript",
+      "source": "FIA",
+      "time": "2026-11-19T19:36:00Z",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-thursday-press-conference-transcript",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110236/1/2026-f1-las-vegas-grand-prix-sergio-perez-tops-washed-out-fp1",
+          "time": "2026-11-20T01:52:28Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
+          "time": "2026-11-20T03:10:53Z"
+        }
+      ]
     },
     {
       "title": "Lance Stroll admits Aston Martin's lack of engine power is 'almost dangerous' in latest Honda dig",
@@ -413,7 +751,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110267/1/five-f1-drivers-carrying-grid-penalties-las-vegas-gp",
+          "time": "2026-11-20T05:30:23Z"
+        }
+      ]
     },
     {
       "title": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
@@ -484,7 +828,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/19/first-las-vegas-grand-prix-practice-washed-out",
+          "time": "2026-11-20T01:42:18Z"
+        }
+      ]
     },
     {
       "title": "Max Verstappen U-turns on Qatar and Abu Dhabi F1 races amid Middle East conflict",
@@ -547,7 +897,8 @@
       "url": "https://www.gt-world-challenge-asia.com/news/1037/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider",
       "series": [
         "gtwc-asia",
-        "british-gt"
+        "british-gt",
+        "gt4"
       ],
       "circuit": "macau",
       "photo": null,
@@ -556,6 +907,11 @@
           "source": "British GT",
           "url": "https://www.britishgt.com/news/1293/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider",
           "time": "2026-11-19T10:00:00Z"
+        },
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/sro/toyota-poised-to-claim-first-gt4-manufacturer-ranking-title/",
+          "time": "2026-11-19T21:00:41Z"
         }
       ]
     },
@@ -785,7 +1141,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110272/1/why-mclaren-selling-its-f1-2027-car-it-even-races",
+          "time": "2026-11-20T08:13:19Z"
+        }
+      ]
     },
     {
       "title": "Kiwi duo to make GT World Challenge Australia debut in Adelaide",
@@ -977,6 +1339,11 @@
           "source": "Pit Debrief",
           "url": "https://www.pitdebrief.com/post/bottas-on-f1-cadillac-2027/",
           "time": "2026-11-19T20:34:58Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110270/1/what-now-colton-herta-after-valtteri-bottas-cadillac-stay-f1-2027",
+          "time": "2026-11-20T06:50:54Z"
         }
       ]
     },
@@ -1062,7 +1429,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/20/antonelli-piastri-headline-las-vegas-gp-penalties",
+          "time": "2026-11-20T05:10:17Z"
+        }
+      ]
     },
     {
       "title": "Ferrari Challenge Title Battles to Go Down to Wire in Barcelona",
@@ -1714,6 +2087,16 @@
           "source": "Pit Debrief",
           "url": "https://www.pitdebrief.com/post/all-the-grid-penalties-at-the-2026-f1-las-vegas-gp/",
           "time": "2026-11-19T23:00:15Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-f1-las-vegas-gp-fp2-results/",
+          "time": "2026-11-20T05:04:57Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-qualifying-results/",
+          "time": "2026-11-20T06:21:50Z"
         }
       ]
     },
@@ -1875,7 +2258,27 @@
         {
           "source": "Speedcafe",
           "url": "https://speedcafe.com/f1-news-2026-formula-1-las-vegas-grand-prix-live-updates-practice-qualifying-race/",
-          "time": "2026-11-20T00:00:03Z"
+          "time": "2026-11-20T03:50:03Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/20/f1-2026-las-vegas-grand-prix-fp2-results/",
+          "time": "2026-11-20T05:08:27Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/results/1110235/1/2026-f1-las-vegas-grand-prix-friday-practice-results",
+          "time": "2026-11-20T05:13:00Z"
+        },
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/20/technical-updates-2026-las-vegas-grand-prix",
+          "time": "2026-11-20T05:25:43Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/20/f1-academy-2026-las-vegas-grand-prix-qualifying-results/",
+          "time": "2026-11-20T06:25:33Z"
         }
       ]
     },
@@ -2724,6 +3127,18 @@
       "source": "GT World Challenge Australia",
       "time": "2026-11-13T00:00:00Z",
       "url": "https://www.gt-world-challenge-australia.com/news/547/cini-and-nicholas-confirm-gt-world-challenge-australia-adelaide-entry",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cini and Mcbride confirm GT World Challenge Australia Adelaide entry",
+      "source": "GT World Challenge Australia",
+      "time": "2026-11-13T00:00:00Z",
+      "url": "https://www.gt-world-challenge-australia.com/news/547/cini-and-mcbride-confirm-gt-world-challenge-australia-adelaide-entry",
       "series": [
         "gtwc-australia"
       ],
