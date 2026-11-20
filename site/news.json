@@ -1,7 +1,1172 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T22:18:23Z",
+  "updated": "2026-11-19T17:22:05Z",
   "items": [
+    {
+      "title": "Piastri reveals targets to try and finish 2026 F1 season strongly",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T16:57:45Z",
+      "url": "https://www.pitdebrief.com/post/piastri-reveals-targets-to-try-and-finish-2026-f1-season-strongly/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Wright Motorsports Adds Second GTD Porsche For Michelin Endurance Cup",
+      "source": "Dailysportscar",
+      "time": "2026-11-19T16:31:21Z",
+      "url": "https://www.dailysportscar.com/2026/11/19/wright-motorsports-adds-second-gtd-porsche-for-michelin-endurance-cup.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Yardley, Musial Jr. Confirmed in Wright Porsche for Enduros",
+      "source": "Sportscar365",
+      "time": "2026-11-19T16:30:35Z",
+      "url": "https://sportscar365.com/imsa/iwsc/yardley-musial-jr-confirmed-in-wright-porsche-for-endurance-cup/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“A difficult decision”: Câmara weighs F2 title bid against more F1 outings with Haas ahead of 2026 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T16:23:44Z",
+      "url": "https://www.pitdebrief.com/post/camara-weighs-f2-title-bid-against-more-f1-outings-with-haas-ahead-of-2026-las-vegas-gp/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Bearman “quite disappointed” with his contract situation at Haas F1 ahead of 2026 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T16:20:56Z",
+      "url": "https://www.pitdebrief.com/post/bearman-disappointed-at-contract-situation-with-haas-f1-2027/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Liam Lawson responds to Helmut Marko: ‘I am grateful that he is not calling the shots’",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/liam-lawson-responds-to-helmut-marko-i-am-grateful-that-he-is-not-calling-the-shots/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen, Hadjar and Lindblad react to Lawson staying at Racing Bulls for F1 2027",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T15:16:52Z",
+      "url": "https://www.pitdebrief.com/post/verstappen-hadjar-and-lindblad-react-to-lawson-staying-at-racing-bulls-for-f1-2027/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Jaminet Completes 13 Autosport Corvette Lineup for Daytona",
+      "source": "Sportscar365",
+      "time": "2026-11-19T15:00:48Z",
+      "url": "https://sportscar365.com/imsa/iwsc/jaminet-completes-13-autosport-corvette-lineup-for-daytona/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": "daytona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lewis Hamilton hits back at no-trust claims at Ferrari",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T15:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/lewis-hamilton-hits-back-at-no-trust-claims-at-ferrari/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "13 Autosport Adds Jaminet For Rolex 24 Bid",
+      "source": "Dailysportscar",
+      "time": "2026-11-19T14:05:34Z",
+      "url": "https://www.dailysportscar.com/2026/11/19/13-autosport-adds-jaminet-for-rolex-24-bid.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/19/jaminet-switches-to-corvette-for-rolex-24-with-13-autosport",
+          "time": "2026-11-19T15:30:47Z"
+        }
+      ]
+    },
+    {
+      "title": "Fernando Alonso reveals momentous career decision ahead of potential V8 return",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T14:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/fernando-alonso-reveals-momentous-career-decision-ahead-of-potential-v8-return/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "The missing piece in the F1 driver market puzzle",
+      "source": "RACER",
+      "time": "2026-11-19T13:20:05Z",
+      "url": "https://racer.com/2026/11/19/the-missing-piece-in-the-f1-driver-market-puzzle",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Hadjar targets win before conclusion of 2026 F1 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T13:19:35Z",
+      "url": "https://www.pitdebrief.com/post/hadjar-targets-win-before-conclusion-of-2026-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘Nothing to do with me’: Charles Leclerc distances himself from FIA ban on journalist",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T12:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/nothing-to-do-with-me-charles-leclerc-distances-himself-from-fia-ban-on-journalist/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari Extends Pier Guidi’s Contract",
+      "source": "Dailysportscar",
+      "time": "2026-11-19T12:12:59Z",
+      "url": "https://www.dailysportscar.com/2026/11/19/ferrari-extends-pier-guidis-contract.html",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/ferrari-extends-pier-guidis-contract-into-2027/",
+          "time": "2026-11-19T15:14:07Z"
+        }
+      ]
+    },
+    {
+      "title": "Bruno Michel reflects on 10 years of F2 and the changing pathway to F1",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T11:45:00Z",
+      "url": "https://www.pitdebrief.com/post/bruno-michel-reflects-on-10-years-of-f2-and-the-changing-pathway-to-f1/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kimi Antonelli set for Las Vegas grid penalty",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T11:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/kimi-antonelli-set-for-las-vegas-grid-penalty/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Jak Crawford to make F1 home debut for Aston Martin at Las Vegas Grand Prix",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T10:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/jak-crawford-to-make-f1-home-debut-for-aston-martin-in-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "GT4 MANUFACTURER RANKING: Toyota closing on maiden global title in Macau decider",
+      "source": "British GT",
+      "time": "2026-11-19T10:00:00Z",
+      "url": "https://www.britishgt.com/news/1293/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider",
+      "series": [
+        "british-gt"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen delivers verdict on fresh indications of V8 F1 return",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T09:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/max-verstappen-delivers-verdict-on-fresh-indications-of-v8-f1-return/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri weighs in on explosive sandpapergate cricket saga",
+      "source": "Speedcafe",
+      "time": "2026-11-19T06:46:40Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-on-sandpapergate-cricket-australia-sandpaper-comments-thoughts/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oliver Bearman airs ‘disappointment’ with prolonged Haas contract saga",
+      "source": "Motorsport Week",
+      "time": "2026-11-19T06:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/19/oliver-bearman-haas-f1-disappointment/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso says Indianapolis, Le Mans ‘on my mind’",
+      "source": "Speedcafe",
+      "time": "2026-11-19T04:53:04Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fernando-alonso-le-mans-indy500-dakar-future-racing-aston-martin/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "indianapolis",
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/19/alonso-says-dakar-le-mans-indy-500-all-on-my-mind-",
+          "time": "2026-11-19T13:27:02Z"
+        }
+      ]
+    },
+    {
+      "title": "Team NZ Mercedes-AMG Joins Burgeoning Adelaide Grid",
+      "source": "Sportscar365",
+      "time": "2026-11-19T02:38:58Z",
+      "url": "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "McLaren puts 2027 F1 car on auction block",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:34:06Z",
+      "url": "https://speedcafe.com/f1-news-2026-mclaren-auction-2027-next-year-car-sale-sothebys-where-when/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "All-Kiwi squad enters GT World Challenge Australia finale",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:30:23Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-earl-bamber-motorsport-adelaide-entry-gt-world-challenge-australia-chris-van-der-drift/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Colnaghi targets 2027 F3 title with Campos Racing after challenging rookie campaign",
+      "source": "Pit Debrief",
+      "time": "2026-11-19T02:26:54Z",
+      "url": "https://www.pitdebrief.com/post/colnaghi-targets-2027-f3-title-with-campos-racing-after-challenging-rookie-campaign/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lego unveils minifigures of entire F1 grid",
+      "source": "Speedcafe",
+      "time": "2026-11-19T02:12:07Z",
+      "url": "https://speedcafe.com/f1-news-2026-lego-formula-1-minifigures-drivers-release-date-2027-when-where-how-much/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Herta misses out on F1 seat for 2027 as American rejects second F2 season",
+      "source": "Formula Scout",
+      "time": "2026-11-18T23:19:54Z",
+      "url": "https://formulascout.com/herta-misses-out-on-f1-seat-for-2027-as-american-rejects-second-f2-season/141188",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lawson reveals ugly blowup that nearly ended Red Bull deal",
+      "source": "Speedcafe",
+      "time": "2026-11-18T23:00:58Z",
+      "url": "https://speedcafe.com/f1-news-2026-liam-lawson-on-red-bull-junior-helmut-marko-euroformula-open-team-motopark-comments/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Valtteri Bottas decision reached as Cadillac announces 2027 F1 lineup",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T21:40:33Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/valtteri-bottas-cadillac-2027-f1-decision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2027 F1 grid: Drivers, car numbers and teams",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T20:43:00Z",
+      "url": "https://www.pitdebrief.com/post/2027-f1-grid-drivers-and-their-car-numbers/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac officially confirm Bottas for 2027 F1 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T20:33:14Z",
+      "url": "https://www.pitdebrief.com/post/cadillac-officially-confirm-bottas-for-2027-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac F1 confirms Bottas for 2027, leaving Herta’s future uncertain",
+      "source": "RACER",
+      "time": "2026-11-18T20:25:20Z",
+      "url": "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac ends Herta speculation with Bottas re-signing",
+      "source": "Speedcafe",
+      "time": "2026-11-18T20:18:14Z",
+      "url": "https://speedcafe.com/f1-news-2026-cadillac-re-signs-valteri-bottas-2027-contract-details-colton-herta-future-decision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/19/valtteri-bottas-unnecessary-discussion-over-cadillac-future/",
+          "time": "2026-11-19T17:08:05Z"
+        }
+      ]
+    },
+    {
+      "title": "Kaminskey Takes Poles for Both Barcelona Season Finale Races",
+      "source": "Sportscar365",
+      "time": "2026-11-18T20:00:18Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/kaminskey-takes-ferrari-challenge-pole-for-both-barcelona-finales/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Patrese disagrees with Verstappen about F1 Las Vegas GP show",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T19:24:30Z",
+      "url": "https://www.pitdebrief.com/post/patrese-disagrees-with-verstappen-about-f1-las-vegas-gp-show/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Feeder Series weekend preview and schedule: 19–22 November 2026",
+      "source": "Feeder Series",
+      "time": "2026-11-18T17:35:00Z",
+      "url": "https://feederseries.net/2026/11/18/feeder-series-weekend-preview-and-schedule-19-22-november-2026/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 F1 FP1 rookies: A full list",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T17:30:00Z",
+      "url": "https://www.pitdebrief.com/post/2026-f1-fp1-rookies-a-full-list/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Zak Brown urges that McLaren must ‘do a better job’ after 2026 F1 struggles",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T17:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/zak-brown-mclaren-must-do-a-better-job-after-2026-f1-struggles/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Hadjar reflects on interrupted 2026 F1 season and praises team’s remarkable progress",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T16:00:00Z",
+      "url": "https://www.pitdebrief.com/post/hadjar-reflects-on-interrupted-2026-f1-season-and-praises-teams-remarkable-progress/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oscar Piastri to take a significant penalty for Las Vegas GP",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/oscar-piastri-to-take-a-significant-penalty-for-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari Challenge Title Battles to Go Down to Wire in Barcelona",
+      "source": "Sportscar365",
+      "time": "2026-11-18T15:30:13Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/ferrari-challenge-title-battles-to-go-down-to-wire-in-barcelona/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Mercedes reveal championship ‘priority’ after leaving George Russell upgrade-less at F1 Las Vegas GP",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T15:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/mercedes-reveal-championship-priority-george-russell-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "INSIGHT: How Vesti Excelled at IMSA’s Most Demanding Job",
+      "source": "Sportscar365",
+      "time": "2026-11-18T14:00:34Z",
+      "url": "https://sportscar365.substack.com/p/insight-how-vesti-excelled-at-imsas",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cindric Open to More Sports Car Opportunities",
+      "source": "Sportscar365",
+      "time": "2026-11-18T13:30:52Z",
+      "url": "https://sportscar365.com/imsa/iwsc/cindric-open-to-more-sports-car-opportunities/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "GALLERY: Alpine to run new livery for remainder of the F1 season",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T13:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/alpine-to-run-new-livery-for-remainder-of-the-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 F3 | Season Review | Alessandro Giusti",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T13:00:00Z",
+      "url": "https://www.pitdebrief.com/post/2026-f3-season-review-alessandro-giusti/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen delivers telling statement over F1 future following Kimi Antonelli title",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/max-verstappen-delivers-telling-statement-over-f1-future-following-kimi-antonelli-title/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Dallara Has Capacity to Continue With Four OEMs in 2030",
+      "source": "Sportscar365",
+      "time": "2026-11-18T12:52:21Z",
+      "url": "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/",
+      "series": [
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fayer, Jensen, & McElrea Continue At United Autosports For 2027",
+      "source": "Dailysportscar",
+      "time": "2026-11-18T12:31:24Z",
+      "url": "https://www.dailysportscar.com/2026/11/18/fayer-jensen-and-mcelrea-continue-at-united-autosports-for-2027.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "United Autosports announces drivers for second IMSA entry",
+      "source": "RACER",
+      "time": "2026-11-18T12:00:45Z",
+      "url": "https://racer.com/2026/11/17/united-autosports-announces-drivers-for-second-imsa-entry",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Stella balances McLaren optimism with top-speed concerns ahead of 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T12:00:00Z",
+      "url": "https://www.pitdebrief.com/post/stella-mclaren-las-vegas-gp-2026-top-speed-concerns/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Zak Brown explains ‘adaptations’ contributing to 2026 Oscar Piastri F1 dip",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T11:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/zak-brown-explains-adaptations-contributing-to-2026-oscar-piastri-f1-dip/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Racing Bulls boss reveals reason behind Liam Lawson extension",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T10:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/racing-bulls-boss-reveals-reason-behind-liam-lawson-extension/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "The RACER Mailbag, November 18",
+      "source": "RACER",
+      "time": "2026-11-18T10:00:00Z",
+      "url": "https://racer.com/2026/11/17/the-racer-mailbag-november-18",
+      "series": [
+        "f1",
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "George Russell reveals bounce-back plan for 2027 F1 season",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T09:31:30Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/george-russell-reveals-bounce-back-plan-for-2027-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 | Macau GP | FIA FR World Cup | Preview | Champions and F3 stars target victory in Gen2 debut",
+      "source": "Pit Debrief",
+      "time": "2026-11-18T08:00:00Z",
+      "url": "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-preview-champions-and-f3-stars-target-victory-in-gen2-debut/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Carlos Sainz lays bare pain of ‘completely unexpected’ Ferrari exit",
+      "source": "Motorsport Week",
+      "time": "2026-11-18T06:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/18/carlos-sainz-completely-unexpected-ferrari-exit/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri hit with 10-place Las Vegas grid drop",
+      "source": "Speedcafe",
+      "time": "2026-11-18T03:56:50Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-mclaren-grid-penalty-10-place-reason-why-drop/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Here’s what V8-powered F1 cars could sound like in 2030",
+      "source": "Speedcafe",
+      "time": "2026-11-18T01:22:54Z",
+      "url": "https://speedcafe.com/f1-news-2026-v8-engines-return-when-latest-update-mohammed-ben-sulayem-fia-comments-meeting/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac unveils unique new look for Las Vegas Grand Prix",
+      "source": "Speedcafe",
+      "time": "2026-11-18T00:22:55Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-livery-cadillac-gallery-photos-special-lights/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-wednesday-press-conference-transcript",
+          "time": "2026-11-18T18:45:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Vervisch Chosen as Feeney Stand-in at MPC for Adelaide",
+      "source": "Sportscar365",
+      "time": "2026-11-17T23:51:07Z",
+      "url": "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Frédéric Vervisch replaces Broc Feeney for 2026 GTWC Australia Adelaide title decider",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T22:27:00Z",
+      "url": "https://www.pitdebrief.com/post/frederic-vervisch-replaces-broc-feeney-for-2026-gtwc-australia-adelaide-title-decider/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Clerot targets 2027 F3 title challenge with Rodin Motorsport after strong finish to rookie season",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T22:19:09Z",
+      "url": "https://www.pitdebrief.com/post/clerot-targets-2027-f3-title-challenge-with-rodin-motorsport-after-strong-finish-to-rookie-season/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Academy prepares for Las Vegas with special livery",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T20:05:17Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/f1-academy-prepares-for-las-vegas-with-special-livery/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1",
+          "time": "2026-11-19T13:15:33Z"
+        }
+      ]
+    },
+    {
+      "title": "McNish explains the pattern of contrasting fortunes for Audi F1 drivers Hülkenberg and Bortoleto",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T19:00:08Z",
+      "url": "https://www.pitdebrief.com/post/2026-f1-audi-allan-mcnish-nico-hulkenberg-gabriel-bortoleto/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Emma Felbermayr confirms third F1 Academy season with Audi and Rodin Motorsport for 2027",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T18:44:00Z",
+      "url": "https://www.pitdebrief.com/post/emma-felbermayr-confirms-third-f1-academy-season-with-audi-and-rodin-motorsport-for-2027/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Antonelli set for grid penalty for Mercedes ADUO as team targets P2 for Russell",
+      "source": "RACER",
+      "time": "2026-11-17T18:33:23Z",
+      "url": "https://racer.com/2026/11/17/antonelli-set-for-grid-penalty-for-mercedes-aduo-as-team-targets-p2-for-russell",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Red Bull rocked by departure of key Max Verstappen aide",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T18:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/red-bull-departure-of-key-max-verstappen-aide/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari boss Fred Vasseur handed ‘overwhelmed’ verdict by Bernie Ecclestone",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T17:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/bernie-ecclestone-makes-overwhelmed-claim-about-ferrari-fred-vasseur/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Quinn to Continue With CrowdStrike by APR in 2027",
+      "source": "Sportscar365",
+      "time": "2026-11-17T16:38:55Z",
+      "url": "https://sportscar365.com/imsa/iwsc/quinn-to-continue-with-crowdstrike-by-apr/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "CrowdStrike By APR Keeps Line-Up Intact For IMSA Title Defence",
+      "source": "Dailysportscar",
+      "time": "2026-11-17T16:33:38Z",
+      "url": "https://www.dailysportscar.com/2026/11/17/crowdstrike-by-apr-keeps-line-up-intact-for-imsa-title-defence.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/17/crowdstrike-racing-by-apr-keeps-title-winning-trio-for-2027",
+          "time": "2026-11-17T16:51:07Z"
+        }
+      ]
+    },
+    {
+      "title": "Max Verstappen delivers hilarious Red Bull engine jibe",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T16:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/max-verstappen-red-bull-engine-jibe/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac goes translucent as F1 teams roll out special Las Vegas liveries",
+      "source": "RACER",
+      "time": "2026-11-17T16:15:51Z",
+      "url": "https://racer.com/2026/11/17/cadillac-goes-translucent-as-f1-teams-roll-out-special-las-vegas-liveries",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“Hungry to prove everyone wrong”: Maini on his 2026 F2 season with ART Grand Prix",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T16:05:00Z",
+      "url": "https://www.pitdebrief.com/post/hungry-to-prove-everyone-wrong-maini-on-his-2026-f2-season-with-art-grand-prix/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Jade Jaquet re-signs with Williams for the 2027 F1 Academy season",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/jade-jaquet-re-signs-with-williams-for-the-2027-f1-academy-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/jacquet-to-continue-with-williams-and-art-grand-prix-for-2027-f1-academy-season/",
+          "time": "2026-11-17T17:18:21Z"
+        }
+      ]
+    },
+    {
+      "title": "Piastri reveals why the MCL40 is difficult to handle and whether he still enjoys driving in 2026 F1 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T15:30:00Z",
+      "url": "https://www.pitdebrief.com/post/piastri-reveals-why-the-mcl40-is-difficult-to-handle-and-whether-he-still-enjoys-driving-in-2026-f1-season/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Bernie Ecclestone urges Lewis Hamilton ‘to think about quitting’ F1",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T15:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/bernie-ecclestone-urges-lewis-hamilton-to-think-about-quitting-f1/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Beganovic gets another F1 practice call-up with Ferrari in Las Vegas",
+      "source": "Formula Scout",
+      "time": "2026-11-17T14:49:42Z",
+      "url": "https://formulascout.com/beganovic-gets-another-f1-practice-call-up-with-ferrari-in-las-vegas/141185",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Toto Wolff shuts down speculation of Kimi Antonelli Ferrari defection",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T14:00:29Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/toto-wolff-shuts-down-speculation-of-kimi-antonelli-ferrari-defection/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 - 2026 Las Vegas GP Schedule of Press Conferences",
+      "source": "FIA",
+      "time": "2026-11-17T13:07:00Z",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-gp-schedule-press-conferences",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "McLaren Entering “Next Phase” of Development Program",
+      "source": "Sportscar365",
+      "time": "2026-11-17T13:00:23Z",
+      "url": "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Bearman welcomes new teammate Câmara as he reflects on his 2026 F1 development at Haas",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T13:00:00Z",
+      "url": "https://www.pitdebrief.com/post/bearman-welcomes-new-teammate-camara-as-he-reflects-on-his-2026-f1-development-at-haas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso to return to Dakar Rally in 2027 with Aston Martin",
+      "source": "Motorsport Week",
+      "time": "2026-11-17T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/17/fernando-alonso-dakar-2027-aston-martin/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Yasser Shahin reunites with Laurin Heinrich for 2026 GTWC Australia Adelaide finale",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T12:40:00Z",
+      "url": "https://www.pitdebrief.com/post/yasser-shahin-reunites-with-laurin-heinrich-for-2026-gtwc-australia-adelaide-finale/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ford appoints two-time Le Mans class winner Tom Dillmann as 2027 WEC Hypercar reserve",
+      "source": "Pit Debrief",
+      "time": "2026-11-17T12:05:00Z",
+      "url": "https://www.pitdebrief.com/post/ford-appoints-two-time-le-mans-class-winner-tom-dillmann-as-2027-wec-hypercar-reserve/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Toyota: GR GT3 Set For FIA Homologation in “Near Future”",
+      "source": "Sportscar365",
+      "time": "2026-11-17T10:21:52Z",
+      "url": "https://sportscar365.com/lemans/wec/toyota-gr-gt3-set-for-fia-homologation-in-near-future/",
+      "series": [
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Popular Combined Sedans to bring 55 entries to Bathurst 12 Hour",
+      "source": "Speedcafe",
+      "time": "2026-11-17T07:24:32Z",
+      "url": "https://speedcafe.com/bathurst-12-hour-news-2027-combined-sportscars-and-sedans-entry-list-details-55-cars/",
+      "series": [
+        "igtc"
+      ],
+      "circuit": "bathurst",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Watch the Full-Length Replay of 6H Barcelona",
+      "source": "Sportscar365",
+      "time": "2026-11-17T05:01:47Z",
+      "url": "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/",
+      "series": [
+        "wec"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Porsche teams wants permanent GT World Challenge Australia stay",
+      "source": "Speedcafe",
+      "time": "2026-11-17T04:30:47Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-gt-world-challenge-australia-porsche-entry-long-term-plans-2027/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Shahin confirms Adelaide entry with Porsche champion",
+      "source": "Speedcafe",
+      "time": "2026-11-17T04:30:00Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-australia-shahin-heinrich-entry-confirmed/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/sro/australian-gt/heinrich-shahin-team-up-at-ebm-for-adelaide-finale/",
+          "time": "2026-11-17T08:35:34Z"
+        }
+      ]
+    },
     {
       "title": "New Nürburgring Series for 2028 Now Off the Table",
       "source": "Sportscar365",
@@ -11,29 +1176,8 @@
         "nls"
       ],
       "circuit": "nurburgring",
-      "photo": null
-    },
-    {
-      "title": "Dillmann Named Ford Hypercar Reserve Driver",
-      "source": "Sportscar365",
-      "time": "2026-11-16T20:00:07Z",
-      "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
-      "source": "Dailysportscar",
-      "time": "2026-11-16T20:00:01Z",
-      "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Dillmann named reserve driver for Ford Hypercar program",
@@ -44,7 +1188,31 @@
         "wec"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
+          "time": "2026-11-16T20:00:01Z"
+        },
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
+          "time": "2026-11-16T20:00:07Z"
+        }
+      ]
+    },
+    {
+      "title": "ADAC Nordrhein & NLS Map Out Future Of Racing On Nordschleife",
+      "source": "Dailysportscar",
+      "time": "2026-11-16T19:29:23Z",
+      "url": "https://www.dailysportscar.com/2026/11/16/adac-nordrhein-nls-map-out-future-of-racing-on-nordschleife.html",
+      "series": [
+        "nls"
+      ],
+      "circuit": "nurburgring",
+      "photo": null,
+      "also": []
     },
     {
       "title": "All the special liveries for the 2026 F1 season",
@@ -55,7 +1223,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "PODCAST: Your questions answered",
@@ -66,7 +1235,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Steer and Loathing in Las Vegas – why Sin City’s F1 circuit trounces its first attempt",
@@ -77,7 +1247,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Williams to light up night sky with special Las Vegas livery",
@@ -88,7 +1259,14 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-williams-aston-martin-livery-new-gallery-pictures-updated/",
+          "time": "2026-11-17T00:41:45Z"
+        }
+      ]
     },
     {
       "title": "Fernando Alonso delivers Honda vote of confidence after ‘phenomenal’ Aston Martin claim",
@@ -99,7 +1277,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Motorsport Week’s F1 Las Vegas GP Preview",
@@ -110,7 +1289,14 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-preview",
+          "time": "2026-11-17T16:20:00Z"
+        }
+      ]
     },
     {
       "title": "Haas makes crucial decision for F1 Las Vegas GP with driver announcement",
@@ -121,7 +1307,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Komatsu, Bearman, and Câmara discuss Haas’s challenges and expectations ahead of 2026 F1 Las Vegas GP weekend",
@@ -132,7 +1319,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Sergio Perez highlights vital attribute for 2027 Cadillac F1 teammate",
@@ -143,7 +1331,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Deligny targets greater consistency in 2027 FIA F3 campaign with Van Amersfoort Racing",
@@ -154,10 +1343,11 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
-      "title": "It's too early to pick F1's 2027 champion. But there are already clues to how the fight will play out",
+      "title": "It’s too early to pick F1’s 2027 champion. But there are already clues to how the fight will play out",
       "source": "RACER",
       "time": "2026-11-16T14:20:14Z",
       "url": "https://racer.com/2026/11/16/it-s-too-early-to-pick-f1-s-2027-champion-but-there-are-already-clues-for-how-the-fight-will-play-out",
@@ -165,7 +1355,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Camara retains Haas seat for Las Vegas GP; Hirakawa in for FP1",
@@ -176,7 +1367,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Las Vegas GP unveils brand new trophies ahead of F1 return",
@@ -187,7 +1379,8 @@
         "f1"
       ],
       "circuit": "las-vegas",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Hadjar reflects on rookie adaptations and the importance of F2 growth in F1 2026",
@@ -199,7 +1392,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Sellers Explains HMI’s BMW Decision, Pilot Challenge Plans",
@@ -210,7 +1404,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Boulle, Aguilera Join Di Resta At United Autosports",
@@ -221,7 +1416,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "United Autosports completes first half of its IMSA lineup",
@@ -232,7 +1428,14 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/imsa/iwsc/unchanged-lineup-for-no-2-united-autosports-oreca/",
+          "time": "2026-11-18T12:23:50Z"
+        }
+      ]
     },
     {
       "title": "Boulle Rejoins United, Set for First Full Season Since 2024",
@@ -243,7 +1446,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "F2 leader Rafael Camara to make second F1 start at Las Vegas GP",
@@ -255,18 +1459,14 @@
         "f2"
       ],
       "circuit": "las-vegas",
-      "photo": null
-    },
-    {
-      "title": "Oliver Goethe leaves MP Motorsport for new LN4 Fusion team in F2",
-      "source": "Formula Scout",
-      "time": "2026-11-16T10:08:46Z",
-      "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
-      "series": [
-        "f2"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-haas-driver-signing-las-vegas-rafael-camara-ryo-hirakawa-jack-doohan-future-replacement/",
+          "time": "2026-11-16T23:38:30Z"
+        }
+      ]
     },
     {
       "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
@@ -277,7 +1477,8 @@
         "wec"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Liam Lawson handed Max Verstappen F1 comparison amid Racing Bulls renewal",
@@ -288,7 +1489,14 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-liam-lawson-contract-details-alan-permane-comments-future-nikola-tsolov-red-bull/",
+          "time": "2026-11-17T23:55:49Z"
+        }
+      ]
     },
     {
       "title": "Oliver Goethe joins LN4 Fusion for 2027 F2 season",
@@ -299,7 +1507,14 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "Formula Scout",
+          "url": "https://formulascout.com/oliver-goethe-leaves-mp-motorsport-for-new-ln4-fusion-team-in-f2/141147",
+          "time": "2026-11-16T10:08:46Z"
+        }
+      ]
     },
     {
       "title": "Watch the Ten Most Dramatic Moments from 6H Monza",
@@ -310,7 +1525,8 @@
         "wec"
       ],
       "circuit": "monza",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Australian Grand Prix Corporation boss quits",
@@ -321,7 +1537,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Antonelli identifies biggest rival for 2027 F1 crown",
@@ -332,7 +1549,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Feeder Series testing round-up: 1–15 November",
@@ -343,7 +1561,8 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Ferrari boss reveals details of crunch Lewis Hamilton and Charles Leclerc talks",
@@ -354,7 +1573,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Nico Rosberg reveals reason behind Michael Schumacher struggles in F1 comeback",
@@ -365,7 +1585,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Super Taikyu Fuji Finale Called Off After Heavy Rain",
@@ -376,7 +1597,8 @@
         "super-taikyu"
       ],
       "circuit": "fuji",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "F1 Academy champion Palmowski joins Red Bull and steps up to FREC",
@@ -387,7 +1609,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Le Mans 24 Hours 2027: Top Accommodation Options For Groups Of All Sizes, From 3-15 Nights, From Project 100",
@@ -398,7 +1621,8 @@
         "wec"
       ],
       "circuit": "le-mans",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Jarett Andretti Joins Myers Riley Motorsports For 2027",
@@ -409,7 +1633,8 @@
         "imsa"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "How Jade Jacquet’s French F4 victory helped turn her F1 Academy season around",
@@ -420,7 +1645,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Stolen BTCC car and trailer recovered",
@@ -431,7 +1657,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Power Maxed Racing BTCC Audi recovered after theft",
@@ -442,7 +1669,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Nikola Tsolov to be reserve driver for both of Red Bull’s F1 teams in 2027",
@@ -453,7 +1681,8 @@
         "f1"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "FIA F3 champion Ugo Ugochukwu to step up to F2 with Campos Racing",
@@ -465,18 +1694,8 @@
         "f3"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Power Maxed Racing appeals for help after BTCC Audi stolen",
-      "source": "TouringCarTimes",
-      "time": "2026-11-12T14:27:22Z",
-      "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Power Maxed Racing offers reward for return of stolen touring car",
@@ -487,7 +1706,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCarTimes",
+          "url": "https://www.touringcartimes.com/2026/11/12/power-maxed-racing-appeals-for-help-after-btcc-audi-stolen/",
+          "time": "2026-11-12T14:27:22Z"
+        }
+      ]
     },
     {
       "title": "10 years of F2: Alexa Quintin, director of communications",
@@ -498,18 +1724,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Two-time MINI Challenge champion Tom Ovenden to make BTCC début",
-      "source": "TouringCars.net",
-      "time": "2026-11-11T08:42:17Z",
-      "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Tom Ovenden to make BTCC debut with EXCELR8 in 2027",
@@ -520,18 +1736,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
-    },
-    {
-      "title": "Sporting format changes agreed for 2027 BTCC season",
-      "source": "TouringCars.net",
-      "time": "2026-11-09T16:52:37Z",
-      "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
-      "series": [
-        "btcc"
-      ],
-      "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCars.net",
+          "url": "https://www.touringcars.net/2026/11/two-time-mini-challenge-champion-tom-ovenden-to-make-btcc-debut",
+          "time": "2026-11-11T08:42:17Z"
+        }
+      ]
     },
     {
       "title": "BTCC revises race weekend format for 2027 season",
@@ -542,7 +1754,14 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": [
+        {
+          "source": "TouringCars.net",
+          "url": "https://www.touringcars.net/2026/11/sporting-format-changes-agreed-for-2027-btcc-season",
+          "time": "2026-11-09T16:52:37Z"
+        }
+      ]
     },
     {
       "title": "10 years of F2: Jeremy Cotterill, MP Motorsport team manager",
@@ -553,7 +1772,8 @@
         "f2"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Donington Park result confirmed following National Court hearing",
@@ -564,7 +1784,8 @@
         "british-gt"
       ],
       "circuit": "donington-park",
-      "photo": null
+      "photo": null,
+      "also": []
     },
     {
       "title": "Tom Ingram signs three-year extension with EXCELR8 Motorsport",
@@ -575,7 +1796,8 @@
         "btcc"
       ],
       "circuit": null,
-      "photo": null
+      "photo": null,
+      "also": []
     }
   ],
   "photos": {}
