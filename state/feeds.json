@@ -47,12 +47,78 @@
         "photo": null
       },
       {
+        "title": "Macau Thursday Notebook",
+        "source": "Sportscar365",
+        "time": "2026-11-19T09:20:17Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/macau-thursday-notebook-5/",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Heinrich Improves to Sweep Thursday Free Practice",
+        "source": "Sportscar365",
+        "time": "2026-11-19T07:55:19Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/heinrich-improves-to-sweep-thursday-free-practice/",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Heinrich Tops FP1 in Chìjīn Rex Porsche at Macau",
+        "source": "Sportscar365",
+        "time": "2026-11-19T04:55:53Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/heinrich-tops-fp1-in-chijin-rex-porsche-at-macau/",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Craft-Bamboo Did 1000km of Testing for Torque Sensors",
+        "source": "Sportscar365",
+        "time": "2026-11-19T03:20:47Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/craft-bamboo-did-1000-km-of-testing-for-torque-sensors/",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "Team NZ Mercedes-AMG Joins Burgeoning Adelaide Grid",
         "source": "Sportscar365",
         "time": "2026-11-19T02:38:58Z",
         "url": "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/",
         "series": [
           "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Marciello “Sad” Fuoco Not Present to Defend Macau Title",
+        "source": "Sportscar365",
+        "time": "2026-11-19T00:27:09Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/marciello-sad-fuoco-not-present-to-defend-title/",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Sorensen: “Bit of a Shock” to Hear of Aston Macau Entry",
+        "source": "Sportscar365",
+        "time": "2026-11-19T00:00:22Z",
+        "url": "https://sportscar365.com/other-series/gt-world-cup/sorensen-bit-of-a-shock-to-hear-of-aston-macau-entry/",
+        "series": [
+          "gt-world-cup"
         ],
         "circuit": null,
         "photo": null
@@ -258,8 +324,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "af0339522ea00df7",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "6d2461577d8be4e8",
     "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
     "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT"
   },
@@ -456,8 +522,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "a67dab4b27157cc2",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "bab567e1a8081923",
     "etag": null,
     "last_modified": null
   },
@@ -520,8 +586,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "57f5f9ead18a2f6b",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "a759a7187248860d",
     "etag": "\"73fb0cdce13cc2e904267b6b7948aaff\"",
     "last_modified": "Thu, 19 Nov 2026 15:51:59 GMT"
   },
@@ -958,8 +1024,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "e4a059e0fa7bc6e1",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "e339e6d8453d51df",
     "etag": "\"255095768007d66f169389aa625f0456\"",
     "last_modified": "Fri, 20 Nov 2026 00:15:25 GMT"
   },
@@ -1013,12 +1079,35 @@
         "photo": null
       },
       {
+        "title": "FIA GT World Cup: Previewing The Runners & Riders",
+        "source": "Dailysportscar",
+        "time": "2026-11-19T06:53:15Z",
+        "url": "https://www.dailysportscar.com/2026/11/19/fia-gt-world-cup.html",
+        "series": [
+          "gt-world-cup"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "Fayer, Jensen, & McElrea Continue At United Autosports For 2027",
         "source": "Dailysportscar",
         "time": "2026-11-18T12:31:24Z",
         "url": "https://www.dailysportscar.com/2026/11/18/fayer-jensen-and-mcelrea-continue-at-united-autosports-for-2027.html",
         "series": [
           "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Elite Completes Landmark GT3 & GT4 Championship Double",
+        "source": "Dailysportscar",
+        "time": "2026-11-18T12:20:31Z",
+        "url": "https://www.dailysportscar.com/2026/11/18/elite-completes-landmark-gt3-gt4-championship-double.html",
+        "series": [
+          "gt4",
+          "gt-open"
         ],
         "circuit": null,
         "photo": null
@@ -1112,8 +1201,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "948d5b054f72024d",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "f9225894b9378592",
     "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
     "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT"
   },
@@ -1160,6 +1249,17 @@
         "url": "https://speedcafe.com/f1-news-2026-fia-race-stewards-2027-full-time-announcement-appointment-when-formula-1/",
         "series": [
           "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Thomas Randle samples Carrera Cup",
+        "source": "Speedcafe",
+        "time": "2026-11-19T22:45:16Z",
+        "url": "https://speedcafe.com/supercars-news-thomas-randle-scott-taylor-motorsport-porsche-carrera-cup-sandown-shakedown-details-comments/",
+        "series": [
+          "porsche-cup"
         ],
         "circuit": null,
         "photo": null
@@ -1396,9 +1496,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "3d0383cacd462059",
-    "etag": "W/\"022cacc55bd2833c94baba3abaed53f2-gzip\"",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "43025d3ae972b896",
+    "etag": "W/\"f14ce512eaa4d285b38835e39508aa86-gzip\"",
     "last_modified": null
   },
   "fia": {
@@ -1449,10 +1549,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "e8d92451a0ce8ed7",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "ba805bf5a86f7ca3",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:35:58 GMT"
+    "last_modified": "Fri, 20 Nov 2026 00:39:35 GMT"
   },
   "british-gt-official": {
     "first_seen": {
@@ -1491,10 +1591,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "6b36a090b604c078",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "0979a4c459313b97",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:35:54 GMT"
+    "last_modified": "Fri, 20 Nov 2026 00:40:17 GMT"
   },
   "nls-official": {
     "first_seen": {
@@ -1510,8 +1610,8 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "5bc7514e004d61aa",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "dc1c6b52a73a5605",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT"
   },
@@ -1585,8 +1685,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "23c20004bb929016",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "357ee87681572139",
     "etag": "W/\"5cd7ad2a9d3638e879a5bfe38a739698-gzip\"",
     "last_modified": "Thu, 19 Nov 2026 10:05:50 GMT"
   },
@@ -2004,8 +2104,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "addc385ed45bdf46",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "bf8e665f07dc4856",
     "etag": "\"82e56cd60170adc445c2a4624ad9bedd\"",
     "last_modified": "Thu, 19 Nov 2026 23:55:26 GMT"
   },
@@ -2079,8 +2179,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "c2143b99be641326",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "c2924c734c7bb6e7",
     "etag": null,
     "last_modified": "Fri, 20 Nov 2026 00:31:40 GMT"
   },
@@ -2179,8 +2279,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:35:50Z",
-    "rules": "720ffbb94c0bbf88",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "d5d92e6b598fe85b",
     "etag": "W/\"7595293354facbf3c279f3ec8095a8bf\"",
     "last_modified": "Thu, 19 Nov 2026 17:12:11 GMT"
   },
@@ -2250,10 +2350,10 @@
         "photo": null
       }
     ],
-    "rules": "245f2dd29382cc0d",
-    "last_ok": "2026-11-20T00:35:50Z",
-    "etag": "W/\"1795134917-zstd\"",
-    "last_modified": "Fri, 20 Nov 2026 00:35:17 GMT"
+    "rules": "7c3be3b06dafff93",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "etag": "W/\"1795135149-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:39:09 GMT"
   },
   "crash-f1": {
     "first_seen": {
@@ -2838,10 +2938,10 @@
         "photo": null
       }
     ],
-    "rules": "48300ece115673e8",
-    "last_ok": "2026-11-20T00:35:50Z",
-    "etag": "W/\"1795134917-zstd\"",
-    "last_modified": "Fri, 20 Nov 2026 00:35:17 GMT"
+    "rules": "658685aeaeeb6c0a",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "etag": "W/\"1795135124-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:38:44 GMT"
   },
   "racefans": {
     "first_seen": {
@@ -3066,8 +3166,8 @@
         "photo": null
       }
     ],
-    "rules": "9d1fd1466ed83b49",
-    "last_ok": "2026-11-20T00:35:50Z",
+    "rules": "4449779ddba3e818",
+    "last_ok": "2026-11-20T00:40:12Z",
     "etag": "W/\"a0bfa196ce9861db6017ff5cacff930c\"",
     "last_modified": "Thu, 19 Nov 2026 20:55:33 GMT"
   },
@@ -3196,10 +3296,10 @@
         "photo": null
       }
     ],
-    "rules": "0badd82e38d7565c",
-    "last_ok": "2026-11-20T00:35:50Z",
-    "etag": "W/\"6aff95f2-1f71\"",
-    "last_modified": "Fri, 20 Nov 2026 00:36:02 GMT"
+    "rules": "787128fc247c45a8",
+    "last_ok": "2026-11-20T00:40:12Z",
+    "etag": "W/\"6aff96e4-1f71\"",
+    "last_modified": "Fri, 20 Nov 2026 00:40:04 GMT"
   },
   "joesaward": {
     "first_seen": {
@@ -3271,9 +3371,775 @@
         "photo": null
       }
     ],
-    "rules": "61a3c11502359b5f",
-    "last_ok": "2026-11-20T00:35:50Z",
+    "rules": "492358fa3378bd70",
+    "last_ok": "2026-11-20T00:40:12Z",
     "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 14:56:55 GMT"
+    "last_modified": "Mon, 16 Nov 2026 14:56:58 GMT"
+  },
+  "gtwc-europe-official": {
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:40:29 GMT",
+    "first_seen": {
+      "https://www.gt-world-challenge-europe.com/news/3350/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title": "2026-11-11T01:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3348/tickets-for-2027-sprint-cup-opener-at-brands-hatch-on-sale-now": "2026-10-27T08:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3347/getspeed-to-field-a-mercedes-amg-gt3-for-sro-gt-academy-winner-hartling-in-2027": "2026-10-20T00:05:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3346/gt-world-reaches-new-heights-with-9.7-million-live-views-of-season-finale-at-portimao": "2026-10-18T14:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3345/mercedes-amg-team-getspeed-triumphs-in-spectacular-endurance-cup-finale-at-portimao": "2026-10-17T17:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3343/qualifying-boutsen-vds-bags-brilliant-maiden-pole-for-portimao-finale": "2026-10-16T17:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3342/fp2-mercedes-amg-on-form-as-schiller-leads-the-way-for-getspeed": "2026-10-16T11:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3340/fp1-haase-fastest-for-eastalaent-audi-as-verstappen-makes-official-debut-at-portimao": "2026-10-16T05:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3339/qa-with-max-verstappen": "2026-10-15T05:00:00Z",
+      "https://www.gt-world-challenge-europe.com/news/3338/gt-world-stat-pack-portimao": "2026-10-15T00:00:00Z"
+    },
+    "items": [
+      {
+        "title": "GT WORLD CHALLENGE GLOBAL: Porsche within touching distance of maiden title",
+        "source": "GT World Challenge Europe",
+        "time": "2026-11-11T01:00:00Z",
+        "url": "https://www.gt-world-challenge-europe.com/news/3350/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
+        "series": [
+          "gtwc-europe"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "671a3d01a1b76335",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "gtwc-america-official": {
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:40:29 GMT",
+    "first_seen": {
+      "https://www.gt-world-challenge-america.com/news/1605/sro-america-mourns-the-passing-of-ian-lacy": "2026-11-17T13:48:00Z",
+      "https://www.gt-world-challenge-america.com/news/1604/counting-down-to-sonoma": "2026-11-13T18:14:00Z",
+      "https://www.gt-world-challenge-america.com/news/1603/mg1-announcement-gt-world-challenge": "2026-11-11T10:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1602/staci-langham-perry-coo": "2026-11-02T16:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1601/mark-your-calendars-as-the-texas-8-hour-takes-over-cota": "2026-10-27T14:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1600/victoria-thomas-earns-sro-americas-jim-cook-award-for-sportsmanship-and-paddock-contributions": "2026-10-23T14:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1599/a-season-of-resilience-ends-in-championship-glory-for-kyle-washington": "2026-10-21T13:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1598/turner-motorsport-completes-the-three-peat": "2026-10-19T13:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1597/an-ode-to-the-indy-8-hour": "2026-10-16T13:00:00Z",
+      "https://www.gt-world-challenge-america.com/news/1596/sro-imsa-joint-statement-on-cancellation-of-daytona-bop-test": "2026-10-15T12:16:00Z"
+    },
+    "items": [
+      {
+        "title": "SRO America Mourns the Passing of Ian Lacy",
+        "source": "GT World Challenge America",
+        "time": "2026-11-17T13:48:00Z",
+        "url": "https://www.gt-world-challenge-america.com/news/1605/sro-america-mourns-the-passing-of-ian-lacy",
+        "series": [
+          "gtwc-america"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Counting Down to the 2027 Season Opener at Sonoma Raceway",
+        "source": "GT World Challenge America",
+        "time": "2026-11-13T18:14:00Z",
+        "url": "https://www.gt-world-challenge-america.com/news/1604/counting-down-to-sonoma",
+        "series": [
+          "gtwc-america"
+        ],
+        "circuit": "sonoma",
+        "photo": null
+      },
+      {
+        "title": "MG1 Motorsports Announces Two-Car Ferrari GT3 Program for 2027 GT World Challenge America",
+        "source": "GT World Challenge America",
+        "time": "2026-11-11T10:00:00Z",
+        "url": "https://www.gt-world-challenge-america.com/news/1603/mg1-announcement-gt-world-challenge",
+        "series": [
+          "gtwc-america"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "b035233d5af0662f",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "gtwc-asia-official": {
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:40:30 GMT",
+    "first_seen": {
+      "https://www.gt-world-challenge-asia.com/news/1037/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider": "2026-11-19T09:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1035/sro-gt-cup-macau-bound-for-greater-bay-area-gt-cup-showdown": "2026-11-18T13:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1033/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title": "2026-11-10T13:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1032/yu-crowned-asias-sro-gt-academy-winner": "2026-11-06T13:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1031/shanghai-race-2-victory-seals-lus-long-awaited-title": "2026-11-01T08:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1030/shanghai-harmonys-third-victory-maintains-lius-title-chances": "2026-10-31T09:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1029/shanghai-nandy-and-heinrich-convert-practice-pace-into-pole-positions": "2026-10-31T03:00:00Z",
+      "https://www.gt-world-challenge-asia.com/news/1028/shanghai-nandy-tops-seasons-finales-first-official-session": "2026-10-30T06:00:00Z"
+    },
+    "items": [
+      {
+        "title": "GT4 MANUFACTURER RANKING: Toyota closing on maiden global title in Macau decider",
+        "source": "GT World Challenge Asia",
+        "time": "2026-11-19T09:00:00Z",
+        "url": "https://www.gt-world-challenge-asia.com/news/1037/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider",
+        "series": [
+          "gtwc-asia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "PREVIEW: SRO GT Cup Macau-bound for Greater Bay Area GT Cup showdown",
+        "source": "GT World Challenge Asia",
+        "time": "2026-11-18T13:00:00Z",
+        "url": "https://www.gt-world-challenge-asia.com/news/1035/sro-gt-cup-macau-bound-for-greater-bay-area-gt-cup-showdown",
+        "series": [
+          "gtwc-asia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "GT WORLD CHALLENGE GLOBAL: Porsche within touching distance of maiden title",
+        "source": "GT World Challenge Asia",
+        "time": "2026-11-10T13:00:00Z",
+        "url": "https://www.gt-world-challenge-asia.com/news/1033/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
+        "series": [
+          "gtwc-asia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Yu crowned Asia’s SRO GT Academy winner",
+        "source": "GT World Challenge Asia",
+        "time": "2026-11-06T13:00:00Z",
+        "url": "https://www.gt-world-challenge-asia.com/news/1032/yu-crowned-asias-sro-gt-academy-winner",
+        "series": [
+          "gtwc-asia"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "8bec38a97f6373ff",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "gtwc-australia-official": {
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:40:31 GMT",
+    "first_seen": {
+      "https://www.gt-world-challenge-australia.com/news/550/kiwi-duo-to-make-gt-world-challenge-australia-debut-in-adelaide-": "2026-11-19T02:28:00Z",
+      "https://www.gt-world-challenge-australia.com/news/549/schumacher-signs-frederic-vervisch-as-feeney-replacement-for-gt-world-challenge-australia-finale": "2026-11-17T19:15:00Z",
+      "https://www.gt-world-challenge-australia.com/news/548/shahin-to-make-australian-return-with-international-star-heinrich": "2026-11-17T04:27:00Z",
+      "https://www.gt-world-challenge-australia.com/news/547/cini-and-nicholas-confirm-gt-world-challenge-australia-adelaide-entry": "2026-11-13T00:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/546/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title": "2026-11-11T03:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/545/scott-andrews-to-make-gt-world-challenge-australia-debut-in-adelaide-alongside-paul-lucchitti": "2026-11-10T00:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/543/gt-world-challenge-global-mercedes-amg-porsche-and-ferrari-take-title-battle-to-final-four": "2026-10-06T07:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/542/team-motopark-selected-to-field-mercedes-amg-gt3-for-sro-gt-academy-graduates-at-24-hours-of-spa-": "2026-09-24T09:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/541/feeney-and-schumacher-score-another-sunday-win-to-close-in-on-pro-am-title": "2026-09-20T03:00:00Z",
+      "https://www.gt-world-challenge-australia.com/news/540/targett-and-smollen-claim-maiden-victory-under-lights-of-sydney-motorsport-park": "2026-09-19T02:00:00Z"
+    },
+    "items": [
+      {
+        "title": "Kiwi duo to make GT World Challenge Australia debut in Adelaide",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-19T02:28:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/550/kiwi-duo-to-make-gt-world-challenge-australia-debut-in-adelaide-",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Schumacher signs Frédéric Vervisch as Feeney replacement for GT World Challenge Australia finale",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-17T19:15:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/549/schumacher-signs-frederic-vervisch-as-feeney-replacement-for-gt-world-challenge-australia-finale",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Shahin to make Australian return with international star Heinrich",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-17T04:27:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/548/shahin-to-make-australian-return-with-international-star-heinrich",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Cini and Nicholas confirm GT World Challenge Australia Adelaide entry",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-13T00:00:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/547/cini-and-nicholas-confirm-gt-world-challenge-australia-adelaide-entry",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "GT WORLD CHALLENGE GLOBAL: Porsche within touching distance of maiden title",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-11T03:00:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/546/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Scott Andrews to make GT World Challenge Australia debut in Adelaide alongside Paul Lucchitti",
+        "source": "GT World Challenge Australia",
+        "time": "2026-11-10T00:00:00Z",
+        "url": "https://www.gt-world-challenge-australia.com/news/545/scott-andrews-to-make-gt-world-challenge-australia-debut-in-adelaide-alongside-paul-lucchitti",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "309136a64634032b",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "igtc-official": {
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:40:31 GMT",
+    "first_seen": {
+      "https://www.intercontinentalgtchallenge.com/news/1996/best-ever-gt-grid-to-tackle-2027-meguiars-bathurst-12-hour": "2026-11-12T09:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1995/gmgs-indy-victory-seals-igtc-title-for-porsche-martin-crowned-drivers-champion": "2026-10-11T00:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1994/indy-8-hour-superpole-result-amended-following-post-session-checks": "2026-10-10T15:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1993/indy-8-hour-foley-beats-gueven-to-pole-by-0.002s": "2026-10-09T22:04:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1992/indy-8-hour-turner-bmw-leads-10-teams-into-superpole-shootout": "2026-10-09T22:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1991/indy-8-hour-spinelli-keeps-chicago-performance-and-tunings-lambo-on-top-in-pre-qualifying": "2026-10-09T17:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1990/indy-8-hour-spinelli-puts-lamborghini-on-top-in-first-official-session": "2026-10-09T00:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1989/preview-absent-engel-leads-four-way-title-battle-into-indys-igtc-season-finale": "2026-10-05T15:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1988/mercedes-amg-confirms-palou-splits-igtc-title-contenders-stolz-and-martin-for-indy": "2026-09-30T09:00:00Z",
+      "https://www.intercontinentalgtchallenge.com/news/1987/desder-indianapolis-8-hour-attracts-record-provisional-entry": "2026-09-15T11:00:00Z"
+    },
+    "items": [
+      {
+        "title": "‘Best Ever’ GT grid to tackle 2027 Meguiar’s Bathurst 12 Hour",
+        "source": "Intercontinental GT Challenge",
+        "time": "2026-11-12T09:00:00Z",
+        "url": "https://www.intercontinentalgtchallenge.com/news/1996/best-ever-gt-grid-to-tackle-2027-meguiars-bathurst-12-hour",
+        "series": [
+          "igtc"
+        ],
+        "circuit": "bathurst",
+        "photo": null
+      }
+    ],
+    "rules": "2cf9e1806454bd87",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "sportscar365-wec": {
+    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
+    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
+    "first_seen": {
+      "https://sportscar365.com/lemans/wec/ferrari-extends-pier-guidis-contract-into-2027/": "2026-11-19T15:14:07Z",
+      "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/": "2026-11-18T12:52:21Z",
+      "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/": "2026-11-17T13:00:23Z",
+      "https://sportscar365.com/lemans/wec/toyota-gr-gt3-set-for-fia-homologation-in-near-future/": "2026-11-17T10:21:52Z",
+      "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/": "2026-11-17T05:01:47Z",
+      "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/": "2026-11-16T20:00:07Z",
+      "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/": "2026-11-16T10:00:56Z",
+      "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/": "2026-11-16T05:01:28Z",
+      "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/": "2026-11-12T11:59:12Z",
+      "https://sportscar365.com/lemans/wec/akkodis-asp-still-working-to-continue-with-new-gr-gt3/": "2026-11-12T11:30:14Z"
+    },
+    "items": [
+      {
+        "title": "Ferrari Extends Pier Guidi’s Contract Into 2027",
+        "source": "Sportscar365",
+        "time": "2026-11-19T15:14:07Z",
+        "url": "https://sportscar365.com/lemans/wec/ferrari-extends-pier-guidis-contract-into-2027/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Dallara Has Capacity to Continue With Four OEMs in 2030",
+        "source": "Sportscar365",
+        "time": "2026-11-18T12:52:21Z",
+        "url": "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/",
+        "series": [
+          "wec",
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "McLaren Entering “Next Phase” of Development Program",
+        "source": "Sportscar365",
+        "time": "2026-11-17T13:00:23Z",
+        "url": "https://sportscar365.com/lemans/wec/mclaren-entering-next-phase-of-development-program/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Toyota: GR GT3 Set For FIA Homologation in “Near Future”",
+        "source": "Sportscar365",
+        "time": "2026-11-17T10:21:52Z",
+        "url": "https://sportscar365.com/lemans/wec/toyota-gr-gt3-set-for-fia-homologation-in-near-future/",
+        "series": [
+          "wec",
+          "imsa",
+          "super-gt"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Watch the Full-Length Replay of 6H Barcelona",
+        "source": "Sportscar365",
+        "time": "2026-11-17T05:01:47Z",
+        "url": "https://sportscar365.com/lemans/wec/watch-the-full-length-replay-of-6h-barcelona/",
+        "series": [
+          "wec"
+        ],
+        "circuit": "barcelona",
+        "photo": null
+      },
+      {
+        "title": "Dillmann Named Ford Hypercar Reserve Driver",
+        "source": "Sportscar365",
+        "time": "2026-11-16T20:00:07Z",
+        "url": "https://sportscar365.com/lemans/wec/dillmann-named-ford-hypercar-reserve-driver/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Jakobsen: Tough to Leave Peugeot Having “Grown a Lot”",
+        "source": "Sportscar365",
+        "time": "2026-11-16T10:00:56Z",
+        "url": "https://sportscar365.com/lemans/wec/jakobsen-tough-to-leave-peugeot-having-grown-a-lot/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Watch the Ten Most Dramatic Moments from 6H Monza",
+        "source": "Sportscar365",
+        "time": "2026-11-16T05:01:28Z",
+        "url": "https://sportscar365.com/lemans/wec/watch-the-ten-most-dramatic-moments-from-6h-monza/",
+        "series": [
+          "wec"
+        ],
+        "circuit": "monza",
+        "photo": null
+      },
+      {
+        "title": "WEC LMGT3 Champion Edgar Named Corvette Factory Driver",
+        "source": "Sportscar365",
+        "time": "2026-11-12T11:59:12Z",
+        "url": "https://sportscar365.com/lemans/wec/wec-lmgt3-champion-edgar-named-corvette-factory-driver/",
+        "series": [
+          "wec",
+          "imsa",
+          "elms"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Akkodis ASP Still “Working” to Continue With New GR GT3",
+        "source": "Sportscar365",
+        "time": "2026-11-12T11:30:14Z",
+        "url": "https://sportscar365.com/lemans/wec/akkodis-asp-still-working-to-continue-with-new-gr-gt3/",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "28810f049c0b5ff0",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "sportscar365-sro": {
+    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
+    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
+    "first_seen": {
+      "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/": "2026-11-19T02:38:58Z",
+      "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/": "2026-11-17T23:51:07Z",
+      "https://sportscar365.com/sro/australian-gt/heinrich-shahin-team-up-at-ebm-for-adelaide-finale/": "2026-11-17T08:35:34Z",
+      "https://sportscar365.com/imsa/iwsc/tincknell-set-for-aston-gt3-outings-in-expanded-program/": "2026-11-13T11:19:09Z",
+      "https://sportscar365.com/sro/gt4-america/bsi-racing-to-make-gt4-america-debut-with-mustang-gt4/": "2026-11-12T15:38:33Z",
+      "https://sportscar365.com/sro/igtc/bathurst-12h-organizer-expecting-record-gt3-field/": "2026-11-12T06:43:57Z",
+      "https://sportscar365.com/lemans/wec/kirchhoefer-steps-away-from-mclaren-factory-driver-role/": "2026-11-11T19:33:52Z",
+      "https://sportscar365.com/sro/world-challenge-america/mg1-confirms-two-car-ferrari-effort-for-2027/": "2026-11-11T15:13:18Z",
+      "https://sportscar365.com/sro/world-challenge-europe/porsche-on-cusp-of-maiden-gtwc-global-title/": "2026-11-11T11:49:34Z",
+      "https://sportscar365.com/sro/gt4-america/sp-motorsports-switches-to-gt4-america-with-two-car-porsche-effort/": "2026-11-10T12:00:36Z"
+    },
+    "items": [
+      {
+        "title": "Team NZ Mercedes-AMG Joins Burgeoning Adelaide Grid",
+        "source": "Sportscar365",
+        "time": "2026-11-19T02:38:58Z",
+        "url": "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Vervisch Chosen as Feeney Stand-in at MPC for Adelaide",
+        "source": "Sportscar365",
+        "time": "2026-11-17T23:51:07Z",
+        "url": "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Heinrich, Shahin to Share EBM Porsche in Adelaide Finale",
+        "source": "Sportscar365",
+        "time": "2026-11-17T08:35:34Z",
+        "url": "https://sportscar365.com/sro/australian-gt/heinrich-shahin-team-up-at-ebm-for-adelaide-finale/",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Tincknell to Expand Aston Martin Duties into GT3",
+        "source": "Sportscar365",
+        "time": "2026-11-13T11:19:09Z",
+        "url": "https://sportscar365.com/imsa/iwsc/tincknell-set-for-aston-gt3-outings-in-expanded-program/",
+        "series": [
+          "imsa",
+          "gtwc-europe"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "BSI Racing to Make GT4 America Debut With Mustang GT4",
+        "source": "Sportscar365",
+        "time": "2026-11-12T15:38:33Z",
+        "url": "https://sportscar365.com/sro/gt4-america/bsi-racing-to-make-gt4-america-debut-with-mustang-gt4/",
+        "series": [
+          "gt4"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Bathurst 12H Organizer Expecting Record GT3 Field",
+        "source": "Sportscar365",
+        "time": "2026-11-12T06:43:57Z",
+        "url": "https://sportscar365.com/sro/igtc/bathurst-12h-organizer-expecting-record-gt3-field/",
+        "series": [
+          "igtc"
+        ],
+        "circuit": "bathurst",
+        "photo": null
+      },
+      {
+        "title": "Kirchhoefer Steps Away from McLaren Factory Driver Status",
+        "source": "Sportscar365",
+        "time": "2026-11-11T19:33:52Z",
+        "url": "https://sportscar365.com/lemans/wec/kirchhoefer-steps-away-from-mclaren-factory-driver-role/",
+        "series": [
+          "wec",
+          "gtwc-europe"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "MG1 Confirms Two-Car Ferrari Effort for 2027",
+        "source": "Sportscar365",
+        "time": "2026-11-11T15:13:18Z",
+        "url": "https://sportscar365.com/sro/world-challenge-america/mg1-confirms-two-car-ferrari-effort-for-2027/",
+        "series": [
+          "gtwc-america"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Porsche On Cusp of Maiden GT World Challenge Global Title",
+        "source": "Sportscar365",
+        "time": "2026-11-11T11:49:34Z",
+        "url": "https://sportscar365.com/sro/world-challenge-europe/porsche-on-cusp-of-maiden-gtwc-global-title/",
+        "series": [
+          "gtwc-europe",
+          "gtwc-america",
+          "gtwc-asia",
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "SP Motorsports Moves to GT4 America With Two New Porsches",
+        "source": "Sportscar365",
+        "time": "2026-11-10T12:00:36Z",
+        "url": "https://sportscar365.com/sro/gt4-america/sp-motorsports-switches-to-gt4-america-with-two-car-porsche-effort/",
+        "series": [
+          "gt4"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "8670d7afaae1a482",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "dailysportscar-wec": {
+    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
+    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
+    "first_seen": {
+      "https://www.dailysportscar.com/2026/11/19/ferrari-extends-pier-guidis-contract.html": "2026-11-19T12:12:59Z",
+      "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html": "2026-11-16T20:00:01Z",
+      "https://www.dailysportscar.com/2026/11/12/edgar-joins-corvette-racing-factory-ranks.html": "2026-11-12T12:01:50Z",
+      "https://www.dailysportscar.com/2026/11/11/marvin-kirchhofer-departs-mclaren-customer-racing.html": "2026-11-11T18:34:33Z",
+      "https://www.dailysportscar.com/2026/11/10/aco-lmem-introduce-tweaks-to-category-colours-names.html": "2026-11-10T11:47:26Z",
+      "https://www.dailysportscar.com/2026/11/09/6h-monza-post-race-notes.html": "2026-11-09T19:25:09Z",
+      "https://www.dailysportscar.com/2026/11/09/jakobsen-completes-mclaren-hypercar-roster.html": "2026-11-09T15:00:50Z",
+      "https://www.dailysportscar.com/2026/11/09/fia-wec-monza-race-week-gallery.html": "2026-11-09T14:38:23Z",
+      "https://www.dailysportscar.com/2026/11/08/tf-sport-ends-rewarding-campaign-with-championship-glory.html": "2026-11-08T21:46:29Z",
+      "https://www.dailysportscar.com/2026/11/08/kubica-confirms-af-corse-exit.html": "2026-11-08T21:04:29Z",
+      "https://www.dailysportscar.com/2026/11/08/buemi-hartley-hirakawa-crowned-champions-as-toyota-caps-dominant-season.html": "2026-11-08T17:30:39Z",
+      "https://www.dailysportscar.com/2026/11/08/cadillac-wins-at-monza-as-8-toyota-crowned-champions.html": "2026-11-08T16:09:51Z"
+    },
+    "items": [
+      {
+        "title": "Ferrari Extends Pier Guidi’s Contract",
+        "source": "Dailysportscar",
+        "time": "2026-11-19T12:12:59Z",
+        "url": "https://www.dailysportscar.com/2026/11/19/ferrari-extends-pier-guidis-contract.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Dillmann Appointed Ford Racing Hypercar Reserve Driver",
+        "source": "Dailysportscar",
+        "time": "2026-11-16T20:00:01Z",
+        "url": "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Edgar Joins Corvette Racing Factory Ranks",
+        "source": "Dailysportscar",
+        "time": "2026-11-12T12:01:50Z",
+        "url": "https://www.dailysportscar.com/2026/11/12/edgar-joins-corvette-racing-factory-ranks.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Marvin Kirchhöfer Departs McLaren Customer Racing",
+        "source": "Dailysportscar",
+        "time": "2026-11-11T18:34:33Z",
+        "url": "https://www.dailysportscar.com/2026/11/11/marvin-kirchhofer-departs-mclaren-customer-racing.html",
+        "series": [
+          "wec",
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "ACO & LMEM Tweak Category Colours & Names",
+        "source": "Dailysportscar",
+        "time": "2026-11-10T11:47:26Z",
+        "url": "https://www.dailysportscar.com/2026/11/10/aco-lmem-introduce-tweaks-to-category-colours-names.html",
+        "series": [
+          "wec",
+          "elms",
+          "asian-lms"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "6H Monza: Post-Race Notes",
+        "source": "Dailysportscar",
+        "time": "2026-11-09T19:25:09Z",
+        "url": "https://www.dailysportscar.com/2026/11/09/6h-monza-post-race-notes.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": "monza",
+        "photo": null
+      },
+      {
+        "title": "Jakobsen Completes McLaren Hypercar Roster",
+        "source": "Dailysportscar",
+        "time": "2026-11-09T15:00:50Z",
+        "url": "https://www.dailysportscar.com/2026/11/09/jakobsen-completes-mclaren-hypercar-roster.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "FIA WEC Monza Race Week Gallery",
+        "source": "Dailysportscar",
+        "time": "2026-11-09T14:38:23Z",
+        "url": "https://www.dailysportscar.com/2026/11/09/fia-wec-monza-race-week-gallery.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": "monza",
+        "photo": null
+      },
+      {
+        "title": "TF Sport Ends “Rewarding” Campaign With Championship Glory",
+        "source": "Dailysportscar",
+        "time": "2026-11-08T21:46:29Z",
+        "url": "https://www.dailysportscar.com/2026/11/08/tf-sport-ends-rewarding-campaign-with-championship-glory.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Kubica Confirms AF Corse Exit",
+        "source": "Dailysportscar",
+        "time": "2026-11-08T21:04:29Z",
+        "url": "https://www.dailysportscar.com/2026/11/08/kubica-confirms-af-corse-exit.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Buemi, Hartley & Hirakawa Crowned Champions As Toyota Caps Dominant Season",
+        "source": "Dailysportscar",
+        "time": "2026-11-08T17:30:39Z",
+        "url": "https://www.dailysportscar.com/2026/11/08/buemi-hartley-hirakawa-crowned-champions-as-toyota-caps-dominant-season.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Cadillac Wins At Monza As Toyota, TF & Edgar Claim Titles",
+        "source": "Dailysportscar",
+        "time": "2026-11-08T16:09:51Z",
+        "url": "https://www.dailysportscar.com/2026/11/08/cadillac-wins-at-monza-as-8-toyota-crowned-champions.html",
+        "series": [
+          "wec"
+        ],
+        "circuit": "monza",
+        "photo": null
+      }
+    ],
+    "rules": "a3cea9b1cd87cf4a",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "dailysportscar-gtwc": {
+    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
+    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
+    "first_seen": {
+      "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html": "2026-11-12T11:01:32Z",
+      "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html": "2026-11-12T07:51:44Z",
+      "https://www.dailysportscar.com/2026/11/11/marvin-kirchhofer-departs-mclaren-customer-racing.html": "2026-11-11T18:34:33Z",
+      "https://www.dailysportscar.com/2026/11/01/lu-wei-seals-gt-world-challenge-asia-title-in-style-at-shanghai.html": "2026-11-01T12:02:17Z",
+      "https://www.dailysportscar.com/2026/10/31/harmony-racing-ferrari-wins-shanghai-race-1-lu-closes-in-on-overall-title.html": "2026-10-31T10:21:43Z",
+      "https://www.dailysportscar.com/2026/10/30/rossi-set-to-remain-silver-after-driver-categorisation-review.html": "2026-10-30T19:06:36Z",
+      "https://www.dailysportscar.com/2026/10/28/gt-world-challenge-asia-prepares-for-shanghai-title-decider.html": "2026-10-28T10:10:54Z",
+      "https://www.dailysportscar.com/2026/10/28/gt-news-notebook-26.html": "2026-10-28T08:29:08Z",
+      "https://www.dailysportscar.com/2026/10/28/craft-bamboo-launch-yani-neko-anime-partnership.html": "2026-10-28T04:02:07Z",
+      "https://www.dailysportscar.com/2026/10/23/hartling-wins-gtwc-europe-drive-with-sro-gt-academy.html": "2026-10-23T09:58:03Z",
+      "https://www.dailysportscar.com/2026/10/20/mercedes-amg-steals-the-show-in-portimao.html": "2026-10-20T07:44:18Z",
+      "https://www.dailysportscar.com/2026/10/17/kessel-racing-earns-24-hours-of-le-mans-invite.html": "2026-10-17T20:46:26Z"
+    },
+    "items": [
+      {
+        "title": "Walkenhorst Set To Return To GTWC Europe & N24 In 2027",
+        "source": "Dailysportscar",
+        "time": "2026-11-12T11:01:32Z",
+        "url": "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html",
+        "series": [
+          "gtwc-europe",
+          "nls"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "MG1 Motorsports Moves Up To GT World America",
+        "source": "Dailysportscar",
+        "time": "2026-11-12T07:51:44Z",
+        "url": "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html",
+        "series": [
+          "gtwc-america"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Marvin Kirchhöfer Departs McLaren Customer Racing",
+        "source": "Dailysportscar",
+        "time": "2026-11-11T18:34:33Z",
+        "url": "https://www.dailysportscar.com/2026/11/11/marvin-kirchhofer-departs-mclaren-customer-racing.html",
+        "series": [
+          "wec",
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "1f0879c7527fb660",
+    "last_ok": "2026-11-20T00:40:12Z"
+  },
+  "racer-sportscars": {
+    "etag": null,
+    "last_modified": null,
+    "first_seen": {
+      "https://racer.com/2026/11/15/how-manufacturers-find-future-talent-porsche-s-driver-development-pyramid": "2026-11-15T11:18:01Z",
+      "https://racer.com/2026/10/30/car-blanche-expanding-to-asian-le-mans-in-partnership-with-with-rsl": "2026-10-30T12:12:56Z",
+      "https://racer.com/2026/10/28/indycar-veteran-robb-heading-to-asian-le-mans-series-with-united-autosports": "2026-10-28T15:52:42Z",
+      "https://racer.com/2026/10/16/michelin-introduces-new-hypercar-rain-tire": "2026-10-16T13:19:47Z",
+      "https://racer.com/2026/10/09/lamborghini-aims-for-wec-return-with-temerario-gt3-imsa-future-still-unclear": "2026-10-09T15:49:36Z",
+      "https://racer.com/2026/08/27/bourdais-exploring-new-opportunities-in-sports-cars": "2026-08-27T21:03:24Z",
+      "https://racer.com/2026/08/19/first-customer-orders-confirmed-for-next-gen-lmp2": "2026-08-19T12:34:59Z",
+      "https://racer.com/2026/06/26/imsa-and-sro-set-for-joint-gt3-bop-test-at-daytona-in-december": "2026-06-26T11:35:53Z",
+      "https://racer.com/2026/06/17/porsche-open-to-potential-hypercar-return": "2026-06-17T13:01:34Z",
+      "https://racer.com/2026/06/12/aco-fia-and-imsa-reveal-ruleset-for-2030-top-class-prototypes": "2026-06-12T10:49:48Z"
+    },
+    "items": [],
+    "rules": "ac86c89940878a97",
+    "last_ok": "2026-11-20T00:40:12Z"
   }
 }
