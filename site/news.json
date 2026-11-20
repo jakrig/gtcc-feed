@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T00:16:15Z",
+  "updated": "2026-11-20T00:19:50Z",
   "items": [
     {
       "title": "Rafa Camara still unsure about finishing 2026 F1 season",
@@ -1127,6 +1127,18 @@
         "f1",
         "wec",
         "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Road To DTM To Feature €1.5m Prize Pool In 2027",
+      "source": "Dailysportscar",
+      "time": "2026-11-18T09:56:31Z",
+      "url": "https://www.dailysportscar.com/2026/11/18/road-to-dtm-to-feature-e1-5m-prize-pool-in-2027.html",
+      "series": [
+        "dtm"
       ],
       "circuit": null,
       "photo": null,

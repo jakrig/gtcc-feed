@@ -258,10 +258,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "af0339522ea00df7",
     "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
-    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
-    "rules": "96242d557236ce43"
+    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT"
   },
   "racer": {
     "first_seen": {
@@ -456,10 +456,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "a67dab4b27157cc2",
     "etag": null,
-    "last_modified": null,
-    "rules": "648ea183e5d6f88c"
+    "last_modified": null
   },
   "touringcartimes": {
     "first_seen": {
@@ -520,10 +520,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "57f5f9ead18a2f6b",
     "etag": "\"73fb0cdce13cc2e904267b6b7948aaff\"",
-    "last_modified": "Thu, 19 Nov 2026 15:51:59 GMT",
-    "rules": "55d6ce569d7f4aea"
+    "last_modified": "Thu, 19 Nov 2026 15:51:59 GMT"
   },
   "motorsportweek": {
     "first_seen": {
@@ -947,10 +947,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "e4a059e0fa7bc6e1",
     "etag": "\"2098410be0506332da372692080a5b8c\"",
-    "last_modified": "Thu, 19 Nov 2026 17:08:07 GMT",
-    "rules": "67f18b83ed456b67"
+    "last_modified": "Thu, 19 Nov 2026 17:08:07 GMT"
   },
   "dailysportscar": {
     "first_seen": {
@@ -1008,6 +1008,17 @@
         "url": "https://www.dailysportscar.com/2026/11/18/fayer-jensen-and-mcelrea-continue-at-united-autosports-for-2027.html",
         "series": [
           "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Road To DTM To Feature €1.5m Prize Pool In 2027",
+        "source": "Dailysportscar",
+        "time": "2026-11-18T09:56:31Z",
+        "url": "https://www.dailysportscar.com/2026/11/18/road-to-dtm-to-feature-e1-5m-prize-pool-in-2027.html",
+        "series": [
+          "dtm"
         ],
         "circuit": null,
         "photo": null
@@ -1090,10 +1101,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "948d5b054f72024d",
     "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
-    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
-    "rules": "bfb252c96c75fd56"
+    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT"
   },
   "speedcafe": {
     "first_seen": {
@@ -1363,10 +1374,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "3d0383cacd462059",
     "etag": "W/\"f4eb02996985aeb824bb15cbd8c0e547-gzip\"",
-    "last_modified": null,
-    "rules": "039ebbcfd219a90f"
+    "last_modified": null
   },
   "fia": {
     "first_seen": {
@@ -1416,10 +1427,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "e8d92451a0ce8ed7",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:15:22 GMT",
-    "rules": "23bc65a103ae24f8"
+    "last_modified": "Fri, 20 Nov 2026 00:17:58 GMT"
   },
   "british-gt-official": {
     "first_seen": {
@@ -1458,10 +1469,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "6b36a090b604c078",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:16:19 GMT",
-    "rules": "4f34b3fec13a53e8"
+    "last_modified": "Fri, 20 Nov 2026 00:19:54 GMT"
   },
   "nls-official": {
     "first_seen": {
@@ -1477,10 +1488,10 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "5bc7514e004d61aa",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
-    "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
-    "rules": "690445e562ef444b"
+    "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT"
   },
   "touringcars-net": {
     "first_seen": {
@@ -1552,10 +1563,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "23c20004bb929016",
     "etag": "W/\"5cd7ad2a9d3638e879a5bfe38a739698-gzip\"",
-    "last_modified": "Thu, 19 Nov 2026 10:05:50 GMT",
-    "rules": "0035cd3f393f2204"
+    "last_modified": "Thu, 19 Nov 2026 10:05:50 GMT"
   },
   "pitdebrief": {
     "first_seen": {
@@ -1971,10 +1982,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "addc385ed45bdf46",
     "etag": "\"82e56cd60170adc445c2a4624ad9bedd\"",
-    "last_modified": "Thu, 19 Nov 2026 23:55:26 GMT",
-    "rules": "6f28778e5de9bb63"
+    "last_modified": "Thu, 19 Nov 2026 23:55:26 GMT"
   },
   "feederseries": {
     "first_seen": {
@@ -2046,10 +2057,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "c2143b99be641326",
     "etag": null,
-    "last_modified": "Thu, 19 Nov 2026 16:30:14 GMT",
-    "rules": "dbb13c3cb4e2f318"
+    "last_modified": "Thu, 19 Nov 2026 16:30:04 GMT"
   },
   "formulascout": {
     "first_seen": {
@@ -2146,14 +2157,12 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:16:15Z",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "rules": "720ffbb94c0bbf88",
     "etag": "W/\"7595293354facbf3c279f3ec8095a8bf\"",
-    "last_modified": "Thu, 19 Nov 2026 17:12:11 GMT",
-    "rules": "c92c32a02a3e76f6"
+    "last_modified": "Thu, 19 Nov 2026 17:12:11 GMT"
   },
   "crash-btcc": {
-    "etag": "W/\"1795133361-zstd\"",
-    "last_modified": "Fri, 20 Nov 2026 00:09:21 GMT",
     "first_seen": {
       "https://www.crash.net/btcc/news/1110090/1/btcc-team-whose-base-was-destroyed-fire-offering-reward-stolen-car": "2026-11-12T11:30:22Z",
       "https://www.crash.net/f1/news/1106584/1/groundbreaking-former-f1-presenter-calls-time-30-year-career": "2026-10-07T11:00:00Z",
@@ -2219,12 +2228,12 @@
         "photo": null
       }
     ],
-    "rules": "945e9ef615da8175",
-    "last_ok": "2026-11-20T00:16:15Z"
+    "rules": "245f2dd29382cc0d",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "etag": "W/\"1795133361-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:09:21 GMT"
   },
   "crash-f1": {
-    "etag": "W/\"1795133340-zstd\"",
-    "last_modified": "Fri, 20 Nov 2026 00:09:00 GMT",
     "first_seen": {
       "https://www.crash.net/f1/news/1110206/1/rafa-camara-still-unsure-about-finishing-2026-f1-season": "2026-11-19T23:54:18Z",
       "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us": "2026-11-19T23:04:53Z",
@@ -2807,12 +2816,12 @@
         "photo": null
       }
     ],
-    "rules": "7a34d7cb7d577e38",
-    "last_ok": "2026-11-20T00:16:15Z"
+    "rules": "48300ece115673e8",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "etag": "W/\"1795133340-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:09:00 GMT"
   },
   "racefans": {
-    "etag": "W/\"a0bfa196ce9861db6017ff5cacff930c\"",
-    "last_modified": "Thu, 19 Nov 2026 20:55:33 GMT",
     "first_seen": {
       "https://www.racefans.net/2026/11/19/fia-to-introduce-full-time-stewards-to-formula-1-during-2027/": "2026-11-19T20:24:42Z",
       "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/": "2026-11-19T15:26:31Z",
@@ -3035,12 +3044,12 @@
         "photo": null
       }
     ],
-    "rules": "07cd6638bdd9c50d",
-    "last_ok": "2026-11-20T00:16:15Z"
+    "rules": "9d1fd1466ed83b49",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "etag": "W/\"a0bfa196ce9861db6017ff5cacff930c\"",
+    "last_modified": "Thu, 19 Nov 2026 20:55:33 GMT"
   },
   "gpfans": {
-    "etag": "W/\"6aff9143-1f71\"",
-    "last_modified": "Fri, 20 Nov 2026 00:16:03 GMT",
     "first_seen": {
       "https://www.gpfans.com/en/f1-news/1093078/f1-nico-rosberg-mercedes-lewis-hamilton-helmet-colour-2016-world-title/": "2026-11-19T21:28:00Z",
       "https://www.gpfans.com/en/f1-news/1093064/f1-oscar-piastri-most-disappointing-driver-melting-inside/": "2026-11-19T20:44:00Z",
@@ -3165,12 +3174,12 @@
         "photo": null
       }
     ],
-    "rules": "855a17d378c60ac8",
-    "last_ok": "2026-11-20T00:16:15Z"
+    "rules": "0badd82e38d7565c",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "etag": "W/\"6aff91f7-1f71\"",
+    "last_modified": "Fri, 20 Nov 2026 00:19:03 GMT"
   },
   "joesaward": {
-    "etag": null,
-    "last_modified": "Mon, 16 Nov 2026 14:57:18 GMT",
     "first_seen": {
       "https://joesaward.wordpress.com/2026/11/16/jsbm-16-11-2026-issue-26-43-headlines/": "2026-11-16T11:29:33Z",
       "https://joesaward.wordpress.com/2026/11/12/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-f1-brazilgp/": "2026-11-12T11:36:52Z",
@@ -3240,7 +3249,9 @@
         "photo": null
       }
     ],
-    "rules": "fac8bf3b36113ad9",
-    "last_ok": "2026-11-20T00:16:15Z"
+    "rules": "61a3c11502359b5f",
+    "last_ok": "2026-11-20T00:19:50Z",
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 14:56:55 GMT"
   }
 }
