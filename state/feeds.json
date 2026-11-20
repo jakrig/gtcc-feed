@@ -258,30 +258,52 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
     "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
     "rules": "96242d557236ce43"
   },
   "racer": {
     "first_seen": {
-      "https://racer.com/2026/11/18/cadillac-f1-confirms-bottas-for-2027-leaving-herta-s-future-uncertain": "2026-11-18T20:25:20Z",
-      "https://racer.com/2026/11/18/corr-presented-by-amsoil-returns-to-racer-network-with-free-streaming-on-racer-": "2026-11-18T20:38:45Z",
-      "https://racer.com/2026/11/18/23xi-s-wallace-heim-get-new-crew-chiefs-for-2027": "2026-11-18T20:15:24Z",
-      "https://racer.com/2026/11/18/indycar-test-planned-for-kansas-speedway": "2026-11-18T21:12:43Z",
       "https://racer.com/2026/11/19/the-missing-piece-in-the-f1-driver-market-puzzle": "2026-11-19T13:20:05Z",
       "https://racer.com/2026/11/19/sponsor-ceo-charged-in-600m-ponzi-scheme": "2026-11-19T15:31:58Z",
       "https://racer.com/2026/11/18/best-worst-ryan-hunter-reay": "2026-11-19T10:00:00Z",
       "https://racer.com/2026/11/19/alonso-says-dakar-le-mans-indy-500-all-on-my-mind-": "2026-11-19T13:27:02Z",
       "https://racer.com/2026/11/19/jaminet-switches-to-corvette-for-rolex-24-with-13-autosport": "2026-11-19T15:30:47Z",
-      "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1": "2026-11-19T13:15:33Z"
+      "https://racer.com/2026/11/19/fia-to-introduce-full-time-stewards-in-f1-from-2027": "2026-11-19T21:17:53Z",
+      "https://racer.com/2026/11/19/wallis-crowned-2026-mazda-shootout-champion": "2026-11-19T19:32:24Z",
+      "https://racer.com/2026/11/19/langdon-s-emotions-break-through-after-long-awaited-second-nhra-top-fuel-crown": "2026-11-19T18:11:37Z",
+      "https://racer.com/2026/11/19/wright-motorsports-adds-second-imsa-gtd-entry-for-musial-and-yardley-in-endurance-cup-events": "2026-11-19T17:17:53Z",
+      "https://racer.com/2026/11/18/races-on-tv-november-19-22": "2026-11-19T13:26:20Z"
     },
     "items": [
       {
+        "title": "FIA to introduce full-time stewards in F1 from 2027",
+        "source": "RACER",
+        "time": "2026-11-19T21:17:53Z",
+        "url": "https://racer.com/2026/11/19/fia-to-introduce-full-time-stewards-in-f1-from-2027",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
         "title": "Jaminet switches to Corvette for Rolex 24 with 13 Autosport",
         "source": "RACER",
-        "time": "2026-11-19T15:30:47Z",
+        "time": "2026-11-19T17:38:44Z",
         "url": "https://racer.com/2026/11/19/jaminet-switches-to-corvette-for-rolex-24-with-13-autosport",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Wright Motorsports adds second IMSA GTD entry for Musial and Yardley in Endurance Cup events",
+        "source": "RACER",
+        "time": "2026-11-19T17:17:53Z",
+        "url": "https://racer.com/2026/11/19/wright-motorsports-adds-second-imsa-gtd-entry-for-musial-and-yardley-in-endurance-cup-events",
         "series": [
           "imsa"
         ],
@@ -434,7 +456,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": null,
     "last_modified": null,
     "rules": "648ea183e5d6f88c"
@@ -498,7 +520,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "\"73fb0cdce13cc2e904267b6b7948aaff\"",
     "last_modified": "Thu, 19 Nov 2026 15:51:59 GMT",
     "rules": "55d6ce569d7f4aea"
@@ -925,7 +947,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "\"2098410be0506332da372692080a5b8c\"",
     "last_modified": "Thu, 19 Nov 2026 17:08:07 GMT",
     "rules": "67f18b83ed456b67"
@@ -1068,7 +1090,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
     "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
     "rules": "bfb252c96c75fd56"
@@ -1077,16 +1099,60 @@
     "first_seen": {
       "https://speedcafe.com/motorsport-news-2026-challenge-bathurst-mustang-cup-dark-horse-legends-champion-john-goodacre-car-heavy-crash-david-tan-details/": "2026-11-19T06:48:46Z",
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-on-sandpapergate-cricket-australia-sandpaper-comments-thoughts/": "2026-11-19T06:46:40Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-super2-series-entry-list-jesse-love-nascar/": "2026-11-19T06:37:09Z",
-      "https://speedcafe.com/motorsport-news-2026-the-bend-championship-series-season-finale-round-6-mallala-details/": "2026-11-19T05:27:01Z",
-      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fernando-alonso-le-mans-indy500-dakar-future-racing-aston-martin/": "2026-11-19T04:53:04Z",
-      "https://speedcafe.com/motorsport-news-2026-macau-grand-prix-optimum-motorsport-tribute-livery-oliver-goethe-hulme-mclaren-photos/": "2026-11-19T04:39:26Z",
-      "https://speedcafe.com/supercars-news-2027-calendar-queensland-raceway-ipswich-barclay-nettlefold-tony-quinn-comment/": "2026-11-19T03:11:53Z",
-      "https://speedcafe.com/f1-news-2026-mclaren-auction-2027-next-year-car-sale-sothebys-where-when/": "2026-11-19T02:34:06Z",
-      "https://speedcafe.com/motorsport-news-2026-earl-bamber-motorsport-adelaide-entry-gt-world-challenge-australia-chris-van-der-drift/": "2026-11-19T02:30:23Z",
-      "https://speedcafe.com/nascar-news-2026-rajah-caruth-jr-motorsports-oreilly-series-norwell-motorplex-paul-morris-kostecki-feeney/": "2026-11-19T07:30:52Z"
+      "https://speedcafe.com/nascar-news-2026-rajah-caruth-jr-motorsports-oreilly-series-norwell-motorplex-paul-morris-kostecki-feeney/": "2026-11-19T07:30:52Z",
+      "https://speedcafe.com/f1-news-2026-formula-1-las-vegas-grand-prix-live-updates-practice-qualifying-race/": "2026-11-20T00:00:03Z",
+      "https://speedcafe.com/f1-news-2026-fia-race-stewards-2027-full-time-announcement-appointment-when-formula-1/": "2026-11-19T23:22:41Z",
+      "https://speedcafe.com/motorsport-news-2026-macau-grand-prix-fia-fr-world-cup-qualifying-1-results-alex-ninovic-provisional-pole/": "2026-11-19T23:12:25Z",
+      "https://speedcafe.com/supercars-news-thomas-randle-scott-taylor-motorsport-porsche-carrera-cup-sandown-shakedown-details-comments/": "2026-11-19T22:45:16Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-comments-on-helmut-marko-racing-bulls-2027-decision/": "2026-11-19T20:04:57Z",
+      "https://speedcafe.com/nascar-news-ty-gibbs-v8-supercars-holden-commodore-jack-perkins-eggleston-motorsport/": "2026-11-19T19:00:46Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-start-time-how-to-watch-tv-times-live-stream-schedule-details-fox-sports-kayo/": "2026-11-19T19:00:05Z"
     },
     "items": [
+      {
+        "title": "Live Updates: Formula 1 Las Vegas Grand Prix",
+        "source": "Speedcafe",
+        "time": "2026-11-20T00:00:03Z",
+        "url": "https://speedcafe.com/f1-news-2026-formula-1-las-vegas-grand-prix-live-updates-practice-qualifying-race/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "FIA locks in full-time F1 stewards for 2027",
+        "source": "Speedcafe",
+        "time": "2026-11-19T23:22:41Z",
+        "url": "https://speedcafe.com/f1-news-2026-fia-race-stewards-2027-full-time-announcement-appointment-when-formula-1/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lawson felt ‘confused’ amid Racing Bulls contract uncertainty",
+        "source": "Speedcafe",
+        "time": "2026-11-19T20:04:57Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-comments-on-helmut-marko-racing-bulls-2027-decision/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "2026 F1 Las Vegas Grand Prix – How to watch, schedule, TV times & more",
+        "source": "Speedcafe",
+        "time": "2026-11-19T19:00:05Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-start-time-how-to-watch-tv-times-live-stream-schedule-details-fox-sports-kayo/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Piastri weighs in on explosive sandpapergate cricket saga",
         "source": "Speedcafe",
@@ -1297,8 +1363,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
-    "etag": "W/\"a128037bdb394e0cda08adff8c8d335d-gzip\"",
+    "last_ok": "2026-11-20T00:16:15Z",
+    "etag": "W/\"f4eb02996985aeb824bb15cbd8c0e547-gzip\"",
     "last_modified": null,
     "rules": "039ebbcfd219a90f"
   },
@@ -1350,9 +1416,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": null,
-    "last_modified": "Thu, 19 Nov 2026 17:22:18 GMT",
+    "last_modified": "Fri, 20 Nov 2026 00:15:22 GMT",
     "rules": "23bc65a103ae24f8"
   },
   "british-gt-official": {
@@ -1392,9 +1458,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": null,
-    "last_modified": "Thu, 19 Nov 2026 17:22:10 GMT",
+    "last_modified": "Fri, 20 Nov 2026 00:16:19 GMT",
     "rules": "4f34b3fec13a53e8"
   },
   "nls-official": {
@@ -1411,7 +1477,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT",
     "rules": "690445e562ef444b"
@@ -1486,7 +1552,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "W/\"5cd7ad2a9d3638e879a5bfe38a739698-gzip\"",
     "last_modified": "Thu, 19 Nov 2026 10:05:50 GMT",
     "rules": "0035cd3f393f2204"
@@ -1497,14 +1563,80 @@
       "https://www.pitdebrief.com/post/camara-weighs-f2-title-bid-against-more-f1-outings-with-haas-ahead-of-2026-las-vegas-gp/": "2026-11-19T16:23:44Z",
       "https://www.pitdebrief.com/post/bearman-disappointed-at-contract-situation-with-haas-f1-2027/": "2026-11-19T16:20:56Z",
       "https://www.pitdebrief.com/post/al-dhaheri-praises-r-ace-gps-turnaround-after-p3-finish-in-fia-fr-world-cup-qualifying-1-at-2026-macau-gp/": "2026-11-19T15:49:05Z",
-      "https://www.pitdebrief.com/post/exclusive-marco-sorensen-calls-macau-one-of-the-worlds-most-insane-circuits-after-aston-martin-debut/": "2026-11-19T15:18:03Z",
-      "https://www.pitdebrief.com/post/verstappen-hadjar-and-lindblad-react-to-lawson-staying-at-racing-bulls-for-f1-2027/": "2026-11-19T15:16:52Z",
-      "https://www.pitdebrief.com/post/exclusive-van-langendonck-eyes-fia-f4-world-cup-victory-to-cap-off-successful-2026-season-at-macau-gp/": "2026-11-19T13:32:49Z",
-      "https://www.pitdebrief.com/post/hadjar-targets-win-before-conclusion-of-2026-f1-season/": "2026-11-19T13:19:35Z",
-      "https://www.pitdebrief.com/post/bruno-michel-reflects-on-10-years-of-f2-and-the-changing-pathway-to-f1/": "2026-11-19T11:45:00Z",
-      "https://www.pitdebrief.com/post/bosco-arias-joins-drivex-for-2027-spanish-f4-championship-debut/": "2026-11-19T11:44:00Z"
+      "https://www.pitdebrief.com/post/all-the-grid-penalties-at-the-2026-f1-las-vegas-gp/": "2026-11-19T23:00:15Z",
+      "https://www.pitdebrief.com/post/drivers-welcome-prospect-of-v8-engine-return-for-next-regulation-cycle-as-plans-emerge-ahead-of-2026-f1-las-vegas-gp/": "2026-11-19T22:42:44Z",
+      "https://www.pitdebrief.com/post/lindblad-reflects-on-learning-from-lawson-and-dismisses-points-comparison-ahead-of-2026-f1-las-vegas-gp/": "2026-11-19T22:00:34Z",
+      "https://www.pitdebrief.com/post/fia-to-introduce-full-time-f1-stewards-from-2027/": "2026-11-19T21:12:45Z",
+      "https://www.pitdebrief.com/post/bottas-on-f1-cadillac-2027/": "2026-11-19T20:34:58Z",
+      "https://www.pitdebrief.com/post/lawson-relieved-after-securing-racing-bulls-seat-for-the-2027-f1-seasons/": "2026-11-19T18:41:14Z"
     },
     "items": [
+      {
+        "title": "All the grid penalties at the 2026 F1 Las Vegas GP",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T23:00:15Z",
+        "url": "https://www.pitdebrief.com/post/all-the-grid-penalties-at-the-2026-f1-las-vegas-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Drivers welcome prospect of V8 engine return for next regulation cycle as plans emerge ahead of 2026 F1 Las Vegas GP",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T22:42:44Z",
+        "url": "https://www.pitdebrief.com/post/drivers-welcome-prospect-of-v8-engine-return-for-next-regulation-cycle-as-plans-emerge-ahead-of-2026-f1-las-vegas-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lindblad discusses keeping his seat for 2027 and learning from Lawson ahead of 2026 F1 Las Vegas GP",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T22:00:34Z",
+        "url": "https://www.pitdebrief.com/post/lindblad-reflects-on-learning-from-lawson-and-dismisses-points-comparison-ahead-of-2026-f1-las-vegas-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "FIA to introduce full-time F1 stewards from 2027 in bid to improve consistency",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T21:12:45Z",
+        "url": "https://www.pitdebrief.com/post/fia-to-introduce-full-time-f1-stewards-from-2027/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Bottas on Cadillac F1 2027 confirmation; Pérez pleased he is staying",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T20:34:58Z",
+        "url": "https://www.pitdebrief.com/post/bottas-on-f1-cadillac-2027/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lawson feeling relieved after securing Racing Bulls seat for 2027 F1 season",
+        "source": "Pit Debrief",
+        "time": "2026-11-19T18:41:14Z",
+        "url": "https://www.pitdebrief.com/post/lawson-relieved-after-securing-racing-bulls-seat-for-the-2027-f1-seasons/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Piastri reveals targets to try and finish 2026 F1 season strongly",
         "source": "Pit Debrief",
@@ -1839,9 +1971,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
-    "etag": "\"67ff8337440043fb83564878e61d6273\"",
-    "last_modified": "Thu, 19 Nov 2026 17:00:51 GMT",
+    "last_ok": "2026-11-20T00:16:15Z",
+    "etag": "\"82e56cd60170adc445c2a4624ad9bedd\"",
+    "last_modified": "Thu, 19 Nov 2026 23:55:26 GMT",
     "rules": "6f28778e5de9bb63"
   },
   "feederseries": {
@@ -1914,9 +2046,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": null,
-    "last_modified": "Thu, 19 Nov 2026 16:30:04 GMT",
+    "last_modified": "Thu, 19 Nov 2026 16:30:14 GMT",
     "rules": "dbb13c3cb4e2f318"
   },
   "formulascout": {
@@ -2014,9 +2146,1101 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-19T17:22:05Z",
+    "last_ok": "2026-11-20T00:16:15Z",
     "etag": "W/\"7595293354facbf3c279f3ec8095a8bf\"",
     "last_modified": "Thu, 19 Nov 2026 17:12:11 GMT",
     "rules": "c92c32a02a3e76f6"
+  },
+  "crash-btcc": {
+    "etag": "W/\"1795133361-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:09:21 GMT",
+    "first_seen": {
+      "https://www.crash.net/btcc/news/1110090/1/btcc-team-whose-base-was-destroyed-fire-offering-reward-stolen-car": "2026-11-12T11:30:22Z",
+      "https://www.crash.net/f1/news/1106584/1/groundbreaking-former-f1-presenter-calls-time-30-year-career": "2026-10-07T11:00:00Z",
+      "https://www.crash.net/f1/news/1096244/1/motorsport-not-built-be-inclusive-lewis-hamilton-hails-brother-nicolas-btcc": "2026-05-26T15:20:00Z",
+      "https://www.crash.net/btcc/news/1092911/1/lewis-hamiltons-brother-nic-hamilton-announces-2026-racing-plans": "2026-04-08T08:39:10Z",
+      "https://www.crash.net/btcc/news/1079560/1/btcc-knockhill-hill-proud-double-win-after-upsetting-oulton-weekend": "2025-08-17T19:37:31Z",
+      "https://www.crash.net/btcc/news/1079558/1/btcc-drivers-championship-points-after-knockhill": "2025-08-17T17:42:11Z",
+      "https://www.crash.net/btcc/race-report/1079556/1/btcc-knockhill-hill-dominates-race-three-secure-knockhill-double": "2025-08-17T16:09:39Z",
+      "https://www.crash.net/btcc/results/1079555/1/btcc-knockhill-round-21-race-results": "2025-08-17T16:09:32Z",
+      "https://www.crash.net/btcc/race-report/1079544/1/btcc-knockhill-ingram-cruises-race-two-win-ahead-title-rival-sutton": "2025-08-17T13:27:05Z",
+      "https://www.crash.net/btcc/results/1079542/1/btcc-knockhill-round-20-race-results": "2025-08-17T13:25:47Z",
+      "https://www.crash.net/btcc/race-report/1079493/1/btcc-knockhill-hill-beats-rainford-race-one-win": "2025-08-17T10:12:39Z",
+      "https://www.crash.net/btcc/results/1079489/1/btcc-knockhill-round-19-race-results": "2025-08-17T10:10:24Z",
+      "https://www.crash.net/btcc/news/1079474/1/btcc-knockhill-rainford-beats-deleon-pole-bmw-top-three-lockout": "2025-08-16T14:50:29Z",
+      "https://www.crash.net/btcc/news/1079482/1/btcc-knockhill-maiden-btcc-pole-something-ive-dream-rainford": "2025-08-16T16:29:07Z",
+      "https://www.crash.net/btcc/results/1079475/1/btcc-knockhill-qualifying-results-rainford-beats-deleon-pole": "2025-08-16T14:50:29Z",
+      "https://www.crash.net/btcc/news/1079437/1/btcc-knockhill-rainford-sets-pace-wsr-bmw-fp2": "2025-08-16T11:56:15Z",
+      "https://www.crash.net/btcc/results/1079435/1/btcc-knockhill-practice-results-2-rainford-sets-pace-bmw": "2025-08-16T11:15:02Z",
+      "https://www.crash.net/btcc/news/1079432/1/btcc-knockhill-ingram-quickest-opening-knockhill-practice-pmr-hit-track": "2025-08-16T09:42:18Z",
+      "https://www.crash.net/btcc/results/1079427/1/btcc-knockhill-practice-results-1-ingram-quickest-opening-practice": "2025-08-16T09:24:59Z",
+      "https://www.crash.net/btcc/news/1078853/1/btcc-croft-points-leader-ingram-pleased-emerge-race-three-fairly-unscathed": "2025-08-03T20:31:57Z",
+      "https://www.crash.net/btcc/news/1078852/1/btcc-croft-sutton-revels-crucial-race-three-win-despite-bad-weekend": "2025-08-03T19:11:01Z",
+      "https://www.crash.net/btcc/news/1078846/1/btcc-drivers-championship-points-after-croft": "2025-08-03T17:43:44Z",
+      "https://www.crash.net/btcc/race-report/1078842/1/btcc-croft-sutton-wins-croft-reverse-grid-thriller": "2025-08-03T15:59:32Z",
+      "https://www.crash.net/btcc/results/1078838/1/btcc-croft-round-18-race-results": "2025-08-03T15:59:43Z",
+      "https://www.crash.net/btcc/race-report/1078815/1/btcc-croft-rowbottom-surges-race-two-croft-win-sutton-recovers-fifth": "2025-08-03T12:51:43Z",
+      "https://www.crash.net/btcc/results/1078800/1/btcc-croft-round-17-race-results": "2025-08-03T12:51:49Z",
+      "https://www.crash.net/btcc/race-report/1078748/1/btcc-croft-ingram-takes-btcc-points-lead-dominant-race-one-win": "2025-08-03T09:29:25Z",
+      "https://www.crash.net/btcc/results/1078743/1/btcc-croft-round-16-race-results": "2025-08-03T09:29:25Z",
+      "https://www.crash.net/btcc/news/1078641/1/btcc-croft-ingram-completes-saturday-clean-sweep-superb-croft-pole-position": "2025-08-02T15:52:14Z",
+      "https://www.crash.net/btcc/news/1078646/1/btcc-croft-ingram-praises-superb-team-vertu-hyundai-after-croft-pole": "2025-08-02T18:27:57Z",
+      "https://www.crash.net/btcc/results/1078635/1/btcc-croft-qualifying-results": "2025-08-02T16:00:58Z",
+      "https://www.crash.net/btcc/news/1078586/1/btcc-croft-ingram-tops-another-hyundai-1-2-turkington-subs-hill-fp1": "2025-08-02T11:58:42Z",
+      "https://www.crash.net/btcc/news/1078583/1/btcc-croft-practice-results-2": "2025-08-02T10:22:41Z",
+      "https://www.crash.net/btcc/news/1078553/1/btcc-croft-ingram-heads-hyundai-1-2-first-practice-croft": "2025-08-02T09:27:41Z",
+      "https://www.crash.net/btcc/results/1078552/1/btcc-croft-practice-results-1-tom-ingram-heads-hyundai-1-2": "2025-08-02T08:46:01Z",
+      "https://www.crash.net/btcc/news/242870/1/josh-price-to-make-btcc-debut-with-subaru": "2017-03-16T10:18:31Z",
+      "https://www.crash.net/btcc/news/228696/1/kelvin-fletcher-to-make-btcc-debut-with-power-maxed-racing": "2016-03-22T09:37:47Z",
+      "https://www.crash.net/btcc/news/228699/1/smith-to-remain-in-btcc-with-team-bkr": "2016-03-22T10:01:42Z",
+      "https://www.crash.net/btcc/news/223471/1/scott-transferred-to-hospital-for-further-checks": "2015-09-26T10:43:23Z",
+      "https://www.crash.net/btcc/news/188596/1/btcc-paddock-mourns-dunlop-stalwart": "2013-03-04T14:39:04Z",
+      "https://www.crash.net/btcc/news/209540/1/rotek-to-miss-brands-finale": "2014-10-09T23:14:09Z",
+      "https://www.crash.net/btcc/news/156025/1/gow-abarth-plans-not-grande-enough": "2010-01-18T09:15:01Z",
+      "https://www.crash.net/btcc/news/157844/1/shedden-secures-dynamics-return": "2010-03-19T11:19:22Z",
+      "https://www.crash.net/btcc/news/158352/1/giovanardi-returns": "2010-04-02T12:10:01Z",
+      "https://www.crash.net/btcc/news/8287/1/pyper-returns-at-donington": "2004-09-23T23:00:00Z",
+      "https://www.crash.net/btcc/news/7472/1/synchro-graduates-to-touring-class-with-kaye": "2003-03-28T00:00:00Z",
+      "https://www.crash.net/btcc/news/7767/1/team-psp-optimistic-for-oulton": "2003-09-15T23:00:00Z",
+      "https://www.crash.net/btcc/news/10760/1/first-pics-seat-leon-tdi": "2008-03-11T19:40:42Z",
+      "https://www.crash.net/btcc/news/6808/1/btc-championship-standings": "2001-04-15T23:00:00Z",
+      "https://www.crash.net/btcc/news/6769/1/jsm-confirms-plans-for-2001": "2001-01-17T00:00:00Z"
+    },
+    "items": [
+      {
+        "title": "BTCC team, whose base was destroyed by fire, offering reward for stolen car",
+        "source": "Crash.net",
+        "time": "2026-11-12T11:30:22Z",
+        "url": "https://www.crash.net/btcc/news/1110090/1/btcc-team-whose-base-was-destroyed-fire-offering-reward-stolen-car",
+        "series": [
+          "btcc"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "945e9ef615da8175",
+    "last_ok": "2026-11-20T00:16:15Z"
+  },
+  "crash-f1": {
+    "etag": "W/\"1795133340-zstd\"",
+    "last_modified": "Fri, 20 Nov 2026 00:09:00 GMT",
+    "first_seen": {
+      "https://www.crash.net/f1/news/1110206/1/rafa-camara-still-unsure-about-finishing-2026-f1-season": "2026-11-19T23:54:18Z",
+      "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us": "2026-11-19T23:04:53Z",
+      "https://www.crash.net/f1/news/1110202/1/fia-announces-major-formula-1-stewarding-change-2027": "2026-11-19T20:30:28Z",
+      "https://www.crash.net/f1/news/1110179/1/fernando-alonso-rules-out-staying-f1-v8-return-its-frustrating": "2026-11-19T06:01:33Z",
+      "https://www.crash.net/f1/news/1110186/1/oscar-piastri-explains-split-mark-webber-management": "2026-11-19T10:17:50Z",
+      "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation": "2026-11-18T20:53:30Z",
+      "https://www.crash.net/f1/news/1110189/1/liam-lawson-responds-helmut-marko-after-securing-racing-bulls-f1-seat": "2026-11-19T11:19:59Z",
+      "https://www.crash.net/f1/news/1110192/1/lewis-hamilton-will-be-playing-gta-6-las-vegas-gp-i-have-my-playstation-me": "2026-11-19T11:54:42Z",
+      "https://www.crash.net/f1/news/1110116/1/what-time-next-f1-race-las-vegas-gp-dates-and-full-schedule": "2026-11-19T12:28:00Z",
+      "https://www.crash.net/f1/news/1110188/1/valtteri-bottas-hits-out-unnecessary-noise-about-cadillac-f1-future": "2026-11-19T10:56:54Z",
+      "https://www.crash.net/f1/news/1110185/1/max-verstappen-u-turns-qatar-and-abu-dhabi-f1-races-amid-middle-east-conflict": "2026-11-19T09:38:19Z",
+      "https://www.crash.net/f1/news/1110184/1/kimi-antonelli-set-be-hit-f1-grid-penalty-las-vegas-gp": "2026-11-19T08:38:59Z",
+      "https://www.crash.net/f1/news/1110182/1/why-max-verstappen-wont-be-involved-f1s-new-driver-heath-data-plan-after-whoop": "2026-11-19T07:49:02Z",
+      "https://www.crash.net/f1/news/1110183/1/lando-norris-brazil-podium-celebration-mishap-not-my-finest-couple-seconds": "2026-11-19T08:12:14Z",
+      "https://www.crash.net/f1/news/1110181/1/lewis-hamilton-denies-broken-trust-ferrari-despite-twice-overruling-strategy": "2026-11-19T07:01:03Z",
+      "https://www.crash.net/f1/news/1110180/1/charles-leclerc-speaks-out-f1-journalist-ban-controversy-after-article-criticism": "2026-11-19T06:34:24Z",
+      "https://www.crash.net/f1/news/1110178/1/ollie-bearman-quite-disappointed-strange-ferrari-contract-situation": "2026-11-19T05:26:54Z",
+      "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line": "2026-11-18T20:50:00Z",
+      "https://www.crash.net/f1/news/1110156/1/toto-wolff-offers-blunt-response-kimi-antonelli-ferrari-question": "2026-11-17T15:42:25Z",
+      "https://www.crash.net/f1/news/1110172/1/toto-wolff-addresses-f1-champion-kimi-antonelli-salary-claims": "2026-11-18T15:33:30Z",
+      "https://www.crash.net/f1/news/1110160/1/oscar-piastri-set-huge-las-vegas-gp-grid-penalty": "2026-11-18T09:31:09Z",
+      "https://www.crash.net/f1/news/1110167/1/whats-behind-bizarre-deleted-f1-v8-announcement": "2026-11-18T12:05:33Z",
+      "https://www.crash.net/f1/news/1110164/1/max-verstappens-blunt-response-kimi-antonelli-f1-motivation": "2026-11-18T10:48:46Z",
+      "https://www.crash.net/f1/news/1110162/1/why-mclarens-f1-title-defence-failed-2026": "2026-11-18T10:04:14Z",
+      "https://www.crash.net/f1/news/1110158/1/lewis-hamilton-calls-out-ex-f1-drivers-talking-smack-about-young-stars": "2026-11-18T08:00:00Z",
+      "https://www.crash.net/f1/news/1110145/1/ferrari-reveals-special-las-vegas-gp-look-lewis-hamilton-and-charles-leclerc": "2026-11-17T10:18:35Z",
+      "https://www.crash.net/f1/news/1110155/1/why-george-russell-wont-get-mercedes-f1-engine-upgrade-las-vegas-gp": "2026-11-17T14:29:22Z",
+      "https://www.crash.net/f1/news/1110149/1/lewis-hamilton-announces-huge-new-partnership-ahead-las-vegas-gp": "2026-11-17T14:00:00Z",
+      "https://www.crash.net/f1/news/1110151/1/ferrari-boss-fred-vasseur-overwhelmed-job-claims-bernie-ecclestone": "2026-11-17T12:30:10Z",
+      "https://www.crash.net/dakar/news/1110143/1/fernando-alonso-race-dakar-rally-aston-martin": "2026-11-17T09:14:19Z",
+      "https://www.crash.net/f1/news/1110147/1/lewis-hamilton-house-hunting-la-spend-more-time-girlfriend-kim-kardashian": "2026-11-17T11:28:21Z",
+      "https://www.crash.net/f1/news/1110144/1/lewis-hamilton-told-think-about-quitting-f1-bernie-ecclestone": "2026-11-17T09:56:59Z",
+      "https://www.crash.net/motogp/news/1110108/1/buenos-aires-motogp-circuit-transformation-gathers-pace-f1-dream": "2026-11-13T11:07:44Z",
+      "https://www.crash.net/motogp/news/1110135/1/australian-gp-boss-leave-role-weeks-after-final-motogp-race-phillip-island": "2026-11-16T15:28:00Z",
+      "https://www.crash.net/f1/news/1110133/1/nico-rosberg-highlights-where-michael-schumacher-was-not-his-best-f1-comeback": "2026-11-16T14:37:44Z",
+      "https://www.crash.net/f1/news/1110130/1/max-verstappen-loses-f1-champion-mechanic-another-racing-series": "2026-11-16T12:48:11Z",
+      "https://www.crash.net/f1/news/1110125/1/toto-wolff-reveals-what-christian-horner-told-him-after-kimi-antonellis-f1-title": "2026-11-16T10:12:57Z",
+      "https://www.crash.net/f1/news/1110123/1/lewis-hamilton-makes-ps50m-investment-demand-future-f1-depends": "2026-11-16T09:22:23Z",
+      "https://www.crash.net/f1/news/1110122/1/haas-confirms-driver-plans-f1-vegas-gp-two-changes": "2026-11-16T08:46:53Z",
+      "https://www.crash.net/f1/news/1110115/1/guenther-steiner-makes-max-verstappen-solution-recommendation-ferrari": "2026-11-15T09:00:00Z",
+      "https://www.crash.net/f1/news/1110117/1/has-ferrari-solved-its-lewis-hamilton-charles-leclerc-problem-fred-vasseur-shares": "2026-11-15T14:00:00Z",
+      "https://www.crash.net/f1/news/1110114/1/fia-boss-looking-make-controversial-change-presidency-rule": "2026-11-14T12:00:00Z",
+      "https://www.crash.net/f1/news/1110112/1/toto-wolff-reveals-he-offered-resign-mercedes-several-times": "2026-11-14T09:00:00Z",
+      "https://www.crash.net/f1/news/1110032/1/oscar-piastri-confirms-split-f1-career-manager-mark-webber": "2026-11-09T08:35:59Z",
+      "https://www.crash.net/f1/news/1110087/1/daniel-ricciardo-reveals-f1-career-highlight-he-just-wanted-be-over": "2026-11-12T09:55:58Z",
+      "https://www.crash.net/f1/news/1110103/1/lewis-hamilton-shares-heartfelt-message-after-visiting-palestinian-children": "2026-11-13T09:08:15Z",
+      "https://www.crash.net/f1/news/1110094/1/f1-could-be-sold-within-two-years-claims-former-liberty-media-boss": "2026-11-12T13:11:01Z",
+      "https://www.crash.net/f1/news/1110107/1/f1-journalist-claims-he-has-been-banned-paddock-after-charles-leclerc-criticism": "2026-11-13T11:02:41Z",
+      "https://www.crash.net/motogp/news/1110106/1/watch-dani-pedrosa-race-ktm-motogp-bike-against-red-bull-f1-car-ice": "2026-11-13T10:15:44Z",
+      "https://www.crash.net/f1/news/1110096/1/kimi-antonelli-10-years-out-ferrari-f1-move-reckons-guenther-steiner": "2026-11-12T15:10:44Z"
+    },
+    "items": [
+      {
+        "title": "Rafa Camara still unsure about finishing 2026 F1 season",
+        "source": "Crash.net",
+        "time": "2026-11-19T23:54:18Z",
+        "url": "https://www.crash.net/f1/news/1110206/1/rafa-camara-still-unsure-about-finishing-2026-f1-season",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Las Vegas Grand Prix LIVE: Updates from Friday practice in the US",
+        "source": "Crash.net",
+        "time": "2026-11-19T23:04:53Z",
+        "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "FIA announces major Formula 1 stewarding change for 2027",
+        "source": "Crash.net",
+        "time": "2026-11-19T20:30:28Z",
+        "url": "https://www.crash.net/f1/news/1110202/1/fia-announces-major-formula-1-stewarding-change-2027",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "What time is the next F1 race? Las Vegas GP dates and full schedule",
+        "source": "Crash.net",
+        "time": "2026-11-19T12:28:00Z",
+        "url": "https://www.crash.net/f1/news/1110116/1/what-time-next-f1-race-las-vegas-gp-dates-and-full-schedule",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton will be playing GTA 6 at Las Vegas GP: “I have my PlayStation with me”",
+        "source": "Crash.net",
+        "time": "2026-11-19T11:54:42Z",
+        "url": "https://www.crash.net/f1/news/1110192/1/lewis-hamilton-will-be-playing-gta-6-las-vegas-gp-i-have-my-playstation-me",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Liam Lawson responds to Helmut Marko after securing Racing Bulls F1 seat",
+        "source": "Crash.net",
+        "time": "2026-11-19T11:19:59Z",
+        "url": "https://www.crash.net/f1/news/1110189/1/liam-lawson-responds-helmut-marko-after-securing-racing-bulls-f1-seat",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Valtteri Bottas hits out at “unnecessary noise” about Cadillac F1 future",
+        "source": "Crash.net",
+        "time": "2026-11-19T10:56:54Z",
+        "url": "https://www.crash.net/f1/news/1110188/1/valtteri-bottas-hits-out-unnecessary-noise-about-cadillac-f1-future",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Oscar Piastri explains split with Mark Webber management",
+        "source": "Crash.net",
+        "time": "2026-11-19T10:17:50Z",
+        "url": "https://www.crash.net/f1/news/1110186/1/oscar-piastri-explains-split-mark-webber-management",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen U-turns on Qatar and Abu Dhabi F1 races amid Middle East conflict",
+        "source": "Crash.net",
+        "time": "2026-11-19T09:38:19Z",
+        "url": "https://www.crash.net/f1/news/1110185/1/max-verstappen-u-turns-qatar-and-abu-dhabi-f1-races-amid-middle-east-conflict",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Kimi Antonelli set to be hit with F1 grid penalty at Las Vegas GP",
+        "source": "Crash.net",
+        "time": "2026-11-19T08:38:59Z",
+        "url": "https://www.crash.net/f1/news/1110184/1/kimi-antonelli-set-be-hit-f1-grid-penalty-las-vegas-gp",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lando Norris on Brazil podium celebration mishap: “Not my finest couple of seconds”",
+        "source": "Crash.net",
+        "time": "2026-11-19T08:12:14Z",
+        "url": "https://www.crash.net/f1/news/1110183/1/lando-norris-brazil-podium-celebration-mishap-not-my-finest-couple-seconds",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Why Max Verstappen won’t be involved in F1’s new driver health data plan after WHOOP partnership",
+        "source": "Crash.net",
+        "time": "2026-11-19T07:49:02Z",
+        "url": "https://www.crash.net/f1/news/1110182/1/why-max-verstappen-wont-be-involved-f1s-new-driver-heath-data-plan-after-whoop",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton denies broken trust with Ferrari despite twice overruling strategy",
+        "source": "Crash.net",
+        "time": "2026-11-19T07:01:03Z",
+        "url": "https://www.crash.net/f1/news/1110181/1/lewis-hamilton-denies-broken-trust-ferrari-despite-twice-overruling-strategy",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Charles Leclerc speaks out on F1 journalist ban controversy after article criticism",
+        "source": "Crash.net",
+        "time": "2026-11-19T06:34:24Z",
+        "url": "https://www.crash.net/f1/news/1110180/1/charles-leclerc-speaks-out-f1-journalist-ban-controversy-after-article-criticism",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Fernando Alonso rules out staying in F1 for V8 return: “It’s frustrating”",
+        "source": "Crash.net",
+        "time": "2026-11-19T06:01:33Z",
+        "url": "https://www.crash.net/f1/news/1110179/1/fernando-alonso-rules-out-staying-f1-v8-return-its-frustrating",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Ollie Bearman “quite disappointed” by “strange” Ferrari contract situation amid Haas F1 2027 delay",
+        "source": "Crash.net",
+        "time": "2026-11-19T05:26:54Z",
+        "url": "https://www.crash.net/f1/news/1110178/1/ollie-bearman-quite-disappointed-strange-ferrari-contract-situation",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Cadillac finally confirms F1 2027 driver line-up after huge speculation",
+        "source": "Crash.net",
+        "time": "2026-11-18T20:53:30Z",
+        "url": "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 2027 grid: Which drivers have a seat and who is out of contract?",
+        "source": "Crash.net",
+        "time": "2026-11-18T20:50:00Z",
+        "url": "https://www.crash.net/f1/feature/1088707/1/f1-2027-grid-every-teams-confirmed-driver-line",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Toto Wolff addresses F1 champion Kimi Antonelli salary claims",
+        "source": "Crash.net",
+        "time": "2026-11-18T15:33:30Z",
+        "url": "https://www.crash.net/f1/news/1110172/1/toto-wolff-addresses-f1-champion-kimi-antonelli-salary-claims",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "What’s behind bizarre deleted F1 V8 announcement?",
+        "source": "Crash.net",
+        "time": "2026-11-18T12:05:33Z",
+        "url": "https://www.crash.net/f1/news/1110167/1/whats-behind-bizarre-deleted-f1-v8-announcement",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen’s blunt response on Kimi Antonelli F1 motivation",
+        "source": "Crash.net",
+        "time": "2026-11-18T10:48:46Z",
+        "url": "https://www.crash.net/f1/news/1110164/1/max-verstappens-blunt-response-kimi-antonelli-f1-motivation",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Why McLaren’s F1 title defence failed in 2026",
+        "source": "Crash.net",
+        "time": "2026-11-18T10:04:14Z",
+        "url": "https://www.crash.net/f1/news/1110162/1/why-mclarens-f1-title-defence-failed-2026",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Oscar Piastri set for huge Las Vegas GP grid penalty",
+        "source": "Crash.net",
+        "time": "2026-11-18T09:31:09Z",
+        "url": "https://www.crash.net/f1/news/1110160/1/oscar-piastri-set-huge-las-vegas-gp-grid-penalty",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton calls out ex-F1 drivers for “talking smack” about young stars",
+        "source": "Crash.net",
+        "time": "2026-11-18T08:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110158/1/lewis-hamilton-calls-out-ex-f1-drivers-talking-smack-about-young-stars",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Toto Wolff offers blunt response to Kimi Antonelli to Ferrari question",
+        "source": "Crash.net",
+        "time": "2026-11-17T15:42:25Z",
+        "url": "https://www.crash.net/f1/news/1110156/1/toto-wolff-offers-blunt-response-kimi-antonelli-ferrari-question",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Why George Russell won’t get Mercedes F1 engine upgrade at Las Vegas GP",
+        "source": "Crash.net",
+        "time": "2026-11-17T14:29:22Z",
+        "url": "https://www.crash.net/f1/news/1110155/1/why-george-russell-wont-get-mercedes-f1-engine-upgrade-las-vegas-gp",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton announces huge new partnership ahead of Las Vegas GP",
+        "source": "Crash.net",
+        "time": "2026-11-17T14:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110149/1/lewis-hamilton-announces-huge-new-partnership-ahead-las-vegas-gp",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Ferrari boss Fred Vasseur “overwhelmed” by job claims Bernie Ecclestone",
+        "source": "Crash.net",
+        "time": "2026-11-17T12:30:10Z",
+        "url": "https://www.crash.net/f1/news/1110151/1/ferrari-boss-fred-vasseur-overwhelmed-job-claims-bernie-ecclestone",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton ‘house-hunting in LA’ to spend more time with girlfriend Kim Kardashian",
+        "source": "Crash.net",
+        "time": "2026-11-17T11:28:21Z",
+        "url": "https://www.crash.net/f1/news/1110147/1/lewis-hamilton-house-hunting-la-spend-more-time-girlfriend-kim-kardashian",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Ferrari reveals special Las Vegas GP look for Lewis Hamilton and Charles Leclerc",
+        "source": "Crash.net",
+        "time": "2026-11-17T10:18:35Z",
+        "url": "https://www.crash.net/f1/news/1110145/1/ferrari-reveals-special-las-vegas-gp-look-lewis-hamilton-and-charles-leclerc",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton told to “think about quitting” F1 by Bernie Ecclestone",
+        "source": "Crash.net",
+        "time": "2026-11-17T09:56:59Z",
+        "url": "https://www.crash.net/f1/news/1110144/1/lewis-hamilton-told-think-about-quitting-f1-bernie-ecclestone",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Nico Rosberg highlights where Michael Schumacher “was not at his best” in F1 comeback",
+        "source": "Crash.net",
+        "time": "2026-11-16T14:37:44Z",
+        "url": "https://www.crash.net/f1/news/1110133/1/nico-rosberg-highlights-where-michael-schumacher-was-not-his-best-f1-comeback",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen loses F1 champion mechanic to another racing series",
+        "source": "Crash.net",
+        "time": "2026-11-16T12:48:11Z",
+        "url": "https://www.crash.net/f1/news/1110130/1/max-verstappen-loses-f1-champion-mechanic-another-racing-series",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Toto Wolff reveals what Christian Horner told him after Kimi Antonelli’s F1 title win",
+        "source": "Crash.net",
+        "time": "2026-11-16T10:12:57Z",
+        "url": "https://www.crash.net/f1/news/1110125/1/toto-wolff-reveals-what-christian-horner-told-him-after-kimi-antonellis-f1-title",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton makes £50m investment demand ‘the future of F1 depends on’",
+        "source": "Crash.net",
+        "time": "2026-11-16T09:22:23Z",
+        "url": "https://www.crash.net/f1/news/1110123/1/lewis-hamilton-makes-ps50m-investment-demand-future-f1-depends",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Haas confirms driver plans for F1 Vegas GP with two changes",
+        "source": "Crash.net",
+        "time": "2026-11-16T08:46:53Z",
+        "url": "https://www.crash.net/f1/news/1110122/1/haas-confirms-driver-plans-f1-vegas-gp-two-changes",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Has Ferrari solved its Lewis Hamilton-Charles Leclerc problem? Fred Vasseur shares peace talk details",
+        "source": "Crash.net",
+        "time": "2026-11-15T14:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110117/1/has-ferrari-solved-its-lewis-hamilton-charles-leclerc-problem-fred-vasseur-shares",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Guenther Steiner suggests Max Verstappen ‘solution’ to solve Ferrari woes",
+        "source": "Crash.net",
+        "time": "2026-11-15T09:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110115/1/guenther-steiner-makes-max-verstappen-solution-recommendation-ferrari",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "FIA boss looking to make controversial change to presidency rule",
+        "source": "Crash.net",
+        "time": "2026-11-14T12:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110114/1/fia-boss-looking-make-controversial-change-presidency-rule",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Toto Wolff reveals he offered to resign from Mercedes “several times”",
+        "source": "Crash.net",
+        "time": "2026-11-14T09:00:00Z",
+        "url": "https://www.crash.net/f1/news/1110112/1/toto-wolff-reveals-he-offered-resign-mercedes-several-times",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Buenos Aires MotoGP circuit transformation gathers pace, F1 “dream”",
+        "source": "Crash.net",
+        "time": "2026-11-13T11:07:44Z",
+        "url": "https://www.crash.net/motogp/news/1110108/1/buenos-aires-motogp-circuit-transformation-gathers-pace-f1-dream",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 journalist claims he has been banned from paddock after Charles Leclerc criticism",
+        "source": "Crash.net",
+        "time": "2026-11-13T11:02:41Z",
+        "url": "https://www.crash.net/f1/news/1110107/1/f1-journalist-claims-he-has-been-banned-paddock-after-charles-leclerc-criticism",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Watch Dani Pedrosa race KTM MotoGP bike against Red Bull F1 car on ice",
+        "source": "Crash.net",
+        "time": "2026-11-13T10:15:44Z",
+        "url": "https://www.crash.net/motogp/news/1110106/1/watch-dani-pedrosa-race-ktm-motogp-bike-against-red-bull-f1-car-ice",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton shares heartfelt message after visiting Palestinian children",
+        "source": "Crash.net",
+        "time": "2026-11-13T09:08:15Z",
+        "url": "https://www.crash.net/f1/news/1110103/1/lewis-hamilton-shares-heartfelt-message-after-visiting-palestinian-children",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Kimi Antonelli '10 years out' from Ferrari F1 move, reckons Guenther Steiner",
+        "source": "Crash.net",
+        "time": "2026-11-12T15:10:44Z",
+        "url": "https://www.crash.net/f1/news/1110096/1/kimi-antonelli-10-years-out-ferrari-f1-move-reckons-guenther-steiner",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 could be sold within two years, claims former Liberty Media boss",
+        "source": "Crash.net",
+        "time": "2026-11-12T13:11:01Z",
+        "url": "https://www.crash.net/f1/news/1110094/1/f1-could-be-sold-within-two-years-claims-former-liberty-media-boss",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Daniel Ricciardo reveals F1 career highlight he “just wanted to be over”",
+        "source": "Crash.net",
+        "time": "2026-11-12T09:55:58Z",
+        "url": "https://www.crash.net/f1/news/1110087/1/daniel-ricciardo-reveals-f1-career-highlight-he-just-wanted-be-over",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Oscar Piastri confirms split with F1 career manager Mark Webber",
+        "source": "Crash.net",
+        "time": "2026-11-09T08:35:59Z",
+        "url": "https://www.crash.net/f1/news/1110032/1/oscar-piastri-confirms-split-f1-career-manager-mark-webber",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "7a34d7cb7d577e38",
+    "last_ok": "2026-11-20T00:16:15Z"
+  },
+  "racefans": {
+    "etag": "W/\"a0bfa196ce9861db6017ff5cacff930c\"",
+    "last_modified": "Thu, 19 Nov 2026 20:55:33 GMT",
+    "first_seen": {
+      "https://www.racefans.net/2026/11/19/fia-to-introduce-full-time-stewards-to-formula-1-during-2027/": "2026-11-19T20:24:42Z",
+      "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/": "2026-11-19T15:26:31Z",
+      "https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/": "2026-11-19T10:00:38Z",
+      "https://www.racefans.net/2026/11/19/people-in-the-team-are-asking-why-my-2027-deal-hasnt-been-announced-bearman/": "2026-11-19T09:15:35Z",
+      "https://www.racefans.net/2026/11/19/sainz-wont-tolerate-being-a-test-driver-on-grand-prix-weekends-for-long/": "2026-11-19T06:35:51Z",
+      "https://www.racefans.net/2026/11/19/russell-explains-why-he-chose-not-to-use-mercedes-turbo-upgrade-in-las-vegas/": "2026-11-19T06:21:26Z",
+      "https://www.racefans.net/2026/11/19/beating-red-bull-to-third-place-matters-says-norris-its-a-hell-of-a-lot-of-money/": "2026-11-19T05:59:40Z",
+      "https://www.racefans.net/2026/11/18/official-bottas-to-stay-at-cadillacin-2027/": "2026-11-18T20:07:11Z",
+      "https://www.racefans.net/2026/11/18/featured-comment-f1-fans-underestimate-importance-of-getting-to-a-top-car/": "2026-11-18T10:21:34Z",
+      "https://www.racefans.net/2026/11/18/mercedes-technical-director-explains-how-antonelli-leapt-ahead-of-russell-in-second-season/": "2026-11-18T07:15:48Z",
+      "https://www.racefans.net/2026/11/17/social-media-fia-president-indicates-agreement-reached-on-next-power-unit-formula/": "2026-11-17T20:37:09Z",
+      "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/": "2026-11-17T09:16:48Z",
+      "https://www.racefans.net/2026/11/17/an-early-season-finale-five-talking-points-for-the-2026-las-vegas-grand-prix/": "2026-11-17T09:07:11Z",
+      "https://www.racefans.net/2026/11/16/hamilton-tells-f1-to-spend-50-million-in-promoting-under-represented-talent/": "2026-11-16T17:10:16Z",
+      "https://www.racefans.net/2026/11/16/cadillac-williams-alpine-and-aston-martin-change-liveries-for-las-vegas-gp/": "2026-11-16T16:10:54Z",
+      "https://www.racefans.net/2026/11/16/racing-bulls-boss-permane-should-talk-up-need-for-cost-cap-changes-vowles/": "2026-11-16T10:05:49Z",
+      "https://www.racefans.net/2026/11/16/camara-to-race-for-haas-again-in-las-vegas-hirakawa-to-drive-in-practice/": "2026-11-16T08:12:57Z",
+      "https://www.racefans.net/2026/11/16/how-to-watch-the-2026-las-vegas-grand-prix-live-this-weekend/": "2026-11-16T07:15:50Z",
+      "https://www.racefans.net/2026/11/15/how-many-f1-drivers-could-have-won-the-championship-in-antonellis-car/": "2026-11-15T08:30:30Z",
+      "https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/": "2026-11-14T10:00:10Z"
+    },
+    "items": [
+      {
+        "title": "FIA to introduce full-time stewards to Formula 1 during 2027 | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T20:24:42Z",
+        "url": "https://www.racefans.net/2026/11/19/fia-to-introduce-full-time-stewards-to-formula-1-during-2027/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Video: FIA reveals how Formula 1 race control takes decisions during an event | Brief",
+        "source": "RaceFans",
+        "time": "2026-11-19T15:26:31Z",
+        "url": "https://www.racefans.net/2026/11/19/video-fia-reveals-how-formula-1-race-control-takes-decisions-during-an-event/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "The five-way fight for second is close – but no one cares about ‘winning’ it | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T10:00:38Z",
+        "url": "https://www.racefans.net/2026/11/19/the-five-way-fight-for-second-is-close-but-no-one-cares-about-winning-it/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "People in the team are asking why my 2027 deal hasn’t been announced – Bearman | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T09:15:35Z",
+        "url": "https://www.racefans.net/2026/11/19/people-in-the-team-are-asking-why-my-2027-deal-hasnt-been-announced-bearman/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Sainz won’t tolerate “being a test driver on grand prix weekends” for long | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T06:35:51Z",
+        "url": "https://www.racefans.net/2026/11/19/sainz-wont-tolerate-being-a-test-driver-on-grand-prix-weekends-for-long/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Russell explains why he chose not to use Mercedes’ turbo upgrade in Las Vegas | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T06:21:26Z",
+        "url": "https://www.racefans.net/2026/11/19/russell-explains-why-he-chose-not-to-use-mercedes-turbo-upgrade-in-las-vegas/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Beating Red Bull to third place matters, says Norris: “It’s a hell of a lot of money” | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-19T05:59:40Z",
+        "url": "https://www.racefans.net/2026/11/19/beating-red-bull-to-third-place-matters-says-norris-its-a-hell-of-a-lot-of-money/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Official: Bottas to stay at Cadillac in 2027 alongside Perez | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-18T20:07:11Z",
+        "url": "https://www.racefans.net/2026/11/18/official-bottas-to-stay-at-cadillacin-2027/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Featured Comment: F1 fans underestimate importance of “getting to a top car” | Brief",
+        "source": "RaceFans",
+        "time": "2026-11-18T10:21:34Z",
+        "url": "https://www.racefans.net/2026/11/18/featured-comment-f1-fans-underestimate-importance-of-getting-to-a-top-car/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Mercedes’ technical director explains how Antonelli leapt ahead of Russell in 2026 | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-18T07:15:48Z",
+        "url": "https://www.racefans.net/2026/11/18/mercedes-technical-director-explains-how-antonelli-leapt-ahead-of-russell-in-second-season/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "An early season finale? Five talking points for the 2026 Las Vegas Grand Prix | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-17T09:07:11Z",
+        "url": "https://www.racefans.net/2026/11/17/an-early-season-finale-five-talking-points-for-the-2026-las-vegas-grand-prix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Hamilton tells F1 to spend £50 million in promoting under-represented talent | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-16T17:10:16Z",
+        "url": "https://www.racefans.net/2026/11/16/hamilton-tells-f1-to-spend-50-million-in-promoting-under-represented-talent/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Cadillac, Williams, Alpine and Aston Martin change liveries for Las Vegas GP | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-16T16:10:54Z",
+        "url": "https://www.racefans.net/2026/11/16/cadillac-williams-alpine-and-aston-martin-change-liveries-for-las-vegas-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Racing Bulls boss Permane “should talk up” need for cost cap changes – Vowles | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-16T10:05:49Z",
+        "url": "https://www.racefans.net/2026/11/16/racing-bulls-boss-permane-should-talk-up-need-for-cost-cap-changes-vowles/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Camara to race for Haas again in Las Vegas, Hirakawa to drive in practice | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-16T08:12:57Z",
+        "url": "https://www.racefans.net/2026/11/16/camara-to-race-for-haas-again-in-las-vegas-hirakawa-to-drive-in-practice/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "How to watch the 2026 Las Vegas Grand Prix live this weekend | TV Times",
+        "source": "RaceFans",
+        "time": "2026-11-16T07:15:50Z",
+        "url": "https://www.racefans.net/2026/11/16/how-to-watch-the-2026-las-vegas-grand-prix-live-this-weekend/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Poll: How many F1 drivers could have won the championship in Antonelli’s car? | Debates and Polls",
+        "source": "RaceFans",
+        "time": "2026-11-15T08:30:30Z",
+        "url": "https://www.racefans.net/2026/11/15/how-many-f1-drivers-could-have-won-the-championship-in-antonellis-car/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Ignore social media echo chamber and trust F1 over Middle East races – Wolff | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-14T10:00:10Z",
+        "url": "https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "07cd6638bdd9c50d",
+    "last_ok": "2026-11-20T00:16:15Z"
+  },
+  "gpfans": {
+    "etag": "W/\"6aff9143-1f71\"",
+    "last_modified": "Fri, 20 Nov 2026 00:16:03 GMT",
+    "first_seen": {
+      "https://www.gpfans.com/en/f1-news/1093078/f1-nico-rosberg-mercedes-lewis-hamilton-helmet-colour-2016-world-title/": "2026-11-19T21:28:00Z",
+      "https://www.gpfans.com/en/f1-news/1093064/f1-oscar-piastri-most-disappointing-driver-melting-inside/": "2026-11-19T20:44:00Z",
+      "https://www.gpfans.com/en/f1-news/1093063/f1-charles-leclerc-ferrari-lewis-hamilton-fred-vasseur-meeting-las-vegas-brazil/": "2026-11-19T19:56:00Z",
+      "https://www.gpfans.com/en/f1-news/1093077/f1-lance-stroll-aston-martin-engine-power-dangerous-las-vegas-grand-prix/": "2026-11-19T18:45:00Z",
+      "https://www.gpfans.com/en/f1-news/1093072/f1-lewis-hamilton-trust-ferrari-carlo-santi-charles-leclerc/": "2026-11-19T17:45:00Z",
+      "https://www.gpfans.com/en/f1-news/1093069/f1-max-verstappen-trust-qatar-abu-dhabi-grand-prix-races-danger/": "2026-11-19T16:27:00Z",
+      "https://www.gpfans.com/en/f1-news/1093041/f1-news-today-george-russell-miss-mercedes-upgrade-oscar-piastri-major-grid-penalty/": "2026-11-19T15:11:00Z",
+      "https://www.gpfans.com/en/f1-news/1093059/f1-lando-norris-mclaren-grand-theft-auto-6-gta-6-banned-las-vegas-grand-prix/": "2026-11-19T14:55:00Z",
+      "https://www.gpfans.com/en/f1-news/1093062/f1-lewis-hamilton-fan-question-cheese-rival-driver-max-verstappen-charles-leclerc/": "2026-11-19T12:58:00Z",
+      "https://www.gpfans.com/en/f1-news/1093027/f1-practice-today-schedule-times-tv-channel-2026-las-vegas-grand-prix/": "2026-11-19T11:27:00Z"
+    },
+    "items": [
+      {
+        "title": "Nico Rosberg reveals how changing his helmet colour helped him beat Lewis Hamilton to F1 title",
+        "source": "GPFans",
+        "time": "2026-11-19T21:28:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093078/f1-nico-rosberg-mercedes-lewis-hamilton-helmet-colour-2016-world-title/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Oscar Piastri is 'melting inside' after 2026 season turmoil",
+        "source": "GPFans",
+        "time": "2026-11-19T20:44:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093064/f1-oscar-piastri-most-disappointing-driver-melting-inside/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Charles Leclerc reveals details on showdown meeting with Lewis Hamilton and Ferrari chief",
+        "source": "GPFans",
+        "time": "2026-11-19T19:56:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093063/f1-charles-leclerc-ferrari-lewis-hamilton-fred-vasseur-meeting-las-vegas-brazil/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lance Stroll admits Aston Martin's lack of engine power is 'almost dangerous' in latest Honda dig",
+        "source": "GPFans",
+        "time": "2026-11-19T18:45:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093077/f1-lance-stroll-aston-martin-engine-power-dangerous-las-vegas-grand-prix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton speaks out on Ferrari trust issues after high-profile incidents",
+        "source": "GPFans",
+        "time": "2026-11-19T17:45:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093072/f1-lewis-hamilton-trust-ferrari-carlo-santi-charles-leclerc/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen gives 'trust' verdict on F1 travelling to Qatar and Abu Dhabi",
+        "source": "GPFans",
+        "time": "2026-11-19T16:27:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093069/f1-max-verstappen-trust-qatar-abu-dhabi-grand-prix-races-danger/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "George Russell to miss out on Mercedes upgrade as Oscar Piastri takes major grid penalty - F1 News Today",
+        "source": "GPFans",
+        "time": "2026-11-19T15:11:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093041/f1-news-today-george-russell-miss-mercedes-upgrade-oscar-piastri-major-grid-penalty/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lando Norris reveals his Grand Theft Auto ban as GTA 6 sends gamers wild",
+        "source": "GPFans",
+        "time": "2026-11-19T14:55:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093059/f1-lando-norris-mclaren-grand-theft-auto-6-gta-6-banned-las-vegas-grand-prix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton reveals F1 driver he would cover in cheese with steering wheel gadget",
+        "source": "GPFans",
+        "time": "2026-11-19T12:58:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093062/f1-lewis-hamilton-fan-question-cheese-rival-driver-max-verstappen-charles-leclerc/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Practice Today: Schedule, times and TV channel for the 2026 Las Vegas Grand Prix",
+        "source": "GPFans",
+        "time": "2026-11-19T11:27:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093027/f1-practice-today-schedule-times-tv-channel-2026-las-vegas-grand-prix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      }
+    ],
+    "rules": "855a17d378c60ac8",
+    "last_ok": "2026-11-20T00:16:15Z"
+  },
+  "joesaward": {
+    "etag": null,
+    "last_modified": "Mon, 16 Nov 2026 14:57:18 GMT",
+    "first_seen": {
+      "https://joesaward.wordpress.com/2026/11/16/jsbm-16-11-2026-issue-26-43-headlines/": "2026-11-16T11:29:33Z",
+      "https://joesaward.wordpress.com/2026/11/12/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-f1-brazilgp/": "2026-11-12T11:36:52Z",
+      "https://joesaward.wordpress.com/2026/11/11/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-has-f1-ever-been-flat-out-all-the-way/": "2026-11-11T15:53:18Z",
+      "https://joesaward.wordpress.com/2026/11/09/jsbm-09-11-2026-issue-26-42-headlines/": "2026-11-09T10:44:48Z",
+      "https://joesaward.wordpress.com/2026/11/07/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-new-podcast-f1-mexicangp/": "2026-11-07T11:28:47Z",
+      "https://joesaward.wordpress.com/2026/11/04/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-want-to-know-what-matters-when-it-comes-to-nurturing-talents-beyont-just-f1-drivers/": "2026-11-04T08:20:04Z",
+      "https://joesaward.wordpress.com/2026/11/02/jsbm-02-11-2026-issue-26-41-headlines/": "2026-11-02T10:47:30Z",
+      "https://joesaward.wordpress.com/2026/10/29/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-two-podcasts-for-the-price-of-one/": "2026-10-29T14:20:31Z",
+      "https://joesaward.wordpress.com/2026/10/26/jsbm-26-10-2026-issue-26-40-headlines/": "2026-10-26T10:10:22Z",
+      "https://joesaward.wordpress.com/2026/10/21/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-why-did-f1-teams-resist-the-andretti-entry/": "2026-10-21T09:54:26Z"
+    },
+    "items": [
+      {
+        "title": "JSBM – 16/11/2026 – Issue 26-43 headlines",
+        "source": "Joe Saward",
+        "time": "2026-11-16T11:29:33Z",
+        "url": "https://joesaward.wordpress.com/2026/11/16/jsbm-16-11-2026-issue-26-43-headlines/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "(˓🎤︎︎˒) Podcast #F1 #BrazilGP",
+        "source": "Joe Saward",
+        "time": "2026-11-12T11:36:52Z",
+        "url": "https://joesaward.wordpress.com/2026/11/12/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-f1-brazilgp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "(˓🎤︎︎˒) Podcast: Has #F1 ever been flat out all the way?",
+        "source": "Joe Saward",
+        "time": "2026-11-11T15:53:18Z",
+        "url": "https://joesaward.wordpress.com/2026/11/11/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-has-f1-ever-been-flat-out-all-the-way/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "JSBM – 09/11/2026 – Issue 26-42 headlines",
+        "source": "Joe Saward",
+        "time": "2026-11-09T10:44:48Z",
+        "url": "https://joesaward.wordpress.com/2026/11/09/jsbm-09-11-2026-issue-26-42-headlines/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "(˓🎤︎︎˒) New podcast #F1 #MexicanGP",
+        "source": "Joe Saward",
+        "time": "2026-11-07T11:28:47Z",
+        "url": "https://joesaward.wordpress.com/2026/11/07/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-new-podcast-f1-mexicangp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      }
+    ],
+    "rules": "fac8bf3b36113ad9",
+    "last_ok": "2026-11-20T00:16:15Z"
   }
 }
