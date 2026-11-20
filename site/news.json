@@ -1,7 +1,163 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T17:46:31Z",
+  "updated": "2026-11-20T23:58:20Z",
   "items": [
+    {
+      "title": "Palmowski targets Campos Racing Teams’ title after record-breaking 2026 F1 Academy Las Vegas pole",
+      "source": "Pit Debrief",
+      "time": "2026-11-20T23:43:25Z",
+      "url": "https://www.pitdebrief.com/post/palmowski-targets-campos-racing-teams-title-after-record-breaking-2026-f1-academy-las-vegas-pole/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Barcelona Crowns Green, Rosser Ferrari Challenge Champions",
+      "source": "Sportscar365",
+      "time": "2026-11-20T23:23:55Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/barcelona-crowns-green-rosser-ferrari-challenge-champions/",
+      "series": [
+        "imsa",
+        "ferrari-challenge"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cadillac delays F1 engine debut for V8 return",
+      "source": "Speedcafe",
+      "time": "2026-11-20T22:37:36Z",
+      "url": "https://speedcafe.com/f1-news-2026-cadillac-engine-update-latest-timeline-delay-when-reason-why-v8-return/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 agrees on V8 engine return for 2030",
+      "source": "Speedcafe",
+      "time": "2026-11-20T21:32:56Z",
+      "url": "https://speedcafe.com/f1-news-2026-engine-announcement-v8-return-2030-agreement-fia-regulation-change-future-when/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari anticipates major F1 ‘reset’ after rain hits Las Vegas",
+      "source": "Motorsport Week",
+      "time": "2026-11-20T20:15:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/20/ferrari-las-vegas-f1/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso launches Aston Martin tirade in fiery outburst",
+      "source": "GPFans",
+      "time": "2026-11-20T19:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093136/f1-aston-martin-fernando-alonso-outburst-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA issues major announcement on V8 F1 return",
+      "source": "Motorsport Week",
+      "time": "2026-11-20T19:14:17Z",
+      "url": "https://www.motorsportweek.com/2026/11/20/fia-issues-major-announcement-on-v8-f1-return/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA, F1 and teams unanimously agree to drop current power units after 2029 | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-20T18:59:56Z",
+      "url": "https://www.racefans.net/2026/11/20/fia-f1-and-teams-unanimously-agree-to-drop-current-power-units-after-2029/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Alpine F1 release statement after driver leaves team",
+      "source": "GPFans",
+      "time": "2026-11-20T18:56:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093133/f1-alpine-paul-aron-leaves-mercedes-fred-vesti-statement-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘We know how good he is’: Zak Brown tips Oscar Piastri form flip",
+      "source": "Speedcafe",
+      "time": "2026-11-20T18:55:42Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-zak-brown-comments-mclaren-2027-regulations-turnaround-form/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Unanimous agreement reached on 2.1L turbo V8s for F1 in 2030",
+      "source": "RACER",
+      "time": "2026-11-20T18:47:52Z",
+      "url": "https://racer.com/2026/11/20/unanimous-agreement-reached-on-2-1l-turbo-v8s-for-f1-in-2030",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110159/1/key-agreement-reached-f1s-poised-return-v8-engines",
+          "time": "2026-11-20T18:57:15Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/f1-set-to-return-to-v8-engines-in-2030-after-unanimous-agreement-on-new-framework/",
+          "time": "2026-11-20T19:30:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Formula E car catches fire and explodes in pre-season test",
+      "source": "GPFans",
+      "time": "2026-11-20T17:58:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093147/formula-e-car-catches-fire-explodes-pre-season-test-madrid/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "2026 F1 Qatar GP will see the return of a stint limit, according to Pirelli",
       "source": "Pit Debrief",
@@ -184,6 +340,19 @@
       "url": "https://www.gpfans.com/en/f1-news/1093089/f1-official-apparel-supplier-nike-in-puma-out/",
       "series": [
         "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kozyra Takes Ferrari Challenge NA Coppa Shell Am Title",
+      "source": "Sportscar365",
+      "time": "2026-11-20T14:30:01Z",
+      "url": "https://sportscar365.com/imsa/ferrari-challenge-na/kozyra-clinches-ferrari-challenge-na-coppa-shell-am-title/",
+      "series": [
+        "imsa",
+        "ferrari-challenge"
       ],
       "circuit": null,
       "photo": null,
@@ -1055,6 +1224,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-friday-practice-us",
           "time": "2026-11-20T03:10:53Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
+          "time": "2026-11-20T23:30:00Z"
         }
       ]
     },
@@ -1357,7 +1531,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093092/valtteri-bottas-2027-cadillac-seat-announcement-really-unnecessary/",
+          "time": "2026-11-20T21:57:00Z"
+        }
+      ]
     },
     {
       "title": "Oscar Piastri explains split with Mark Webber management",
@@ -1374,6 +1554,11 @@
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/20/oscar-piastri-breaks-silence-over-mark-webber-split/",
           "time": "2026-11-20T13:00:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093132/f1-oscar-piastri-explains-split-mark-webber-manager-mclaren/",
+          "time": "2026-11-20T20:56:00Z"
         }
       ]
     },
