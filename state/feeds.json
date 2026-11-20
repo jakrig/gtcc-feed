@@ -54,7 +54,7 @@
         "series": [
           "gt-world-cup"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -76,7 +76,7 @@
         "series": [
           "gt-world-cup"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -109,7 +109,7 @@
         "series": [
           "gt-world-cup"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -120,7 +120,7 @@
         "series": [
           "gt-world-cup"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -324,8 +324,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "6d2461577d8be4e8",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "f5401fe8e79ccad0",
     "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
     "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT"
   },
@@ -522,8 +522,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "bab567e1a8081923",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "80a32031ab0824f0",
     "etag": null,
     "last_modified": null
   },
@@ -586,8 +586,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "a759a7187248860d",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "046337ec7127b475",
     "etag": "\"73fb0cdce13cc2e904267b6b7948aaff\"",
     "last_modified": "Thu, 19 Nov 2026 15:51:59 GMT"
   },
@@ -1024,8 +1024,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "e339e6d8453d51df",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "7eb57fe9e1f0063b",
     "etag": "\"255095768007d66f169389aa625f0456\"",
     "last_modified": "Fri, 20 Nov 2026 00:15:25 GMT"
   },
@@ -1201,8 +1201,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "f9225894b9378592",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "464a5f0b4f66c3f7",
     "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
     "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT"
   },
@@ -1259,7 +1259,7 @@
         "time": "2026-11-19T22:45:16Z",
         "url": "https://speedcafe.com/supercars-news-thomas-randle-scott-taylor-motorsport-porsche-carrera-cup-sandown-shakedown-details-comments/",
         "series": [
-          "porsche-cup"
+          "carrera-cup"
         ],
         "circuit": null,
         "photo": null
@@ -1496,8 +1496,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "43025d3ae972b896",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "7c61da9fc003defa",
     "etag": "W/\"f14ce512eaa4d285b38835e39508aa86-gzip\"",
     "last_modified": null
   },
@@ -1549,10 +1549,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "ba805bf5a86f7ca3",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "1472f4832a4b7473",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:39:35 GMT"
+    "last_modified": "Fri, 20 Nov 2026 00:42:41 GMT"
   },
   "british-gt-official": {
     "first_seen": {
@@ -1576,7 +1576,7 @@
         "series": [
           "british-gt"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -1591,10 +1591,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "0979a4c459313b97",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "ace33186f8edec95",
     "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:17 GMT"
+    "last_modified": "Fri, 20 Nov 2026 00:44:01 GMT"
   },
   "nls-official": {
     "first_seen": {
@@ -1610,8 +1610,8 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "dc1c6b52a73a5605",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "9f0c5f3856f76ed0",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT"
   },
@@ -1685,8 +1685,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "357ee87681572139",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "ca63ca8af18241ba",
     "etag": "W/\"5cd7ad2a9d3638e879a5bfe38a739698-gzip\"",
     "last_modified": "Thu, 19 Nov 2026 10:05:50 GMT"
   },
@@ -2104,8 +2104,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "bf8e665f07dc4856",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "9558ea3606ce2dab",
     "etag": "\"82e56cd60170adc445c2a4624ad9bedd\"",
     "last_modified": "Thu, 19 Nov 2026 23:55:26 GMT"
   },
@@ -2179,8 +2179,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "c2924c734c7bb6e7",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "6b90d445ff7a193b",
     "etag": null,
     "last_modified": "Fri, 20 Nov 2026 00:31:40 GMT"
   },
@@ -2279,8 +2279,8 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-20T00:40:12Z",
-    "rules": "d5d92e6b598fe85b",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "rules": "f53e591d9470eebd",
     "etag": "W/\"7595293354facbf3c279f3ec8095a8bf\"",
     "last_modified": "Thu, 19 Nov 2026 17:12:11 GMT"
   },
@@ -2350,8 +2350,8 @@
         "photo": null
       }
     ],
-    "rules": "7c3be3b06dafff93",
-    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "0f936a473748912d",
+    "last_ok": "2026-11-20T00:43:56Z",
     "etag": "W/\"1795135149-zstd\"",
     "last_modified": "Fri, 20 Nov 2026 00:39:09 GMT"
   },
@@ -2938,8 +2938,8 @@
         "photo": null
       }
     ],
-    "rules": "658685aeaeeb6c0a",
-    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "9e1b1fed1fa4fb9f",
+    "last_ok": "2026-11-20T00:43:56Z",
     "etag": "W/\"1795135124-zstd\"",
     "last_modified": "Fri, 20 Nov 2026 00:38:44 GMT"
   },
@@ -3166,8 +3166,8 @@
         "photo": null
       }
     ],
-    "rules": "4449779ddba3e818",
-    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "9f655cbbbef51645",
+    "last_ok": "2026-11-20T00:43:56Z",
     "etag": "W/\"a0bfa196ce9861db6017ff5cacff930c\"",
     "last_modified": "Thu, 19 Nov 2026 20:55:33 GMT"
   },
@@ -3296,10 +3296,10 @@
         "photo": null
       }
     ],
-    "rules": "787128fc247c45a8",
-    "last_ok": "2026-11-20T00:40:12Z",
-    "etag": "W/\"6aff96e4-1f71\"",
-    "last_modified": "Fri, 20 Nov 2026 00:40:04 GMT"
+    "rules": "330263a6a56fca3e",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": "W/\"6aff97d3-1f71\"",
+    "last_modified": "Fri, 20 Nov 2026 00:44:03 GMT"
   },
   "joesaward": {
     "first_seen": {
@@ -3371,14 +3371,12 @@
         "photo": null
       }
     ],
-    "rules": "492358fa3378bd70",
-    "last_ok": "2026-11-20T00:40:12Z",
+    "rules": "f392fd0d64f8425c",
+    "last_ok": "2026-11-20T00:43:56Z",
     "etag": null,
     "last_modified": "Mon, 16 Nov 2026 14:56:58 GMT"
   },
   "gtwc-europe-official": {
-    "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:29 GMT",
     "first_seen": {
       "https://www.gt-world-challenge-europe.com/news/3350/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title": "2026-11-11T01:00:00Z",
       "https://www.gt-world-challenge-europe.com/news/3348/tickets-for-2027-sprint-cup-opener-at-brands-hatch-on-sale-now": "2026-10-27T08:00:00Z",
@@ -3404,12 +3402,12 @@
         "photo": null
       }
     ],
-    "rules": "671a3d01a1b76335",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "18f66acf2e27302e",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:44:11 GMT"
   },
   "gtwc-america-official": {
-    "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:29 GMT",
     "first_seen": {
       "https://www.gt-world-challenge-america.com/news/1605/sro-america-mourns-the-passing-of-ian-lacy": "2026-11-17T13:48:00Z",
       "https://www.gt-world-challenge-america.com/news/1604/counting-down-to-sonoma": "2026-11-13T18:14:00Z",
@@ -3457,12 +3455,12 @@
         "photo": null
       }
     ],
-    "rules": "b035233d5af0662f",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "62419560753cdb38",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:44:12 GMT"
   },
   "gtwc-asia-official": {
-    "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:30 GMT",
     "first_seen": {
       "https://www.gt-world-challenge-asia.com/news/1037/gt4-manufacturer-ranking-toyota-closing-on-maiden-global-title-in-macau-decider": "2026-11-19T09:00:00Z",
       "https://www.gt-world-challenge-asia.com/news/1035/sro-gt-cup-macau-bound-for-greater-bay-area-gt-cup-showdown": "2026-11-18T13:00:00Z",
@@ -3482,7 +3480,7 @@
         "series": [
           "gtwc-asia"
         ],
-        "circuit": null,
+        "circuit": "macau",
         "photo": null
       },
       {
@@ -3519,12 +3517,12 @@
         "photo": null
       }
     ],
-    "rules": "8bec38a97f6373ff",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "0a853dbeb8ad2a4f",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:44:13 GMT"
   },
   "gtwc-australia-official": {
-    "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:31 GMT",
     "first_seen": {
       "https://www.gt-world-challenge-australia.com/news/550/kiwi-duo-to-make-gt-world-challenge-australia-debut-in-adelaide-": "2026-11-19T02:28:00Z",
       "https://www.gt-world-challenge-australia.com/news/549/schumacher-signs-frederic-vervisch-as-feeney-replacement-for-gt-world-challenge-australia-finale": "2026-11-17T19:15:00Z",
@@ -3605,12 +3603,12 @@
         "photo": null
       }
     ],
-    "rules": "309136a64634032b",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "2799f4d04394f039",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:44:13 GMT"
   },
   "igtc-official": {
-    "etag": null,
-    "last_modified": "Fri, 20 Nov 2026 00:40:31 GMT",
     "first_seen": {
       "https://www.intercontinentalgtchallenge.com/news/1996/best-ever-gt-grid-to-tackle-2027-meguiars-bathurst-12-hour": "2026-11-12T09:00:00Z",
       "https://www.intercontinentalgtchallenge.com/news/1995/gmgs-indy-victory-seals-igtc-title-for-porsche-martin-crowned-drivers-champion": "2026-10-11T00:00:00Z",
@@ -3636,12 +3634,12 @@
         "photo": null
       }
     ],
-    "rules": "2cf9e1806454bd87",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "e808419c9381afaf",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": "Fri, 20 Nov 2026 00:44:14 GMT"
   },
   "sportscar365-wec": {
-    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
-    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
     "first_seen": {
       "https://sportscar365.com/lemans/wec/ferrari-extends-pier-guidis-contract-into-2027/": "2026-11-19T15:14:07Z",
       "https://sportscar365.com/lemans/wec/dallara-has-capacity-to-continue-with-four-oems-in-2030/": "2026-11-18T12:52:21Z",
@@ -3771,12 +3769,12 @@
         "photo": null
       }
     ],
-    "rules": "28810f049c0b5ff0",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "09e719caf98c0d3b",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
+    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT"
   },
   "sportscar365-sro": {
-    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
-    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT",
     "first_seen": {
       "https://sportscar365.com/sro/australian-gt/team-nz-mercedes-amg-joins-burgeoning-adelaide-grid/": "2026-11-19T02:38:58Z",
       "https://sportscar365.com/sro/australian-gt/vervisch-chosen-as-feeney-stand-in-at-mpc-for-adelaide/": "2026-11-17T23:51:07Z",
@@ -3906,12 +3904,12 @@
         "photo": null
       }
     ],
-    "rules": "8670d7afaae1a482",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "a17b457b3e231309",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": "W/\"c3f28b7b814896ae9a2bfa42404a2849\"",
+    "last_modified": "Thu, 19 Nov 2026 16:30:35 GMT"
   },
   "dailysportscar-wec": {
-    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
-    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/19/ferrari-extends-pier-guidis-contract.html": "2026-11-19T12:12:59Z",
       "https://www.dailysportscar.com/2026/11/16/dillmann-appointed-ford-racing-hypercar-reserve-driver.html": "2026-11-16T20:00:01Z",
@@ -4063,12 +4061,12 @@
         "photo": null
       }
     ],
-    "rules": "a3cea9b1cd87cf4a",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "b0d5d3eafe211014",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
+    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT"
   },
   "dailysportscar-gtwc": {
-    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
-    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT",
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/12/walkenhorst-set-to-return-to-gtwc-europe-n24-in-2027.html": "2026-11-12T11:01:32Z",
       "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html": "2026-11-12T07:51:44Z",
@@ -4120,12 +4118,12 @@
         "photo": null
       }
     ],
-    "rules": "1f0879c7527fb660",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "55fabf85b73d2f41",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": "\"53b67181393cdd6fcc670d8f85f74008\"",
+    "last_modified": "Thu, 19 Nov 2026 17:01:30 GMT"
   },
   "racer-sportscars": {
-    "etag": null,
-    "last_modified": null,
     "first_seen": {
       "https://racer.com/2026/11/15/how-manufacturers-find-future-talent-porsche-s-driver-development-pyramid": "2026-11-15T11:18:01Z",
       "https://racer.com/2026/10/30/car-blanche-expanding-to-asian-le-mans-in-partnership-with-with-rsl": "2026-10-30T12:12:56Z",
@@ -4139,7 +4137,9 @@
       "https://racer.com/2026/06/12/aco-fia-and-imsa-reveal-ruleset-for-2030-top-class-prototypes": "2026-06-12T10:49:48Z"
     },
     "items": [],
-    "rules": "ac86c89940878a97",
-    "last_ok": "2026-11-20T00:40:12Z"
+    "rules": "df9ddd5250930121",
+    "last_ok": "2026-11-20T00:43:56Z",
+    "etag": null,
+    "last_modified": null
   }
 }

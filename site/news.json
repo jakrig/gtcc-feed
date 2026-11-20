@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T00:40:12Z",
+  "updated": "2026-11-20T00:43:56Z",
   "items": [
     {
       "title": "Global sporting giant announces F1 return",
@@ -56,7 +56,7 @@
       "time": "2026-11-19T22:45:16Z",
       "url": "https://speedcafe.com/supercars-news-thomas-randle-scott-taylor-motorsport-porsche-carrera-cup-sandown-shakedown-details-comments/",
       "series": [
-        "porsche-cup"
+        "carrera-cup"
       ],
       "circuit": null,
       "photo": null,
@@ -512,7 +512,7 @@
       "series": [
         "gt-world-cup"
       ],
-      "circuit": null,
+      "circuit": "macau",
       "photo": null,
       "also": []
     },
@@ -549,7 +549,7 @@
         "gtwc-asia",
         "british-gt"
       ],
-      "circuit": null,
+      "circuit": "macau",
       "photo": null,
       "also": [
         {
@@ -729,7 +729,7 @@
       "series": [
         "gt-world-cup"
       ],
-      "circuit": null,
+      "circuit": "macau",
       "photo": null,
       "also": []
     },
@@ -837,7 +837,7 @@
       "series": [
         "gt-world-cup"
       ],
-      "circuit": null,
+      "circuit": "macau",
       "photo": null,
       "also": []
     },
@@ -849,7 +849,7 @@
       "series": [
         "gt-world-cup"
       ],
-      "circuit": null,
+      "circuit": "macau",
       "photo": null,
       "also": []
     },
