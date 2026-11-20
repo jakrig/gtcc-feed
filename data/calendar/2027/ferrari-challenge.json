@@ -1,0 +1,68 @@
+{
+  "series": "ferrari-challenge",
+  "year": 2027,
+  "source_url": "https://www.ferrari.com/en-EN/corse-clienti/articles/ferrari-challenge-europe-calendar-2027",
+  "notes": "Ferrari Challenge Trofeo Pirelli Europe (35th edition).",
+  "events": [
+    {
+      "round": 1,
+      "name": "Misano",
+      "circuit": "misano",
+      "start": "2027-04-01",
+      "end": "2027-04-04",
+      "status": "confirmed"
+    },
+    {
+      "round": 2,
+      "name": "Mugello",
+      "circuit": "mugello",
+      "start": "2027-04-29",
+      "end": "2027-05-02",
+      "status": "confirmed",
+      "format": "Endurance format"
+    },
+    {
+      "round": 3,
+      "name": "Hockenheim",
+      "circuit": "hockenheim",
+      "start": "2027-06-03",
+      "end": "2027-06-06",
+      "status": "confirmed",
+      "format": "Endurance format"
+    },
+    {
+      "round": 4,
+      "name": "Valencia",
+      "circuit": "valencia",
+      "start": "2027-07-01",
+      "end": "2027-07-04",
+      "status": "confirmed",
+      "format": "Endurance format"
+    },
+    {
+      "round": 5,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-07-23",
+      "end": "2027-07-25",
+      "status": "confirmed"
+    },
+    {
+      "round": 6,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-09-16",
+      "end": "2027-09-19",
+      "status": "confirmed"
+    },
+    {
+      "round": 7,
+      "name": "Finali Mondiali",
+      "circuit": null,
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "notes": "Venue and dates to be announced."
+    }
+  ]
+}

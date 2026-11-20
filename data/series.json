@@ -164,11 +164,18 @@
       ]
     },
     {
-      "id": "porsche-cup",
-      "name": "Porsche Supercup & Carrera Cup",
+      "id": "porsche-supercup",
+      "name": "Porsche Supercup",
       "keywords": [
         "Porsche Supercup",
         "Mobil 1 Supercup",
+        "Supercup"
+      ]
+    },
+    {
+      "id": "carrera-cup",
+      "name": "Porsche Carrera Cup",
+      "keywords": [
         "Carrera Cup"
       ]
     },

@@ -1,0 +1,68 @@
+{
+  "series": "gt-masters",
+  "year": 2027,
+  "source_url": "https://www.speedweek.com/en/a/adac-gt-masters/adac-gt-masters-2027-race-calendar-changes",
+  "notes": "Announced about 2 Oct 2026; the ADAC marks it subject to change.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Red Bull Ring",
+      "circuit": "red-bull-ring",
+      "start": "2027-04-23",
+      "end": "2027-04-25",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "notes": "DTM support."
+    },
+    {
+      "round": 2,
+      "name": "Lausitzring",
+      "circuit": "lausitzring",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "notes": "DTM support."
+    },
+    {
+      "round": 3,
+      "name": "ADAC Truck Grand Prix",
+      "circuit": "nurburgring",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "layout": "Grand Prix"
+    },
+    {
+      "round": 4,
+      "name": "Zandvoort",
+      "circuit": "zandvoort",
+      "start": "2027-08-06",
+      "end": "2027-08-08",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "notes": "DTM support."
+    },
+    {
+      "round": 5,
+      "name": "Sachsenring",
+      "circuit": "sachsenring",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "notes": "DTM support."
+    },
+    {
+      "round": 6,
+      "name": "Hockenheim",
+      "circuit": "hockenheim",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "status": "confirmed",
+      "format": "2 × 1h",
+      "notes": "DTM support; finale."
+    }
+  ]
+}

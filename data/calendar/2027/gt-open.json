@@ -1,0 +1,82 @@
+{
+  "series": "gt-open",
+  "year": 2027,
+  "source_url": "https://www.dailysportscar.com/2026/09/26/gt-open-swaps-hockenhiem-for-misano-on-revised-2027-calendar.html",
+  "notes": "International GT Open; revised provisional calendar of 26 Sep 2026.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Portimão",
+      "circuit": "portimao",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "status": "provisional",
+      "notes": "Weekend inferred from the race day."
+    },
+    {
+      "round": 2,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "status": "provisional",
+      "format": "500 km",
+      "notes": "Weekend inferred from the race day."
+    },
+    {
+      "round": 3,
+      "name": "Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-05-14",
+      "end": "2027-05-16",
+      "status": "provisional",
+      "notes": "Weekend inferred from the race day."
+    },
+    {
+      "round": 4,
+      "name": "Misano",
+      "circuit": "misano",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "status": "provisional",
+      "notes": "Replaces Hockenheim. Weekend inferred from the race day."
+    },
+    {
+      "round": 5,
+      "name": "Hungaroring",
+      "circuit": "hungaroring",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "status": "provisional",
+      "notes": "Weekend inferred from the race day."
+    },
+    {
+      "round": 6,
+      "name": "Paul Ricard",
+      "circuit": "paul-ricard",
+      "start": "2027-07-16",
+      "end": "2027-07-18",
+      "status": "provisional",
+      "notes": "Weekend inferred from the race day."
+    },
+    {
+      "round": 7,
+      "name": "Monza",
+      "circuit": "monza",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "status": "provisional",
+      "format": "500 km",
+      "notes": "One report says 13 Sep. Weekend inferred from the race day."
+    },
+    {
+      "round": 8,
+      "name": "Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "status": "provisional",
+      "notes": "Finale. Weekend inferred from the race day."
+    }
+  ]
+}

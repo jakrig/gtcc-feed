@@ -1,0 +1,17 @@
+{
+  "series": "gt-world-cup",
+  "year": 2027,
+  "source_url": "https://www.dailysportscar.com/2025/12/10/2026-fia-gt-world-cup-date-set.html",
+  "events": [
+    {
+      "round": null,
+      "name": "FIA GT World Cup (Macau)",
+      "circuit": "macau",
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "format": "GT3",
+      "notes": "2027 date not announced; the 2026 edition ran 19-22 Nov."
+    }
+  ]
+}

@@ -136,6 +136,21 @@ Typed from announcements found by web search in November 2026 (the official page
 | `24h-series` | 6 | Kyalami confirmed, rest provisional |
 | `super-taikyu` | 7 (incl. Fuji 24 Hours) | Provisional |
 | `belcar` | 24 Hours of Zolder, TBC | Not announced |
+| `dtm` | 8 | Official |
+| `gt-masters` | 6 | Official (subject to change) |
+| `super-gt` | 8 | Provisional; Suzuka 1000km is in `igtc` |
+| `elms` | 6 | Official; Portimão moved to 16 Oct |
+| `asian-lms` | 2 (Jerez, Portimão; 2026-27 season in Europe) | Official |
+| `gt-world-cup` | Macau, TBC | 2027 not announced |
+| `gt4` | 5 + 1 TBC | Provisional (GT4 European Series) |
+| `gt-open` | 8 | Provisional |
+| `porsche-supercup` | 8 | Provisional |
+| `carrera-cup` | 8 events (16 races) | Provisional (Carrera Cup GB) |
+| `super-trofeo` | 6 + World Final | Official (Super Trofeo Europe) |
+| `ferrari-challenge` | 6 + Finali Mondiali TBC | Official (Ferrari Challenge Europe) |
+| `pilot-challenge` | 10 | Official |
+
+Where a source gave only race days (ELMS, GT Open, Supercup), the weekend is the usual Friday to race day and the event's `notes` say so.
 
 IndyCar is not tracked, in the calendar or the news.
 

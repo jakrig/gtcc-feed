@@ -1,0 +1,63 @@
+{
+  "series": "elms",
+  "year": 2027,
+  "source_url": "https://sportscar365.com/lemans/elms/earlier-start-for-unchanged-2027-calendar/",
+  "events": [
+    {
+      "round": 1,
+      "name": "4 Hours of Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-03-12",
+      "end": "2027-03-14",
+      "status": "confirmed",
+      "format": "4h",
+      "notes": "Prologue test 8-9 Mar. Weekend inferred from the race day."
+    },
+    {
+      "round": 2,
+      "name": "4 Hours of Le Castellet",
+      "circuit": "paul-ricard",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "status": "confirmed",
+      "format": "4h"
+    },
+    {
+      "round": 3,
+      "name": "4 Hours of Imola",
+      "circuit": "imola",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "status": "confirmed",
+      "format": "4h"
+    },
+    {
+      "round": 4,
+      "name": "4 Hours of Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-08-20",
+      "end": "2027-08-22",
+      "status": "confirmed",
+      "format": "4h"
+    },
+    {
+      "round": 5,
+      "name": "4 Hours of Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-09-03",
+      "end": "2027-09-05",
+      "status": "confirmed",
+      "format": "4h"
+    },
+    {
+      "round": 6,
+      "name": "4 Hours of Portimão",
+      "circuit": "portimao",
+      "start": "2027-10-14",
+      "end": "2027-10-16",
+      "status": "provisional",
+      "format": "4h",
+      "notes": "Moved from 2 Oct to a Saturday race on 16 Oct (Sep 2026 reports). Weekend inferred from the race day."
+    }
+  ]
+}

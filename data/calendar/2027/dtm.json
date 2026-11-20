@@ -1,0 +1,82 @@
+{
+  "series": "dtm",
+  "year": 2027,
+  "source_url": "https://www.gt-report.com/2026/08/14/2027-dtm-calendar-confirmed/",
+  "notes": "Announced 13 Aug 2026.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Red Bull Ring",
+      "circuit": "red-bull-ring",
+      "start": "2027-04-23",
+      "end": "2027-04-25",
+      "status": "confirmed",
+      "format": "2 races"
+    },
+    {
+      "round": 2,
+      "name": "Oschersleben",
+      "circuit": "oschersleben",
+      "start": "2027-05-07",
+      "end": "2027-05-09",
+      "status": "confirmed",
+      "format": "2 races"
+    },
+    {
+      "round": 3,
+      "name": "Lausitzring",
+      "circuit": "lausitzring",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "status": "confirmed",
+      "format": "2 races"
+    },
+    {
+      "round": 4,
+      "name": "Norisring",
+      "circuit": "norisring",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "status": "confirmed",
+      "format": "2 races",
+      "notes": "Street circuit."
+    },
+    {
+      "round": 5,
+      "name": "Zandvoort",
+      "circuit": "zandvoort",
+      "start": "2027-08-06",
+      "end": "2027-08-08",
+      "status": "confirmed",
+      "format": "2 races"
+    },
+    {
+      "round": 6,
+      "name": "Nürburgring",
+      "circuit": "nurburgring",
+      "start": "2027-08-20",
+      "end": "2027-08-22",
+      "status": "confirmed",
+      "format": "2 races",
+      "layout": "Grand Prix"
+    },
+    {
+      "round": 7,
+      "name": "Sachsenring",
+      "circuit": "sachsenring",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "status": "confirmed",
+      "format": "2 races"
+    },
+    {
+      "round": 8,
+      "name": "Hockenheim",
+      "circuit": "hockenheim",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "status": "confirmed",
+      "format": "2 races"
+    }
+  ]
+}

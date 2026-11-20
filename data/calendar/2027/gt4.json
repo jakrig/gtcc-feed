@@ -1,0 +1,67 @@
+{
+  "series": "gt4",
+  "year": 2027,
+  "source_url": "https://www.gt4europeanseries.com/news/608/back-to-barcelona-imola-returns-2027-calendar-highlights",
+  "notes": "GT4 European Series. Round numbers not published in the sources.",
+  "events": [
+    {
+      "round": null,
+      "name": "Imola",
+      "circuit": "imola",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "GTWC Endurance support."
+    },
+    {
+      "round": null,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-06-25",
+      "end": "2027-06-26",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "24 Hours of Spa support."
+    },
+    {
+      "round": null,
+      "name": "Misano",
+      "circuit": "misano",
+      "start": "2027-07-17",
+      "end": "2027-07-18",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "From one source only."
+    },
+    {
+      "round": null,
+      "name": "Zandvoort",
+      "circuit": "zandvoort",
+      "start": "2027-09-18",
+      "end": "2027-09-19",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "From one source only."
+    },
+    {
+      "round": null,
+      "name": "Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-10-23",
+      "end": "2027-10-24",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "Finale."
+    },
+    {
+      "round": null,
+      "name": "Round (venue TBC)",
+      "circuit": null,
+      "start": null,
+      "end": null,
+      "status": "tbc",
+      "notes": "Six events announced; one not found."
+    }
+  ]
+}

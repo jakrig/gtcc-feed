@@ -571,6 +571,80 @@
         "Ricardo Tormo",
         "Cheste"
       ]
+    },
+    {
+      "id": "oschersleben",
+      "name": "Motorsport Arena Oschersleben",
+      "country": "DE",
+      "keywords": [
+        "Oschersleben"
+      ]
+    },
+    {
+      "id": "lausitzring",
+      "name": "DEKRA Lausitzring",
+      "country": "DE",
+      "keywords": [
+        "Lausitzring"
+      ]
+    },
+    {
+      "id": "norisring",
+      "name": "Norisring",
+      "country": "DE",
+      "keywords": [
+        "Norisring"
+      ]
+    },
+    {
+      "id": "sachsenring",
+      "name": "Sachsenring",
+      "country": "DE",
+      "keywords": [
+        "Sachsenring"
+      ]
+    },
+    {
+      "id": "hockenheim",
+      "name": "Hockenheimring",
+      "country": "DE",
+      "keywords": [
+        "Hockenheim",
+        "Hockenheimring"
+      ]
+    },
+    {
+      "id": "jerez",
+      "name": "Circuito de Jerez-Ángel Nieto",
+      "country": "ES",
+      "keywords": [
+        "Jerez"
+      ]
+    },
+    {
+      "id": "mid-ohio",
+      "name": "Mid-Ohio Sports Car Course",
+      "country": "US",
+      "keywords": [
+        "Mid-Ohio"
+      ]
+    },
+    {
+      "id": "lime-rock",
+      "name": "Lime Rock Park",
+      "country": "US",
+      "keywords": [
+        "Lime Rock"
+      ]
+    },
+    {
+      "id": "macau",
+      "name": "Guia Circuit",
+      "country": "MO",
+      "keywords": [
+        "Macau",
+        "Guia Circuit"
+      ]
     }
   ]
 }

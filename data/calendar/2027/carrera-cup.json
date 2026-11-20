@@ -1,0 +1,93 @@
+{
+  "series": "carrera-cup",
+  "year": 2027,
+  "source_url": "https://racing.porsche.com/en-GB/articles/carrera-cup-gb-2027-season",
+  "notes": "Porsche Carrera Cup Great Britain (25th season), provisional. Rounds here are events (16 races).",
+  "events": [
+    {
+      "round": 1,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "National",
+      "notes": "BTCC support."
+    },
+    {
+      "round": 2,
+      "name": "Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "Grand Prix",
+      "notes": "WEC 6 Hours support."
+    },
+    {
+      "round": 3,
+      "name": "Snetterton",
+      "circuit": "snetterton",
+      "start": "2027-05-29",
+      "end": "2027-05-30",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "300"
+    },
+    {
+      "round": 4,
+      "name": "Thruxton",
+      "circuit": "thruxton",
+      "start": "2027-07-24",
+      "end": "2027-07-25",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "BTCC support."
+    },
+    {
+      "round": 5,
+      "name": "Croft",
+      "circuit": "croft",
+      "start": "2027-08-14",
+      "end": "2027-08-15",
+      "status": "provisional",
+      "format": "2 races",
+      "notes": "BTCC support."
+    },
+    {
+      "round": 6,
+      "name": "Donington Park",
+      "circuit": "donington-park",
+      "start": "2027-09-11",
+      "end": "2027-09-12",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "Grand Prix",
+      "notes": "BTCC support."
+    },
+    {
+      "round": 7,
+      "name": "Silverstone",
+      "circuit": "silverstone",
+      "start": "2027-09-25",
+      "end": "2027-09-26",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "National",
+      "notes": "BTCC support."
+    },
+    {
+      "round": 8,
+      "name": "Brands Hatch",
+      "circuit": "brands-hatch",
+      "start": "2027-10-09",
+      "end": "2027-10-10",
+      "status": "provisional",
+      "format": "2 races",
+      "layout": "Grand Prix",
+      "notes": "BTCC finale."
+    }
+  ]
+}

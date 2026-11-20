@@ -1,0 +1,69 @@
+{
+  "series": "super-trofeo",
+  "year": 2027,
+  "source_url": "https://www.lamborghini.com/en-en/newsroom/news/lamborghini-announces-2027-super-trofeo-calendars-for-temerario-debut",
+  "notes": "Lamborghini Super Trofeo Europe; first season with the Temerario.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Imola",
+      "circuit": "imola",
+      "start": "2027-05-21",
+      "end": "2027-05-23",
+      "status": "confirmed"
+    },
+    {
+      "round": 2,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-06-23",
+      "end": "2027-06-26",
+      "status": "confirmed",
+      "notes": "24 Hours of Spa week."
+    },
+    {
+      "round": 3,
+      "name": "Misano",
+      "circuit": "misano",
+      "start": "2027-07-16",
+      "end": "2027-07-18",
+      "status": "confirmed"
+    },
+    {
+      "round": 4,
+      "name": "Nürburgring",
+      "circuit": "nurburgring",
+      "start": "2027-08-27",
+      "end": "2027-08-29",
+      "status": "confirmed",
+      "layout": "Grand Prix",
+      "notes": "Date from Sportscar365 only."
+    },
+    {
+      "round": 5,
+      "name": "Hungaroring",
+      "circuit": "hungaroring",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "status": "confirmed",
+      "notes": "Date from Sportscar365 only."
+    },
+    {
+      "round": 6,
+      "name": "Barcelona",
+      "circuit": "barcelona",
+      "start": "2027-11-11",
+      "end": "2027-11-12",
+      "status": "confirmed",
+      "notes": "Season finale."
+    },
+    {
+      "round": null,
+      "name": "World Final",
+      "circuit": "barcelona",
+      "start": "2027-11-13",
+      "end": "2027-11-14",
+      "status": "confirmed"
+    }
+  ]
+}

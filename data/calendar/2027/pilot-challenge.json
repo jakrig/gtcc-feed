@@ -1,0 +1,97 @@
+{
+  "series": "pilot-challenge",
+  "year": 2027,
+  "source_url": "https://www.dailysportscar.com/2026/03/19/2027-pilot-challenge-calendar-features-lime-rock-return.html",
+  "notes": "IMSA Michelin Pilot Challenge; schedule released 19 Mar 2026.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Daytona",
+      "circuit": "daytona",
+      "start": "2027-01-27",
+      "end": "2027-01-29",
+      "status": "provisional",
+      "format": "4h",
+      "notes": "Rolex 24 weekend. IMSA's July 2026 memo gives 27-29 Jan; older reports say 28-31 Jan."
+    },
+    {
+      "round": 2,
+      "name": "Sebring",
+      "circuit": "sebring",
+      "start": "2027-03-17",
+      "end": "2027-03-20",
+      "status": "confirmed"
+    },
+    {
+      "round": 3,
+      "name": "Mid-Ohio",
+      "circuit": "mid-ohio",
+      "start": "2027-06-11",
+      "end": "2027-06-13",
+      "status": "confirmed",
+      "format": "4h",
+      "notes": "Headline event."
+    },
+    {
+      "round": 4,
+      "name": "Watkins Glen",
+      "circuit": "watkins-glen",
+      "start": "2027-06-24",
+      "end": "2027-06-27",
+      "status": "confirmed"
+    },
+    {
+      "round": 5,
+      "name": "Canadian Tire Motorsport Park",
+      "circuit": "ctmp",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "confirmed"
+    },
+    {
+      "round": 6,
+      "name": "Road America",
+      "circuit": "road-america",
+      "start": "2027-07-29",
+      "end": "2027-08-01",
+      "status": "confirmed"
+    },
+    {
+      "round": 7,
+      "name": "Virginia International Raceway",
+      "circuit": "vir",
+      "start": "2027-08-20",
+      "end": "2027-08-22",
+      "status": "confirmed"
+    },
+    {
+      "round": 8,
+      "name": "Indianapolis",
+      "circuit": "indianapolis",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "status": "confirmed",
+      "layout": "Road course"
+    },
+    {
+      "round": 9,
+      "name": "FCP Euro Northeast Grand Prix",
+      "circuit": "lime-rock",
+      "start": "2027-09-23",
+      "end": "2027-09-25",
+      "status": "confirmed",
+      "format": "2h",
+      "notes": "Headline event."
+    },
+    {
+      "round": 10,
+      "name": "Road Atlanta",
+      "circuit": "road-atlanta",
+      "start": "2027-10-06",
+      "end": "2027-10-09",
+      "status": "confirmed",
+      "format": "2h",
+      "notes": "Petit Le Mans weekend; finale."
+    }
+  ]
+}

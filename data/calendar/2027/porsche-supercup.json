@@ -1,0 +1,80 @@
+{
+  "series": "porsche-supercup",
+  "year": 2027,
+  "source_url": "https://www.pellemotorsport.com/2026/10/20/portimao-madrid-e-istanbul-novita-nel-calendario-2027/",
+  "notes": "Porsche Mobil 1 Supercup, preliminary calendar. Weekends match the F1 calendar.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Monaco",
+      "circuit": "monaco",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "status": "provisional",
+      "notes": "F1 support."
+    },
+    {
+      "round": 2,
+      "name": "Portimão",
+      "circuit": "portimao",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "status": "provisional",
+      "notes": "F1 support. Weekend inferred from the race day."
+    },
+    {
+      "round": 3,
+      "name": "Red Bull Ring",
+      "circuit": "red-bull-ring",
+      "start": "2027-07-09",
+      "end": "2027-07-11",
+      "status": "provisional",
+      "notes": "F1 support. Weekend inferred from the race day."
+    },
+    {
+      "round": 4,
+      "name": "Spa-Francorchamps",
+      "circuit": "spa",
+      "start": "2027-07-23",
+      "end": "2027-07-25",
+      "status": "provisional",
+      "notes": "F1 support. Weekend inferred from the race day."
+    },
+    {
+      "round": 5,
+      "name": "Hungaroring",
+      "circuit": "hungaroring",
+      "start": "2027-07-30",
+      "end": "2027-08-01",
+      "status": "provisional",
+      "notes": "F1 support. Weekend inferred from the race day."
+    },
+    {
+      "round": 6,
+      "name": "Monza",
+      "circuit": "monza",
+      "start": "2027-09-03",
+      "end": "2027-09-05",
+      "status": "provisional",
+      "notes": "F1 support."
+    },
+    {
+      "round": 7,
+      "name": "Madrid",
+      "circuit": "madring",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "status": "provisional",
+      "notes": "F1 support. Weekend inferred from the race day."
+    },
+    {
+      "round": 8,
+      "name": "Istanbul",
+      "circuit": "istanbul-park",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "status": "provisional",
+      "notes": "F1 support."
+    }
+  ]
+}

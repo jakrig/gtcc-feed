@@ -1,0 +1,75 @@
+{
+  "series": "super-gt",
+  "year": 2027,
+  "source_url": "https://www.dailysportscar.com/2026/07/31/2027-super-gt-series-provisional-calendar-published.html",
+  "notes": "Provisional pending FIA/JAF approval. The GT300-only Suzuka 1000km (4-5 Sep) is listed in igtc.json, not here.",
+  "events": [
+    {
+      "round": 1,
+      "name": "Okayama",
+      "circuit": "okayama",
+      "start": "2027-04-03",
+      "end": "2027-04-04",
+      "status": "provisional"
+    },
+    {
+      "round": 2,
+      "name": "Fuji",
+      "circuit": "fuji",
+      "start": "2027-05-02",
+      "end": "2027-05-04",
+      "status": "provisional",
+      "notes": "Golden Week: 3-4 May are Japanese public holidays, so it ends on a Tuesday. JAF filing says 2-4 May; one outlet says 3-4 May."
+    },
+    {
+      "round": 3,
+      "name": "Sepang",
+      "circuit": "sepang",
+      "start": "2027-06-18",
+      "end": "2027-06-19",
+      "status": "provisional",
+      "notes": "Saturday-evening race. Some sources say 19-20 Jun."
+    },
+    {
+      "round": 4,
+      "name": "Suzuka",
+      "circuit": "suzuka",
+      "start": "2027-07-30",
+      "end": "2027-08-01",
+      "status": "provisional"
+    },
+    {
+      "round": 5,
+      "name": "SUGO",
+      "circuit": "sugo",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "status": "provisional"
+    },
+    {
+      "round": 6,
+      "name": "Autopolis",
+      "circuit": "autopolis",
+      "start": "2027-10-15",
+      "end": "2027-10-17",
+      "status": "provisional"
+    },
+    {
+      "round": 7,
+      "name": "Fuji",
+      "circuit": "fuji",
+      "start": "2027-11-05",
+      "end": "2027-11-07",
+      "status": "provisional"
+    },
+    {
+      "round": 8,
+      "name": "Motegi",
+      "circuit": "motegi",
+      "start": "2027-11-19",
+      "end": "2027-11-21",
+      "status": "provisional",
+      "notes": "Finale."
+    }
+  ]
+}

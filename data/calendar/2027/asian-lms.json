@@ -1,0 +1,28 @@
+{
+  "series": "asian-lms",
+  "year": 2027,
+  "source_url": "https://www.asianlemansseries.com/en/news/asian-le-mans-series-2026-2027-an-exceptional-european-season/13703",
+  "notes": "2026-27 season (in Europe this winter). Round 1, Le Castellet, ran 14-15 Nov 2026.",
+  "events": [
+    {
+      "round": 2,
+      "name": "Jerez",
+      "circuit": "jerez",
+      "start": "2027-01-15",
+      "end": "2027-01-17",
+      "status": "confirmed",
+      "format": "2 × 4h",
+      "notes": "Races 3-4 of the 2026-27 season, held in Europe."
+    },
+    {
+      "round": 3,
+      "name": "Portimão",
+      "circuit": "portimao",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "status": "confirmed",
+      "format": "2 × 4h",
+      "notes": "Races 5-6; season finale."
+    }
+  ]
+}
