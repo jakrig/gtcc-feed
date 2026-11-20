@@ -198,6 +198,33 @@ def find_terms(site: str, home: str) -> list[dict[str, Any]]:
     return [check_terms(site, u) for u in links[:3]]
 
 
+GT_WORDS = re.compile(r"\b(GT3|GT4|LMGT3|GTD|GTP|LMP2|LMP3|LMDh|LMH|Hypercar|Le Mans|endurance|sportscar|sports car|Spa|Bathurst|N[uü]rburgring|Daytona|Sebring|DTM|GT Masters|Super GT|ELMS|Asian Le Mans)\b", re.I)
+
+
+def missed_gt_headlines() -> list[str]:
+    """Headlines in the enabled feeds that no tracked series matches but that look like GT3/WEC news."""
+    cfg = build.load_config()
+    matcher = build.Matcher(cfg)
+    out = []
+    for feed in cfg.feeds:
+        if not feed.get("enabled") or feed.get("series"):
+            continue
+        try:
+            status, _, body, _ = get(feed["url"])
+            entries = build.parse_feed(body) if status == 200 else []
+        except Exception:
+            continue
+        for e in entries:
+            title = build.clean_title(e["title"])
+            cats = e.get("categories", [])
+            if matcher.series_in(title, cats):
+                continue
+            text = " | ".join([title, *cats])
+            if GT_WORDS.search(text):
+                out.append(f"- **{feed['name']}**: {title} _(tags: {', '.join(cats[:8])})_")
+    return out
+
+
 def main() -> int:
     feeds = [check_feed(s, u) for s, u in FEEDS]
     terms = [t for s, h in HOMES for t in find_terms(s, h)]
@@ -215,6 +242,7 @@ def main() -> int:
             lines.append(f"- **{f['site']}** ({f['url']}): " + " / ".join(f["samples"]))
             if f.get("categories"):
                 lines.append(f"  - categories: " + ", ".join(f["categories"]))
+    lines += ["", "## Missed GT3/WEC-looking headlines in enabled feeds", ""] + (missed_gt_headlines() or ["(none)"])
     lines += ["", "## Terms pages", ""]
     for t in terms:
         lines.append(f"### {t['site']}: {t['url']} (HTTP {t.get('status', t.get('error'))})")
