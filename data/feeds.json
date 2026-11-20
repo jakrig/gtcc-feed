@@ -207,6 +207,126 @@
       "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. F1 journalist's blog; series fixed. No terms page found."
     },
     {
+      "id": "gtwc-europe-official",
+      "name": "GT World Challenge Europe",
+      "url": "https://www.gt-world-challenge-europe.com/feed",
+      "home": "https://www.gt-world-challenge-europe.com",
+      "series": [
+        "gtwc-europe"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Official SRO site; no terms page linked from the homepage."
+    },
+    {
+      "id": "gtwc-america-official",
+      "name": "GT World Challenge America",
+      "url": "https://www.gt-world-challenge-america.com/feed",
+      "home": "https://www.gt-world-challenge-america.com",
+      "series": [
+        "gtwc-america"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Official SRO site; no terms page linked from the homepage."
+    },
+    {
+      "id": "gtwc-asia-official",
+      "name": "GT World Challenge Asia",
+      "url": "https://www.gt-world-challenge-asia.com/feed",
+      "home": "https://www.gt-world-challenge-asia.com",
+      "series": [
+        "gtwc-asia"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Official SRO site; also posts in Chinese, which the build drops (non-Latin headlines). No terms page linked from the homepage."
+    },
+    {
+      "id": "gtwc-australia-official",
+      "name": "GT World Challenge Australia",
+      "url": "https://www.gt-world-challenge-australia.com/feed",
+      "home": "https://www.gt-world-challenge-australia.com",
+      "series": [
+        "gtwc-australia"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Official SRO site; no terms page linked from the homepage."
+    },
+    {
+      "id": "igtc-official",
+      "name": "Intercontinental GT Challenge",
+      "url": "https://www.intercontinentalgtchallenge.com/feed",
+      "home": "https://www.intercontinentalgtchallenge.com",
+      "series": [
+        "igtc"
+      ],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Official SRO site; no terms page linked from the homepage."
+    },
+    {
+      "id": "sportscar365-wec",
+      "name": "Sportscar365",
+      "url": "https://sportscar365.com/category/lemans/wec/feed/",
+      "home": "https://sportscar365.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. WEC section of an approved outlet."
+    },
+    {
+      "id": "sportscar365-sro",
+      "name": "Sportscar365",
+      "url": "https://sportscar365.com/category/sro/feed/",
+      "home": "https://sportscar365.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. SRO section of an approved outlet."
+    },
+    {
+      "id": "dailysportscar-wec",
+      "name": "Dailysportscar",
+      "url": "https://www.dailysportscar.com/category/fia-wec/feed",
+      "home": "https://www.dailysportscar.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. FIA WEC section of an approved outlet."
+    },
+    {
+      "id": "dailysportscar-gtwc",
+      "name": "Dailysportscar",
+      "url": "https://www.dailysportscar.com/category/gt-world-challenge/feed",
+      "home": "https://www.dailysportscar.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. GT World Challenge section of an approved outlet."
+    },
+    {
+      "id": "racer-sportscars",
+      "name": "RACER",
+      "url": "https://racer.com/category/sports-cars/feed/",
+      "home": "https://racer.com",
+      "series": [],
+      "enabled": true,
+      "permission": "unknown",
+      "verified": true,
+      "notes": "Checked from GitHub Actions on 2026-11-20: valid RSS. Sports car section of an approved outlet."
+    },
+    {
       "id": "fia",
       "name": "FIA",
       "url": "https://www.fia.com/rss/news",

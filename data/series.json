@@ -110,6 +110,91 @@
       ]
     },
     {
+      "id": "elms",
+      "name": "European Le Mans Series",
+      "keywords": [
+        "ELMS",
+        "European Le Mans Series"
+      ]
+    },
+    {
+      "id": "asian-lms",
+      "name": "Asian Le Mans Series",
+      "keywords": [
+        "Asian Le Mans Series",
+        "Asian Le Mans",
+        "Asian LMS",
+        "AsLMS"
+      ]
+    },
+    {
+      "id": "gt-world-cup",
+      "name": "FIA GT World Cup",
+      "keywords": [
+        "FIA GT World Cup",
+        "GT World Cup"
+      ]
+    },
+    {
+      "id": "gt-masters",
+      "name": "ADAC GT Masters",
+      "keywords": [
+        "GT Masters",
+        "ADAC GT Masters"
+      ]
+    },
+    {
+      "id": "gt4",
+      "name": "GT4",
+      "keywords": [
+        "GT4 European Series",
+        "GT4 Europe",
+        "GT4 America",
+        "GT4 Australia",
+        "GT4 Asia",
+        "GT4 Manufacturer"
+      ]
+    },
+    {
+      "id": "gt-open",
+      "name": "GT Open",
+      "keywords": [
+        "GT Open",
+        "International GT Open"
+      ]
+    },
+    {
+      "id": "porsche-cup",
+      "name": "Porsche Supercup & Carrera Cup",
+      "keywords": [
+        "Porsche Supercup",
+        "Mobil 1 Supercup",
+        "Carrera Cup"
+      ]
+    },
+    {
+      "id": "super-trofeo",
+      "name": "Lamborghini Super Trofeo",
+      "keywords": [
+        "Super Trofeo"
+      ]
+    },
+    {
+      "id": "ferrari-challenge",
+      "name": "Ferrari Challenge",
+      "keywords": [
+        "Ferrari Challenge",
+        "Finali Mondiali"
+      ]
+    },
+    {
+      "id": "pilot-challenge",
+      "name": "Michelin Pilot Challenge",
+      "keywords": [
+        "Pilot Challenge"
+      ]
+    },
+    {
       "id": "dtm",
       "name": "DTM",
       "keywords": [

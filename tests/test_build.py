@@ -80,6 +80,19 @@ class Helpers(unittest.TestCase):
         self.assertEqual(matcher.series_in("Pre-season test report", ["Indy NXT", "NASCAR"]), [])
         self.assertEqual(matcher.series_in("the wec of it"), [])  # headlines keep case-sensitive acronyms
 
+    def test_non_latin_headlines_are_dropped(self) -> None:
+        self.assertFalse(build.mostly_latin("大湾区GT杯周四：梁嘉彤位居自由练习榜首"))
+        self.assertTrue(build.mostly_latin("GT4 MANUFACTURER RANKING: Toyota closing on title in Macau"))
+        self.assertTrue(build.mostly_latin("Frédéric Vervisch signs for Adelaide finale"))
+
+    def test_gt_and_le_mans_family_series(self) -> None:
+        # real headlines and tags seen in the feed check on 2026-11-20
+        matcher = build.Matcher(build.load_config())
+        self.assertEqual(matcher.series_in("Sorensen: Bit of a Shock to Hear of Aston Macau Entry", ["FIA GT World Cup"]), ["gt-world-cup"])
+        self.assertEqual(matcher.series_in("Car Blanche expanding to Asian Le Mans in partnership with RSL"), ["asian-lms"])
+        self.assertEqual(matcher.series_in("Elite Completes Landmark GT3 & GT4 Championship Double", ["GT Open", "GT4 European Series"]), ["gt4", "gt-open"])
+        self.assertEqual(matcher.series_in("Sellers explains Pilot Challenge plans"), ["pilot-challenge"])
+
     def test_acronyms_are_case_sensitive(self) -> None:
         pat = build.keyword_pattern(["WEC", "Le Mans"])
         self.assertTrue(pat.search("WEC title fight"))

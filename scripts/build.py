@@ -36,7 +36,7 @@ STATE_FILE = ROOT / "state" / "feeds.json"
 STALE_REPORT = ROOT / "state" / "stale.md"
 
 SCHEMA_VERSION = 1
-RULES_VERSION = 2  # bump when the matching code changes, so cached feeds are re-read
+RULES_VERSION = 3  # bump when the matching code changes, so cached feeds are re-read
 DUP_WINDOW_HOURS = 72     # two outlets' headlines this close together may be the same story
 DUP_SIMILARITY = 0.3      # share of meaningful headline words in common (Jaccard) to count as the same story
 DUP_MIN_SHARED = 3        # ...and at least this many words in common, so short headlines need real overlap
@@ -93,6 +93,15 @@ def parse_time(text: str | None) -> datetime | None:
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(timezone.utc)
+
+
+def mostly_latin(text: str) -> bool:
+    """True when most letters are Latin script; the news is English, some feeds mix in Chinese or Japanese posts."""
+    letters = [c for c in text if c.isalpha()]
+    if not letters:
+        return False
+    latin = sum(1 for c in letters if "LATIN" in unicodedata.name(c, ""))
+    return latin / len(letters) >= 0.5
 
 
 def clean_title(raw: str | None) -> str:
@@ -323,7 +332,7 @@ def items_for_feed(feed: dict[str, Any], entries: list[dict[str, Any]], st: dict
     items = []
     for e in entries:
         title, url = clean_title(e["title"]), canonical_url(e["url"])
-        if not title or not url:
+        if not title or not url or not mostly_latin(title):
             continue
         when = parse_time(e["time"])
         if when is None:
