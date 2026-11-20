@@ -77,10 +77,20 @@ FEEDS: list[tuple[str, str]] = [
     ('Motorsport Week', 'https://www.motorsportweek.com/category/wec/feed/'),
     ('Motorsport Week', 'https://www.motorsportweek.com/category/sportscars/feed/'),
     ('Speedcafe', 'https://speedcafe.com/category/gt-world-challenge-australia/feed/'),
+    ('DTM (official)', 'https://www.dtm.com/en/feed'),
+    ('DTM (official)', 'https://www.dtm.com/en/rss'),
+    ('DTM (official)', 'https://www.dtm.com/rss.xml'),
+    ('DTM (official)', 'https://www.dtm.com/en/news/rss'),
+    ('Super GT (official)', 'https://supergt.net/feed'),
+    ('Super GT (official)', 'https://supergt.net/en/feed'),
+    ('Super GT (official)', 'https://supergt.net/rss'),
+    ('Super GT (official)', 'https://supergt.net/news/rss'),
 ]
 
 # Terms pages are found by following "terms / legal / conditions / impressum" links on each homepage.
 HOMES: list[tuple[str, str]] = [
+    ('DTM (official)', 'https://www.dtm.com/en'),
+    ('Super GT (official)', 'https://supergt.net/'),
     ('SRO official (gt-world-challenge-europe.com)', 'https://www.gt-world-challenge-europe.com/'),
     ('SRO official (gt-world-challenge-america.com)', 'https://www.gt-world-challenge-america.com/'),
     ('SRO official (gt-world-challenge-asia.com)', 'https://www.gt-world-challenge-asia.com/'),

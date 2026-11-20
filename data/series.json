@@ -110,6 +110,23 @@
       ]
     },
     {
+      "id": "dtm",
+      "name": "DTM",
+      "keywords": [
+        "DTM",
+        "Deutsche Tourenwagen Masters"
+      ]
+    },
+    {
+      "id": "super-gt",
+      "name": "Super GT",
+      "keywords": [
+        "Super GT",
+        "GT500",
+        "GT300"
+      ]
+    },
+    {
       "id": "nls",
       "name": "Nürburgring Endurance Series",
       "keywords": [
