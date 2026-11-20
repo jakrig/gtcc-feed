@@ -33,83 +33,50 @@ ORIGIN = "https://jakrig.github.io"
 TIMEOUT_S = 25
 
 FEEDS: list[tuple[str, str]] = [
-    # (site, url). Enabled feeds are listed again so the report shows their category tags.
-    ("Sportscar365", "https://sportscar365.com/feed/"),
-    ("RACER", "https://racer.com/feed/"),
-    ("TouringCarTimes", "https://www.touringcartimes.com/feed/"),
-    ("Motorsport Week", "https://www.motorsportweek.com/feed/"),
-    ("GT Report", "https://www.gt-report.com/feed/"),
-    ("Dailysportscar", "https://www.dailysportscar.com/feed"),
-    ("Speedcafe", "https://speedcafe.com/feed/"),
-    ("FIA", "https://www.fia.com/rss/news"),
-    # NLS / Nürburgring 24h
-    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/language/en/feed/"),
-    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/language/de/feed/"),
-    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/en/feed/"),
-    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/en/feed/"),
-    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/feed/"),
-    ("Speedweek", "https://www.speedweek.com/en/rss"),
-    ("Speedweek", "https://www.speedweek.com/rss"),
-    ("GT Report", "https://www.gt-report.com/category/nls/feed/"),
-    ("GT Report", "https://www.gt-report.com/category/24h-nurburgring/feed/"),
-    # SRO: British GT, GT World Challenge, IGTC
-    ("British GT (official)", "https://www.britishgt.com/rss"),
-    ("British GT (official)", "https://www.britishgt.com/news/rss"),
-    ("British GT (official)", "https://www.britishgt.com/feed"),
-    ("GTWC Europe (official)", "https://www.gt-world-challenge-europe.com/rss"),
-    ("GTWC Europe (official)", "https://www.gt-world-challenge-europe.com/news/rss"),
-    ("GTWC America (official)", "https://www.gt-world-challenge-america.com/rss"),
-    ("SRO (official)", "https://www.sro-motorsports.com/rss"),
-    ("IGTC (official)", "https://www.intercontinentalgtchallenge.com/rss"),
-    ("Pit Debrief", "https://pitdebrief.com/feed/"),
-    ("Sportscar365", "https://sportscar365.com/sro/feed/"),
-    ("Sportscar365", "https://sportscar365.com/sro/world-challenge-america/feed/"),
-    ("Sportscar365", "https://sportscar365.com/sro/world-challenge-europe/feed/"),
-    ("Sportscar365", "https://sportscar365.com/sro/british-gt/feed/"),
-    ("Sportscar365", "https://sportscar365.com/imsa/feed/"),
-    ("Sportscar365", "https://sportscar365.com/other-series/feed/"),
-    ("Sportscar365", "https://sportscar365.com/other-series/creventic/feed/"),
-    ("GT Report", "https://www.gt-report.com/category/british-gt/feed/"),
-    ("GT Report", "https://www.gt-report.com/category/gt-world-challenge/feed/"),
-    # 24H Series
-    ("24H Series (official)", "https://www.24hseries.com/feed"),
-    ("24H Series (official)", "https://www.24hseries.com/rss"),
-    ("24H Series (official)", "https://www.24hseries.com/news/rss"),
-    # BTCC and endurance
-    ("TouringCars.net", "https://www.touringcars.net/feed/"),
-    ("Endurance-Info", "https://www.endurance-info.com/en/feed"),
-    ("Endurance-Info", "https://www.endurance-info.com/feed"),
-    # F2 / F3
-    ("FIA Formula 2 (official)", "https://www.fiaformula2.com/rss"),
-    ("FIA Formula 3 (official)", "https://www.fiaformula3.com/rss"),
-    ("Feeder Series", "https://www.feederseries.net/feed/"),
-    ("Formula Scout", "https://www.formulascout.com/feed"),
-    ("Formula Scout", "https://www.formulascout.com/feed/"),
-    ("Motorsport Week", "https://www.motorsportweek.com/category/formula-2/feed/"),
+    # Round 3 candidates (2026-11-20): broader English-language motorsport outlets.
+    ("The Checkered Flag", "https://www.thecheckeredflag.co.uk/feed/"),
+    ("RaceFans", "https://www.racefans.net/feed/"),
+    ("Motor Sport Magazine", "https://www.motorsportmagazine.com/feed/"),
+    ("Crash.net", "https://www.crash.net/rss/f1"),
+    ("Crash.net", "https://www.crash.net/rss/btcc"),
+    ("Crash.net", "https://www.crash.net/rss/feed"),
+    ("PlanetF1", "https://www.planetf1.com/feed"),
+    ("RacingNews365", "https://racingnews365.com/feed/news.xml"),
+    ("GPFans", "https://www.gpfans.com/en/rss.xml"),
+    ("GPblog", "https://www.gpblog.com/en/rss/index.xml"),
+    ("WTF1", "https://wtf1.com/feed/"),
+    ("F1i", "https://f1i.com/feed"),
+    ("GrandPrix247", "https://www.grandprix247.com/feed/"),
+    ("F1Technical", "https://www.f1technical.net/rss/news.xml"),
+    ("SnapLap", "https://snaplap.net/feed/"),
+    ("Formula Rapida", "https://www.formularapida.net/feed"),
+    ("Racecar Engineering", "https://www.racecar-engineering.com/feed/"),
+    ("SPEED SPORT", "https://speedsport.com/feed/"),
+    ("Motorsport UK (official)", "https://www.motorsportuk.org/feed/"),
+    ("24 Hours of Le Mans (official)", "https://www.24h-lemans.com/en/rss"),
+    ("Joe Saward", "https://joesaward.wordpress.com/feed/"),
 ]
 
 # Terms pages are found by following "terms / legal / conditions / impressum" links on each homepage.
 HOMES: list[tuple[str, str]] = [
-    ("Sportscar365", "https://sportscar365.com/"),
-    ("RACER", "https://racer.com/"),
-    ("TouringCarTimes", "https://www.touringcartimes.com/"),
-    ("Motorsport Week", "https://www.motorsportweek.com/"),
-    ("GT Report", "https://www.gt-report.com/"),
-    ("Dailysportscar", "https://www.dailysportscar.com/"),
-    ("Speedcafe", "https://speedcafe.com/"),
-    ("FIA", "https://www.fia.com/"),
-    ("NLS (official)", "https://www.nuerburgring-langstrecken-serie.de/"),
-    ("ADAC 24h Nürburgring (official)", "https://www.24h-rennen.de/en/"),
-    ("Speedweek", "https://www.speedweek.com/en/"),
-    ("British GT (official)", "https://www.britishgt.com/"),
-    ("SRO (official)", "https://www.sro-motorsports.com/"),
-    ("Pit Debrief", "https://pitdebrief.com/"),
-    ("24H Series (official)", "https://www.24hseries.com/"),
-    ("TouringCars.net", "https://www.touringcars.net/"),
-    ("Endurance-Info", "https://www.endurance-info.com/"),
-    ("Feeder Series", "https://www.feederseries.net/"),
-    ("Formula Scout", "https://www.formulascout.com/"),
-    ("FIA Formula 2 (official)", "https://www.fiaformula2.com/"),
+    ("The Checkered Flag", "https://www.thecheckeredflag.co.uk/"),
+    ("RaceFans", "https://www.racefans.net/"),
+    ("Motor Sport Magazine", "https://www.motorsportmagazine.com/"),
+    ("Crash.net", "https://www.crash.net/"),
+    ("PlanetF1", "https://www.planetf1.com/"),
+    ("RacingNews365", "https://racingnews365.com/"),
+    ("GPFans", "https://www.gpfans.com/en/"),
+    ("GPblog", "https://www.gpblog.com/en"),
+    ("WTF1", "https://wtf1.com/"),
+    ("F1i", "https://f1i.com/"),
+    ("GrandPrix247", "https://www.grandprix247.com/"),
+    ("F1Technical", "https://www.f1technical.net/"),
+    ("SnapLap", "https://snaplap.net/"),
+    ("Formula Rapida", "https://www.formularapida.net/"),
+    ("Racecar Engineering", "https://www.racecar-engineering.com/"),
+    ("SPEED SPORT", "https://speedsport.com/"),
+    ("Motorsport UK (official)", "https://www.motorsportuk.org/"),
+    ("24 Hours of Le Mans (official)", "https://www.24h-lemans.com/en"),
 ]
 TERMS_LINK = re.compile(r"terms|legal|conditions|condizioni|impressum|nutzungsbedingungen|agb|disclaimer|copyright|mentions", re.I)
 
@@ -198,13 +165,18 @@ def find_terms(site: str, home: str) -> list[dict[str, Any]]:
         return [{"site": site, "url": home, "error": f"{type(err).__name__}: {err}"[:200]}]
     if status != 200:
         return [{"site": site, "url": home, "status": status}]
-    links = []
+    found: list[tuple[int, str]] = []
     for href, text in re.findall(r'(?is)<a\b[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', body.decode("utf-8", "replace")):
-        label = re.sub(r"<[^>]+>", " ", text)
-        if TERMS_LINK.search(href) or TERMS_LINK.search(label):
-            url = urllib.parse.urljoin(final, href)
-            if url.startswith("http") and url not in links:
-                links.append(url)
+        label = re.sub(r"<[^>]+>", " ", text).strip()
+        url = urllib.parse.urljoin(final, href)
+        path = urllib.parse.urlsplit(url).path
+        if not url.startswith("http") or any(u == url for _, u in found):
+            continue
+        if TERMS_LINK.search(label) and len(label) < 40:
+            found.append((0, url))  # footer link labelled "Terms", "Legal", ...
+        elif TERMS_LINK.search(path) and len(path) < 45:
+            found.append((1, url))  # short address like /terms-of-use, not a news article
+    links = [u for _, u in sorted(found, key=lambda f: f[0])]
     if not links:
         return [{"site": site, "url": home, "status": status, "sentences": ["(no terms/legal link found on the homepage)"]}]
     return [check_terms(site, u) for u in links[:3]]
