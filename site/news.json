@@ -1,7 +1,325 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T23:58:20Z",
+  "updated": "2026-11-21T07:00:32Z",
   "items": [
+    {
+      "title": "Lawson surprised by Racing Bulls pace in Vegas",
+      "source": "Speedcafe",
+      "time": "2026-11-21T06:59:58Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-racing-bulls-qualifying-reaction-arvid-lindblad-comments/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Norris fears passing will be impossible due to “insane” straight-line speed deficit | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-21T06:56:50Z",
+      "url": "https://www.racefans.net/2026/11/21/norris-fears-passing-will-be-impossible-due-to-insane-straight-line-speed-deficit/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "George Russell predicts wide-open Las Vegas GP amid calls for ‘offline’ Mercedes talks",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T06:50:45Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/george-russell-offline-mercedes-talks/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oscar Piastri explains shock split as F1 team release statement on driver exit - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-21T06:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093146/f1-news-today-oscar-piastri-split-mclaren-alpine-paul-aron/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lewis Hamilton reveals Ferrari floor damage and engine issues dogged him Las Vegas GP qualifying",
+      "source": "Crash.net",
+      "time": "2026-11-21T06:41:16Z",
+      "url": "https://www.crash.net/f1/news/1110519/1/lewis-hamilton-reveals-ferrari-floor-damage-and-engine-issues-dogged-him-las",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kimi Antonelli takes little from ‘unhappy’ and ‘weird’ Las Vegas qualifying",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T06:29:50Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/kimi-antonelli-weird-las-vegas-f1-qualifying/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Russell blasts Verstappen for ‘screwing’ rivals over",
+      "source": "Speedcafe",
+      "time": "2026-11-21T06:15:48Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-george-russell-max-verstappen-comments-clash-incident-practice-penalty-latest/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“Somebody’s got to stand up to that guy” says Russell after latest Verstappen clash | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-21T06:10:53Z",
+      "url": "https://www.racefans.net/2026/11/21/somebodys-got-to-stand-up-to-that-guy-says-russell-after-latest-verstappen-clash/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110518/1/george-russell-reignites-max-verstappen-feud-somebodys-got-stand-guy",
+          "time": "2026-11-21T06:15:19Z"
+        }
+      ]
+    },
+    {
+      "title": "Hamilton reveals car damage, Leclerc “very angry” as Ferrari pair fail to reach Q3 | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-21T05:48:56Z",
+      "url": "https://www.racefans.net/2026/11/21/hamilton-reveals-car-damage-leclerc-very-angry-as-ferrari-pair-fail-to-reach-q3/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 F1 Academy standings after the Reverse Grid Race at the Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T05:47:56Z",
+      "url": "https://www.pitdebrief.com/post/2026-f1-academy-standings-after-the-reverse-grid-race-at-the-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Antonelli tops Vegas quali, penalty promotes Verstappen to pole",
+      "source": "Speedcafe",
+      "time": "2026-11-21T05:18:58Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-qualifying-results-pole-position-kimi-antonelli-max-verstappen-george-russell/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kimi Antonelli takes stunning Las Vegas pole as Ferrari implodes",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T05:15:31Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/kimi-antonelli-takes-stunning-las-vegas-pole-as-ferrari-implodes/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 | 2026 Las Vegas GP | Qualifying | Antonelli fastest, Verstappen starts on pole; Ferraris out in Q2",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T05:10:46Z",
+      "url": "https://www.pitdebrief.com/post/f1-2026-las-vegas-gp-qualifying-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110511/1/max-verstappen-las-vegas-gp-pole-ferrari-suffers-qualifying-shocker",
+          "time": "2026-11-21T05:12:23Z"
+        }
+      ]
+    },
+    {
+      "title": "2026 F1 Las Vegas GP | Qualifying Results",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T05:07:40Z",
+      "url": "https://www.pitdebrief.com/post/2026-f1-las-vegas-gp-qualifying-results/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen warned over Russell incident, cleared over Colapinto incident in practice | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-21T04:17:29Z",
+      "url": "https://www.racefans.net/2026/11/21/verstappen-warned-over-russell-incident-cleared-over-colapinto-incident-in-practice/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kim Kardashian arrives at Las Vegas Grand Prix to support boyfriend Lewis Hamilton",
+      "source": "GPFans",
+      "time": "2026-11-21T04:09:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093156/kim-kardashian-2026-f1-las-vegas-grand-prix-lewis-hamilton/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Academy | 2026 Las Vegas GP | Reverse Grid Race | Larsen charges from ninth to victory",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T03:05:28Z",
+      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-reverse-grid-race-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Academy | 2026 Las Vegas GP | Reverse Grid Race results",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T02:55:43Z",
+      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-reverse-grid-race-results/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/alba-larsen-f1-academy-reverse-grid-win/",
+          "time": "2026-11-21T02:55:55Z"
+        }
+      ]
+    },
+    {
+      "title": "George Russell tops Las Vegas FP3 but faces stewards inquiry after Max Verstappen incident",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T02:31:43Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/george-russell-tops-las-vegas-fp3-but-faces-stewards-inquiry-after-max-verstappen-incident/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Russell comfortably leads Mercedes one-two, Verstappen faces two investigations | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-21T02:08:06Z",
+      "url": "https://www.racefans.net/2026/11/21/russell-comfortably-leads-mercedes-one-two-verstappen-faces-two-investigations/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Russell dominates final Vegas GP practice",
+      "source": "RACER",
+      "time": "2026-11-21T01:53:21Z",
+      "url": "https://racer.com/2026/11/20/russell-dominates-final-vegas-gp-practice",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110478/1/max-verstappen-warned-george-russell-incident-final-las-vegas-f1-practice",
+          "time": "2026-11-21T04:27:06Z"
+        }
+      ]
+    },
+    {
+      "title": "F1 | 2026 Las Vegas GP | FP3 | Russell fastest by 0.9s; Verstappen involved in multiple incidents",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T01:38:48Z",
+      "url": "https://www.pitdebrief.com/post/f1-2026-las-vegas-gp-fp3-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 F1 Las Vegas GP | FP3 results",
+      "source": "Pit Debrief",
+      "time": "2026-11-21T01:35:10Z",
+      "url": "https://www.pitdebrief.com/post/2026-f1-las-vegas-gp-fp3-results/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fp3-practice-results-mercedes-george-russell-kimi-antonelli/",
+          "time": "2026-11-21T01:48:39Z"
+        }
+      ]
+    },
+    {
+      "title": "F1 Las Vegas Grand Prix weather forecast: Latest from the Nevada desert",
+      "source": "GPFans",
+      "time": "2026-11-21T01:00:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093024/f1-las-vegas-grand-prix-weather-forecast-latest/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Palmowski targets Campos Racing Teams’ title after record-breaking 2026 F1 Academy Las Vegas pole",
       "source": "Pit Debrief",
@@ -24,6 +342,18 @@
         "ferrari-challenge"
       ],
       "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Porsche: GT World Cup Title the “One We Want”",
+      "source": "Sportscar365",
+      "time": "2026-11-20T23:00:16Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/porsche-gt-world-cup-title-the-one-we-want/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
       "photo": null,
       "also": []
     },
@@ -770,6 +1100,11 @@
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/20/max-verstappen-reveals-reason-for-reluctant-las-vegas-practice/",
           "time": "2026-11-20T17:00:00Z"
+        },
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-russell-tops-final-practice-las-vegas-after-verstappen-clash",
+          "time": "2026-11-21T02:13:00Z"
         }
       ]
     },
@@ -1018,6 +1353,11 @@
           "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093087/f1-results-today-las-vegas-grand-prix-2026-practice-times-positions-fp1-fp2/",
           "time": "2026-11-20T05:17:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093151/f1-results-today-2026-las-vegas-grand-prix-fp3-times-and-positions/",
+          "time": "2026-11-21T01:45:00Z"
         }
       ]
     },
@@ -1227,8 +1567,53 @@
         },
         {
           "source": "Crash.net",
-          "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
-          "time": "2026-11-20T23:30:00Z"
+          "url": "https://www.crash.net/f1/results/1110452/1/f1-las-vegas-grand-prix-full-final-practice-results",
+          "time": "2026-11-21T01:40:00Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-fp3-results/",
+          "time": "2026-11-21T01:50:08Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/f1-academy-2026-las-vegas-grand-prix-reverse-grid-race-results/",
+          "time": "2026-11-21T03:01:28Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/f1-2026-las-vegas-grand-prix-qualifying-results/",
+          "time": "2026-11-21T05:05:36Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093152/f1-qualifying-results-las-vegas-grand-prix-2026-times-positions/",
+          "time": "2026-11-21T05:10:00Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/21/2026-las-vegas-grand-prix-grid/",
+          "time": "2026-11-21T05:12:03Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/results/1110512/1/f1-las-vegas-grand-prix-full-qualifying-results",
+          "time": "2026-11-21T05:15:00Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/21/antonelli-fastest-but-verstappen-takes-pole-for-las-vegas-grand-prix/",
+          "time": "2026-11-21T05:19:52Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
+          "time": "2026-11-21T05:36:58Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093150/channel-4-f1-highlights-today-2026-las-vegas-grand-prix-free-uk/",
+          "time": "2026-11-21T05:55:00Z"
         }
       ]
     },
@@ -1495,6 +1880,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110267/1/five-f1-drivers-carrying-grid-penalties-las-vegas-gp",
           "time": "2026-11-20T05:30:23Z"
+        },
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/21/antonelli-struts-his-stuff-again-but-verstappen-takes-las-vegas-gp-pole-via-penalty",
+          "time": "2026-11-21T05:06:15Z"
         }
       ]
     },
@@ -1589,6 +1979,11 @@
           "source": "RACER",
           "url": "https://racer.com/2026/11/19/first-las-vegas-grand-prix-practice-washed-out",
           "time": "2026-11-20T01:42:18Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
+          "time": "2026-11-21T03:00:00Z"
         }
       ]
     },
@@ -1668,6 +2063,11 @@
           "source": "Sportscar365",
           "url": "https://sportscar365.com/sro/toyota-poised-to-claim-first-gt4-manufacturer-ranking-title/",
           "time": "2026-11-19T21:00:41Z"
+        },
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/21/toyota-set-to-clinch-gt4-manufacturer-title.html",
+          "time": "2026-11-21T03:06:49Z"
         }
       ]
     },
