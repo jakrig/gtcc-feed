@@ -1,7 +1,115 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-21T15:20:19Z",
+  "updated": "2026-11-21T21:38:12Z",
   "items": [
+    {
+      "title": "Mercedes F1 boss Toto Wolff explains why George Russell was refused help in qualifying with crucial trick",
+      "source": "GPFans",
+      "time": "2026-11-21T20:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093199/f1-toto-wolff-mercedes-george-russell-max-verstappen-kimi-antonelli-las-vegas-qualifying/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso admits to safety concern at the F1 Las Vegas GP",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T20:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/alonso-safety-concern-f1-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen gives blunt reaction after being blasted by George Russell",
+      "source": "GPFans",
+      "time": "2026-11-21T18:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093191/f1-max-verstappen-george-russell-las-vegas-grand-prix-reaction-fp3-agreement/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "All options open for Penske as it works to secure its sports car racing future",
+      "source": "RACER",
+      "time": "2026-11-21T18:18:50Z",
+      "url": "https://racer.com/2026/11/21/penske-working-to-maintain-a-long-term-presence-in-imsa",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oliver Bearman describes ‘big issue’ with Haas car that caused ‘scary’ F1 Las Vegas incident",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T18:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/bearman-describes-big-ssie-with-haas-car-that-caused-scary-f1-las-vegas-incident/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA confirms 35-place grid penalty for British F1 star at Las Vegas Grand Prix",
+      "source": "GPFans",
+      "time": "2026-11-21T17:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093194/fia-ollie-bearman-haas-f1-las-vegas-grand-prix-35-place-grid-penalty/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari collision results in bizarre F1 crash",
+      "source": "GPFans",
+      "time": "2026-11-21T16:28:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093183/f1-ferrari-crash-barcelona-catalunya-f2004-499p-modificata-finali-mondiali/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Jacques Villeneuve delivers stern warning to George Russell over Max Verstappen feud",
+      "source": "Motorsport Week",
+      "time": "2026-11-21T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/21/jacques-villeneuve-delivers-warning-to-george-russell-over-max-verstappen-feud/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Finali Mondiali Barcelona: Saturday Notebook",
+      "source": "Dailysportscar",
+      "time": "2026-11-21T15:59:30Z",
+      "url": "https://www.dailysportscar.com/2026/11/21/finali-mondiali-barcelona-saturday-notebook.html",
+      "series": [
+        "ferrari-challenge"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Oscar Piastri explains shock split as F1 team release statement on driver exit - F1 News Today",
       "source": "GPFans",
@@ -168,10 +276,16 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/max-verstappen-addresses-issues-red-bull-cant-fix/",
+          "time": "2026-11-21T17:00:00Z"
+        }
+      ]
     },
     {
-      "title": "#TWISC The Week In Sportscars Podcast: 20 November",
+      "title": "#TWISC The Week In Sportscars Podcast: 20th November Edition",
       "source": "Dailysportscar",
       "time": "2026-11-21T10:05:20Z",
       "url": "https://www.dailysportscar.com/2026/11/21/twisc-the-week-in-sportscars-podcast-20-november.html",
@@ -204,7 +318,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/21/isack-hadjar-admits-red-bull-looked-stupid-at-the-f1-las-vegas-gp-qualifying/",
+          "time": "2026-11-21T19:00:00Z"
+        }
+      ]
     },
     {
       "title": "Drivers expect Monza-style race at Las Vegas with “extreme” slipstream | Formula 1",
@@ -258,7 +378,18 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/ferrari-duo-very-disappointed-with-double-q2-exit-in-f1-qualifying-for-2026-las-vegas-gp/",
+          "time": "2026-11-21T18:07:07Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093184/f1-charles-leclerc-ferrari-las-vegas-grand-prix-angry-qualifying/",
+          "time": "2026-11-21T19:58:00Z"
+        }
+      ]
     },
     {
       "title": "Marciello: Sunday’s Start Will Be “Critical” to Victory in Macau",
@@ -2419,6 +2550,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-updates-fp3-and-qualifying",
           "time": "2026-11-21T03:00:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093200/martin-brundle-sky-sports-f1-absent-las-vegas-grand-prix-2026/",
+          "time": "2026-11-21T21:28:00Z"
         }
       ]
     },
@@ -2858,7 +2994,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-valtteri-bottas-future-cadillac-signing-comments-marcin-budkowski-colton-herta/",
+          "time": "2026-11-21T18:55:05Z"
+        }
+      ]
     },
     {
       "title": "Cadillac finally confirms F1 2027 driver line-up after huge speculation",

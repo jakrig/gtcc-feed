@@ -4,13 +4,13 @@
       "https://sportscar365.com/imsa/iwsc/inter-europol-expands-to-two-car-full-season-effort/": "2026-11-20T15:56:37Z",
       "https://sportscar365.com/other-series/gt-world-cup/macau-friday-notebook-8/": "2026-11-20T11:43:45Z",
       "https://sportscar365.com/other-series/gt-world-cup/heinrich-pressure-was-on-to-take-pole-for-porsche/": "2026-11-20T11:01:05Z",
-      "https://sportscar365.com/other-series/gt-world-cup/heinrich-storms-to-superpole-in-macau/": "2026-11-20T09:28:27Z",
       "https://sportscar365.com/imsa/ferrari-challenge-na/barcelona-crowns-green-rosser-ferrari-challenge-champions/": "2026-11-20T23:23:55Z",
       "https://sportscar365.com/imsa/ferrari-challenge-na/kozyra-clinches-ferrari-challenge-na-coppa-shell-am-title/": "2026-11-20T14:30:01Z",
       "https://sportscar365.com/other-series/gt-world-cup/porsche-gt-world-cup-title-the-one-we-want/": "2026-11-20T23:00:16Z",
       "https://sportscar365.com/other-series/gt-world-cup/marciello-sundays-start-will-be-critical-to-victory-in-macau/": "2026-11-21T08:31:04Z",
       "https://sportscar365.com/videos/watch-the-full-length-replay-of-macau-qualification-race-2/": "2026-11-21T07:41:40Z",
-      "https://sportscar365.com/other-series/gt-world-cup/heinrich-takes-controlling-win-in-qualification-race/": "2026-11-21T07:06:38Z"
+      "https://sportscar365.com/other-series/gt-world-cup/heinrich-takes-controlling-win-in-qualification-race/": "2026-11-21T07:06:38Z",
+      "https://sportscar365.com/other-series/mustang-single-make/zurlinden-to-assume-ford-racing-global-director-role/": "2026-11-21T20:04:43Z"
     },
     "items": [
       {
@@ -492,25 +492,36 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "f5401fe8e79ccad0",
-    "etag": "W/\"089bbdd1abbe2751e23c349bfed910b3\"",
-    "last_modified": "Sat, 21 Nov 2026 09:22:13 GMT"
+    "etag": "W/\"94c6041214a2206ede69db13b5f7c3b7\"",
+    "last_modified": "Sat, 21 Nov 2026 20:12:15 GMT"
   },
   "racer": {
     "first_seen": {
-      "https://racer.com/2026/11/20/unanimous-agreement-reached-on-2-1l-turbo-v8s-for-f1-in-2030": "2026-11-20T18:47:52Z",
-      "https://racer.com/2026/11/20/o-ward-power-test-at-kansas-speedway": "2026-11-20T23:14:56Z",
-      "https://racer.com/2026/11/20/hendrick-team-changes-for-byron-bowman-going-beyond-new-crew-chiefs-for-2027": "2026-11-20T18:20:24Z",
       "https://racer.com/2026/11/21/antonelli-struts-his-stuff-again-but-verstappen-takes-las-vegas-gp-pole-via-penalty": "2026-11-21T05:06:15Z",
       "https://racer.com/2026/11/20/russell-dominates-final-vegas-gp-practice": "2026-11-21T01:53:21Z",
-      "https://racer.com/2026/11/20/nascar-confirms-2027-national-series-sport-and-technical-regulations": "2026-11-20T20:45:16Z",
       "https://racer.com/2026/11/21/mercedes-misses-the-cues-but-heads-the-queue-in-vegas": "2026-11-21T08:55:00Z",
       "https://racer.com/2026/11/20/russell-defends-fp3-run-in-with-verstappen-somebody-has-got-to-stand-up-to-that-guy-": "2026-11-21T07:24:23Z",
       "https://racer.com/2026/11/21/holtger-krajicek-minder-post-top-qualifying-times-for-corr-firebird-desert-open": "2026-11-21T15:05:08Z",
-      "https://racer.com/2026/11/21/ferrari-drivers-seeing-greater-pu-deficit-than-expected-after-double-q2-elimination": "2026-11-21T08:15:26Z"
+      "https://racer.com/2026/11/21/ferrari-drivers-seeing-greater-pu-deficit-than-expected-after-double-q2-elimination": "2026-11-21T08:15:26Z",
+      "https://racer.com/2026/11/21/penske-working-to-maintain-a-long-term-presence-in-imsa": "2026-11-21T18:18:50Z",
+      "https://racer.com/2026/11/21/rll-s-indy-500-downsizing-for-2027-comes-with-a-twist": "2026-11-21T17:27:01Z",
+      "https://racer.com/2026/11/21/after-a-breakthrough-season-ty-gibbs-feels-poised-to-take-another-step-forward": "2026-11-21T16:06:41Z",
+      "https://racer.com/2026/11/21/dustin-williams-takes-top-award-as-automotive-creator-community-is-celebrated-at-racer-creator-awards": "2026-11-21T15:38:22Z"
     },
     "items": [
+      {
+        "title": "All options open for Penske as it works to secure its sports car racing future",
+        "source": "RACER",
+        "time": "2026-11-21T18:18:50Z",
+        "url": "https://racer.com/2026/11/21/penske-working-to-maintain-a-long-term-presence-in-imsa",
+        "series": [
+          "imsa"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Mercedes misses the cues but heads the queue in Vegas",
         "source": "RACER",
@@ -855,7 +866,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "80a32031ab0824f0",
     "etag": null,
     "last_modified": null
@@ -919,25 +930,80 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "046337ec7127b475",
     "etag": "\"19b094830884d39b246cddb15954b4a6\"",
     "last_modified": "Sat, 21 Nov 2026 14:22:57 GMT"
   },
   "motorsportweek": {
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/21/george-russell-offline-mercedes-talks/": "2026-11-21T06:50:45Z",
-      "https://www.motorsportweek.com/2026/11/21/kimi-antonelli-weird-las-vegas-f1-qualifying/": "2026-11-21T06:29:50Z",
       "https://www.motorsportweek.com/2026/11/21/lando-norris-demands-urgent-mclaren-improvements-amid-qualifying-disappointment-in-las-vegas/": "2026-11-21T15:00:00Z",
       "https://www.motorsportweek.com/2026/11/21/max-verstappen-and-george-russell-resume-war-of-words-following-f1-las-vegas-gp-practice-clash/": "2026-11-21T13:30:00Z",
       "https://www.motorsportweek.com/2026/11/21/marco-bezzecchi-breaks-lap-record-to-claim-portuguese-motogp-pole-position/": "2026-11-21T12:08:12Z",
-      "https://www.motorsportweek.com/2026/11/21/lewis-hamilton-laments-las-vegas-f1-qualifying/": "2026-11-21T12:00:00Z",
-      "https://www.motorsportweek.com/2026/11/21/alex-marquez-tops-rain-affected-final-portuguese-motogp-practice/": "2026-11-21T10:56:40Z",
-      "https://www.motorsportweek.com/2026/11/21/charles-leclerc-lambasts-ferrari-mistakes-that-caused-f1-las-vegas-qualifying/": "2026-11-21T10:37:32Z",
-      "https://www.motorsportweek.com/2026/11/21/cadillac-push-back-engine-f1-v8-return/": "2026-11-21T09:00:00Z",
-      "https://www.motorsportweek.com/2026/11/21/max-verstappen-weird-red-bull/": "2026-11-21T07:08:42Z"
+      "https://www.motorsportweek.com/2026/11/21/alonso-safety-concern-f1-las-vegas/": "2026-11-21T20:00:00Z",
+      "https://www.motorsportweek.com/2026/11/21/after-his-sprint-crash-marc-marquez-can-still-win-the-2026-motogp-title-in-portugal/": "2026-11-21T19:30:00Z",
+      "https://www.motorsportweek.com/2026/11/21/isack-hadjar-admits-red-bull-looked-stupid-at-the-f1-las-vegas-gp-qualifying/": "2026-11-21T19:00:00Z",
+      "https://www.motorsportweek.com/2026/11/21/bearman-describes-big-ssie-with-haas-car-that-caused-scary-f1-las-vegas-incident/": "2026-11-21T18:00:00Z",
+      "https://www.motorsportweek.com/2026/11/21/max-verstappen-addresses-issues-red-bull-cant-fix/": "2026-11-21T17:00:00Z",
+      "https://www.motorsportweek.com/2026/11/21/jacques-villeneuve-delivers-warning-to-george-russell-over-max-verstappen-feud/": "2026-11-21T16:00:00Z",
+      "https://www.motorsportweek.com/2026/11/21/marco-bezzecchi-claims-portimao-motogp-sprint-victory-as-marc-marquez-crashes-on-brink-of-title/": "2026-11-21T15:48:35Z"
     },
     "items": [
+      {
+        "title": "Fernando Alonso admits to safety concern at the F1 Las Vegas GP",
+        "source": "Motorsport Week",
+        "time": "2026-11-21T20:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/21/alonso-safety-concern-f1-las-vegas/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Isack Hadjar admits Red Bull looked ‘stupid’ at the F1 Las Vegas GP qualifying",
+        "source": "Motorsport Week",
+        "time": "2026-11-21T19:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/21/isack-hadjar-admits-red-bull-looked-stupid-at-the-f1-las-vegas-gp-qualifying/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Oliver Bearman describes ‘big issue’ with Haas car that caused ‘scary’ F1 Las Vegas incident",
+        "source": "Motorsport Week",
+        "time": "2026-11-21T18:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/21/bearman-describes-big-ssie-with-haas-car-that-caused-scary-f1-las-vegas-incident/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen addresses issues Red Bull ‘can’t fix’ ahead of F1 Las Vegas GP",
+        "source": "Motorsport Week",
+        "time": "2026-11-21T17:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/21/max-verstappen-addresses-issues-red-bull-cant-fix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Jacques Villeneuve delivers stern warning to George Russell over Max Verstappen feud",
+        "source": "Motorsport Week",
+        "time": "2026-11-21T16:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/21/jacques-villeneuve-delivers-warning-to-george-russell-over-max-verstappen-feud/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Lando Norris demands urgent McLaren improvements amid qualifying disappointment in Las Vegas",
         "source": "Motorsport Week",
@@ -1676,10 +1742,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "7eb57fe9e1f0063b",
-    "etag": "\"7b378f4c743851171dba875b3e3cf32b\"",
-    "last_modified": "Sat, 21 Nov 2026 15:00:00 GMT"
+    "etag": "\"40a4b8387101580ae60c0f623579aaba\"",
+    "last_modified": "Sat, 21 Nov 2026 20:00:00 GMT"
   },
   "dailysportscar": {
     "first_seen": {
@@ -1688,15 +1754,26 @@
       "https://www.dailysportscar.com/2026/11/20/butchers-block-how-ferraris-astonishing-corse-clienti-programme-works.html": "2026-11-20T15:10:36Z",
       "https://www.dailysportscar.com/2026/11/20/inter-europol-expands-to-two-car-imsa-programme.html": "2026-11-20T15:04:10Z",
       "https://www.dailysportscar.com/2026/11/20/is-peugeot-set-for-a-sudden-wec-exit.html": "2026-11-20T08:54:48Z",
-      "https://www.dailysportscar.com/2026/11/20/heinrich-takes-macau-pole-in-ao-by-absolute-porsche.html": "2026-11-20T08:54:46Z",
       "https://www.dailysportscar.com/2026/11/21/laurin-heinrich-porsches-2026-macau-prep-the-best-ever.html": "2026-11-20T23:41:46Z",
       "https://www.dailysportscar.com/2026/11/21/maro-engels-perfect-dozen.html": "2026-11-20T23:34:57Z",
       "https://www.dailysportscar.com/2026/11/21/toyota-set-to-clinch-gt4-manufacturer-title.html": "2026-11-21T03:06:49Z",
       "https://www.dailysportscar.com/2026/11/21/fia-gt-world-cup-saturday-paddock-notes.html": "2026-11-21T11:08:08Z",
       "https://www.dailysportscar.com/2026/11/21/twisc-the-week-in-sportscars-podcast-20-november.html": "2026-11-21T10:05:20Z",
-      "https://www.dailysportscar.com/2026/11/21/heinrich-fends-off-marciello-for-qualifying-race-win.html": "2026-11-21T07:10:17Z"
+      "https://www.dailysportscar.com/2026/11/21/heinrich-fends-off-marciello-for-qualifying-race-win.html": "2026-11-21T07:10:17Z",
+      "https://www.dailysportscar.com/2026/11/21/finali-mondiali-barcelona-saturday-notebook.html": "2026-11-21T15:59:30Z"
     },
     "items": [
+      {
+        "title": "Finali Mondiali Barcelona: Saturday Notebook",
+        "source": "Dailysportscar",
+        "time": "2026-11-21T15:59:30Z",
+        "url": "https://www.dailysportscar.com/2026/11/21/finali-mondiali-barcelona-saturday-notebook.html",
+        "series": [
+          "ferrari-challenge"
+        ],
+        "circuit": "barcelona",
+        "photo": null
+      },
       {
         "title": "FIA GT World Cup: Saturday Paddock Notes",
         "source": "Dailysportscar",
@@ -1709,7 +1786,7 @@
         "photo": null
       },
       {
-        "title": "#TWISC The Week In Sportscars Podcast: 20 November",
+        "title": "#TWISC The Week In Sportscars Podcast: 20th November Edition",
         "source": "Dailysportscar",
         "time": "2026-11-21T10:05:20Z",
         "url": "https://www.dailysportscar.com/2026/11/21/twisc-the-week-in-sportscars-podcast-20-november.html",
@@ -1975,10 +2052,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "464a5f0b4f66c3f7",
-    "etag": "\"15a93f5ebf609647a2c1b6b7cb98eb36\"",
-    "last_modified": "Sat, 21 Nov 2026 11:14:10 GMT"
+    "etag": "\"cd9204150295726d5400d105665c02b1\"",
+    "last_modified": "Sat, 21 Nov 2026 18:03:49 GMT"
   },
   "speedcafe": {
     "first_seen": {
@@ -1986,14 +2063,25 @@
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-george-russell-max-verstappen-comments-clash-incident-practice-penalty-latest/": "2026-11-21T06:15:48Z",
       "https://speedcafe.com/motorsport-news-2026-ta2-muscle-car-series-phillip-island-magic-saturday-race-2-support-categories-sports-sedans-hyper-racer-radical-cup-results-report/": "2026-11-21T05:51:09Z",
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-qualifying-results-pole-position-kimi-antonelli-max-verstappen-george-russell/": "2026-11-21T05:18:58Z",
-      "https://speedcafe.com/motorsport-news-2026-ta2-muscle-car-series-phillip-island-magic-saturday-race-1-ben-gomersall-win-alice-buckley-drama-results-report/": "2026-11-21T01:59:22Z",
       "https://speedcafe.com/speedway-news-2026-australian-sprintcar-championship-toowoomba-night-2-ryan-newton-champion-comments-reaction-results-report/": "2026-11-21T12:56:02Z",
       "https://speedcafe.com/ndrc-titles-hang-on-sunday-at-the-bend/": "2026-11-21T11:34:49Z",
       "https://speedcafe.com/strategic-partnership-to-grow-south-australian-drag-racing/": "2026-11-21T09:38:18Z",
       "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-mclaren-qualifying-reaction-lando-norris-comments/": "2026-11-21T07:30:55Z",
-      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-qualifying-ferrari-lewis-hamilton-charles-leclerc-what-happened-reason-bad/": "2026-11-21T07:21:28Z"
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-qualifying-ferrari-lewis-hamilton-charles-leclerc-what-happened-reason-bad/": "2026-11-21T07:21:28Z",
+      "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-valtteri-bottas-future-cadillac-signing-comments-marcin-budkowski-colton-herta/": "2026-11-21T18:55:05Z"
     },
     "items": [
+      {
+        "title": "Cadillac admits Bottas pace concerns delayed 2027 decision",
+        "source": "Speedcafe",
+        "time": "2026-11-21T18:55:05Z",
+        "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-valtteri-bottas-future-cadillac-signing-comments-marcin-budkowski-colton-herta/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Piastri sees points potential despite Vegas penalty",
         "source": "Speedcafe",
@@ -2413,9 +2501,9 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "7c61da9fc003defa",
-    "etag": "W/\"34765e6cf468fd9ca5b52948433307c8-gzip\"",
+    "etag": "W/\"47bb6d5c12a7a0fd5290df5d683dde44-gzip\"",
     "last_modified": null
   },
   "fia": {
@@ -2532,10 +2620,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "1472f4832a4b7473",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:17:51 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:34 GMT"
   },
   "british-gt-official": {
     "first_seen": {
@@ -2563,10 +2651,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "ace33186f8edec95",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:25 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:17 GMT"
   },
   "nls-official": {
     "first_seen": {
@@ -2582,7 +2670,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "9f0c5f3856f76ed0",
     "etag": "W/\"89717a4e9f79844251c97b548b783bf9\"",
     "last_modified": "Mon, 09 Nov 2026 09:11:52 GMT"
@@ -2657,14 +2745,13 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "ca63ca8af18241ba",
     "etag": "W/\"08039ad77e6ce173675caa164f5bc0d0-gzip\"",
     "last_modified": "Sat, 21 Nov 2026 07:05:36 GMT"
   },
   "pitdebrief": {
     "first_seen": {
-      "https://www.pitdebrief.com/post/2026-f1-academy-standings-after-the-reverse-grid-race-at-the-las-vegas-gp/": "2026-11-21T05:47:56Z",
       "https://www.pitdebrief.com/post/marciello-says-he-will-be-in-heinrichs-place-or-he-will-not-be-on-the-podium-in-2026-macau-fia-gt-world-cup-finale/": "2026-11-21T14:18:14Z",
       "https://www.pitdebrief.com/post/al-dhaheri-eyes-further-improvements-despite-triumphant-qualifying-race-win-at-2026-fia-fr-world-cup-in-macau/": "2026-11-21T13:48:46Z",
       "https://www.pitdebrief.com/post/2026-f3-season-review-jin-nakamura/": "2026-11-21T13:00:00Z",
@@ -2672,10 +2759,22 @@
       "https://www.pitdebrief.com/post/verstappen-discusses-tricky-qualifying-as-he-starts-on-pole-for-2026-f1-las-vegas-gp/": "2026-11-21T12:32:32Z",
       "https://www.pitdebrief.com/post/antonelli-not-really-happy-with-qualifying-performance-despite-fastest-time-at-2026-f1-las-vegas-gp/": "2026-11-21T12:22:19Z",
       "https://www.pitdebrief.com/post/2026-macau-gp-fia-fr-world-cup-qualifying-race-report-and-results/": "2026-11-21T08:52:41Z",
-      "https://www.pitdebrief.com/post/watch-full-replay-of-the-2026-macau-fia-gt-world-cup-qualification-race/": "2026-11-21T08:22:08Z",
-      "https://www.pitdebrief.com/post/2026-macau-gp-fia-gt-world-cup-qualification-race-report-and-results/": "2026-11-21T07:35:00Z"
+      "https://www.pitdebrief.com/post/ninovic-reflects-on-costly-start-after-p3-finish-in-2026-fia-fr-world-cup-qualifying-race-at-macau/": "2026-11-21T20:00:00Z",
+      "https://www.pitdebrief.com/post/ferrari-duo-very-disappointed-with-double-q2-exit-in-f1-qualifying-for-2026-las-vegas-gp/": "2026-11-21T18:07:07Z",
+      "https://www.pitdebrief.com/post/colnaghi-looks-to-build-on-strong-pace-after-narrowly-missing-out-on-fr-world-cup-qualifying-race-win-at-2026-macau-gp/": "2026-11-21T17:00:00Z"
     },
     "items": [
+      {
+        "title": "Ferrari duo “very disappointed” with double Q2 exit in F1 Qualifying for 2026 Las Vegas GP",
+        "source": "Pit Debrief",
+        "time": "2026-11-21T18:07:07Z",
+        "url": "https://www.pitdebrief.com/post/ferrari-duo-very-disappointed-with-double-q2-exit-in-f1-qualifying-for-2026-las-vegas-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
       {
         "title": "Marciello says he “will be in [Heinrich’s] place” or he “will not be on the podium” in 2026 Macau FIA GT World Cup finale",
         "source": "Pit Debrief",
@@ -3384,15 +3483,14 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "9558ea3606ce2dab",
-    "etag": "\"9c2a8e6c8abf093a4bb131f842f7bb9b\"",
-    "last_modified": "Sat, 21 Nov 2026 14:19:17 GMT"
+    "etag": "\"40a4b8387101580ae60c0f623579aaba\"",
+    "last_modified": "Sat, 21 Nov 2026 20:00:00 GMT"
   },
   "feederseries": {
     "first_seen": {
       "https://feederseries.net/2026/11/16/feeder-series-podcast-2026-usf-pro-season-review-feat-rob-howden-champions-standouts-future-indycar-stars/": "2026-11-16T17:04:57Z",
-      "https://feederseries.net/2026/11/16/fia-formula-regional-world-cup-2026-macau-grand-prix-guide/": "2026-11-16T14:43:17Z",
       "https://feederseries.net/2026/11/17/your-guide-to-the-2026-fia-formula-4-world-cup-in-macau/": "2026-11-17T13:21:17Z",
       "https://feederseries.net/2026/11/18/feeder-series-weekend-preview-and-schedule-19-22-november-2026/": "2026-11-18T17:35:00Z",
       "https://feederseries.net/2026/11/19/feeder-series-podcast-f1a-fr-wc-preview-who-will-get-lucky-at-the-73rd-macau-grand-prix/": "2026-11-19T16:29:51Z",
@@ -3400,7 +3498,8 @@
       "https://feederseries.net/2026/11/20/fia-f4-world-cup-thursday-and-friday-review-coronel-takes-pole-in-macau-amid-multiple-red-flags/": "2026-11-20T16:01:08Z",
       "https://feederseries.net/2026/11/20/fr-asia-set-for-2027-return-as-new-f4-fr-series-expand-asias-single-seater-scene/": "2026-11-20T21:35:51Z",
       "https://feederseries.net/2026/11/20/fia-fr-world-cup-thursday-and-friday-review-ninovic-on-pole-after-incident-filled-sessions/": "2026-11-20T19:05:41Z",
-      "https://feederseries.net/2026/11/21/f4-world-cup-saturday-review-craigie-survives-lap-1-chaos-to-cruise-to-qualifying-race-victory/": "2026-11-21T07:45:25Z"
+      "https://feederseries.net/2026/11/21/f4-world-cup-saturday-review-craigie-survives-lap-1-chaos-to-cruise-to-qualifying-race-victory/": "2026-11-21T07:45:25Z",
+      "https://feederseries.net/2026/11/21/fr-world-cup-saturday-review-al-dhaheri-finally-victorious-at-macau-in-qualifying-race/": "2026-11-21T15:42:24Z"
     },
     "items": [
       {
@@ -3459,10 +3558,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "6b90d445ff7a193b",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 07:50:46 GMT"
+    "last_modified": "Sat, 21 Nov 2026 15:51:07 GMT"
   },
   "formulascout": {
     "first_seen": {
@@ -3614,10 +3713,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "rules": "f53e591d9470eebd",
-    "etag": "W/\"ec89e61342a9caefe472b938dc09b12f\"",
-    "last_modified": "Sat, 21 Nov 2026 14:39:17 GMT"
+    "etag": "W/\"2cd4210740b61ef04fa60391dcef53fe\"",
+    "last_modified": "Sat, 21 Nov 2026 16:52:12 GMT"
   },
   "crash-btcc": {
     "first_seen": {
@@ -3686,9 +3785,9 @@
       }
     ],
     "rules": "0f936a473748912d",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "W/\"1795274433-zstd\"",
-    "last_modified": "Sat, 21 Nov 2026 15:20:33 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "W/\"1795293658-zstd\"",
+    "last_modified": "Sat, 21 Nov 2026 20:40:58 GMT"
   },
   "crash-f1": {
     "first_seen": {
@@ -4604,9 +4703,9 @@
       }
     ],
     "rules": "9e1b1fed1fa4fb9f",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "W/\"1795274355-zstd\"",
-    "last_modified": "Sat, 21 Nov 2026 15:19:15 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "W/\"1795293641-zstd\"",
+    "last_modified": "Sat, 21 Nov 2026 20:40:41 GMT"
   },
   "racefans": {
     "first_seen": {
@@ -5063,24 +5162,90 @@
       }
     ],
     "rules": "9f655cbbbef51645",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": "W/\"f3aae6b9dcfae2e4a6f93228514d6c7d\"",
     "last_modified": "Sat, 21 Nov 2026 11:50:21 GMT"
   },
   "gpfans": {
     "first_seen": {
       "https://www.gpfans.com/en/f1-news/1093146/f1-news-today-oscar-piastri-split-mclaren-alpine-paul-aron/": "2026-11-21T06:45:00Z",
-      "https://www.gpfans.com/en/f1-news/1093150/channel-4-f1-highlights-today-2026-las-vegas-grand-prix-free-uk/": "2026-11-21T05:55:00Z",
       "https://www.gpfans.com/en/f1-news/1093187/f1-lewis-hamilton-ferrari-las-vegas-grand-prix-qualifying-rain-pours-2026/": "2026-11-21T14:55:00Z",
       "https://www.gpfans.com/en/f1-news/1093148/f1-aston-martin-esteban-ocon-signed-abu-dhabi-test/": "2026-11-21T12:57:00Z",
       "https://www.gpfans.com/en/f1-news/1093155/f1-race-today-2026-las-vegas-grand-prix-start-time-tv-channel/": "2026-11-21T11:57:00Z",
-      "https://www.gpfans.com/en/f1-news/1093137/f1-lewis-hamilton-charles-leclerc-ferrari-handshake-las-vegas-grand-prix/": "2026-11-21T10:57:00Z",
-      "https://www.gpfans.com/en/f1-news/1093145/f1-qatar-grand-prix-pirelli-tyre-limits-safety-pit-stops/": "2026-11-21T09:57:00Z",
-      "https://www.gpfans.com/en/f1-news/1093126/f1-charles-leclerc-journalist-ban-criticism-controversial-daily-mail/": "2026-11-21T08:58:00Z",
-      "https://www.gpfans.com/en/f1-news/1093170/george-russell-max-verstappen-2026-f1-las-vegas-grand-prix-investigation/": "2026-11-21T08:14:00Z",
-      "https://www.gpfans.com/en/f1-news/1093167/f1-2026-las-vegas-grand-prix-grid-positions-fia-penalties-applied/": "2026-11-21T07:30:00Z"
+      "https://www.gpfans.com/en/f1-news/1093200/martin-brundle-sky-sports-f1-absent-las-vegas-grand-prix-2026/": "2026-11-21T21:28:00Z",
+      "https://www.gpfans.com/en/f1-news/1093199/f1-toto-wolff-mercedes-george-russell-max-verstappen-kimi-antonelli-las-vegas-qualifying/": "2026-11-21T20:45:00Z",
+      "https://www.gpfans.com/en/f1-news/1093184/f1-charles-leclerc-ferrari-las-vegas-grand-prix-angry-qualifying/": "2026-11-21T19:58:00Z",
+      "https://www.gpfans.com/en/f1-news/1093191/f1-max-verstappen-george-russell-las-vegas-grand-prix-reaction-fp3-agreement/": "2026-11-21T18:45:00Z",
+      "https://www.gpfans.com/en/f1-news/1093194/fia-ollie-bearman-haas-f1-las-vegas-grand-prix-35-place-grid-penalty/": "2026-11-21T17:45:00Z",
+      "https://www.gpfans.com/en/f1-news/1093183/f1-ferrari-crash-barcelona-catalunya-f2004-499p-modificata-finali-mondiali/": "2026-11-21T16:28:00Z"
     },
     "items": [
+      {
+        "title": "Martin Brundle absent at Las Vegas Grand Prix - this is why",
+        "source": "GPFans",
+        "time": "2026-11-21T21:28:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093200/martin-brundle-sky-sports-f1-absent-las-vegas-grand-prix-2026/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Mercedes F1 boss Toto Wolff explains why George Russell was refused help in qualifying with crucial trick",
+        "source": "GPFans",
+        "time": "2026-11-21T20:45:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093199/f1-toto-wolff-mercedes-george-russell-max-verstappen-kimi-antonelli-las-vegas-qualifying/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Charles Leclerc fumes after Ferrari failure in Las Vegas: 'I'm very angry'",
+        "source": "GPFans",
+        "time": "2026-11-21T19:58:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093184/f1-charles-leclerc-ferrari-las-vegas-grand-prix-angry-qualifying/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Max Verstappen gives blunt reaction after being blasted by George Russell",
+        "source": "GPFans",
+        "time": "2026-11-21T18:45:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093191/f1-max-verstappen-george-russell-las-vegas-grand-prix-reaction-fp3-agreement/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "FIA confirms 35-place grid penalty for British F1 star at Las Vegas Grand Prix",
+        "source": "GPFans",
+        "time": "2026-11-21T17:45:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093194/fia-ollie-bearman-haas-f1-las-vegas-grand-prix-35-place-grid-penalty/",
+        "series": [
+          "f1"
+        ],
+        "circuit": "las-vegas",
+        "photo": null
+      },
+      {
+        "title": "Ferrari collision results in bizarre F1 crash",
+        "source": "GPFans",
+        "time": "2026-11-21T16:28:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093183/f1-ferrari-crash-barcelona-catalunya-f2004-499p-modificata-finali-mondiali/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Oscar Piastri explains shock split as F1 team release statement on driver exit - F1 News Today",
         "source": "GPFans",
@@ -5545,9 +5710,9 @@
       }
     ],
     "rules": "330263a6a56fca3e",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "W/\"6b01b6a6-1ed1\"",
-    "last_modified": "Sat, 21 Nov 2026 15:20:06 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "W/\"6b020f3b-1ea3\"",
+    "last_modified": "Sat, 21 Nov 2026 21:38:03 GMT"
   },
   "joesaward": {
     "first_seen": {
@@ -5609,7 +5774,7 @@
       }
     ],
     "rules": "f392fd0d64f8425c",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
     "last_modified": "Mon, 16 Nov 2026 14:57:18 GMT"
   },
@@ -5640,9 +5805,9 @@
       }
     ],
     "rules": "18f66acf2e27302e",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:36 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:27 GMT"
   },
   "gtwc-america-official": {
     "first_seen": {
@@ -5704,9 +5869,9 @@
       }
     ],
     "rules": "62419560753cdb38",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:37 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:28 GMT"
   },
   "gtwc-asia-official": {
     "first_seen": {
@@ -5765,9 +5930,9 @@
       }
     ],
     "rules": "0a853dbeb8ad2a4f",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:38 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:29 GMT"
   },
   "gtwc-australia-official": {
     "first_seen": {
@@ -5873,9 +6038,9 @@
       }
     ],
     "rules": "2799f4d04394f039",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:38 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:29 GMT"
   },
   "igtc-official": {
     "first_seen": {
@@ -5904,9 +6069,9 @@
       }
     ],
     "rules": "e808419c9381afaf",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
-    "last_modified": "Sat, 21 Nov 2026 15:20:39 GMT"
+    "last_modified": "Sat, 21 Nov 2026 21:38:30 GMT"
   },
   "sportscar365-wec": {
     "first_seen": {
@@ -6061,9 +6226,9 @@
       }
     ],
     "rules": "09e719caf98c0d3b",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "W/\"089bbdd1abbe2751e23c349bfed910b3\"",
-    "last_modified": "Sat, 21 Nov 2026 09:22:13 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "W/\"94c6041214a2206ede69db13b5f7c3b7\"",
+    "last_modified": "Sat, 21 Nov 2026 20:12:15 GMT"
   },
   "sportscar365-sro": {
     "first_seen": {
@@ -6207,9 +6372,9 @@
       }
     ],
     "rules": "a17b457b3e231309",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "W/\"089bbdd1abbe2751e23c349bfed910b3\"",
-    "last_modified": "Sat, 21 Nov 2026 09:22:13 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "W/\"94c6041214a2206ede69db13b5f7c3b7\"",
+    "last_modified": "Sat, 21 Nov 2026 20:12:15 GMT"
   },
   "dailysportscar-wec": {
     "first_seen": {
@@ -6228,7 +6393,7 @@
     },
     "items": [
       {
-        "title": "#TWISC The Week In Sportscars Podcast: 20 November",
+        "title": "#TWISC The Week In Sportscars Podcast: 20th November Edition",
         "source": "Dailysportscar",
         "time": "2026-11-21T10:05:20Z",
         "url": "https://www.dailysportscar.com/2026/11/21/twisc-the-week-in-sportscars-podcast-20-november.html",
@@ -6420,9 +6585,9 @@
       }
     ],
     "rules": "b0d5d3eafe211014",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "\"15a93f5ebf609647a2c1b6b7cb98eb36\"",
-    "last_modified": "Sat, 21 Nov 2026 11:14:10 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "\"cd9204150295726d5400d105665c02b1\"",
+    "last_modified": "Sat, 21 Nov 2026 18:03:49 GMT"
   },
   "dailysportscar-gtwc": {
     "first_seen": {
@@ -6477,9 +6642,9 @@
       }
     ],
     "rules": "55fabf85b73d2f41",
-    "last_ok": "2026-11-21T15:20:19Z",
-    "etag": "\"15a93f5ebf609647a2c1b6b7cb98eb36\"",
-    "last_modified": "Sat, 21 Nov 2026 11:14:10 GMT"
+    "last_ok": "2026-11-21T21:38:12Z",
+    "etag": "\"cd9204150295726d5400d105665c02b1\"",
+    "last_modified": "Sat, 21 Nov 2026 18:03:49 GMT"
   },
   "racer-sportscars": {
     "first_seen": {
@@ -6496,7 +6661,7 @@
     },
     "items": [],
     "rules": "df9ddd5250930121",
-    "last_ok": "2026-11-21T15:20:19Z",
+    "last_ok": "2026-11-21T21:38:12Z",
     "etag": null,
     "last_modified": null
   }
