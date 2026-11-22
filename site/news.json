@@ -1,12 +1,36 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22T02:12:32Z",
+  "updated": "2026-11-22T09:43:47Z",
   "items": [
     {
-      "title": "F1 Academy | 2026 Las Vegas GP | Feature Race | Palmowski wins as Campos Racing settles Teams’ title",
+      "title": "Furious Fred Vasseur details Charles Leclerc talks after Ferrari clash: “It was not a discussion”",
+      "source": "Crash.net",
+      "time": "2026-11-22T09:16:24Z",
+      "url": "https://www.crash.net/f1/news/1110749/1/furious-fred-vasseur-details-charles-leclerc-talks-it-was-not-discussion",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lindblad “still struggling to understand” how he spun out behind Safety Car | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T09:13:41Z",
+      "url": "https://www.racefans.net/2026/11/22/lindblad-still-struggling-to-understand-how-he-spun-out-behind-safety-car/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen reflects on chaotic 2026 F1 Las Vegas GP after third victory",
       "source": "Pit Debrief",
-      "time": "2026-11-22T00:59:23Z",
-      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-feature-race-report/",
+      "time": "2026-11-22T09:04:21Z",
+      "url": "https://www.pitdebrief.com/post/verstappen-reflects-on-chaotic-2026-f1-las-vegas-gp-after-third-victory/",
       "series": [
         "f1"
       ],
@@ -15,10 +39,399 @@
       "also": []
     },
     {
-      "title": "F1 Academy | 2026 Las Vegas GP | Feature Race results",
+      "title": "Van der Linde Felt Like a “Passenger” En Route to Victory",
+      "source": "Sportscar365",
+      "time": "2026-11-22T09:03:56Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/van-der-linde-felt-like-a-passenger-en-route-to-victory/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lewis Hamilton calls for Ferrari intervention after Leclerc rivalry turns ugly again",
+      "source": "GPFans",
+      "time": "2026-11-22T09:01:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093232/lewis-hamilton-f1-ferrari-leclerc-rivalry-intervention-las-vegas-grand-prix-2026/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lando Norris explains key McLaren issue en route to Las Vegas podium",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T09:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/lando-norris-las-vegas-gp-mclaren/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lawson salvages career first from difficult Vegas race",
+      "source": "Speedcafe",
+      "time": "2026-11-22T08:54:53Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-racing-bulls-reaction-race-comments-arvid-lindblad-fastest-lap/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri reflects on “crazy” Las Vegas GP as McLaren secures double podium",
       "source": "Pit Debrief",
-      "time": "2026-11-22T00:55:03Z",
-      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-feature-race-results/",
+      "time": "2026-11-22T08:50:53Z",
+      "url": "https://www.pitdebrief.com/post/piastri-reflects-on-crazy-las-vegas-gp-as-mclaren-secures-double-podium/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri defends angry radio outburst after stunning Vegas drive",
+      "source": "Speedcafe",
+      "time": "2026-11-22T08:37:16Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-race-reaction-angry-radio-reason-comments-podium-what-happened-lando-norris-mclaren/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Hadjar given 10-second penalty for holding up Safety Car queue behind Verstappen | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T08:17:49Z",
+      "url": "https://www.racefans.net/2026/11/22/hadjar-given-10-second-penalty-for-holding-up-safety-car-queue-behind-verstappen/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen tears George Russell apart: 'Big mouth, huge disgrace, karma!'",
+      "source": "GPFans",
+      "time": "2026-11-22T08:15:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093226/max-verstappen-george-russell-f1-2026-las-vegas-grand-prix-criticism/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leclerc left ‘embarrassed’ after ‘unacceptable’ Ferrari clash in Vegas",
+      "source": "Speedcafe",
+      "time": "2026-11-22T08:08:17Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-ferrari-crash-lewis-hamilton-charles-leclerc-fred-vasseur-response-comments/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Perez handed five-place grid penalty for Qatar Grand Prix for Camara collision | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T07:37:13Z",
+      "url": "https://www.racefans.net/2026/11/22/perez-handed-five-place-grid-penalty-for-qatar-grand-prix-for-camara-collision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110745/1/sergio-perez-handed-qatar-gp-grid-penalty-causing-las-vegas-collision-rafael",
+          "time": "2026-11-22T08:39:02Z"
+        }
+      ]
+    },
+    {
+      "title": "F1 – Verstappen wins action-packed Las Vegas Grand Prix as late Mercedes drama delivers McLaren double podium",
+      "source": "FIA",
+      "time": "2026-11-22T07:36:00Z",
+      "url": "https://www.fia.com/news/f1-verstappen-wins-action-packed-las-vegas-grand-prix-late-mercedes-drama-delivers-mclaren",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari launch Lewis Hamilton vs Charles Leclerc investigation after Las Vegas GP collision",
+      "source": "GPFans",
+      "time": "2026-11-22T07:30:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093223/ferrari-lewis-hamilton-charles-leclerc-las-vegas-grand-prix-2026-collision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘Karma is a bitch’: Verstappen roasts Russell for Vegas crash",
+      "source": "Speedcafe",
+      "time": "2026-11-22T07:29:35Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-max-verstappen-george-russell-comments-unloads-rivalry-latest-roast-mock-karma/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/max-verstappen-george-russell-karma/",
+          "time": "2026-11-22T07:35:05Z"
+        }
+      ]
+    },
+    {
+      "title": "“He’s so far below my level”: Russell’s mistake in Las Vegas GP delights Verstappen | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T07:25:24Z",
+      "url": "https://www.racefans.net/2026/11/22/hes-so-far-below-my-level-russells-mistake-in-las-vegas-gp-delights-verstappen/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“I thought I was doing something right”: Why power loss ended Antonelli’s win hopes | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T07:06:44Z",
+      "url": "https://www.racefans.net/2026/11/22/i-thought-i-was-doing-something-right-why-power-loss-ended-antonellis-win-hopes/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘I want to see you after the race’ - Ferrari boss summons Charles Leclerc after Lewis Hamilton crash",
+      "source": "Crash.net",
+      "time": "2026-11-22T07:03:34Z",
+      "url": "https://www.crash.net/f1/news/1110739/1/i-want-see-you-after-race-ferrari-boss-summons-charles-leclerc-after-lewis",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Las Vegas GP: Parc Ferme reaction",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T06:53:31Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/f1-las-vegas-gp-parc-ferme-reaction/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leclerc’s collision with Hamilton was “completely unacceptable”, fumes Vasseur | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T06:50:28Z",
+      "url": "https://www.racefans.net/2026/11/22/leclercs-collision-with-hamilton-was-completely-unacceptable-fumes-vasseur/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Hamilton vs Leclerc boils over AGAIN as Ferrari collision causes bizarre crash - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-22T06:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093201/f1-news-today-charles-leclerc-ferrari-crash-las-vegas-grand-prix-barcelona-f2004/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Stewards explains Leclerc’s penalty for hitting Hamilton | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T06:19:29Z",
+      "url": "https://www.racefans.net/2026/11/22/stewards-explains-leclercs-penalty-for-hitting-hamilton/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Australian motorsport gathers to farewell Alan Jones",
+      "source": "Speedcafe",
+      "time": "2026-11-22T06:16:16Z",
+      "url": "https://speedcafe.com/f1-news-formula-1-world-champion-alan-jones-gold-coast-farewell-celebration-of-life-family-friends-details-comments/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 | 2026 Las Vegas GP | Race | Verstappen victorious after relentless battles with Mercedes and McLaren",
+      "source": "Pit Debrief",
+      "time": "2026-11-22T05:50:59Z",
+      "url": "https://www.pitdebrief.com/post/f1-2026-las-vegas-gp-race-report/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen wins pulsating Las Vegas GP as Ferraris collide",
+      "source": "Crash.net",
+      "time": "2026-11-22T05:44:35Z",
+      "url": "https://www.crash.net/f1/race-report/1110730/1/max-verstappen-wins-pulsating-las-vegas-gp-ferraris-collide",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/max-verstappen-wins-f1-las-vegas-gp/",
+          "time": "2026-11-22T05:45:09Z"
+        }
+      ]
+    },
+    {
+      "title": "Van der Linde Emerges With Win in Wild FIA GT World Cup",
+      "source": "Sportscar365",
+      "time": "2026-11-22T05:43:06Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/van-der-linde-emerges-as-winner-in-wild-fia-gt-world-cup/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/22/kelvin-van-der-linde-wins-fia-gt-world-cup-for-bmw.html",
+          "time": "2026-11-22T05:56:30Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-macau-gp-fia-gt-world-cup-main-race-report-and-results/",
+          "time": "2026-11-22T07:02:33Z"
+        }
+      ]
+    },
+    {
+      "title": "Verstappen survives Vegas thriller as Piastri claims stunning podium",
+      "source": "Speedcafe",
+      "time": "2026-11-22T05:42:12Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-max-verstappen-red-bull-win-victory-lando-norris-oscar-piastri/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA announce Charles Leclerc penalty verdict for Lewis Hamilton clash at Las Vegas Grand Prix",
+      "source": "GPFans",
+      "time": "2026-11-22T05:26:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093210/fia-charles-leclerc-penalty-verdict-lewis-hamilton-clash-f1-las-vegas-grand-prix-2026/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110742/1/charles-leclerc-left-embarrassed-after-lewis-hamilton-collision-las-vegas-gp",
+          "time": "2026-11-22T07:30:00Z"
+        }
+      ]
+    },
+    {
+      "title": "FIA announce Lewis Hamilton penalty verdict at Las Vegas Grand Prix",
+      "source": "GPFans",
+      "time": "2026-11-22T04:49:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093209/lewis-hamilton-penalty-fia-f1-las-vegas-grand-prix-2026/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110734/1/why-lewis-hamilton-got-10-second-las-vegas-penalty-he-disagreed",
+          "time": "2026-11-22T06:15:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Fuel leak forces Lawson into Vegas pit lane start",
+      "source": "Speedcafe",
+      "time": "2026-11-22T03:50:20Z",
+      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-liam-lawson-pit-lane-start-reason-why-racing-bulls-grid/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Nathan Tigani, Racing A New Icon With Pop Race & 7-Eleven",
+      "source": "Dailysportscar",
+      "time": "2026-11-22T03:09:09Z",
+      "url": "https://www.dailysportscar.com/2026/11/22/nathan-tigani-racing-a-new-icon-with-pop-race-7-eleven.html",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 Academy | 2026 Las Vegas GP | Feature Race | Palmowski wins as Campos Racing settles Teams’ title",
+      "source": "Pit Debrief",
+      "time": "2026-11-22T00:59:23Z",
+      "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-feature-race-report/",
       "series": [
         "f1"
       ],
@@ -48,7 +461,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/fia-gt-world-cup-to-remain-at-macau-gp-until-at-least-2028-following-agreement-extension/",
+          "time": "2026-11-22T07:45:45Z"
+        }
+      ]
     },
     {
       "title": "Han and Berrenberg retain SRO GT Cup titles as Liang wins Greater Bay Area GT Cup",
@@ -73,6 +492,34 @@
       "circuit": "las-vegas",
       "photo": null,
       "also": []
+    },
+    {
+      "title": "F1 - 2026 Las Vegas Grand Prix Post-Race Press Conference Transcript",
+      "source": "FIA",
+      "time": "2026-11-21T22:59:00Z",
+      "url": "https://www.fia.com/news/f1-2026-las-vegas-grand-prix-post-race-press-conference-transcript",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/f1-academy-2026-las-vegas-gp-feature-race-results/",
+          "time": "2026-11-22T00:55:03Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-f1-las-vegas-gp-race-results/",
+          "time": "2026-11-22T05:33:07Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/2026-f1-academy-standings-after-the-feature-race-at-the-las-vegas-gp/",
+          "time": "2026-11-22T06:50:00Z"
+        }
+      ]
     },
     {
       "title": "Larsen celebrates historic 2026 Las Vegas F1 Academy victory from ninth: “Quite a perfect race”",
@@ -294,7 +741,13 @@
       ],
       "circuit": "macau",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/22/524450.html",
+          "time": "2026-11-22T02:50:36Z"
+        }
+      ]
     },
     {
       "title": "2026 F3 | Season Review | Jin Nakamura",
@@ -414,7 +867,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110738/1/lewis-hamilton-dodges-charles-leclerc-clash-questions-ferrari-decide",
+          "time": "2026-11-22T06:55:00Z"
+        }
+      ]
     },
     {
       "title": "Max Verstappen’s alarming admission about secret Red Bull F1 car issue: “We can’t fix it”",
@@ -878,7 +1337,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110692/1/lewis-hamilton-fumes-10-second-penalty-las-vegas-grand-prix",
+          "time": "2026-11-22T04:52:38Z"
+        }
+      ]
     },
     {
       "title": "F1 Academy | 2026 Las Vegas GP | Reverse Grid Race | Larsen charges from ninth to victory",
@@ -930,6 +1395,16 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110556/1/toto-wolff-predicts-big-cinema-max-verstappen-v-george-russell-after-las-vegas-gp",
           "time": "2026-11-21T11:24:45Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110737/1/max-verstappen-brutally-laughs-george-russells-las-vegas-crash-over-team-radio",
+          "time": "2026-11-22T06:30:47Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110741/1/max-verstappen-savages-george-russell-f1-rivalry-blows-hes-so-far-below-my-level",
+          "time": "2026-11-22T07:28:36Z"
         }
       ]
     },
@@ -1340,7 +1815,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110748/1/george-russell-has-no-regrets-after-las-vegas-gp-gamble-backfires",
+          "time": "2026-11-22T09:15:00Z"
+        }
+      ]
     },
     {
       "title": "Nike in and Puma out as F1 announces major shake-up",
@@ -1410,7 +1891,7 @@
         {
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110385/1/how-watch-2026-f1-las-vegas-gp-today-free-live-stream-details-and-start-time",
-          "time": "2026-11-21T22:30:00Z"
+          "time": "2026-11-22T03:30:00Z"
         }
       ]
     },
@@ -1931,6 +2412,11 @@
           "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093096/f1-las-vegas-grand-prix-2026-grid-penalties-five-drivers/",
           "time": "2026-11-20T11:27:00Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/results/1110729/1/formula-1-las-vegas-grand-prix-full-race-results",
+          "time": "2026-11-22T05:43:00Z"
         }
       ]
     },
@@ -2013,7 +2499,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/motorsport-news-2026-macau-grand-prix-fia-gt-world-cup-results-crash-video-kelvin-van-der-linde-wins-reaction-comments/",
+          "time": "2026-11-22T08:22:44Z"
+        }
+      ]
     },
     {
       "title": "Nike returns to F1 after 24 years as official apparel partner",
@@ -2313,23 +2805,53 @@
         },
         {
           "source": "GPFans",
-          "url": "https://www.gpfans.com/en/f1-news/1093167/f1-2026-las-vegas-grand-prix-grid-positions-fia-penalties-applied/",
-          "time": "2026-11-21T07:30:00Z"
-        },
-        {
-          "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093155/f1-race-today-2026-las-vegas-grand-prix-start-time-tv-channel/",
           "time": "2026-11-21T11:57:00Z"
-        },
-        {
-          "source": "Crash.net",
-          "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
-          "time": "2026-11-21T22:45:00Z"
         },
         {
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/22/f1-academy-2026-las-vegas-grand-prix-feature-grid-race-results/",
           "time": "2026-11-22T01:04:25Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties",
+          "time": "2026-11-22T03:03:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093167/f1-2026-las-vegas-grand-prix-grid-positions-fia-penalties-applied/",
+          "time": "2026-11-22T03:21:00Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/rate-the-race-2026-las-vegas-grand-prix/",
+          "time": "2026-11-22T05:32:37Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-race-result-and-championship-points/",
+          "time": "2026-11-22T05:37:01Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/vote-for-your-2026-las-vegas-grand-prix-driver-of-the-weekend/",
+          "time": "2026-11-22T05:38:07Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/f1-2026-las-vegas-grand-prix-grand-prix-results/",
+          "time": "2026-11-22T05:38:20Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093213/f1-results-today-las-vegas-grand-prix-2026-times-and-positions/",
+          "time": "2026-11-22T05:53:00Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/verstappen-leads-parade-of-position-swapping-to-win-in-las-vegas/",
+          "time": "2026-11-22T05:54:06Z"
         }
       ]
     },
@@ -2612,6 +3134,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110520/1/jacques-villeneuve-slams-mercedes-and-nasty-kimi-antonelli-over-las-vegas",
           "time": "2026-11-21T07:16:15Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110746/1/kimi-antonelli-reveals-bizarre-blunder-behind-las-vegas-gp-podium-loss",
+          "time": "2026-11-22T08:50:00Z"
         }
       ]
     },
@@ -2716,6 +3243,16 @@
           "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093200/martin-brundle-sky-sports-f1-absent-las-vegas-grand-prix-2026/",
           "time": "2026-11-21T21:28:00Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-race-updates-max-verstappen-pole",
+          "time": "2026-11-22T03:00:00Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/results/1110733/1/new-f1-championship-standings-after-las-vegas-grand-prix",
+          "time": "2026-11-22T06:11:14Z"
         }
       ]
     },
@@ -5543,18 +6080,6 @@
         "wec"
       ],
       "circuit": "monza",
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "10 years of F2: Jeremy Cotterill, MP Motorsport team manager",
-      "source": "Feeder Series",
-      "time": "2026-11-08T08:28:00Z",
-      "url": "https://feederseries.net/2026/11/08/10-years-of-f2-jeremy-cotterill-mp-motorsport-team-manager/",
-      "series": [
-        "f2"
-      ],
-      "circuit": null,
       "photo": null,
       "also": []
     }
