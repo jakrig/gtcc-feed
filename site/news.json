@@ -1,7 +1,271 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22T09:43:47Z",
+  "updated": "2026-11-22T17:49:02Z",
   "items": [
+    {
+      "title": "Finali Mondiali Barcelona: Sunday Notebook",
+      "source": "Dailysportscar",
+      "time": "2026-11-22T17:45:26Z",
+      "url": "https://www.dailysportscar.com/2026/11/22/finali-mondiali-barcelona-sunday-notebook.html",
+      "series": [
+        "ferrari-challenge"
+      ],
+      "circuit": "barcelona",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen delivers middle finger gesture to F1 rival who is warned by world champion",
+      "source": "GPFans",
+      "time": "2026-11-22T17:44:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093197/f1-max-verstappen-george-russell-jacques-villeneuve-middle-finger-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso retires Aston Martin car just meters away from Las Vegas GP finish line on the last lap",
+      "source": "GPFans",
+      "time": "2026-11-22T16:29:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093254/f1-fernando-alonso-aston-martin-las-vegas-grand-prix-retirement-last-lap/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Featured Comment: How F1’s power units dictated when drivers overtook in Las Vegas | Brief",
+      "source": "RaceFans",
+      "time": "2026-11-22T16:24:32Z",
+      "url": "https://www.racefans.net/2026/11/22/featured-comment-how-f1s-power-units-dictated-when-drivers-overtook-in-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“Ruining my motivation to drive” — Hadjar on costly front wing failure at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-22T15:21:22Z",
+      "url": "https://www.pitdebrief.com/post/ruining-my-motivation-to-drive-hadjar-on-costly-front-wing-failure-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Russell has no regrets after mistake costs him podium at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-22T15:11:01Z",
+      "url": "https://www.pitdebrief.com/post/russell-has-no-regrets-after-mistake-costs-him-podium-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ganassi team evaluating prospects for a return to IMSA",
+      "source": "RACER",
+      "time": "2026-11-22T15:03:49Z",
+      "url": "https://racer.com/2026/11/22/ganassi-team-evaluating-prospects-for-a-return-to-imsa",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“I got smoked by the McLarens”: Antonelli explains last-lap Las Vegas error",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T15:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/i-got-smoked-by-the-mclarens-antonelli-explains-last-lap-las-vegas-error/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Oscar Piastri says MCL40 still has its flaws despite a double F1 Vegas podium",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T14:07:10Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/piastri-highlights-mcl40-issues-despite-double-vegas-f1-podium/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 standings after Las Vegas Grand Prix: Lewis Hamilton moves up after Leclerc drama",
+      "source": "GPFans",
+      "time": "2026-11-22T12:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093245/f1-2026-standings-after-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“Some overtakes weren’t overtakes”: Norris queries claim of ‘352 passes’ in Las Vegas | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T12:08:45Z",
+      "url": "https://www.racefans.net/2026/11/22/some-overtakes-werent-overtakes-norris-queries-claim-of-352-passes-in-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari F1 boss vows to 'take action' after Hamilton and Leclerc clash again",
+      "source": "GPFans",
+      "time": "2026-11-22T11:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093246/ferrari-f1-fred-vasseur-hamilton-vs-leclerc-action-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lewis Hamilton puts ball in Ferrari court after new on-track headache",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T11:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/lewis-hamilton-puts-ball-in-ferrari-court/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Plato Racing administration reveals £3.9 million debt as team sale continues",
+      "source": "TouringCarTimes",
+      "time": "2026-11-22T11:28:15Z",
+      "url": "https://www.touringcartimes.com/2026/11/22/plato-racing-administration-reveals-3-9-million-debt-as-team-sale-continues/",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen calls Russell’s late-race crash ‘karma,’ says Mercedes driver is ‘so far below my level’",
+      "source": "RACER",
+      "time": "2026-11-22T10:48:21Z",
+      "url": "https://racer.com/2026/11/22/verstappen-calls-russell-s-late-race-crash-karma-says-mercedes-driver-is-so-far-below-my-level-",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Picariello Didn’t Know He Was on Podium Until After Race",
+      "source": "Sportscar365",
+      "time": "2026-11-22T10:45:29Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/picariello-didnt-know-he-was-on-podium-until-after-race/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Heinrich “Not Surprised” by “Desperate Move” by Marciello",
+      "source": "Sportscar365",
+      "time": "2026-11-22T10:27:30Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/heinrich-not-surprised-by-desperate-move-by-marciello/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Roos: Marciello’s Car Was in “Backup Mode” After Crash",
+      "source": "Sportscar365",
+      "time": "2026-11-22T10:01:32Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/roos-marciellos-car-was-in-backup-mode-after-crash/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "George Russell admits he ‘paid the price’ for ‘high risk move’ that led to F1 Las Vegas GP crash",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T10:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/george-russell-admits-he-paid-the-price-for-high-risk-move-that-led-to-f1-las-vegas-gp-crash/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Red Bull star demoted as FIA penalty changes F1 Las Vegas GP result",
+      "source": "GPFans",
+      "time": "2026-11-22T09:59:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093235/f1-las-vegas-grand-prix-result-changed-isack-hadjar-demoted-penalty-red-bull/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Norris questions F1 battery deployment after extraordinary 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-22T09:50:00Z",
+      "url": "https://www.pitdebrief.com/post/norris-questions-f1-battery-deployment-after-extraordinary-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Isack Hadjar punished by FIA over deliberate Las Vegas safety car tactic",
+      "source": "Crash.net",
+      "time": "2026-11-22T09:50:00Z",
+      "url": "https://www.crash.net/f1/news/1110751/1/isack-hadjar-punished-fia-over-deliberate-las-vegas-safety-car-tactic",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Furious Fred Vasseur details Charles Leclerc talks after Ferrari clash: “It was not a discussion”",
       "source": "Crash.net",
@@ -123,18 +387,6 @@
       "also": []
     },
     {
-      "title": "Max Verstappen tears George Russell apart: 'Big mouth, huge disgrace, karma!'",
-      "source": "GPFans",
-      "time": "2026-11-22T08:15:00Z",
-      "url": "https://www.gpfans.com/en/f1-news/1093226/max-verstappen-george-russell-f1-2026-las-vegas-grand-prix-criticism/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
       "title": "Leclerc left ‘embarrassed’ after ‘unacceptable’ Ferrari clash in Vegas",
       "source": "Speedcafe",
       "time": "2026-11-22T08:08:17Z",
@@ -144,7 +396,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093239/charles-leclerc-f1-las-vegas-grand-prix-ferrari-lewis-hamilton-clash-admission/",
+          "time": "2026-11-22T10:59:00Z"
+        }
+      ]
     },
     {
       "title": "Perez handed five-place grid penalty for Qatar Grand Prix for Camara collision | Formula 1",
@@ -177,6 +435,24 @@
       "also": []
     },
     {
+      "title": "Max Verstappen takes aim at George Russell with merciless ‘karma’ crash verdict",
+      "source": "Motorsport Week",
+      "time": "2026-11-22T07:35:05Z",
+      "url": "https://www.motorsportweek.com/2026/11/22/max-verstappen-george-russell-karma/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093226/max-verstappen-george-russell-f1-2026-las-vegas-grand-prix-criticism/",
+          "time": "2026-11-22T08:15:00Z"
+        }
+      ]
+    },
+    {
       "title": "Ferrari launch Lewis Hamilton vs Charles Leclerc investigation after Las Vegas GP collision",
       "source": "GPFans",
       "time": "2026-11-22T07:30:00Z",
@@ -186,23 +462,29 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/ferrari-duo-leclerc-and-hamilton-reflect-on-costly-contact-at-2026-f1-las-vegas-gp/",
+          "time": "2026-11-22T16:27:46Z"
+        }
+      ]
     },
     {
-      "title": "‘Karma is a bitch’: Verstappen roasts Russell for Vegas crash",
-      "source": "Speedcafe",
-      "time": "2026-11-22T07:29:35Z",
-      "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-max-verstappen-george-russell-comments-unloads-rivalry-latest-roast-mock-karma/",
+      "title": "“Karma is a b****”: Russell’s mistake in Las Vegas GP delights Verstappen | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T07:25:24Z",
+      "url": "https://www.racefans.net/2026/11/22/karma-is-a-b-russells-mistake-in-las-vegas-gp-delights-verstappen/",
       "series": [
         "f1"
       ],
-      "circuit": null,
+      "circuit": "las-vegas",
       "photo": null,
       "also": [
         {
-          "source": "Motorsport Week",
-          "url": "https://www.motorsportweek.com/2026/11/22/max-verstappen-george-russell-karma/",
-          "time": "2026-11-22T07:35:05Z"
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-max-verstappen-george-russell-comments-unloads-rivalry-latest-roast-mock-karma/",
+          "time": "2026-11-22T07:29:35Z"
         }
       ]
     },
@@ -264,6 +546,24 @@
       ],
       "circuit": null,
       "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/22/fuming-vasseur-points-finger-at-leclerc-after-hamilton-collision",
+          "time": "2026-11-22T11:03:10Z"
+        }
+      ]
+    },
+    {
+      "title": "“This cannot continue”: Vasseur calls latest Leclerc-Hamilton collision “unacceptable” | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-22T06:50:28Z",
+      "url": "https://www.racefans.net/2026/11/22/cannot-continue-vasseur-calls-latest-leclerc-hamilton-collision-unacceptable/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
       "also": []
     },
     {
@@ -279,7 +579,7 @@
       "also": []
     },
     {
-      "title": "Stewards explains Leclerc’s penalty for hitting Hamilton | Formula 1",
+      "title": "Stewards explain Leclerc’s penalty for hitting Hamilton | Formula 1",
       "source": "RaceFans",
       "time": "2026-11-22T06:19:29Z",
       "url": "https://www.racefans.net/2026/11/22/stewards-explains-leclercs-penalty-for-hitting-hamilton/",
@@ -329,6 +629,11 @@
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/22/max-verstappen-wins-f1-las-vegas-gp/",
           "time": "2026-11-22T05:45:09Z"
+        },
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/22/verstappen-wins-f1-race-for-the-ages-in-las-vegas",
+          "time": "2026-11-22T10:27:48Z"
         }
       ]
     },
@@ -382,6 +687,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110742/1/charles-leclerc-left-embarrassed-after-lewis-hamilton-collision-las-vegas-gp",
           "time": "2026-11-22T07:30:00Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/charles-leclerc-makes-frank-admission-after-collision/",
+          "time": "2026-11-22T10:45:00Z"
         }
       ]
     },
@@ -518,6 +828,11 @@
           "source": "Pit Debrief",
           "url": "https://www.pitdebrief.com/post/2026-f1-academy-standings-after-the-feature-race-at-the-las-vegas-gp/",
           "time": "2026-11-22T06:50:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093250/f1-las-vegas-grand-prix-2026-results-final-classification-all-penalties-applied/",
+          "time": "2026-11-22T14:57:00Z"
         }
       ]
     },
@@ -932,6 +1247,11 @@
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/21/isack-hadjar-admits-red-bull-looked-stupid-at-the-f1-las-vegas-gp-qualifying/",
           "time": "2026-11-21T19:00:00Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/red-bulls-double-stack-plan-backfires-as-hadjar-penalised-in-las-vegas/",
+          "time": "2026-11-22T13:00:00Z"
         }
       ]
     },
@@ -1405,6 +1725,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110741/1/max-verstappen-savages-george-russell-f1-rivalry-blows-hes-so-far-below-my-level",
           "time": "2026-11-22T07:28:36Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110752/1/max-verstappen-taunts-complete-joke-george-russell-las-vegas-revenge",
+          "time": "2026-11-22T09:57:57Z"
         }
       ]
     },
@@ -1465,6 +1790,11 @@
           "source": "Speedcafe",
           "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-fp3-practice-results-mercedes-george-russell-kimi-antonelli/",
           "time": "2026-11-21T01:48:39Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/22/f1-las-vegas-gp-driver-ratings/",
+          "time": "2026-11-22T16:00:00Z"
         }
       ]
     },
@@ -2852,6 +3182,11 @@
           "source": "RaceFans",
           "url": "https://www.racefans.net/2026/11/22/verstappen-leads-parade-of-position-swapping-to-win-in-las-vegas/",
           "time": "2026-11-22T05:54:06Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+          "time": "2026-11-22T14:45:58Z"
         }
       ]
     },
@@ -3248,6 +3583,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/live/1044271/f1-las-vegas-grand-prix-live-race-updates-max-verstappen-pole",
           "time": "2026-11-22T03:00:00Z"
+        },
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-in-pictures/",
+          "time": "2026-11-22T05:00:54Z"
         },
         {
           "source": "Crash.net",
@@ -6056,30 +6396,6 @@
         "wec"
       ],
       "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Buemi, Hartley & Hirakawa Crowned Champions As Toyota Caps Dominant Season",
-      "source": "Dailysportscar",
-      "time": "2026-11-08T17:30:39Z",
-      "url": "https://www.dailysportscar.com/2026/11/08/buemi-hartley-hirakawa-crowned-champions-as-toyota-caps-dominant-season.html",
-      "series": [
-        "wec"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Cadillac Wins At Monza As Toyota, TF & Edgar Claim Titles",
-      "source": "Dailysportscar",
-      "time": "2026-11-08T16:09:51Z",
-      "url": "https://www.dailysportscar.com/2026/11/08/cadillac-wins-at-monza-as-8-toyota-crowned-champions.html",
-      "series": [
-        "wec"
-      ],
-      "circuit": "monza",
       "photo": null,
       "also": []
     }
