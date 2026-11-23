@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22T23:35:25Z",
+  "updated": "2026-11-23T07:31:17Z",
   "items": [
+    {
+      "title": "Verstappen expects F1’s ‘yo-yo racing’ won’t be fixed until 2030 engines arrive | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-23T07:15:50Z",
+      "url": "https://www.racefans.net/2026/11/23/verstappen-expects-f1s-yo-yo-racing-wont-be-fixed-until-2030-engines-arrive/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Exclusive: Boya reflects on F1 ambitions, challenging 2026 F2 season and GT racing experience",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T07:03:06Z",
+      "url": "https://www.pitdebrief.com/post/boya-reflects-on-f1-ambitions-challenging-2026-f2-season-and-gt-racing-experience/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA: Torque Sensors “The Best Way” for Macau",
+      "source": "Sportscar365",
+      "time": "2026-11-23T07:00:16Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/fia-torque-sensors-the-best-way-for-macau/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lindblad laments lost top-five opportunity after 2026 Las Vegas GP ends in DNF",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T07:00:00Z",
+      "url": "https://www.pitdebrief.com/post/lindblad-laments-lost-top-five-opportunity-after-2026-las-vegas-gp-ends-in-dnf/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari boss vows action on Hamilton and Leclerc as F1 team make driver decision - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-23T06:29:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093265/f1-news-today-ferrari-lewis-hamilton-charles-leclerc-fred-vasseur-haas-rafa-camara/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "GT World Challenge Australia season finale to go down to wire in Adelaide",
+      "source": "GT World Challenge Australia",
+      "time": "2026-11-23T05:29:00Z",
+      "url": "https://www.gt-world-challenge-australia.com/news/552/gt-world-challenge-australia-season-finale-to-go-down-to-wire-in-adelaide",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Van der Linde Unsure on Macau Return Due to “Level of Risk”",
+      "source": "Sportscar365",
+      "time": "2026-11-23T05:06:45Z",
+      "url": "https://sportscar365.com/other-series/gt-world-cup/van-der-linde-unsure-about-macau-return-due-to-level-of-risk/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "PHOTOS: Australian motorsport identities celebrate Alan Jones’ life",
+      "source": "Speedcafe",
+      "time": "2026-11-23T01:51:16Z",
+      "url": "https://speedcafe.com/f1-news-2026-photos-alan-jones-celebration-of-life-gold-coast-farewell/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Palmowski ends F1 Academy season with win as Campos claim teams’ title",
+      "source": "Formula Scout",
+      "time": "2026-11-23T00:47:09Z",
+      "url": "https://formulascout.com/palmowski-ends-f1-academy-season-with-win-as-campos-claim-teams-title/141343",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Antonelli laments battery issue after tumbling off podium at 2026 F1 Las Vegas GP",
       "source": "Pit Debrief",
@@ -97,7 +206,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-radio-outburst-reaction-defence-andrea-stella-jolyon-palmer-response-mclaren/",
+          "time": "2026-11-23T00:03:45Z"
+        }
+      ]
     },
     {
       "title": "F1 dials up Indy 500 mode in Las Vegas",
@@ -1545,6 +1660,11 @@
           "source": "Pit Debrief",
           "url": "https://www.pitdebrief.com/post/watch-full-replay-of-the-2026-macau-fia-gt-world-cup-qualification-race/",
           "time": "2026-11-21T08:22:08Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/replay-of-the-2026-fia-gt-world-cup-main-race-at-the-macau-gp/",
+          "time": "2026-11-23T01:09:57Z"
         }
       ]
     },
@@ -1904,6 +2024,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110752/1/max-verstappen-taunts-complete-joke-george-russell-las-vegas-revenge",
           "time": "2026-11-22T09:57:57Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093258/f1-max-verstappen-george-russell-las-vegas-grand-prix-toto-wolff-spat/",
+          "time": "2026-11-23T07:15:00Z"
         }
       ]
     },
