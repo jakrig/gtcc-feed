@@ -1,7 +1,104 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-23T20:10:46Z",
+  "updated": "2026-11-24T04:46:31Z",
   "items": [
+    {
+      "title": "Why final F1 seat on 2027 grid remains unconfirmed",
+      "source": "Speedcafe",
+      "time": "2026-11-24T02:42:09Z",
+      "url": "https://speedcafe.com/f1-news-2026-oliver-bearman-contract-latest-update-silly-season-reason-why-comments-future-ferrari-haas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Adelaide Season Finale Attracts 19-Car Grid",
+      "source": "Sportscar365",
+      "time": "2026-11-24T00:38:32Z",
+      "url": "https://sportscar365.com/sro/australian-gt/adelaide-season-finale-attracts-19-car-grid/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Gotham Motorsports confirms Ferrari 488 Challenge EVO programme for 2027 GT America",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T00:38:19Z",
+      "url": "https://www.pitdebrief.com/post/gotham-motorsports-confirms-ferrari-488-challenge-evo-programme-for-2027-gt-america/",
+      "series": [
+        "gt4"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 hopeful Colton Herta quits F2 program two rounds early",
+      "source": "Speedcafe",
+      "time": "2026-11-23T23:16:10Z",
+      "url": "https://speedcafe.com/f1-news-2026-colton-herta-f2-exit-decision-hitech-comments-cadillac-future-reaction-dan-towriss/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Bamber praises JOTA after commanding Cadillac victory at 2026 WEC Monza finale",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T22:57:00Z",
+      "url": "https://www.pitdebrief.com/post/bamber-praises-jota-after-commanding-cadillac-victory-at-2026-wec-monza-finale/",
+      "series": [
+        "wec"
+      ],
+      "circuit": "monza",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Colapinto hails positive Alpine result after recovering from difficult first stint at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T21:46:00Z",
+      "url": "https://www.pitdebrief.com/post/colapinto-hails-positive-alpine-result-after-recovering-from-difficult-first-stint-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Kim Kardashian breaks silence after 'inspirational' moment at Las Vegas GP",
+      "source": "GPFans",
+      "time": "2026-11-23T21:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093301/kim-kardashian-f1-academy-visit-susie-wolff-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Pirelli confirms tire limits in Qatar again, guaranteeing two-stop race",
+      "source": "RACER",
+      "time": "2026-11-23T20:34:04Z",
+      "url": "https://racer.com/2026/11/23/pirelli-confirms-tire-limits-in-qatar-again-guaranteeing-two-stop-race",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "PODCAST: The fall-out from Reynolds’ axing",
       "source": "Speedcafe",
@@ -60,6 +157,18 @@
         "f1"
       ],
       "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Sainz explains energy deployment strategy after P8 finish at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T18:40:00Z",
+      "url": "https://www.pitdebrief.com/post/carlos-sainz-on-energy-deployment-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
       "photo": null,
       "also": []
     },
@@ -391,6 +500,18 @@
       "url": "https://www.pitdebrief.com/post/bilinski-montoya-and-lacorte-switch-teams-for-final-two-rounds-of-2026-f2-season/",
       "series": [
         "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ford takes another step towards 2027 WEC debut with 30-hour Aragón test",
+      "source": "Pit Debrief",
+      "time": "2026-11-23T12:00:00Z",
+      "url": "https://www.pitdebrief.com/post/ford-takes-another-step-towards-2027-wec-debut-with-30-hour-aragon-test/",
+      "series": [
+        "wec"
       ],
       "circuit": null,
       "photo": null,
@@ -817,6 +938,11 @@
           "source": "Speedcafe",
           "url": "https://speedcafe.com/f1-news-2026-las-vegas-grand-prix-oscar-piastri-radio-outburst-reaction-defence-andrea-stella-jolyon-palmer-response-mclaren/",
           "time": "2026-11-23T00:03:45Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093283/oscar-piastri-explodes-mclaren-censored-las-vegas-grand-prix-team-radio/",
+          "time": "2026-11-23T20:45:00Z"
         }
       ]
     },
@@ -7257,18 +7383,6 @@
         "wec",
         "elms",
         "asian-lms"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Scott Andrews to make GT World Challenge Australia debut in Adelaide alongside Paul Lucchitti",
-      "source": "GT World Challenge Australia",
-      "time": "2026-11-10T00:00:00Z",
-      "url": "https://www.gt-world-challenge-australia.com/news/545/scott-andrews-to-make-gt-world-challenge-australia-debut-in-adelaide-alongside-paul-lucchitti",
-      "series": [
-        "gtwc-australia"
       ],
       "circuit": null,
       "photo": null,
