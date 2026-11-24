@@ -1,7 +1,503 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-24T04:46:31Z",
+  "updated": "2026-11-24T15:51:15Z",
   "items": [
+    {
+      "title": "‘Let’s put Charles in the Haas’: Guenther Steiner’s solution to the Ferrari driver feud",
+      "source": "Motorsport Week",
+      "time": "2026-11-24T15:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/24/lets-put-charles-in-the-haas-guenther-steiners-solution-to-the-ferrari-driver-feud/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "10 years of F2: Geoff Spear, Invicta Racing team manager",
+      "source": "Feeder Series",
+      "time": "2026-11-24T15:29:02Z",
+      "url": "https://feederseries.net/2026/11/24/10-years-of-f2-geoff-spear-invicta-racing-team-manager/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Rao Launches Unconventional Racing With Nielsen, Pratt Miller",
+      "source": "Sportscar365",
+      "time": "2026-11-24T15:22:40Z",
+      "url": "https://sportscar365.com/lemans/elms/rao-launches-unconventional-racing-with-nielsen-pratt-miller/",
+      "series": [
+        "imsa",
+        "elms",
+        "asian-lms"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Motorsport UK announces new Chair as David Richards steps down",
+      "source": "Crash.net",
+      "time": "2026-11-24T15:13:20Z",
+      "url": "https://www.crash.net/f1/news/1110868/1/motorsport-uk-announces-new-chair-david-richards-steps-down",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Unconventional Racing Launches New Identity, 2027 LMP2 Programmes",
+      "source": "Dailysportscar",
+      "time": "2026-11-24T15:00:33Z",
+      "url": "https://www.dailysportscar.com/2026/11/24/unconventional-racing-launches-new-identity-2027-lmp2-programmes.html",
+      "series": [
+        "imsa",
+        "elms"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Naveen Rao announces launch of Unconventional Racing ahead of IMSA LMP2 campaign",
+      "source": "RACER",
+      "time": "2026-11-24T15:00:24Z",
+      "url": "https://racer.com/2026/11/23/naveen-rao-announces-launch-of-unconventional-racing-ahead-of-imsa-lmp2-campaign",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Feeder Series Podcast: How Alisha Palmowski and Alba Larsen made history in Las Vegas",
+      "source": "Feeder Series",
+      "time": "2026-11-24T14:55:11Z",
+      "url": "https://feederseries.net/2026/11/24/feeder-series-podcast-how-alisha-palmowski-and-alba-larsen-made-history-in-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "IMSA Overhauls Testing Rules for Next Year",
+      "source": "Sportscar365",
+      "time": "2026-11-24T14:30:30Z",
+      "url": "https://sportscar365.com/imsa/iwsc/imsa-overhauls-testing-rules-for-2027/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen trolls George Russell with cheeky music choice after Las Vegas GP",
+      "source": "GPFans",
+      "time": "2026-11-24T14:27:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093319/f1-max-verstappen-trolls-george-russell-instagram-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Alonso and Stroll lament power deficit at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T14:00:00Z",
+      "url": "https://www.pitdebrief.com/post/alonso-and-stroll-lament-power-deficit-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘I’ve never asked to be number one’ - Hamilton",
+      "source": "RACER",
+      "time": "2026-11-24T13:41:15Z",
+      "url": "https://racer.com/2026/11/24/-i-ve-never-asked-to-be-number-one---hamilton",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Stella believes Norris and Piastri delivered “one of their best races” together at the 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T13:22:58Z",
+      "url": "https://www.pitdebrief.com/post/stella-believes-norris-and-piastri-delivered-one-of-their-best-races-together-at-the-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "OPINION: Was Peugeot 9X8 Cut Down Before it Had Real Chance?",
+      "source": "Sportscar365",
+      "time": "2026-11-24T13:01:37Z",
+      "url": "https://sportscar365.substack.com/p/opinion-was-the-peugeot-9x8-cut-down",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 F3 | Season Review | Mattia Colnaghi",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T13:00:00Z",
+      "url": "https://www.pitdebrief.com/post/2026-f3-season-review-mattia-colnaghi/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "“I don’t know”: Stroll unsure Honda can close two-second straight-line gap",
+      "source": "Motorsport Week",
+      "time": "2026-11-24T13:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/24/i-dont-know-stroll-unsure-honda-can-close-two-second-straight-line-gap/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Toto Wolff issues defiant defence of F1 regs and Las Vegas GP as he addresses criticism",
+      "source": "Crash.net",
+      "time": "2026-11-24T13:00:00Z",
+      "url": "https://www.crash.net/f1/news/1110865/1/toto-wolff-issues-defiant-defence-f1-regs-and-las-vegas-gp-he-addresses-criticism",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 star spotted flying economy after Las Vegas GP - with unusual hand luggage",
+      "source": "GPFans",
+      "time": "2026-11-24T12:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093305/f1-franco-colapinto-flying-economy-las-vegas-grand-prix-helmet-hand-luggage/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen eyeing debut in major US race in January",
+      "source": "Crash.net",
+      "time": "2026-11-24T12:15:00Z",
+      "url": "https://www.crash.net/f1/news/1110863/1/max-verstappen-eyeing-debut-major-us-race-january",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "PREMA Racing confirms Martin Molnár as first driver for 2027 F3 campaign",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T12:04:15Z",
+      "url": "https://www.pitdebrief.com/post/prema-racing-signs-matin-molnar-for-2027-f3-campaign/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Slater to replace F1-bound Camara at Invicta for last two F2 rounds",
+      "source": "Formula Scout",
+      "time": "2026-11-24T11:40:55Z",
+      "url": "https://formulascout.com/freddie-slater-confirmed-as-camaras-replacement-at-invicta-for-remainder-of-2026-formula-2-season/141415",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lewis Hamilton vs Charles Leclerc: Their bitter F1 rivalry explained",
+      "source": "GPFans",
+      "time": "2026-11-24T11:27:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093314/lewis-hamilton-vs-charles-leclerc-f1-rivalry-explained/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Slater to make early F2 debut with Invicta Racing for final two rounds of 2026 season",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T11:19:37Z",
+      "url": "https://www.pitdebrief.com/post/slater-to-make-early-f2-debut-with-invicta-racing-for-final-two-rounds-of-2026-season/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘Maybe I’m delusional but I genuinely feel like a podium was possible’ – Lindblad | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-24T11:10:46Z",
+      "url": "https://www.racefans.net/2026/11/24/maybe-im-delusional-but-i-genuinely-feel-like-a-podium-was-possible-lindblad/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Exclusive: Nakamura-Berta reflects on “Macau miracle” after finding redemption at the iconic Guia Circuit in 2026",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T11:07:31Z",
+      "url": "https://www.pitdebrief.com/post/exclusive-nakamura-berta-reflects-on-macau-miracle-after-finding-redemption-at-the-iconic-guia-circuit-in-2026/",
+      "series": [
+        "f3"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "James: 2027 Aston Martin Valkyrie Spec “Locked In”",
+      "source": "Sportscar365",
+      "time": "2026-11-24T11:00:50Z",
+      "url": "https://sportscar365.com/lemans/wec/james-2027-aston-martin-valkyrie-specification-locked-in/",
+      "series": [
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "McLaren reveal surprising stance on Oscar Piastri’s foul-mouthed radio message",
+      "source": "Crash.net",
+      "time": "2026-11-24T10:45:00Z",
+      "url": "https://www.crash.net/f1/news/1110858/1/mclaren-reveal-surprising-stance-oscar-piastris-foul-mouthed-radio-message",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Picariello reveals he “had no idea” he had secured a podium after penalties reshaped the 2026 FIA GT World Cup results at the Macau GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T10:34:51Z",
+      "url": "https://www.pitdebrief.com/post/picariello-reveals-he-had-no-idea-he-had-secured-a-podium-after-penalties-reshaped-the-2026-fia-gt-world-cup-results-at-the-macau-gp/",
+      "series": [
+        "gt-world-cup"
+      ],
+      "circuit": "macau",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-24T10:13:49Z",
+      "url": "https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Molnár to line up on 2027 FIA Formula 3 grid with Prema",
+      "source": "Formula Scout",
+      "time": "2026-11-24T09:56:16Z",
+      "url": "https://formulascout.com/molnar-to-line-up-on-2027-fia-formula-3-grid-with-prema/141409",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Guenther Steiner calls for radical Charles Leclerc demotion threat after Ferrari clashes",
+      "source": "Crash.net",
+      "time": "2026-11-24T09:45:00Z",
+      "url": "https://www.crash.net/f1/news/1110855/1/guenther-steiner-calls-radical-charles-leclerc-demotion-threat-after-ferrari",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari lambasted as ‘utterly wrong’ over handling of ‘delicate’ driver situation",
+      "source": "Motorsport Week",
+      "time": "2026-11-24T09:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/24/ferrari-lambasted-over-handing-delicate-driver-situation/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA announces penalty verdict as F1 star punished eight days before next race",
+      "source": "GPFans",
+      "time": "2026-11-24T08:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093293/f1-fia-penalty-verdict-grid-drop-sergio-perez-las-vegas-qatar-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ford Debuts Updated Hypercar Engine At Maiden Endurance Test",
+      "source": "Dailysportscar",
+      "time": "2026-11-24T08:02:04Z",
+      "url": "https://www.dailysportscar.com/2026/11/24/ford-debuts-updated-hypercar-engine-at-very-successful-maiden-endurance-test.html",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/23/ford-debuts-new-5-4l-v8-hypercar-engine-spec-at-successful-first-endurance-test",
+          "time": "2026-11-24T12:30:14Z"
+        }
+      ]
+    },
+    {
+      "title": "Lewis Hamilton makes stunning claim after Ferrari No. 1 snub",
+      "source": "GPFans",
+      "time": "2026-11-24T07:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093308/f1-lewis-hamilton-ferrari-claim-championship-kimi-antonelli/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/24/lewis-hamilton-makes-telling-statement-over-ferrari-no-1-status/",
+          "time": "2026-11-24T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Apex Competition Makes GT3 Step With McLaren",
+      "source": "Dailysportscar",
+      "time": "2026-11-24T07:22:25Z",
+      "url": "https://www.dailysportscar.com/2026/11/24/apex-competition-makes-gt3-step-with-mclaren.html",
+      "series": [
+        "gt-open"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits? | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-24T07:15:03Z",
+      "url": "https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 star's contract delay exposes major problem at Ferrari",
+      "source": "GPFans",
+      "time": "2026-11-24T07:14:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093296/f1-star-ollie-bearman-contract-delay-exposes-major-problem-ferrari/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Pirelli brings back mandatory two-stop strategy for Qatar",
+      "source": "Speedcafe",
+      "time": "2026-11-24T07:07:35Z",
+      "url": "https://speedcafe.com/f1-news-2026-qatar-grand-prix-pirelli-mandatory-tyre-use-two-stop-reason-why/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leclerc and Vasseur in firing line as Hamilton makes stunning Ferrari claim - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-24T06:27:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093309/f1-news-today-wolff-reveals-verstappen-russell-exchange-ferrari-radio-message-questions/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "IMSA Endurance Hour Podcast: Ep. 43: De Phillippi, Verhagen",
+      "source": "Sportscar365",
+      "time": "2026-11-24T05:01:06Z",
+      "url": "https://sportscar365.com/videos/imsa-endurance-hour-podcast-ep-43-de-phillippi-verhagen/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Why final F1 seat on 2027 grid remains unconfirmed",
       "source": "Speedcafe",
@@ -341,6 +837,19 @@
       "also": []
     },
     {
+      "title": "Cicero to Make Racing Return in VGRT CUPRA TCR",
+      "source": "Sportscar365",
+      "time": "2026-11-23T15:15:17Z",
+      "url": "https://sportscar365.com/imsa/impc/cicero-to-make-racing-return-with-vgrt/",
+      "series": [
+        "imsa",
+        "pilot-challenge"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Peugeot WEC Exit Confirmed Amid Stellantis Cutbacks",
       "source": "Sportscar365",
       "time": "2026-11-23T15:12:24Z",
@@ -432,19 +941,6 @@
       "also": []
     },
     {
-      "title": "Cicero to Make Racing Return in VGRT CUPRA TCR",
-      "source": "Sportscar365",
-      "time": "2026-11-23T14:00:17Z",
-      "url": "https://sportscar365.com/imsa/impc/cicero-to-make-racing-return-with-vgrt/",
-      "series": [
-        "imsa",
-        "pilot-challenge"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
       "title": "Oscar Piastri defends expletive McLaren radio rebuke during F1 Las Vegas GP",
       "source": "Motorsport Week",
       "time": "2026-11-23T14:00:00Z",
@@ -479,7 +975,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/24/mercedes-faces-engine-headache-2030-regulations/",
+          "time": "2026-11-24T10:30:00Z"
+        }
+      ]
     },
     {
       "title": "Hadjar asked Red Bull to tell Verstappen “stop defending” as they were losing time | Formula 1",
@@ -515,7 +1017,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/sayers-ford-adapted-well-in-30-hour-aragon-hypercar-test/",
+          "time": "2026-11-24T13:00:09Z"
+        }
+      ]
     },
     {
       "title": "GT4 MANUFACTURER RANKING: Toyota claims global title with double podium in Macau",
@@ -1452,6 +1960,11 @@
           "source": "Crash.net",
           "url": "https://www.crash.net/f1/news/1110745/1/sergio-perez-handed-qatar-gp-grid-penalty-causing-las-vegas-collision-rafael",
           "time": "2026-11-22T08:39:02Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/perez-and-camara-react-to-2026-las-vegas-gp-collision-as-the-cadillac-f1-driver-receives-grid-penalty-for-qatar/",
+          "time": "2026-11-24T13:31:54Z"
         }
       ]
     },
@@ -1677,6 +2190,11 @@
           "source": "Motorsport Week",
           "url": "https://www.motorsportweek.com/2026/11/23/max-verstappen-compares-racing-to-playing-mario-kart/",
           "time": "2026-11-23T10:00:00Z"
+        },
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093288/max-verstappen-outsmarted-george-russell-genius-trick-las-vegas-gp-laurent-mekies/",
+          "time": "2026-11-24T09:57:00Z"
         }
       ]
     },
@@ -2061,7 +2579,18 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110857/1/george-russell-accused-being-all-mouth-and-no-trousers-amid-max-verstappen-feud",
+          "time": "2026-11-24T10:15:00Z"
+        },
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110861/1/george-russell-urged-shut-brutal-max-verstappen-warning",
+          "time": "2026-11-24T11:30:00Z"
+        }
+      ]
     },
     {
       "title": "Finali Mondiali Barcelona: Saturday Notebook",
@@ -2204,6 +2733,11 @@
           "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093275/max-verstappen-george-russell-f1-feud-explained/",
           "time": "2026-11-23T12:45:00Z"
+        },
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/24/george-russell-warned-as-feud-intensifies/",
+          "time": "2026-11-24T11:30:00Z"
         }
       ]
     },
@@ -7303,6 +7837,11 @@
           "source": "Sportscar365",
           "url": "https://sportscar365.com/sro/world-challenge-america/mg1-confirms-two-car-ferrari-effort-for-2027/",
           "time": "2026-11-11T15:13:18Z"
+        },
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html",
+          "time": "2026-11-12T07:51:44Z"
         }
       ]
     },
@@ -7326,23 +7865,18 @@
     },
     {
       "title": "GT WORLD CHALLENGE GLOBAL: Porsche within touching distance of maiden title",
-      "source": "GT World Challenge Asia",
-      "time": "2026-11-10T13:00:00Z",
-      "url": "https://www.gt-world-challenge-asia.com/news/1033/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
+      "source": "GT World Challenge Europe",
+      "time": "2026-11-11T01:00:00Z",
+      "url": "https://www.gt-world-challenge-europe.com/news/3350/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
       "series": [
-        "gtwc-asia",
         "gtwc-europe",
         "gtwc-australia",
-        "gtwc-america"
+        "gtwc-america",
+        "gtwc-asia"
       ],
       "circuit": null,
       "photo": null,
       "also": [
-        {
-          "source": "GT World Challenge Europe",
-          "url": "https://www.gt-world-challenge-europe.com/news/3350/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
-          "time": "2026-11-11T01:00:00Z"
-        },
         {
           "source": "GT World Challenge Australia",
           "url": "https://www.gt-world-challenge-australia.com/news/546/gt-world-challenge-global-porsche-within-touching-distance-of-maiden-title",
@@ -7354,39 +7888,6 @@
           "time": "2026-11-11T11:49:34Z"
         }
       ]
-    },
-    {
-      "title": "SP Motorsports Moves to GT4 America With Two New Porsches",
-      "source": "Sportscar365",
-      "time": "2026-11-10T12:00:36Z",
-      "url": "https://sportscar365.com/sro/gt4-america/sp-motorsports-switches-to-gt4-america-with-two-car-porsche-effort/",
-      "series": [
-        "gt4",
-        "gtwc-america"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": [
-        {
-          "source": "Dailysportscar",
-          "url": "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html",
-          "time": "2026-11-12T07:51:44Z"
-        }
-      ]
-    },
-    {
-      "title": "ACO & LMEM Tweak Category Colours & Names",
-      "source": "Dailysportscar",
-      "time": "2026-11-10T11:47:26Z",
-      "url": "https://www.dailysportscar.com/2026/11/10/aco-lmem-introduce-tweaks-to-category-colours-names.html",
-      "series": [
-        "wec",
-        "elms",
-        "asian-lms"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
     }
   ],
   "photos": {}
