@@ -1,7 +1,230 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-24T15:51:15Z",
+  "updated": "2026-11-25T00:41:00Z",
   "items": [
+    {
+      "title": "Apex Competition confirms two-car McLaren 720S programme for 2027 International GT Open",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T00:39:01Z",
+      "url": "https://www.pitdebrief.com/post/apex-competition-confirms-two-car-mclaren-720s-programme-for-2027-international-gt-open/",
+      "series": [
+        "gt-open"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Carrera Cup set for end of an era in Adelaide",
+      "source": "Speedcafe",
+      "time": "2026-11-25T00:19:17Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-porsche-carrera-cup-australia-entry-list-schedule-details/",
+      "series": [
+        "carrera-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Forbes reveals F1’s $57 billion valuation boom",
+      "source": "Speedcafe",
+      "time": "2026-11-24T23:11:35Z",
+      "url": "https://speedcafe.com/f1-news-2026-forbes-formula-1-valuation-money-profits-team-value-how-much-each-worth-comparison/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "2026 | GTWC Australia | Adelaide | Preview | Schumacher leads five-way title fight into season finale",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T22:12:24Z",
+      "url": "https://www.pitdebrief.com/post/2026-gtwc-australia-adelaide-preview/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 champion now runs a farm with nine sheep and 21 chickens",
+      "source": "GPFans",
+      "time": "2026-11-24T21:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093335/f1-world-champion-sebastian-vettel-runs-farm-nine-sheep-21-chickens/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "What's next for Colton Herta?",
+      "source": "RACER",
+      "time": "2026-11-24T21:14:25Z",
+      "url": "https://racer.com/2026/11/24/what-s-next-for-colton-herta-",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Sergio Perez issues shocking verdict on Cadillac culture: 'No room' for certain team members",
+      "source": "GPFans",
+      "time": "2026-11-24T20:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093330/f1-sergio-perez-warning-cadillac-staff-leave-team-hunger/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Giusti confident of strong 2027 F3 season after joining Rodin Motorsport",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T20:38:25Z",
+      "url": "https://www.pitdebrief.com/post/giusti-confident-of-strong-2027-f3-season-after-joining-rodin-motorsport/",
+      "series": [
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Tickets On Sale Now for the Inaugural Texas 8 Hour at Circuit of The Americas",
+      "source": "GT World Challenge America",
+      "time": "2026-11-24T20:00:00Z",
+      "url": "https://www.gt-world-challenge-america.com/news/1609/texas-8-hour-2027-tickets",
+      "series": [
+        "gtwc-america"
+      ],
+      "circuit": "cota",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari told to make major Hamilton-Leclerc decision in Italian media backlash",
+      "source": "GPFans",
+      "time": "2026-11-24T19:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093287/f1-ferrari-charles-leclerc-lewis-hamilton-number-one-decision/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Mercedes dealt major F1 blow as FIA prepare controversial rule change",
+      "source": "GPFans",
+      "time": "2026-11-24T18:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093336/f1-engine-suppliers-rules-mercedes-mclaren-alpine-williams-2030/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Stella highlights McLaren’s power unit progress despite technical limitations at the 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-24T18:00:00Z",
+      "url": "https://www.pitdebrief.com/post/stella-highlights-mclarens-power-unit-progress-despite-technical-limitations-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Former F1 tester who suffered life-changing injuries in full-time racing return",
+      "source": "Crash.net",
+      "time": "2026-11-24T17:10:00Z",
+      "url": "https://www.crash.net/f1/news/1110872/1/former-f1-tester-who-suffered-life-changing-injuries-full-time-racing-return",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "The [Jarno] Trulli train: an example of an unfulfilled career",
+      "source": "Motorsport Week",
+      "time": "2026-11-24T17:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/24/the-jarno-trulli-train-an-example-of-an-unfulfilled-career/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 star Ollie Bearman slams Haas contract situation with 'no excuse' blast",
+      "source": "GPFans",
+      "time": "2026-11-24T16:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093290/f1-ollie-bearman-haas-contract-no-excuse-ayao-komatsu-news/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Wickens to run full IMSA GTD season with HMI",
+      "source": "RACER",
+      "time": "2026-11-24T16:30:00Z",
+      "url": "https://racer.com/2026/11/24/wickens-to-run-full-imsa-gtd-season-with-hmi",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html",
+          "time": "2026-11-24T16:30:06Z"
+        }
+      ]
+    },
+    {
+      "title": "Wickens, Filippi Confirmed in Hanley BMW GTD Entry",
+      "source": "Sportscar365",
+      "time": "2026-11-24T16:29:16Z",
+      "url": "https://sportscar365.com/imsa/iwsc/wickens-filippi-confirmed-in-hanley-bmw-gtd-entry/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Historic Ayrton Senna Williams F1 car fails to sell at multi-million-dollar auction",
+      "source": "Crash.net",
+      "time": "2026-11-24T16:00:00Z",
+      "url": "https://www.crash.net/f1/news/1110870/1/historic-ayrton-senna-williams-f1-car-fails-sell-multi-million-dollar-auction",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "‘Let’s put Charles in the Haas’: Guenther Steiner’s solution to the Ferrari driver feud",
       "source": "Motorsport Week",
@@ -1207,6 +1430,18 @@
       "url": "https://www.gpfans.com/en/f1-news/1093206/f1-ollie-bearman-haas-ferrari-alpine-contract-2027-grid-flavio-briatore-talks/",
       "series": [
         "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Abrahamsen Wins Ferrari Challenge World Final",
+      "source": "Dailysportscar",
+      "time": "2026-11-23T08:32:17Z",
+      "url": "https://www.dailysportscar.com/2026/11/23/abrahamsen-wins-ferrari-challenge-world-final.html",
+      "series": [
+        "ferrari-challenge"
       ],
       "circuit": null,
       "photo": null,
