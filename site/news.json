@@ -1,7 +1,631 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25T09:49:57Z",
+  "updated": "2026-11-25T19:55:42Z",
   "items": [
+    {
+      "title": "Ferrari told either Hamilton or Leclerc MUST GO after explosive feud",
+      "source": "GPFans",
+      "time": "2026-11-25T19:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093362/ferrari-f1-lewis-hamilton-vs-charles-leclerc-rivalry-one-must-go/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Honda in race against time as shock F1 engine plan revealed",
+      "source": "GPFans",
+      "time": "2026-11-25T18:55:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093368/honda-running-out-of-time-f1-engine-plan-revealed-2028/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Aston Martin announce Qatar FP1 reshuffle",
+      "source": "Motorsport Week",
+      "time": "2026-11-25T18:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/25/aston-martin-announce-qatar-fp1-reshuffle/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA summon Charles Leclerc as Ferrari star faces Lewis Hamilton grilling",
+      "source": "GPFans",
+      "time": "2026-11-25T17:55:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093356/fia-summon-charles-leclerc-hamilton-grilling-f1-qatar-press-conference/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Standard Chartered and F1 Academy launch multi-year Drive Further financial skills initiative",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T17:30:18Z",
+      "url": "https://www.pitdebrief.com/post/standard-chartered-and-f1-academy-launch-multi-year-drive-further-financial-skills-initiative/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Williams loses aero testing time after F1 cost cap breach",
+      "source": "RACER",
+      "time": "2026-11-25T16:59:38Z",
+      "url": "https://racer.com/2026/11/25/williams-loses-aero-testing-time-after-f1-cost-cap-breach",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen trolls George Russell AGAIN as Mercedes hit by FIA rule change - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-25T16:50:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093340/f1-news-today-max-verstappen-trolls-george-russell-again-mercedes-fia-rule-change/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 cost cap: What are the rules and how much money can teams spend?",
+      "source": "Crash.net",
+      "time": "2026-11-25T16:49:00Z",
+      "url": "https://www.crash.net/f1/news/1014425/1/f1-cost-cap-how-red-bull-broke-it-their-punishment-and-2025-budget",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "AF Corse confirms full-time IMSA GTD program",
+      "source": "RACER",
+      "time": "2026-11-25T16:45:40Z",
+      "url": "https://racer.com/2026/11/25/af-corse-confirms-full-time-imsa-gtd-pro-program",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Dailysportscar",
+          "url": "https://www.dailysportscar.com/2026/11/25/af-corse-usa-announces-full-time-imsa-gtd-programme-rolex-24-gtd-pro-entry.html",
+          "time": "2026-11-25T16:46:30Z"
+        }
+      ]
+    },
+    {
+      "title": "Théophile Naël joins Red Bull Junior Team ahead of 2027 F2 move with Campos",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T16:38:40Z",
+      "url": "https://www.pitdebrief.com/post/theophile-nael-joins-red-bull-junior-team-ahead-of-2027-f2-move-with-campos/",
+      "series": [
+        "f2",
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Formula Scout",
+          "url": "https://formulascout.com/nael-links-up-with-red-bull-junior-team-and-joins-campos-for-2027-f2-season/141431",
+          "time": "2026-11-25T19:23:09Z"
+        }
+      ]
+    },
+    {
+      "title": "FIA confirms Williams and Alpine cost cap breaches following 2025 review",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T16:30:00Z",
+      "url": "https://www.pitdebrief.com/post/fia-confirms-williams-and-alpine-cost-cap-breaches-following-2025-review/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "GPFans",
+          "url": "https://www.gpfans.com/en/f1-news/1093370/fia-confirm-williams-punishment-cost-cap-breach-alpine-procedural-breach/",
+          "time": "2026-11-25T16:59:00Z"
+        }
+      ]
+    },
+    {
+      "title": "Williams to receive penalty for breaching F1 cost cap",
+      "source": "Motorsport Week",
+      "time": "2026-11-25T16:15:43Z",
+      "url": "https://www.motorsportweek.com/2026/11/25/williams-to-receive-penalty-for-breaching-f1-cost-cap/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1110889/1/williams-hit-penalty-two-teams-breach-f1-cost-cap-rules",
+          "time": "2026-11-25T16:29:18Z"
+        }
+      ]
+    },
+    {
+      "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-25T16:11:25Z",
+      "url": "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "VAR’s recent rejuvenation and reorganisation as told from the inside",
+      "source": "Feeder Series",
+      "time": "2026-11-25T16:02:43Z",
+      "url": "https://feederseries.net/2026/11/25/vars-recent-rejuvenation-and-reorganisation-as-told-from-the-inside/",
+      "series": [
+        "f2",
+        "f3"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso slams Honda for ‘worst race of the year’ at Las Vegas",
+      "source": "Motorsport Week",
+      "time": "2026-11-25T16:00:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/25/fernando-alonso-slams-honda-for-worst-race-of-the-year-at-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "FIA completes its review of compliance with the 2025 FIA Formula 1 Financial Regulations",
+      "source": "FIA",
+      "time": "2026-11-25T16:00:00Z",
+      "url": "https://www.fia.com/news/fia-completes-its-review-compliance-2025-fia-formula-1-financial-regulations",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Accepted Breach agreement between Alpine Racing Limited and the FIA for procedural breach of the FIA Formula 1 Financial Regulations for F1 Teams",
+      "source": "FIA",
+      "time": "2026-11-25T15:59:00Z",
+      "url": "https://www.fia.com/news/accepted-breach-agreement-between-alpine-racing-limited-and-fia-procedural-breach-fia-formula-1",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Accepted breach agreement between Williams Grand Prix Engineering Limited and the FIA for breach of the FIA Formula 1 Financial Regulations for F1 Teams",
+      "source": "FIA",
+      "time": "2026-11-25T15:58:00Z",
+      "url": "https://www.fia.com/news/accepted-breach-agreement-between-williams-grand-prix-engineering-limited-and-fia-breach-fia",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Sky Sports F1 star wades in on Hamilton-Leclerc row: 'Don't blow it'",
+      "source": "GPFans",
+      "time": "2026-11-25T15:55:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093351/sky-sports-f1-david-croft-lewis-hamilton-charles-leclerc-analysis-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1’s 27-lap tyre limit rule for Qatar Grand Prix explained",
+      "source": "Crash.net",
+      "time": "2026-11-25T15:44:12Z",
+      "url": "https://www.crash.net/f1/news/1110887/1/f1s-27-lap-tyre-limit-rule-qatar-grand-prix-explained",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "TF Names Bateman & Eastwood For ELMS LMGT3 Title Defence",
+      "source": "Dailysportscar",
+      "time": "2026-11-25T15:15:25Z",
+      "url": "https://www.dailysportscar.com/2026/11/25/tf-names-bateman-eastwood-for-elms-lmgt3-title-defence.html",
+      "series": [
+        "elms"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/elms/eastwood-to-defend-lmgt3-title-alongside-bateman/",
+          "time": "2026-11-25T15:37:18Z"
+        }
+      ]
+    },
+    {
+      "title": "Ferrari told to ‘say Lewis Hamilton is number one or get a new team boss’ in blunt David Croft ultimatum",
+      "source": "Crash.net",
+      "time": "2026-11-25T15:14:56Z",
+      "url": "https://www.crash.net/f1/news/1110886/1/ferrari-told-say-lewis-hamilton-number-one-or-get-new-team-boss-blunt-david-croft",
+      "series": [
+        "f1"
+      ],
+      "circuit": "croft",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 drivers and team bosses react to the return of yo-yo racing at 2026 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T15:08:51Z",
+      "url": "https://www.pitdebrief.com/post/f1-drivers-and-team-bosses-react-to-the-return-of-yo-yo-racing-at-2026-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "AO Racing Announces 2027 Drivers",
+      "source": "Dailysportscar",
+      "time": "2026-11-25T15:08:04Z",
+      "url": "https://www.dailysportscar.com/2026/11/25/ao-racing-announces-2027-drivers.html",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Larsen reflects on Palmowski battle in Las Vegas; sets sights on 2027 F1 Academy crown",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T15:00:00Z",
+      "url": "https://www.pitdebrief.com/post/larsen-reflects-on-palmowski-battle-in-las-vegas-sets-sights-on-2027-f1-academy-crown/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "AO Racing confirms 2027 IMSA LMP2 and GTD Pro line-ups",
+      "source": "RACER",
+      "time": "2026-11-25T14:59:21Z",
+      "url": "https://racer.com/2026/11/25/ao-racing-confirms-2027-lmp2-and-gtd-pro-line-ups",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/imsa/iwsc/ao-racing-confirms-full-season-lmp2-gtd-pro-lineups-2/",
+          "time": "2026-11-25T15:26:44Z"
+        }
+      ]
+    },
+    {
+      "title": "George Russell slammed after Max Verstappen row: 'He walks around as if he has five titles'",
+      "source": "GPFans",
+      "time": "2026-11-25T14:55:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093326/george-russell-slammed-max-verstappen-row-las-vegas-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "ACI to Run Porsche 911 GT4 R for Taylor, Miller",
+      "source": "Sportscar365",
+      "time": "2026-11-25T14:00:47Z",
+      "url": "https://sportscar365.com/imsa/impc/aci-to-run-porsche-911-gt4-r-for-taylor-miller/",
+      "series": [
+        "imsa",
+        "pilot-challenge"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Lawson frustrated after fuel leak ruins 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T14:00:00Z",
+      "url": "https://www.pitdebrief.com/post/liam-lawson-frustrated-after-fuel-leak-ruins-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Audi confirm big promotion for British F1 hopeful as debut confirmed",
+      "source": "GPFans",
+      "time": "2026-11-25T13:57:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093328/audi-confirm-big-promotion-freddie-slater-f1-hopeful-f2-debut-confirmed/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari urged to impose ‘internal sanctions’ in F1 driver battles",
+      "source": "Motorsport Week",
+      "time": "2026-11-25T13:30:00Z",
+      "url": "https://www.motorsportweek.com/2026/11/25/ferrari-urged-to-impose-internal-sanctions-in-f1-driver-battles/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Missed podium opportunity still stinging Lindblad",
+      "source": "RACER",
+      "time": "2026-11-25T13:06:00Z",
+      "url": "https://racer.com/2026/11/25/missed-podium-opportunity-still-stinging-lindblad",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Exclusive: Vermeulen reflects on the appeal of DTM and the future of GT racing",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T12:45:00Z",
+      "url": "https://www.pitdebrief.com/post/exclusive-vermeulen-reflects-on-the-appeal-of-dtm-and-the-future-of-gt-racing/",
+      "series": [
+        "dtm"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Christian Horner and wife Geri seal £52million deal for iconic TV mansion",
+      "source": "GPFans",
+      "time": "2026-11-25T12:45:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093353/christian-horner-geri-52m-house-purchase-estate-mansion-tv-pride-and-prejudice/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Nico Pino to replace Shields for remaining rounds of 2026 F2 season",
+      "source": "Formula Scout",
+      "time": "2026-11-25T12:18:18Z",
+      "url": "https://formulascout.com/nico-pino-to-replace-shields-for-remaining-rounds-of-2026-f2-season/141457",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/nico-pino-to-race-with-aix-racing-for-the-final-rounds-of-the-2026-f2-season/",
+          "time": "2026-11-25T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-25T12:08:32Z",
+      "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Browning Linked to Action Express Cadillac Rolex 24 Ride",
+      "source": "Sportscar365",
+      "time": "2026-11-25T11:45:59Z",
+      "url": "https://sportscar365.com/imsa/iwsc/browning-linked-to-action-express-cadillac-rolex-24-ride/",
+      "series": [
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ferrari F1 boss makes decision on Lewis Hamilton vs Charles Leclerc rules",
+      "source": "GPFans",
+      "time": "2026-11-25T11:43:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093321/f1-ferrari-charles-leclerc-lewis-hamilton-fred-vasseur-rules-las-vegas/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Bearman criticises Haas’ pace as Audi turn up pressure at 2026 F1 Las Vegas GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-25T11:26:02Z",
+      "url": "https://www.pitdebrief.com/post/bearman-criticises-haas-pace-as-audi-turn-up-pressure-at-2026-f1-las-vegas-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Fernando Alonso admits Aston Martin \"can’t be competitive\" as he outlines huge F1 shortfall",
+      "source": "Crash.net",
+      "time": "2026-11-25T11:24:58Z",
+      "url": "https://www.crash.net/f1/news/1110880/1/fernando-alonso-admits-aston-martin-cant-be-competitive-he-outlines-huge-f1",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1 - 2026 Qatar GP Schedule of Press Conferences",
+      "source": "FIA",
+      "time": "2026-11-25T11:12:00Z",
+      "url": "https://www.fia.com/news/f1-2026-qatar-gp-schedule-press-conferences",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Abiteboul: Genesis “Needs to Grow” Staffing Levels",
+      "source": "Sportscar365",
+      "time": "2026-11-25T11:00:51Z",
+      "url": "https://sportscar365.com/lemans/wec/abiteboul-genesis-needs-to-grow-staffing-levels/",
+      "series": [
+        "wec"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Charles Leclerc sells Ferrari SUV he pranged in viral Monaco crash",
+      "source": "Crash.net",
+      "time": "2026-11-25T10:36:03Z",
+      "url": "https://www.crash.net/f1/news/1110878/1/charles-leclerc-sells-ferrari-suv-he-pranged-viral-monaco-crash",
+      "series": [
+        "f1"
+      ],
+      "circuit": "monaco",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leung To Step Back From WEC In '27",
+      "source": "Dailysportscar",
+      "time": "2026-11-25T10:11:16Z",
+      "url": "https://www.dailysportscar.com/2026/11/25/leung-to-step-back-from-wec-in-27-sro-plans-coming-together.html",
+      "series": [
+        "wec",
+        "gtwc-europe"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Cataclean targeting 2027 BTCC return following CPRL acquisition",
+      "source": "TouringCarTimes",
+      "time": "2026-11-25T10:04:46Z",
+      "url": "https://www.touringcartimes.com/2026/11/25/cataclean-targeting-2027-btcc-return-following-cprl-acquisition/",
+      "series": [
+        "btcc"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Colton Herta slammed by Will Buxton for 'childish' decision after F1 setback",
+      "source": "Crash.net",
+      "time": "2026-11-25T10:00:00Z",
+      "url": "https://www.crash.net/f1/news/1110873/1/colton-herta-slammed-will-buxton-childish-decision-after-f1-setback",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "The RACER Mailbag, November 25",
+      "source": "RACER",
+      "time": "2026-11-25T10:00:00Z",
+      "url": "https://racer.com/2026/11/24/the-racer-mailbag-november-25",
+      "series": [
+        "f1",
+        "wec",
+        "imsa"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Max Verstappen played GTA 6 for 40 hours and still won the Las Vegas GP",
+      "source": "Crash.net",
+      "time": "2026-11-25T09:55:06Z",
+      "url": "https://www.crash.net/f1/news/1110876/1/max-verstappen-played-gta-6-40-hours-and-still-won-las-vegas-gp",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "What time is the next F1 race? Full Qatar GP schedule and how to watch",
       "source": "Crash.net",
@@ -98,25 +722,19 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "FIA",
+          "url": "https://www.fia.com/news/f1-2026-qatar-grand-prix-preview-0",
+          "time": "2026-11-25T11:32:00Z"
+        }
+      ]
     },
     {
       "title": "New George Russell claim provides extraordinary Verstappen twist: 'Can you ask me about Max?'",
       "source": "GPFans",
       "time": "2026-11-25T07:14:00Z",
       "url": "https://www.gpfans.com/en/f1-news/1093325/f1-george-russell-max-verstappen-will-buxton-las-vegas-incident/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Verstappen trolls George Russell AGAIN as Mercedes hit by FIA rule change - F1 News Today",
-      "source": "GPFans",
-      "time": "2026-11-25T06:15:00Z",
-      "url": "https://www.gpfans.com/en/f1-news/1093340/f1-news-today-max-verstappen-trolls-george-russell-again-mercedes-fia-rule-change/",
       "series": [
         "f1"
       ],
@@ -222,7 +840,7 @@
       "also": []
     },
     {
-      "title": "What's next for Colton Herta?",
+      "title": "What’s next for Colton Herta?",
       "source": "RACER",
       "time": "2026-11-24T21:14:25Z",
       "url": "https://racer.com/2026/11/24/what-s-next-for-colton-herta-",
@@ -357,6 +975,11 @@
           "source": "Dailysportscar",
           "url": "https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html",
           "time": "2026-11-24T16:30:06Z"
+        },
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/imsa/iwsc/af-corse-expands-imsa-effort-with-full-season-gtd-program/",
+          "time": "2026-11-25T17:26:00Z"
         }
       ]
     },
@@ -382,7 +1005,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/25/historic-ayrton-senna-williams-f1-car-fails-to-sell-at-auction/",
+          "time": "2026-11-25T10:30:00Z"
+        }
+      ]
     },
     {
       "title": "‘Let’s put Charles in the Haas’: Guenther Steiner’s solution to the Ferrari driver feud",
@@ -438,7 +1067,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/25/motorsport-uk-announce-new-chair-to-replace-david-richards/",
+          "time": "2026-11-25T17:00:00Z"
+        }
+      ]
     },
     {
       "title": "Unconventional Racing Launches New Identity, 2027 LMP2 Programmes",
@@ -499,7 +1134,13 @@
       ],
       "circuit": "las-vegas",
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/feature/1110882/1/max-verstappen-vs-george-russell-timeline-f1s-biggest-rivalry",
+          "time": "2026-11-25T13:45:33Z"
+        }
+      ]
     },
     {
       "title": "Alonso and Stroll lament power deficit at 2026 F1 Las Vegas GP",
@@ -710,7 +1351,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/25/oscar-piastri-mclaren-f1-message/",
+          "time": "2026-11-25T18:30:00Z"
+        }
+      ]
     },
     {
       "title": "Picariello reveals he “had no idea” he had secured a podium after penalties reshaped the 2026 FIA GT World Cup results at the Macau GP",
@@ -1532,7 +2179,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "Motorsport Week",
+          "url": "https://www.motorsportweek.com/2026/11/25/formula-2-embarks-on-final-championship-stint-at-the-qatar-gp/",
+          "time": "2026-11-25T14:00:00Z"
+        }
+      ]
     },
     {
       "title": "Max Verstappen opens up on future Le Mans entry",
@@ -8185,6 +8838,18 @@
       "also": []
     },
     {
+      "title": "MG1 Motorsports Moves Up To GT World America",
+      "source": "Dailysportscar",
+      "time": "2026-11-12T07:51:44Z",
+      "url": "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html",
+      "series": [
+        "gtwc-america"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Bathurst 12H Organizer Expecting Record GT3 Field",
       "source": "Sportscar365",
       "time": "2026-11-12T06:43:57Z",
@@ -8195,82 +8860,6 @@
       "circuit": "bathurst",
       "photo": null,
       "also": []
-    },
-    {
-      "title": "Kirchhoefer Steps Away from McLaren Factory Driver Status",
-      "source": "Sportscar365",
-      "time": "2026-11-11T19:33:52Z",
-      "url": "https://sportscar365.com/lemans/wec/kirchhoefer-steps-away-from-mclaren-factory-driver-role/",
-      "series": [
-        "wec",
-        "gtwc-europe"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Marvin Kirchhöfer Departs McLaren Customer Racing",
-      "source": "Dailysportscar",
-      "time": "2026-11-11T18:34:33Z",
-      "url": "https://www.dailysportscar.com/2026/11/11/marvin-kirchhofer-departs-mclaren-customer-racing.html",
-      "series": [
-        "wec",
-        "imsa"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "(˓🎤︎︎˒) Podcast: Has #F1 ever been flat out all the way?",
-      "source": "Joe Saward",
-      "time": "2026-11-11T15:53:18Z",
-      "url": "https://joesaward.wordpress.com/2026/11/11/%cb%93%f0%9f%8e%a4%ef%b8%8e%ef%b8%8e%cb%92-podcast-has-f1-ever-been-flat-out-all-the-way/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Porsche On Cusp of Maiden GT World Challenge Global Title",
-      "source": "Sportscar365",
-      "time": "2026-11-11T11:49:34Z",
-      "url": "https://sportscar365.com/sro/world-challenge-europe/porsche-on-cusp-of-maiden-gtwc-global-title/",
-      "series": [
-        "gtwc-europe",
-        "gtwc-america",
-        "gtwc-asia",
-        "gtwc-australia"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "MG1 Motorsports Announces Two-Car Ferrari GT3 Program for 2027 GT World Challenge America",
-      "source": "GT World Challenge America",
-      "time": "2026-11-11T10:00:00Z",
-      "url": "https://www.gt-world-challenge-america.com/news/1603/mg1-announcement-gt-world-challenge",
-      "series": [
-        "gtwc-america"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": [
-        {
-          "source": "Sportscar365",
-          "url": "https://sportscar365.com/sro/world-challenge-america/mg1-confirms-two-car-ferrari-effort-for-2027/",
-          "time": "2026-11-11T15:13:18Z"
-        },
-        {
-          "source": "Dailysportscar",
-          "url": "https://www.dailysportscar.com/2026/11/12/mg1-motorsports-moves-up-to-gt-world-america.html",
-          "time": "2026-11-12T07:51:44Z"
-        }
-      ]
     }
   ],
   "photos": {}
