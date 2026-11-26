@@ -1,7 +1,43 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25T19:55:42Z",
+  "updated": "2026-11-26T02:49:57Z",
   "items": [
+    {
+      "title": "First official laps of Adelaide completed as Paul Lucchitti sets early pace",
+      "source": "GT World Challenge Australia",
+      "time": "2026-11-25T23:00:00Z",
+      "url": "https://www.gt-world-challenge-australia.com/news/554/first-official-laps-of-adelaide-completed-as-paul-lucchitti-sets-early-pace",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "George Russell whining called out after Max Verstappen row: 'All mouth and no trousers'",
+      "source": "GPFans",
+      "time": "2026-11-25T21:29:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093355/f1-george-russell-whining-max-verstappen-row-will-buxton/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Aston Martin confirm Fernando Alonso F1 swap for Qatar Grand Prix",
+      "source": "GPFans",
+      "time": "2026-11-25T20:44:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093360/aston-martin-fernando-alonso-swap-qatar-grand-prix-jak-crawford/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Ferrari told either Hamilton or Leclerc MUST GO after explosive feud",
       "source": "GPFans",
@@ -150,6 +186,11 @@
           "source": "GPFans",
           "url": "https://www.gpfans.com/en/f1-news/1093370/fia-confirm-williams-punishment-cost-cap-breach-alpine-procedural-breach/",
           "time": "2026-11-25T16:59:00Z"
+        },
+        {
+          "source": "Speedcafe",
+          "url": "https://speedcafe.com/f1-news-2026-cost-cap-breach-fia-teams-alpine-williams-reason-fine-punishment-details/",
+          "time": "2026-11-25T23:37:15Z"
         }
       ]
     },
