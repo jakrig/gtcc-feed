@@ -1,7 +1,55 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-26T22:19:24Z",
+  "updated": "2026-11-27T05:01:28Z",
   "items": [
+    {
+      "title": "Title contenders split Adelaide GT World Challenge pole positions",
+      "source": "Speedcafe",
+      "time": "2026-11-27T01:33:58Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-gt-world-challenge-qualifying-friday-frederic-vervisch-mark-rosser-results-report/",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leclerc addresses Ferrari tensions with Hamilton and calls for a solution ahead of the 2026 F1 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-27T01:22:40Z",
+      "url": "https://www.pitdebrief.com/post/leclerc-addresses-ferrari-tensions-with-hamilton-and-calls-for-a-solution-ahead-of-the-2026-f1-qatar-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Norris believes tyre stint and pit stop strategy for 2026 F1 Qatar GP is not “simple”; says McLaren upgrades are working",
+      "source": "Pit Debrief",
+      "time": "2026-11-27T00:45:28Z",
+      "url": "https://www.pitdebrief.com/post/norris-believes-tyre-stint-and-pit-stop-strategy-for-2026-f1-qatar-gp-is-not-simple-says-mclaren-upgrades-are-working/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Piastri hopes to carry Las Vegas momentum into 2026 F1 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-26T23:07:28Z",
+      "url": "https://www.pitdebrief.com/post/piastri-hopes-to-carry-las-vegas-momentum-into-2026-f1-qatar-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
+      "photo": null,
+      "also": []
+    },
     {
       "title": "Sebastian Vettel shares relationship secret after 20 years with wife Hanna",
       "source": "GPFans",
@@ -288,7 +336,13 @@
       ],
       "circuit": null,
       "photo": null,
-      "also": []
+      "also": [
+        {
+          "source": "RACER",
+          "url": "https://racer.com/2026/11/26/-we-need-to-find-a-solution-to-ferrari-clashes-leclerc-admits",
+          "time": "2026-11-27T01:58:47Z"
+        }
+      ]
     },
     {
       "title": "Ben Green Completes Inception Racing Corvette Crew For Rolex 24",
@@ -613,6 +667,11 @@
           "source": "RACER",
           "url": "https://racer.com/2026/11/26/bearman-finally-gets-2027-haas-deal-confirmed",
           "time": "2026-11-26T14:15:21Z"
+        },
+        {
+          "source": "Pit Debrief",
+          "url": "https://www.pitdebrief.com/post/bearman-pleased-with-haas-f1-contract-extension-for-2027-ahead-of-2026-qatar-gp/",
+          "time": "2026-11-27T02:24:39Z"
         }
       ]
     },
@@ -9466,30 +9525,6 @@
       "url": "https://www.crash.net/f1/news/1110103/1/lewis-hamilton-shares-heartfelt-message-after-visiting-palestinian-children",
       "series": [
         "f1"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Cini and Nicholas confirm GT World Challenge Australia Adelaide entry",
-      "source": "GT World Challenge Australia",
-      "time": "2026-11-13T00:00:00Z",
-      "url": "https://www.gt-world-challenge-australia.com/news/547/cini-and-nicholas-confirm-gt-world-challenge-australia-adelaide-entry",
-      "series": [
-        "gtwc-australia"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Cini and Mcbride confirm GT World Challenge Australia Adelaide entry",
-      "source": "GT World Challenge Australia",
-      "time": "2026-11-13T00:00:00Z",
-      "url": "https://www.gt-world-challenge-australia.com/news/547/cini-and-mcbride-confirm-gt-world-challenge-australia-adelaide-entry",
-      "series": [
-        "gtwc-australia"
       ],
       "circuit": null,
       "photo": null,
