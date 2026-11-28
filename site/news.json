@@ -1,7 +1,146 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-27T23:26:04Z",
+  "updated": "2026-11-28T07:42:59Z",
   "items": [
+    {
+      "title": "Formula 1 planning new engine development freeze before 2030 rules change | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-28T07:15:08Z",
+      "url": "https://www.racefans.net/2026/11/28/formula-1-planning-new-engine-development-freeze-before-2030-rules-change/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Ugochukwu reflects on “dream start” to F2 career after claiming pole on debut in Qatar",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T07:00:03Z",
+      "url": "https://www.pitdebrief.com/post/ugochukwu-reflects-on-dream-start-to-f2-career-after-claiming-pole-on-debut-in-qatar/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Antonelli makes Verstappen team-mate request as F1 star left furious at Qatar Grand Prix - F1 News Today",
+      "source": "GPFans",
+      "time": "2026-11-28T06:44:00Z",
+      "url": "https://www.gpfans.com/en/f1-news/1093483/f1-news-today-max-verstappen-red-bull-kimi-antonelli-lance-stroll-qatar-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Leclerc and Loverno discuss Ferrari’s setbacks encountered during Friday practice sessions at 2026 F1 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T04:46:32Z",
+      "url": "https://www.pitdebrief.com/post/leclerc-and-loverno-discuss-ferraris-setbacks-encountered-during-friday-practice-sessions-at-2026-f1-qatar-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Verstappen: Red Bull still need to address balance issues after “difficult” Friday at 2026 F1 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T04:31:23Z",
+      "url": "https://www.pitdebrief.com/post/verstappen-red-bull-still-need-to-address-balance-issues-after-difficult-friday-at-2026-f1-qatar-gp/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Dominant Marjoram out to make V8 SuperUtes history",
+      "source": "Speedcafe",
+      "time": "2026-11-28T04:13:31Z",
+      "url": "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-saturday-support-categories-porsche-carrera-cup-v8-superute-series-results-report/",
+      "series": [
+        "carrera-cup"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Tsolov anticipates three-way F2 title fight after difficult Qualifying at 2026 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T02:33:36Z",
+      "url": "https://www.pitdebrief.com/post/tsolov-anticipates-three-way-f2-title-fight-after-difficult-qualifying-at-2026-qatar-gp/",
+      "series": [
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Mercedes’ Bradley Lord says the team has ‘hit the ground running’ after dominant 2026 F1 Qatar GP practice",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T02:11:28Z",
+      "url": "https://www.pitdebrief.com/post/mercedes-bradley-lord-says-the-team-has-hit-the-ground-running-after-dominant-2026-f1-qatar-gp-practice/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Minì seeks big points haul after Qualifying turnaround at the 2026 F2 Qatar GP",
+      "source": "Pit Debrief",
+      "time": "2026-11-28T00:50:28Z",
+      "url": "https://www.pitdebrief.com/post/mini-seeks-big-points-haul-after-qualifying-turnaround-at-the-2026-f2-qatar-gp/",
+      "series": [
+        "f1",
+        "f2"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Tickets on sale for 2027 GT World opener at Circuit Paul Ricard",
+      "source": "GT World Challenge Europe",
+      "time": "2026-11-28T00:00:00Z",
+      "url": "https://www.gt-world-challenge-europe.com/news/3351/tickets-on-sale-for-2027-gt-world-opener-at-circuit-paul-ricard",
+      "series": [
+        "gtwc-europe"
+      ],
+      "circuit": "paul-ricard",
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Heinrich and Shahin win opening race of Adelaide season finale",
+      "source": "GT World Challenge Australia",
+      "time": "2026-11-28T00:00:00Z",
+      "url": "https://www.gt-world-challenge-australia.com/news/557/heinrich-and-shahin-win-opening-race-of-adelaide-season-finale",
+      "series": [
+        "gtwc-australia"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/sro/australian-gt/heinrich-shahin-win-opening-race-in-adelaide/",
+          "time": "2026-11-28T00:45:09Z"
+        }
+      ]
+    },
     {
       "title": "Crash spells cruel end for Supercars-bound Carrera Cup ace",
       "source": "Speedcafe",
@@ -35,6 +174,30 @@
         "f2"
       ],
       "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "Vowles explains why Williams exceeded F1’s cost cap by £627,000 | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-27T21:02:37Z",
+      "url": "https://www.racefans.net/2026/11/27/vowles-explains-why-williams-exceeded-f1s-cost-cap-by-627000/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
+      "title": "F1’s ‘NASCAR-style’ racing at Las Vegas won’t disappear in 2027, say teams | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-27T20:46:32Z",
+      "url": "https://www.racefans.net/2026/11/27/f1s-nascar-style-racing-at-las-vegas-wont-disappear-in-2027-say-teams/",
+      "series": [
+        "f1"
+      ],
+      "circuit": "las-vegas",
       "photo": null,
       "also": []
     },
@@ -111,6 +274,18 @@
       "also": []
     },
     {
+      "title": "“Not worth thinking about” being able to beat Mercedes even with new floor – Norris | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-27T19:36:06Z",
+      "url": "https://www.racefans.net/2026/11/27/not-worth-thinking-about-being-able-to-beat-mercedes-even-with-new-floor-norris/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Lando Norris fears Mercedes “in a different category” after ominous start to Qatar GP",
       "source": "Crash.net",
       "time": "2026-11-27T19:27:45Z",
@@ -145,18 +320,6 @@
       "source": "GPFans",
       "time": "2026-11-27T19:14:00Z",
       "url": "https://www.gpfans.com/en/f1-news/1093475/lance-stroll-f1-qatar-grand-prix-aston-martin-team-radio-fp1/",
-      "series": [
-        "f1"
-      ],
-      "circuit": null,
-      "photo": null,
-      "also": []
-    },
-    {
-      "title": "Why Audi’s call for Yuki Tsunoda penalty was rejected at International Court of Appeal",
-      "source": "Crash.net",
-      "time": "2026-11-27T18:53:43Z",
-      "url": "https://www.crash.net/f1/news/1111144/1/why-audis-call-yuki-tsunoda-penalty-was-rejected-international-court-appeal",
       "series": [
         "f1"
       ],
@@ -277,6 +440,24 @@
       "circuit": null,
       "photo": null,
       "also": []
+    },
+    {
+      "title": "Court of Appeal rejects Audi’s call for Tsunoda penalty in Italian Grand Prix | Formula 1",
+      "source": "RaceFans",
+      "time": "2026-11-27T17:09:21Z",
+      "url": "https://www.racefans.net/2026/11/27/court-of-appeal-rejects-audis-call-for-tsunoda-penalty-in-italian-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": [
+        {
+          "source": "Crash.net",
+          "url": "https://www.crash.net/f1/news/1111144/1/why-audis-call-yuki-tsunoda-penalty-was-rejected-international-court-appeal",
+          "time": "2026-11-27T18:53:43Z"
+        }
+      ]
     },
     {
       "title": "Hanna targets front-running 2027 F3 campaign with Campos Racing",
@@ -402,6 +583,18 @@
       ]
     },
     {
+      "title": "Spotlight: Some F1 broadcasters choose not to attend Qatar Grand Prix | Brief",
+      "source": "RaceFans",
+      "time": "2026-11-27T15:27:27Z",
+      "url": "https://www.racefans.net/2026/11/27/spotlight-some-f1-broadcasters-choose-not-to-attend-qatar-grand-prix/",
+      "series": [
+        "f1"
+      ],
+      "circuit": null,
+      "photo": null,
+      "also": []
+    },
+    {
       "title": "Lewis Hamilton power shift as Leclerc linked with Ferrari exit - F1 News Today",
       "source": "GPFans",
       "time": "2026-11-27T15:16:00Z",
@@ -424,6 +617,11 @@
       "circuit": null,
       "photo": null,
       "also": [
+        {
+          "source": "RaceFans",
+          "url": "https://www.racefans.net/2026/11/27/antonelli-leads-another-mercedes-one-two-despite-red-flag-interruptions/",
+          "time": "2026-11-27T18:15:44Z"
+        },
         {
           "source": "RACER",
           "url": "https://racer.com/2026/11/27/antonelli-keeps-mercedes-ahead-in-disrupted-second-qatar-gp-practice",
