@@ -953,10 +953,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "f5401fe8e79ccad0",
-    "etag": "W/\"875b7b84c6eaac1a94f27bf9148ce900\"",
-    "last_modified": "Sat, 28 Nov 2026 05:25:50 GMT"
+    "etag": "W/\"1b94e4b3d5d2ba82fdb968598c0f6192\"",
+    "last_modified": "Sat, 28 Nov 2026 10:04:06 GMT"
   },
   "racer": {
     "first_seen": {
@@ -969,9 +969,20 @@
       "https://racer.com/2026/11/27/short-track-star-swanson-aiming-to-crowdfund-indy-500-entry": "2026-11-27T16:35:58Z",
       "https://racer.com/2026/11/25/racing-on-tv-november-27-29": "2026-11-27T15:51:57Z",
       "https://racer.com/2026/11/27/lundqvist-lands-phoenix-oval-test-with-rlr": "2026-11-27T15:09:03Z",
-      "https://racer.com/2026/11/27/antonelli-leads-mercedes-1-2-in-first-qatar-gp-practice": "2026-11-27T14:36:02Z"
+      "https://racer.com/2026/11/28/antonelli-completes-sweep-of-qatar-gp-practice": "2026-11-28T15:36:09Z"
     },
     "items": [
+      {
+        "title": "Antonelli completes sweep of Qatar GP practice",
+        "source": "RACER",
+        "time": "2026-11-28T15:36:09Z",
+        "url": "https://racer.com/2026/11/28/antonelli-completes-sweep-of-qatar-gp-practice",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Komatsu says Bearman is becoming the leader Haas has been looking for",
         "source": "RACER",
@@ -1706,7 +1717,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "80a32031ab0824f0",
     "etag": null,
     "last_modified": null
@@ -1714,7 +1725,6 @@
   "touringcartimes": {
     "first_seen": {
       "https://www.touringcartimes.com/2026/11/22/plato-racing-administration-reveals-3-9-million-debt-as-team-sale-continues/": "2026-11-22T11:28:15Z",
-      "https://www.touringcartimes.com/2026/11/22/2027-fia-tcr-world-tour-calendar-set-for-eight-rounds/": "2026-11-22T10:06:57Z",
       "https://www.touringcartimes.com/2026/11/23/cataclean-acquires-cprl-assets-following-plato-racing-administration/": "2026-11-23T10:04:58Z",
       "https://www.touringcartimes.com/2026/11/23/alexander-murdzevski-schedvin-we-took-the-decision-to-build-the-preface-very-late/": "2026-11-23T09:01:54Z",
       "https://www.touringcartimes.com/2026/11/25/cataclean-targeting-2027-btcc-return-following-cprl-acquisition/": "2026-11-25T10:04:46Z",
@@ -1722,7 +1732,8 @@
       "https://www.touringcartimes.com/2026/11/26/tcr-italy-to-adopt-tcr-world-tour-sporting-regulations-for-2027/": "2026-11-26T08:35:45Z",
       "https://www.touringcartimes.com/2026/11/27/brodie-kostecki-wins-dramatic-adelaide-opener-as-title-rivals-clash/": "2026-11-27T12:26:46Z",
       "https://www.touringcartimes.com/2026/11/27/dan-cammish-signs-new-two-year-deal-with-alliance-racing/": "2026-11-27T10:21:00Z",
-      "https://www.touringcartimes.com/2026/11/27/tcr-uk-reveals-five-round-calendar-for-2027/": "2026-11-27T16:43:21Z"
+      "https://www.touringcartimes.com/2026/11/27/tcr-uk-reveals-five-round-calendar-for-2027/": "2026-11-27T16:43:21Z",
+      "https://www.touringcartimes.com/2026/11/28/broc-feeney-wins-dramatic-adelaide-race-to-set-up-three-way-title-showdown/": "2026-11-28T12:33:30Z"
     },
     "items": [
       {
@@ -1781,25 +1792,113 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "046337ec7127b475",
-    "etag": "\"efb1f5ae8bbbfc752a9d019b6ec7f8f3\"",
-    "last_modified": "Fri, 27 Nov 2026 16:43:21 GMT"
+    "etag": "\"9ea2865b7e44a49d95a2ce198fab3a95\"",
+    "last_modified": "Sat, 28 Nov 2026 12:33:30 GMT"
   },
   "motorsportweek": {
     "first_seen": {
-      "https://www.motorsportweek.com/2026/11/27/f1-2026-qatar-grand-prix-fp1-results/": "2026-11-27T14:32:08Z",
-      "https://www.motorsportweek.com/2026/11/27/marc-marquez-on-his-retirement-i-gave-my-body-to-motogp-its-time-to-stop/": "2026-11-27T13:15:19Z",
-      "https://www.motorsportweek.com/2026/11/27/george-russell-takes-fresh-swipe-at-max-verstappen/": "2026-11-27T18:45:00Z",
-      "https://www.motorsportweek.com/2026/11/27/kimi-antonelli-tops-the-times-in-extended-qatar-fp2/": "2026-11-27T18:30:02Z",
-      "https://www.motorsportweek.com/2026/11/27/f1-2026-qatar-grand-prix-fp2-results/": "2026-11-27T18:26:16Z",
-      "https://www.motorsportweek.com/2026/11/27/f2-qualifying-qatar-ugochukwu/": "2026-11-27T15:58:34Z",
-      "https://www.motorsportweek.com/2026/11/27/f2-2026-qatar-grand-prix-qualifying-results/": "2026-11-27T15:46:17Z",
-      "https://www.motorsportweek.com/2026/11/27/max-verstappen-george-russell-spat/": "2026-11-27T15:17:54Z",
-      "https://www.motorsportweek.com/2026/11/27/marc-marquez-tops-valencia-motogp-practice-with-new-lap-record/": "2026-11-27T15:11:01Z",
-      "https://www.motorsportweek.com/2026/11/27/kimi-antonelli-fastest-fp1-qatar-gp/": "2026-11-27T14:54:09Z"
+      "https://www.motorsportweek.com/2026/11/28/kimi-antonelli-shows-off-mercedes-pace-qatar-fp3/": "2026-11-28T15:45:41Z",
+      "https://www.motorsportweek.com/2026/11/28/f1-2026-qatar-grand-prix-fp3-results/": "2026-11-28T15:38:01Z",
+      "https://www.motorsportweek.com/2026/11/28/marco-bezzecchi-leads-aprilia-to-1-2-in-valencia-motogp-sprint/": "2026-11-28T15:17:34Z",
+      "https://www.motorsportweek.com/2026/11/28/charles-leclerc-ferrari-outlier-qatar-gp/": "2026-11-28T13:30:00Z",
+      "https://www.motorsportweek.com/2026/11/28/pirelli-evaluating-changes-to-tyres/": "2026-11-28T13:00:00Z",
+      "https://www.motorsportweek.com/2026/11/28/stroll-injured-during-f1-qatar-gp/": "2026-11-28T12:00:00Z",
+      "https://www.motorsportweek.com/2026/11/28/ugo-ugochukwu-praises-pretty-amazing-f2-debut-pole-in-qatar/": "2026-11-28T11:34:53Z",
+      "https://www.motorsportweek.com/2026/11/28/sainz-calls-for-2027-f1-penalty-review/": "2026-11-28T11:00:00Z",
+      "https://www.motorsportweek.com/2026/11/28/marco-bezzecchi-claims-motogp-pole-for-valencia-season-finale/": "2026-11-28T10:58:26Z",
+      "https://www.motorsportweek.com/2026/11/28/norris-highlights-mercedes-pace-ahead-of-f1-qatar-gp/": "2026-11-28T10:00:00Z"
     },
     "items": [
+      {
+        "title": "Kimi Antonelli shows off Mercedes pace in F1 Qatar GP FP3",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T15:45:41Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/kimi-antonelli-shows-off-mercedes-pace-qatar-fp3/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 2026 Qatar Grand Prix – FP3 Results",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T15:38:01Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/f1-2026-qatar-grand-prix-fp3-results/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Charles Leclerc airs concerns at problematic Ferrari ‘outlier’ in Qatar",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T13:30:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/charles-leclerc-ferrari-outlier-qatar-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Pirelli ‘evaluating’ changes to tyres after F1 Qatar GP practice incidents",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T13:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/pirelli-evaluating-changes-to-tyres/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lance Stroll reveals ‘difficult’ back injury suffered early in F1 Qatar GP",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T12:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/stroll-injured-during-f1-qatar-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Ugo Ugochukwu praises ‘pretty amazing’ F2 debut pole in Qatar",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T11:34:53Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/ugo-ugochukwu-praises-pretty-amazing-f2-debut-pole-in-qatar/",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Carlos Sainz becomes latest F1 driver to call for an FIA penalty review ahead of 2027",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T11:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/sainz-calls-for-2027-f1-penalty-review/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lando Norris claims Mercedes are in a ‘different category’ ahead of F1 Qatar GP",
+        "source": "Motorsport Week",
+        "time": "2026-11-28T10:00:00Z",
+        "url": "https://www.motorsportweek.com/2026/11/28/norris-highlights-mercedes-pace-ahead-of-f1-qatar-gp/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "George Russell takes fresh swipe at Max Verstappen with Lewis Hamilton comparison",
         "source": "Motorsport Week",
@@ -3288,27 +3387,49 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "7eb57fe9e1f0063b",
-    "etag": "\"e56680e7b09236f9056b13fd0cac87f8\"",
-    "last_modified": "Fri, 27 Nov 2026 18:45:00 GMT"
+    "etag": "\"98a4995559b9098ef79bebd844e00a61\"",
+    "last_modified": "Sat, 28 Nov 2026 15:47:23 GMT"
   },
   "dailysportscar": {
     "first_seen": {
       "https://www.dailysportscar.com/2026/11/25/af-corse-usa-announces-full-time-imsa-gtd-programme-rolex-24-gtd-pro-entry.html": "2026-11-25T16:46:30Z",
-      "https://www.dailysportscar.com/2026/11/25/ao-racing-announces-2027-drivers.html": "2026-11-25T15:08:04Z",
-      "https://www.dailysportscar.com/2026/11/25/leung-to-step-back-from-wec-in-27-sro-plans-coming-together.html": "2026-11-25T10:11:16Z",
       "https://www.dailysportscar.com/2026/11/26/watson-racing-the-birthplace-of-mustang-challenges-dark-horse-rs.html": "2026-11-26T07:38:47Z",
       "https://www.dailysportscar.com/2026/11/26/drivers-championship-global-manufacturers-title-up-for-grabs-in-gtwc-australia-finale.html": "2026-11-26T06:45:36Z",
-      "https://www.dailysportscar.com/2026/11/25/tf-sport-names-bateman-eastwood-for-elms-lmgt3-title-defence.html": "2026-11-25T15:15:25Z",
       "https://www.dailysportscar.com/2026/11/26/fords-new-hypercar-officially-christened-gt41.html": "2026-11-26T18:00:00Z",
       "https://www.dailysportscar.com/2026/11/26/ben-green-completes-inception-racing-corvette-crew-for-rolex-24.html": "2026-11-26T16:22:27Z",
       "https://www.dailysportscar.com/2026/11/27/hrt-interested-in-customer-lmdh-future.html": "2026-11-27T11:02:16Z",
       "https://www.dailysportscar.com/2026/11/27/toyota-claims-maiden-gt4-manufacturer-ranking-crown.html": "2026-11-27T09:42:57Z",
       "https://www.dailysportscar.com/2026/11/27/gt500-standings-finalised-after-rookie-racing-appeal-dismissed.html": "2026-11-27T09:10:41Z",
-      "https://www.dailysportscar.com/2026/11/27/deletraz-family-to-team-up-at-portimao.html": "2026-11-27T16:51:33Z"
+      "https://www.dailysportscar.com/2026/11/27/deletraz-family-to-team-up-at-portimao.html": "2026-11-27T16:51:33Z",
+      "https://www.dailysportscar.com/2026/11/28/maximum-points-for-rosser-sets-up-winner-takes-all-gtwc-australia-finale.html": "2026-11-28T12:01:53Z",
+      "https://www.dailysportscar.com/2026/11/28/armstrong-named-next-motorsport-uk-chair.html": "2026-11-28T11:10:49Z",
+      "https://www.dailysportscar.com/2026/11/28/bruni-returns-to-gt-open-with-apex-competition.html": "2026-11-28T11:05:51Z"
     },
     "items": [
+      {
+        "title": "Maximum Points For Rosser Sets Up Winner-Takes-All Finale",
+        "source": "Dailysportscar",
+        "time": "2026-11-28T12:01:53Z",
+        "url": "https://www.dailysportscar.com/2026/11/28/maximum-points-for-rosser-sets-up-winner-takes-all-gtwc-australia-finale.html",
+        "series": [
+          "gtwc-australia"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Bruni Returns To GT Open With Apex Competition",
+        "source": "Dailysportscar",
+        "time": "2026-11-28T11:05:51Z",
+        "url": "https://www.dailysportscar.com/2026/11/28/bruni-returns-to-gt-open-with-apex-competition.html",
+        "series": [
+          "gt-open"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "HRT Interested In Customer LMDh Future",
         "source": "Dailysportscar",
@@ -3910,10 +4031,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "464a5f0b4f66c3f7",
-    "etag": "\"21f98734eb7c80df89ad371c9733870a\"",
-    "last_modified": "Fri, 27 Nov 2026 17:16:00 GMT"
+    "etag": "\"c3301076be1a80d01f18db5752cb8629\"",
+    "last_modified": "Sat, 28 Nov 2026 12:04:42 GMT"
   },
   "speedcafe": {
     "first_seen": {
@@ -3921,14 +4042,25 @@
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-championship-points-after-saturday-race-payne-kostecki-feeney-mostert/": "2026-11-28T06:54:06Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-saturday-race-crash-chaz-mostert-vs-aaron-cameron-video-comments-reaction/": "2026-11-28T05:08:52Z",
       "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-super2-series-saturday-race-results-reuben-goodall-win/": "2026-11-28T04:21:52Z",
-      "https://speedcafe.com/motorsport-news-2026-adelaide-grand-final-saturday-support-categories-porsche-carrera-cup-v8-superute-series-results-report/": "2026-11-28T04:13:31Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-james-golding-blanchard-racing-team-crash-damage-qualifying-out/": "2026-11-28T03:44:29Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-nascar-jesse-love-scott-mclaughlin-testing-exclusive-interview/": "2026-11-28T03:29:42Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-saturday-top-10-shootout-results-broc-feeney-pole-position-comments-reaction/": "2026-11-28T03:03:54Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-saturday-qualifying-results-chaz-mostert-misses-shootout-comments-reaction/": "2026-11-28T02:21:05Z",
-      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-saturday-qualifying-crash-james-golding-video-comments-reaction/": "2026-11-28T01:37:20Z"
+      "https://speedcafe.com/f1-news-2026-qatar-grand-prix-fp3-practice-results-mercedes-kimi-antonelli-george-russell/": "2026-11-28T15:44:22Z",
+      "https://speedcafe.com/supercars-podcast-2026-adelaide-grand-final-saturday-review-broc-feeney-wins-chaz-mostert-crash-grove-racing-penalty-explained/": "2026-11-28T11:23:15Z",
+      "https://speedcafe.com/supercars-news-2026-adelaide-500-grove-racing-penalised-pit-breach-explained-details-fine-points/": "2026-11-28T09:30:17Z",
+      "https://speedcafe.com/photos-saturday-at-the-adelaide-grand-final-2026/": "2026-11-28T09:14:41Z",
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-brodie-kostecki-dick-johnson-racing-radio-malfunction/": "2026-11-28T08:57:57Z",
+      "https://speedcafe.com/supercars-news-2026-adelaide-grand-final-saturday-race-aaron-cameron-crash-injury-hospital-wrist-scan-video/": "2026-11-28T07:56:13Z"
     },
     "items": [
+      {
+        "title": "Mercedes completes Qatar practice sweep as Antonelli tops FP3",
+        "source": "Speedcafe",
+        "time": "2026-11-28T15:44:22Z",
+        "url": "https://speedcafe.com/f1-news-2026-qatar-grand-prix-fp3-practice-results-mercedes-kimi-antonelli-george-russell/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Dominant Marjoram out to make V8 SuperUtes history",
         "source": "Speedcafe",
@@ -4724,25 +4856,36 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "7c61da9fc003defa",
-    "etag": "W/\"47a30482e2f5e15dbd29bea7cc5299b7-gzip\"",
+    "etag": "W/\"6b617c526afb1fa5442dd4d9e5a9aeff-gzip\"",
     "last_modified": null
   },
   "fia": {
     "first_seen": {
       "https://www.fia.com/news/fia-completes-its-review-compliance-2025-fia-formula-1-financial-regulations": "2026-11-25T16:00:00Z",
       "https://www.fia.com/news/accepted-breach-agreement-between-alpine-racing-limited-and-fia-procedural-breach-fia-formula-1": "2026-11-25T15:59:00Z",
-      "https://www.fia.com/news/accepted-breach-agreement-between-williams-grand-prix-engineering-limited-and-fia-breach-fia": "2026-11-25T15:58:00Z",
       "https://www.fia.com/news/f1-2026-qatar-grand-prix-preview-0": "2026-11-25T11:32:00Z",
       "https://www.fia.com/news/f1-2026-qatar-grand-prix-thursday-press-conference-transcript": "2026-11-26T16:37:00Z",
       "https://www.fia.com/news/have-your-say-fia-and-wrc-invite-fans-vote-their-favourite-fia-wrc-event-2026": "2026-11-26T15:55:00Z",
       "https://www.fia.com/news/f1-antonelli-leads-mercedes-one-two-disrupted-qatar-fp2": "2026-11-27T18:52:00Z",
       "https://www.fia.com/news/f1-2026-qatar-grand-prix-friday-press-conference-transcript": "2026-11-27T16:24:00Z",
       "https://www.fia.com/news/fia-world-cup-winner-qa-kenzo-craigie": "2026-11-27T15:04:00Z",
-      "https://www.fia.com/news/f1-antonelli-leads-mercedes-one-two-qatar-opening-practice": "2026-11-27T15:03:00Z"
+      "https://www.fia.com/news/f1-antonelli-leads-mercedes-one-two-qatar-opening-practice": "2026-11-27T15:03:00Z",
+      "https://www.fia.com/news/f1-antonelli-tops-final-practice-qatar-mercedes-continue-dominate": "2026-11-28T15:53:00Z"
     },
     "items": [
+      {
+        "title": "F1 – Antonelli tops final practice in Qatar as Mercedes continue to dominate",
+        "source": "FIA",
+        "time": "2026-11-28T15:53:00Z",
+        "url": "https://www.fia.com/news/f1-antonelli-tops-final-practice-qatar-mercedes-continue-dominate",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "F1 – Antonelli leads Mercedes one-two in disrupted Qatar FP2",
         "source": "FIA",
@@ -4964,10 +5107,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "1472f4832a4b7473",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:41:37 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:41 GMT"
   },
   "british-gt-official": {
     "first_seen": {
@@ -5006,10 +5149,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "ace33186f8edec95",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:03 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:24 GMT"
   },
   "nls-official": {
     "first_seen": {
@@ -5025,7 +5168,7 @@
       "https://www.nuerburgring-langstrecken-serie.de/language/en/2026/06/20/photo-finish-first-win-for-the-new-dunlop-porsche/": "2026-06-20T17:32:13Z"
     },
     "items": [],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "9f0c5f3856f76ed0",
     "etag": "W/\"33d37de5b62fb06d996fc4829705253c\"",
     "last_modified": "Wed, 25 Nov 2026 18:36:17 GMT"
@@ -5089,7 +5232,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "ca63ca8af18241ba",
     "etag": "W/\"4c3c27b12a3fcb9444335aba81d2dd7f-gzip\"",
     "last_modified": "Fri, 27 Nov 2026 11:58:58 GMT"
@@ -5097,17 +5240,50 @@
   "pitdebrief": {
     "first_seen": {
       "https://www.pitdebrief.com/post/norris-and-singh-assess-mclarens-deficit-to-mercedes-after-friday-practice-at-the-2026-f1-qatar-gp/": "2026-11-27T22:31:37Z",
-      "https://www.pitdebrief.com/post/f1-qatar-gp-fp2-report/": "2026-11-27T18:22:09Z",
-      "https://www.pitdebrief.com/post/2026-f1-qatar-gp-fp2-results/": "2026-11-27T18:21:02Z",
-      "https://www.pitdebrief.com/post/hanna-targets-front-running-2027-f3-campaign-with-campos-racing/": "2026-11-27T16:32:53Z",
       "https://www.pitdebrief.com/post/ugochukwu-reflects-on-dream-start-to-f2-career-after-claiming-pole-on-debut-in-qatar/": "2026-11-28T07:00:03Z",
       "https://www.pitdebrief.com/post/leclerc-and-loverno-discuss-ferraris-setbacks-encountered-during-friday-practice-sessions-at-2026-f1-qatar-gp/": "2026-11-28T04:46:32Z",
       "https://www.pitdebrief.com/post/verstappen-red-bull-still-need-to-address-balance-issues-after-difficult-friday-at-2026-f1-qatar-gp/": "2026-11-28T04:31:23Z",
       "https://www.pitdebrief.com/post/tsolov-anticipates-three-way-f2-title-fight-after-difficult-qualifying-at-2026-qatar-gp/": "2026-11-28T02:33:36Z",
       "https://www.pitdebrief.com/post/mercedes-bradley-lord-says-the-team-has-hit-the-ground-running-after-dominant-2026-f1-qatar-gp-practice/": "2026-11-28T02:11:28Z",
-      "https://www.pitdebrief.com/post/mini-seeks-big-points-haul-after-qualifying-turnaround-at-the-2026-f2-qatar-gp/": "2026-11-28T00:50:28Z"
+      "https://www.pitdebrief.com/post/mini-seeks-big-points-haul-after-qualifying-turnaround-at-the-2026-f2-qatar-gp/": "2026-11-28T00:50:28Z",
+      "https://www.pitdebrief.com/post/f1-2026-qatar-gp-fp3-report-and-results/": "2026-11-28T15:42:15Z",
+      "https://www.pitdebrief.com/post/2026-f1-qatar-gp-fp3-results/": "2026-11-28T15:33:40Z",
+      "https://www.pitdebrief.com/post/alex-dunne-aims-to-maximise-results-after-challenging-f2-qualifying-at-the-2026-qatar-gp/": "2026-11-28T14:23:00Z"
     },
     "items": [
+      {
+        "title": "F1 | 2026 Qatar GP | FP3 | Antonelli leads from Russell and Red Bull",
+        "source": "Pit Debrief",
+        "time": "2026-11-28T15:42:15Z",
+        "url": "https://www.pitdebrief.com/post/f1-2026-qatar-gp-fp3-report-and-results/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Qatar GP | FP3 Results",
+        "source": "Pit Debrief",
+        "time": "2026-11-28T15:33:40Z",
+        "url": "https://www.pitdebrief.com/post/2026-f1-qatar-gp-fp3-results/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Alex Dunne aims to maximise results after challenging F2 Qualifying at the 2026 Qatar GP",
+        "source": "Pit Debrief",
+        "time": "2026-11-28T14:23:00Z",
+        "url": "https://www.pitdebrief.com/post/alex-dunne-aims-to-maximise-results-after-challenging-f2-qualifying-at-the-2026-qatar-gp/",
+        "series": [
+          "f2"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Ugochukwu reflects on “dream start” to F2 career after claiming pole on debut in Qatar",
         "source": "Pit Debrief",
@@ -6858,10 +7034,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "9558ea3606ce2dab",
-    "etag": "\"a22a8415fda8aef7f7eb548ea9337462\"",
-    "last_modified": "Sat, 28 Nov 2026 07:00:05 GMT"
+    "etag": "\"89b4d3c788ad8d96e7def6a77a62a7db\"",
+    "last_modified": "Sat, 28 Nov 2026 16:02:28 GMT"
   },
   "feederseries": {
     "first_seen": {
@@ -7001,10 +7177,10 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "6b90d445ff7a193b",
     "etag": null,
-    "last_modified": "Fri, 27 Nov 2026 18:28:18 GMT"
+    "last_modified": "Fri, 27 Nov 2026 18:27:31 GMT"
   },
   "formulascout": {
     "first_seen": {
@@ -7256,7 +7432,7 @@
         "photo": null
       }
     ],
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "rules": "f53e591d9470eebd",
     "etag": "W/\"1839469f7fd7e7935f09e14c1f581ece\"",
     "last_modified": "Fri, 27 Nov 2026 22:26:47 GMT"
@@ -7316,20 +7492,14 @@
     },
     "items": [],
     "rules": "0f936a473748912d",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"1795809439-zstd\"",
-    "last_modified": "Fri, 27 Nov 2026 19:57:19 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"1795884677-zstd\"",
+    "last_modified": "Sat, 28 Nov 2026 16:51:17 GMT"
   },
   "crash-f1": {
     "first_seen": {
       "https://www.crash.net/f1/news/1110840/1/mercedes-faces-major-f1-customer-engine-shake-under-proposed-2030-regulations": "2026-11-23T12:35:00Z",
       "https://www.crash.net/f1/news/1110836/1/lando-norris-makes-remarkable-battery-admission-after-las-vegas-gp-podium": "2026-11-23T11:45:00Z",
-      "https://www.crash.net/f1/news/1110829/1/max-verstappen-compares-chaotic-las-vegas-gp-win-playing-mario-kart": "2026-11-23T09:45:00Z",
-      "https://www.crash.net/f1/news/1110868/1/motorsport-uk-announces-new-chair-david-richards-steps-down": "2026-11-24T15:13:20Z",
-      "https://www.crash.net/f1/news/1110865/1/toto-wolff-issues-defiant-defence-f1-regs-and-las-vegas-gp-he-addresses-criticism": "2026-11-24T13:00:00Z",
-      "https://www.crash.net/f1/news/1110863/1/max-verstappen-eyeing-debut-major-us-race-january": "2026-11-24T12:15:00Z",
-      "https://www.crash.net/f1/news/1110872/1/former-f1-tester-who-suffered-life-changing-injuries-full-time-racing-return": "2026-11-24T17:10:00Z",
-      "https://www.crash.net/f1/news/1110870/1/historic-ayrton-senna-williams-f1-car-fails-sell-multi-million-dollar-auction": "2026-11-24T16:00:00Z",
       "https://www.crash.net/f1/news/1110875/1/what-time-next-f1-race-full-qatar-gp-schedule-and-how-watch": "2026-11-25T09:38:28Z",
       "https://www.crash.net/f1/news/1110871/1/ferrari-urged-bench-lewis-hamilton-or-charles-leclerc-after-las-vegas-gp-clash": "2026-11-25T09:00:00Z",
       "https://www.crash.net/f1/news/1014425/1/f1-cost-cap-how-red-bull-broke-it-their-punishment-and-2025-budget": "2026-11-25T16:49:00Z",
@@ -7371,9 +7541,92 @@
       "https://www.crash.net/f1/news/1111139/1/lewis-hamilton-and-max-verstappen-clash-extended-second-qatar-practice": "2026-11-27T18:16:44Z",
       "https://www.crash.net/f1/news/1111079/1/fernando-alonso-shares-heartfelt-tribute-after-marc-marquezs-surprise-retirement": "2026-11-27T16:03:12Z",
       "https://www.crash.net/f1/news/1111073/1/max-verstappen-and-lewis-hamilton-are-both-ruthless-george-russell-highlights-key": "2026-11-27T15:28:51Z",
-      "https://www.crash.net/f1/news/1111014/1/martin-brundle-says-lewis-hamilton-and-charles-leclerc-jockeying-dominance": "2026-11-27T15:00:00Z"
+      "https://www.crash.net/f1/news/1111014/1/martin-brundle-says-lewis-hamilton-and-charles-leclerc-jockeying-dominance": "2026-11-27T15:00:00Z",
+      "https://www.crash.net/f1/news/1111292/1/george-russells-mercedes-f1-engineering-reshuffle-qatar-gp-explained": "2026-11-28T16:24:29Z",
+      "https://www.crash.net/f1/live/1044272/f1-qatar-grand-prix-live-fp3-and-qualifying-updates": "2026-11-28T13:30:00Z",
+      "https://www.crash.net/f1/news/1111285/1/kimi-antonelli-completes-assertive-qatar-gp-practice-clean-sweep": "2026-11-28T15:33:53Z",
+      "https://www.crash.net/f1/results/1111286/1/f1-qatar-grand-prix-full-final-practice-results": "2026-11-28T15:35:00Z",
+      "https://www.crash.net/f1/news/1111208/1/f1-set-tyre-supply-battle-rival-manufacturer-emerges": "2026-11-28T13:40:00Z",
+      "https://www.crash.net/f1/news/1111202/1/qatar-f1-tyre-problem-worse-expected-100-wear-after-15-laps": "2026-11-28T13:15:00Z"
     },
     "items": [
+      {
+        "title": "George Russell’s Mercedes F1 engineering reshuffle at the Qatar GP explained",
+        "source": "Crash.net",
+        "time": "2026-11-28T16:24:29Z",
+        "url": "https://www.crash.net/f1/news/1111292/1/george-russells-mercedes-f1-engineering-reshuffle-qatar-gp-explained",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Qatar Grand Prix: Full final practice results",
+        "source": "Crash.net",
+        "time": "2026-11-28T15:35:00Z",
+        "url": "https://www.crash.net/f1/results/1111286/1/f1-qatar-grand-prix-full-final-practice-results",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Kimi Antonelli completes assertive Qatar GP practice clean sweep",
+        "source": "Crash.net",
+        "time": "2026-11-28T15:33:53Z",
+        "url": "https://www.crash.net/f1/news/1111285/1/kimi-antonelli-completes-assertive-qatar-gp-practice-clean-sweep",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 set for tyre supply battle as rival manufacturer emerges",
+        "source": "Crash.net",
+        "time": "2026-11-28T13:40:00Z",
+        "url": "https://www.crash.net/f1/news/1111208/1/f1-set-tyre-supply-battle-rival-manufacturer-emerges",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Qatar Grand Prix LIVE: FP3 and Qualifying updates",
+        "source": "Crash.net",
+        "time": "2026-11-28T13:30:00Z",
+        "url": "https://www.crash.net/f1/live/1044272/f1-qatar-grand-prix-live-fp3-and-qualifying-updates",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Qatar F1 tyre problem worse than expected with “100% wear after 15 laps”",
+        "source": "Crash.net",
+        "time": "2026-11-28T13:15:00Z",
+        "url": "https://www.crash.net/f1/news/1111202/1/qatar-f1-tyre-problem-worse-expected-100-wear-after-15-laps",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "What time is the next F1 race? Full Qatar GP schedule and how to watch",
+        "source": "Crash.net",
+        "time": "2026-11-28T12:03:21Z",
+        "url": "https://www.crash.net/f1/news/1110875/1/what-time-next-f1-race-full-qatar-gp-schedule-and-how-watch",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Max Verstappen reveals major Red Bull concern after difficult Qatar GP practice",
         "source": "Crash.net",
@@ -7537,17 +7790,6 @@
           "f1"
         ],
         "circuit": "indianapolis",
-        "photo": null
-      },
-      {
-        "title": "What time is the next F1 race? Full Qatar GP schedule and how to watch",
-        "source": "Crash.net",
-        "time": "2026-11-27T09:37:00Z",
-        "url": "https://www.crash.net/f1/news/1110875/1/what-time-next-f1-race-full-qatar-gp-schedule-and-how-watch",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
         "photo": null
       },
       {
@@ -8947,40 +9189,15 @@
         ],
         "circuit": null,
         "photo": null
-      },
-      {
-        "title": "FIA boss looking to make controversial change to presidency rule",
-        "source": "Crash.net",
-        "time": "2026-11-14T12:00:00Z",
-        "url": "https://www.crash.net/f1/news/1110114/1/fia-boss-looking-make-controversial-change-presidency-rule",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
-      },
-      {
-        "title": "Toto Wolff reveals he offered to resign from Mercedes “several times”",
-        "source": "Crash.net",
-        "time": "2026-11-14T09:00:00Z",
-        "url": "https://www.crash.net/f1/news/1110112/1/toto-wolff-reveals-he-offered-resign-mercedes-several-times",
-        "series": [
-          "f1"
-        ],
-        "circuit": null,
-        "photo": null
       }
     ],
     "rules": "9e1b1fed1fa4fb9f",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"1795809420-zstd\"",
-    "last_modified": "Fri, 27 Nov 2026 19:57:00 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"1795884676-zstd\"",
+    "last_modified": "Sat, 28 Nov 2026 16:51:16 GMT"
   },
   "racefans": {
     "first_seen": {
-      "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/": "2026-11-25T16:11:25Z",
-      "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/": "2026-11-26T09:19:12Z",
-      "https://www.racefans.net/2026/11/26/spotlight-f1-has-more-people-who-look-like-the-fans-due-to-diversity-push-hamilton/": "2026-11-26T08:59:27Z",
       "https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/": "2026-11-26T21:14:39Z",
       "https://www.racefans.net/2026/11/26/spotlight-ford-reveals-the-gt41-hypercar-it-will-race-in-wec/": "2026-11-26T19:12:30Z",
       "https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/": "2026-11-26T16:22:48Z",
@@ -8997,9 +9214,34 @@
       "https://www.racefans.net/2026/11/27/antonelli-leads-another-mercedes-one-two-despite-red-flag-interruptions/": "2026-11-27T18:15:44Z",
       "https://www.racefans.net/2026/11/27/social-media-alonso-pays-tribute-to-retiring-moto-gp-champion-marquez/": "2026-11-27T17:59:18Z",
       "https://www.racefans.net/2026/11/27/court-of-appeal-rejects-audis-call-for-tsunoda-penalty-in-italian-grand-prix/": "2026-11-27T17:09:21Z",
-      "https://www.racefans.net/2026/11/27/spotlight-some-f1-broadcasters-choose-not-to-attend-qatar-grand-prix/": "2026-11-27T15:27:27Z"
+      "https://www.racefans.net/2026/11/27/spotlight-some-f1-broadcasters-choose-not-to-attend-qatar-grand-prix/": "2026-11-27T15:27:27Z",
+      "https://www.racefans.net/2026/11/28/spotlight-formula-1-could-reintroduce-drs-along-with-v8-turbo-hybrids-in-2030/": "2026-11-28T15:56:50Z",
+      "https://www.racefans.net/2026/11/28/antonelli-and-mercedes-complete-clean-sweep-of-practice-sessions-in-losail/": "2026-11-28T15:41:14Z",
+      "https://www.racefans.net/2026/11/28/featured-comment-ferrari-drivers-must-know-more-incidents-will-lead-to-repercussion/": "2026-11-28T12:05:23Z"
     },
     "items": [
+      {
+        "title": "Spotlight: Formula 1 could reintroduce DRS along with V8 turbo hybrids in 2030 | Brief",
+        "source": "RaceFans",
+        "time": "2026-11-28T15:56:50Z",
+        "url": "https://www.racefans.net/2026/11/28/spotlight-formula-1-could-reintroduce-drs-along-with-v8-turbo-hybrids-in-2030/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Antonelli and Mercedes complete clean sweep of practice sessions in Losail | Formula 1",
+        "source": "RaceFans",
+        "time": "2026-11-28T15:41:14Z",
+        "url": "https://www.racefans.net/2026/11/28/antonelli-and-mercedes-complete-clean-sweep-of-practice-sessions-in-losail/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Formula 1 planning new engine development freeze before 2030 rules change | Formula 1",
         "source": "RaceFans",
@@ -9967,38 +10209,126 @@
         ],
         "circuit": null,
         "photo": null
-      },
+      }
+    ],
+    "rules": "9f655cbbbef51645",
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"3dcd3401710375b030b9bb39909f0f46\"",
+    "last_modified": "Sat, 28 Nov 2026 15:56:50 GMT"
+  },
+  "gpfans": {
+    "first_seen": {
+      "https://www.gpfans.com/en/f1-news/1093483/f1-news-today-max-verstappen-red-bull-kimi-antonelli-lance-stroll-qatar-grand-prix/": "2026-11-28T06:44:00Z",
+      "https://www.gpfans.com/en/f1-news/1093495/fia-announce-sergio-perez-penalty-verdict-qatar-gp-f1-star-blames-insurance/": "2026-11-28T16:30:00Z",
+      "https://www.gpfans.com/en/f1-news/1093504/f1-results-today-qatar-grand-prix-2026-practice-fp3-times/": "2026-11-28T15:36:00Z",
+      "https://www.gpfans.com/en/f1-news/1093493/f1-lance-stroll-aston-martin-back-injury-qatar-grand-prix/": "2026-11-28T14:15:00Z",
+      "https://www.gpfans.com/en/f1-news/1093473/channel-4-f1-highlights-today-2026-qatar-grand-prix-free-tv-uk/": "2026-11-28T12:57:00Z",
+      "https://www.gpfans.com/en/f1-news/1093462/f1-lewis-hamilton-ferrari-charles-leclerc-talks-qatar-grand-prix-update/": "2026-11-28T11:57:00Z",
+      "https://www.gpfans.com/en/f1-news/1093472/f1-qualifying-today-qatar-grand-prix-2026-start-time-schedule-watch-live-free/": "2026-11-28T10:57:00Z",
+      "https://www.gpfans.com/en/f1-news/1093471/f1-lance-stroll-aston-martin-adrian-newey-chassis-honda-engine/": "2026-11-28T09:57:00Z",
+      "https://www.gpfans.com/en/f1-news/1093461/f1-max-verstappen-george-russell-feud-qatar-grand-prix-2024/": "2026-11-28T08:59:00Z",
+      "https://www.gpfans.com/en/f1-news/1093465/f1-drivers-vote-charles-leclerc-lewis-hamilton-ferrari-penalty/": "2026-11-28T08:15:00Z"
+    },
+    "items": [
       {
-        "title": "Ignore social media echo chamber and trust F1 over Middle East races – Wolff | Formula 1",
-        "source": "RaceFans",
-        "time": "2026-11-14T10:00:10Z",
-        "url": "https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/",
+        "title": "FIA announce Sergio Perez penalty verdict at Qatar GP as F1 star blames insurance issue",
+        "source": "GPFans",
+        "time": "2026-11-28T16:30:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093495/fia-announce-sergio-perez-penalty-verdict-qatar-gp-f1-star-blames-insurance/",
         "series": [
           "f1"
         ],
         "circuit": null,
         "photo": null
-      }
-    ],
-    "rules": "9f655cbbbef51645",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"45002ded5c64f986623b7d12689355ae\"",
-    "last_modified": "Sat, 28 Nov 2026 07:15:08 GMT"
-  },
-  "gpfans": {
-    "first_seen": {
-      "https://www.gpfans.com/en/f1-news/1093397/f1-qatar-vegas-grand-prix-weather-forecast-latest/": "2026-11-26T14:55:00Z",
-      "https://www.gpfans.com/en/f1-news/1093456/f1-results-today-qatar-grand-prix-2026-practice-fp1-fp2-times/": "2026-11-27T14:34:00Z",
-      "https://www.gpfans.com/en/f1-news/1093421/f1-news-today-lewis-hamilton-ferrari-italian-grand-prix-fia-result-change/": "2026-11-27T06:15:00Z",
-      "https://www.gpfans.com/en/f1-news/1093443/f1-news-kimi-antonelli-max-verstappen-team-mate-mercedes/": "2026-11-27T20:44:00Z",
-      "https://www.gpfans.com/en/f1-news/1093469/f1-lewis-hamilton-mercedes-nico-rosberg-abu-dhabi-2026-marc-marquez/": "2026-11-27T19:55:00Z",
-      "https://www.gpfans.com/en/f1-news/1093475/lance-stroll-f1-qatar-grand-prix-aston-martin-team-radio-fp1/": "2026-11-27T19:14:00Z",
-      "https://www.gpfans.com/en/f1-news/1093474/fia-f1-italian-grand-prix-result-protest-audi-announce-final-yuki-tsunoda-appeal/": "2026-11-27T18:36:00Z",
-      "https://www.gpfans.com/en/f1-news/1093454/george-russell-max-verstappen-f1-row-will-buxton-reaction/": "2026-11-27T17:33:00Z",
-      "https://www.gpfans.com/en/f1-news/1093364/ferrari-fred-vasseur-lewis-hamilton-charles-leclerc-demand-qatar-grand-prix/": "2026-11-27T16:28:00Z",
-      "https://www.gpfans.com/en/f1-news/1093483/f1-news-today-max-verstappen-red-bull-kimi-antonelli-lance-stroll-qatar-grand-prix/": "2026-11-28T06:44:00Z"
-    },
-    "items": [
+      },
+      {
+        "title": "F1 Results Today: Qatar Grand Prix final practice times and positions",
+        "source": "GPFans",
+        "time": "2026-11-28T15:36:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093504/f1-results-today-qatar-grand-prix-2026-practice-fp3-times/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lance Stroll set to be assessed by Aston Martin after Qatar Grand Prix injury",
+        "source": "GPFans",
+        "time": "2026-11-28T14:15:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093493/f1-lance-stroll-aston-martin-back-injury-qatar-grand-prix/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Channel 4 F1 highlights today: How to watch the 2026 Qatar Grand Prix FREE in the UK",
+        "source": "GPFans",
+        "time": "2026-11-28T12:57:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093473/channel-4-f1-highlights-today-2026-qatar-grand-prix-free-tv-uk/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lewis Hamilton reveals Ferrari showdown talks with Charles Leclerc in Qatar",
+        "source": "GPFans",
+        "time": "2026-11-28T11:57:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093462/f1-lewis-hamilton-ferrari-charles-leclerc-talks-qatar-grand-prix-update/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 Qualifying Today: Qatar Grand Prix 2026 start time, schedule and how to watch live and FREE",
+        "source": "GPFans",
+        "time": "2026-11-28T10:57:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093472/f1-qualifying-today-qatar-grand-prix-2026-start-time-schedule-watch-live-free/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "Lance Stroll claims Adrian Newey's plans are working for Aston Martin",
+        "source": "GPFans",
+        "time": "2026-11-28T09:57:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093471/f1-lance-stroll-aston-martin-adrian-newey-chassis-honda-engine/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "'I lost all respect' - The Qatar Grand Prix moment which broke Verstappen and Russell's relationship",
+        "source": "GPFans",
+        "time": "2026-11-28T08:59:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093461/f1-max-verstappen-george-russell-feud-qatar-grand-prix-2024/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
+      {
+        "title": "F1 drivers vote on Hamilton vs Leclerc penalties in FIA meeting",
+        "source": "GPFans",
+        "time": "2026-11-28T08:15:00Z",
+        "url": "https://www.gpfans.com/en/f1-news/1093465/f1-drivers-vote-charles-leclerc-lewis-hamilton-ferrari-penalty/",
+        "series": [
+          "f1"
+        ],
+        "circuit": null,
+        "photo": null
+      },
       {
         "title": "Antonelli makes Verstappen team-mate request as F1 star left furious at Qatar Grand Prix - F1 News Today",
         "source": "GPFans",
@@ -11508,9 +11838,9 @@
       }
     ],
     "rules": "330263a6a56fca3e",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"6b0a8607-1fd5\"",
-    "last_modified": "Sat, 28 Nov 2026 07:43:03 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"6b0b0677-1f0d\"",
+    "last_modified": "Sat, 28 Nov 2026 16:51:03 GMT"
   },
   "joesaward": {
     "first_seen": {
@@ -11561,9 +11891,9 @@
       }
     ],
     "rules": "f392fd0d64f8425c",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Fri, 27 Nov 2026 17:30:45 GMT"
+    "last_modified": "Fri, 27 Nov 2026 17:31:14 GMT"
   },
   "gtwc-europe-official": {
     "first_seen": {
@@ -11592,9 +11922,9 @@
       }
     ],
     "rules": "18f66acf2e27302e",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:12 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:35 GMT"
   },
   "gtwc-america-official": {
     "first_seen": {
@@ -11656,9 +11986,9 @@
       }
     ],
     "rules": "62419560753cdb38",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:13 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:35 GMT"
   },
   "gtwc-asia-official": {
     "first_seen": {
@@ -11727,9 +12057,9 @@
       }
     ],
     "rules": "0a853dbeb8ad2a4f",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:13 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:36 GMT"
   },
   "gtwc-australia-official": {
     "first_seen": {
@@ -11846,9 +12176,9 @@
       }
     ],
     "rules": "2799f4d04394f039",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:13 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:36 GMT"
   },
   "igtc-official": {
     "first_seen": {
@@ -11865,9 +12195,9 @@
     },
     "items": [],
     "rules": "e808419c9381afaf",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
-    "last_modified": "Sat, 28 Nov 2026 07:43:14 GMT"
+    "last_modified": "Sat, 28 Nov 2026 16:51:37 GMT"
   },
   "sportscar365-wec": {
     "first_seen": {
@@ -12111,9 +12441,9 @@
       }
     ],
     "rules": "09e719caf98c0d3b",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"875b7b84c6eaac1a94f27bf9148ce900\"",
-    "last_modified": "Sat, 28 Nov 2026 05:25:50 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"1b94e4b3d5d2ba82fdb968598c0f6192\"",
+    "last_modified": "Sat, 28 Nov 2026 10:04:06 GMT"
   },
   "sportscar365-sro": {
     "first_seen": {
@@ -12233,9 +12563,9 @@
       }
     ],
     "rules": "a17b457b3e231309",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "W/\"875b7b84c6eaac1a94f27bf9148ce900\"",
-    "last_modified": "Sat, 28 Nov 2026 05:25:50 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "W/\"1b94e4b3d5d2ba82fdb968598c0f6192\"",
+    "last_modified": "Sat, 28 Nov 2026 10:04:06 GMT"
   },
   "dailysportscar-wec": {
     "first_seen": {
@@ -12401,9 +12731,9 @@
       }
     ],
     "rules": "b0d5d3eafe211014",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "\"21f98734eb7c80df89ad371c9733870a\"",
-    "last_modified": "Fri, 27 Nov 2026 17:16:00 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "\"c3301076be1a80d01f18db5752cb8629\"",
+    "last_modified": "Sat, 28 Nov 2026 12:04:42 GMT"
   },
   "dailysportscar-gtwc": {
     "first_seen": {
@@ -12468,9 +12798,9 @@
       }
     ],
     "rules": "55fabf85b73d2f41",
-    "last_ok": "2026-11-28T07:42:59Z",
-    "etag": "\"21f98734eb7c80df89ad371c9733870a\"",
-    "last_modified": "Fri, 27 Nov 2026 17:16:00 GMT"
+    "last_ok": "2026-11-28T16:51:19Z",
+    "etag": "\"c3301076be1a80d01f18db5752cb8629\"",
+    "last_modified": "Sat, 28 Nov 2026 12:04:42 GMT"
   },
   "racer-sportscars": {
     "first_seen": {
@@ -12487,7 +12817,7 @@
     },
     "items": [],
     "rules": "df9ddd5250930121",
-    "last_ok": "2026-11-28T07:42:59Z",
+    "last_ok": "2026-11-28T16:51:19Z",
     "etag": null,
     "last_modified": null
   }
